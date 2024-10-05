@@ -1,0 +1,7 @@
+The Core is a small HLDM map made by Skals A.K.A Draconspirit.
+
+Info:
+
+Players: 2-6 (6 player spawns)
+Game: Any HL1 mod
+WAD files used: Half-life, Rewolf, Decals, ZHLT

@@ -1,0 +1,55 @@
+------------------------------------------------------------------
+ Title                   : Desert Keep
+ Filename                : Desert_Keep.bsp
+ Author                  : Atle Holm
+ Email Address           : wsio@c2i.net
+ Description             : Half-Life DeathMatch Level
+ Additional Credits to   : - Valve and Sierra, and Prof.Quaterm for taking a look at the level.
+------------------------------------------------------------------
+
+
+* Play Information *
+
+ Game		         : Half-Life
+ SinglePlay              : No
+ Cooperative		 : No
+ Deathmatch 2-7          : Yes
+ Difficulty Settings	 : No
+ New Sounds		 : No
+ New Graphics		 : Yes(10 textures, they are built in the bsp)
+ Sound Track		 : None
+ Demos Replaced		 : None
+
+
+* Construction *
+
+ Build Time      : About 3 weeks all together
+ Compile Time    : About 50 min
+ Known Bugs      : none... let me know if you find any
+ Brushes         : 1388
+ Point Entities  :  101
+ Solid Entities  :   65 
+ Base            : New Map From Scratch.
+ Compile Machine : P2-400 128MB SD RAM
+
+
+* Copyright / Permissions *
+
+ Authors MAY NOT use this level as a base to build 
+ additional levels.
+
+ You can do what ever you like with this level, EXCEPT
+ use it to build additional levels(put it on whatever CD you want, 
+ or in whatever PAK you want, unless you own some kind of company that 
+ tries to sell the level with other levels).
+
+ Have Fun!!!
+
+      :)
+
+
+
+
+
+
+

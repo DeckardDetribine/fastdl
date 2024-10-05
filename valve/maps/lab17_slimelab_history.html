@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/strict.dtd">
+<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Half-Life DeathMatch :: Lab17: History</title>
+<meta name="author" content="Peter Jones" />
+<style type="text/css">
+<!--
+body { font-family: verdana,sans-serif; font-size: 14px; color: #006; background: #eef; }
+div { margin: 20px; padding: 0px; border: 2px solid #006; }
+
+h1 { margin: 0px; color: #eef; background: #006; padding: 2px 20px; font-size: 24px; }
+h2 { background: #ccd; padding-left: 20px; font-size: 22px; }
+h3 { background: #dde; padding-left: 20px; font-size: 18px; }
+h4 { background: #dde; padding-left: 20px; font-size: 16px; }
+h1,h2,h3,h4 { border-top: 1px solid #006; border-bottom: 1px solid #006; }
+h3 { width: 75%; border-right: 1px solid #006; }
+h4 { width: 60%; border-right: 1px solid #006; }
+
+p { margin: 20px; }
+
+.level { font-weight: bold; color: #600; }
+.spaced li { margin: 16px 20px; }
+.data li { margin: 3px 20px; cursor: help; width: 150px; }
+.extra,acronym { cursor: help; border-bottom: 1px dotted; }
+.newpage { page-break-before: always; }
+
+li { margin: 0px 20px; }
+dt { clear: both; width: 130px; text-align: right; font-weight: bold; float: left; border-bottom: 1px solid #eef; }
+dd { margin-left: 140px; margin-bottom: 1px; }
+code { font-size: 0.9em; }
+
+dl ul { margin: 0px; }
+-->
+</style>
+</head>
+
+<body>
+
+<div>
+<h1>Lab17: History</h1>
+
+<h2>In The Beginning...</h2>
+
+<p>... there was <span class="level">LavaLab</span>, a roughly cubic structure suspended over a pit of lava in the caldera of an active volcano.  The obvious variant of that -- when we needed a slightly smaller arena for one-on-one deathmatch combat -- was <span class="level">LavaLab: Erupt</span>, the same roughly cubic structure entombed in a gajillion litres of molten rock.</p>
+
+<p>As a first level, <a href="http://www.petesplace.id.au/mapping/levels.php#lavalab">LavaLab</a> and its variant seemed pretty popular amongst my playing partners, so there was never really any doubt that I would make another.  As a followup, the decision to make my new level a <span class="level">SlimeLab</span> was virtually automatic: we needed more dangerous glowing fluid, and if it wasn't lava, it pretty much had to be slime... (Note: after spending more than a year on the various <em>SlimeLab</em> levels, I shall be making my <em>next</em> level as liquid-free as possible!)</p>
+
+<h2>SlimeLab Takes Shape</h2>
+
+<p>As originally envisaged, my <span class="level">SlimeLab</span> level consisted of a large building sitting on the bank of a subterranean river of slime.  There was supposed to be a vantage point providing an external view of the lab -- ideally a bridge of some sort which crossed the toxic river -- and somewhere inside was a large vat filled with slime, with a platform around the edge of it (providing access to a suitable bait-weapon to lure people out there.)</p>
+
+<p>I built the entry shaft, with its damaged personnel elevator and the three large pipes -- which were eventually to become one of the features which tied all of <i>SlimeLab</i> together.  I built the approach corridor which led past the security post, over the bridge, past the second security post, and into the large, three-level room, and there, for a while, I stopped, stumped.  It was my mate, Ben Davies (who had also been responsible for the genesis of the security posts either end of the bridge) who got me started again by suggesting that the empty room should actually be a warehouse, full of crates.  Instantly I saw the possibilities, and started building the freight elevator and placing the crates.  I added the small external elevator to allow access to the top floor, and the platform around the outside of the building, overlooking the river (which had, of necessity, changed course somewhat from its original concept.</p>
+
+<p>When I tried to add the laboratory itself, with its tank of slime, I began to run into compile problems -- and I hadn't added anywhere near the amount of detail I wanted.  The tank glitched horribly, and every time I ran a compile I ran into memory errors (which, as I recall, I eventually got around simply by using the <code>-sparse</code> flag for <code>hlrad</code>.)  So I decided to split the level concept in half, and remove the lab itself to a remote location, linked via rail tunnel to the warehouse.  <em>SlimeLab</em> briefly became the unimaginitive <em>SlimeLab1</em> before I settled on the titles of <span class="level">Lab17: Storage</span> and <span class="level">Lab17: SlimeLab</span> for the two levels.</p>
+
+<h3>Why <em>Lab17</em>?</h3>
+
+<p>Why <em>Lab17</em>? I hear you ask.  I really don't know.  It just sorta popped into my head.</p>
+
+<p>Perhaps somewhere, on a remote island, there actually exists a secret laboratory, performing experiments intended to enhance human ESP by exposure to the toxic sludge that runs past the building.  Perhaps one of the poor human guinea pigs held captive there has reached out and implanted this information into my mind, in a desparate plea for release.  Perhaps, even now, government agents scanning the internet for any hint that their secrets are being revealed have located this site and are tracking me down...</p>
+
+<p>Then again, perhaps not...  Sometimes a number is just a number!</p>
+
+<h2>Lab17: Storage</h2>
+
+<p>With the decision made to split the level, I summarily deleted what I had built of the lab, and installed my railway terminal instead.  Then, freed from the memory constraints (which had originally helped my decision to split the level) by the discovery of the <code>-sparse</code> flage (as mentioned above) I began adding extra detail all over the place...</p>
+
+<p><span class="level">Storage</span> went through several releases as we played it and played it and played it to death.  I tweaked several things, added stuff, deleted stuff, until finally, in my opinion, it was finished.<p>
+
+<p>At this point I looked back at <span class="level">LavaLab</span> and <span class="level">Erupt</span>, and pondered the need for a similar "post-disaster" variant for <span class="level">Storage</span>.  Eventually, after consulting several of my play-testers, we all agreed that the level was okay as it was, even for two people (although that could become a little slow, especially since Ben and I both play a sneaking, stalking game when it's just the two of us!) and that a reduced-size variant would not be necessary.</p>
+
+<h3>What about <span class="level">Lab17: Security</span>?</h3>
+
+<p>Ah yes.  What indeed?  Now would be a good time to mention the level which exists in spirit, if not yet in fact.</p>
+
+<p>When designing levels, I have the problem (call it a compulsion, if you will) that I need them to make some sort of logical sense.  As well as (hopefully) playing well, my levels need to have a way in and/or out (which, of course, must also be inaccessible for some reason, to keep the players from straying too far afield!) and they need to have some reason for existing.</p>
+
+<p>Hence, when adding the security posts either side of the glass bridge in <span class="level">Lab17: Storage</span>, I needed to provide a logical way for the security guards who would have manned those posts to gain access -- after all, it seems unlikely that they would clamber through the window every morning!  So, after a little thought, I simply added a <em>faux</em> doorway to each room and forgot about it.  (My logic compulsion was also responsible for the addition of a retinal scanner beside each door which doesn't actually open...)</p>
+
+<p>A little while later, however, I started toying with the idea of adding a few stairwells and corridors to the level, linking the security posts to a secondary "Security Control" area.  That idea stayed in the back of my mind for a while before I finally discounted it because I felt it would weaken the level's playability -- and because I had started running into the limits of the compile tools.</p>
+
+<p>And yet...</p>
+
+<p>I may not be able to add the security sub-complex to the (vast, sprawling) <em>SlimeLab</em> I originally had in mind, but I may yet build it as a level in its own right -- if I can maintain an interest in the project (at this stage I intend to take a break from all things slimy and work on something completely new) and if I can come up with a suitably playable layout while staying true to the existing level details.  However, the thought that <span class="level">Lab17: Security</span> may one day exist influenced several of the decisions I was to make while working on the continuation of <span class="level">Lab17: Storage</span>...</p>
+
+<h3>Vast and Sprawling?</h3>
+
+<p>Well, yes.  Sort of.</p>
+
+<p>It was around the time that I was making the decision to split the level into two, or possibly three, that I had a dream.  It was, as dreams tend to be, fairly strange -- and involved, as I recall, a lot of wandering around a vast, sprawling complex.  The dream ended with one of those wonderful POV camera-moves which pulls up and away from the main character (ie, me) exposing more and more of his surroundings.  In this case it pulled back, further and further, until the entire extent of this absolutely huge complex could be seen -- and in the top left corner, clearly visible and perfectly recognisable, was <span class="level">Storage</span>!</p>
+
+<p>Does it mean anything?  Probably not -- except that obviously <span class="level">Lab17</span> is much bigger than it seems; and at some point I shall probably incorporate the room I was in when the POV pulled away into a level of its own...</p>
+
+<h2>Lab17: SlimeLab</h2>
+
+<p>Obviously, the first thing I needed in <span class="level">Lab17: SlimeLab</span> was the other end of the railway.  I also needed some fairly familiar architecture, reminiscent of <span class="level">Storage</span>, and I needed plenty of slime.  And, of course, I needed a lab with my tank o' slime.</p>
+
+<p>Starting with the rail terminal -- essentially mirrored from the existing one, but then laid out somewhat differently -- I began building the left (green) side of the complex.  Somehow my curved wall ended up with windows, and my initial idea of having a little jagged scenery outside grew into the whole area, complete with egon cannon -- although, to start with, the only way out was via the little hatchway beneath the elevator; the only way in was up the ladder and through the top-level hatchway.  I added the walkway around the top, the elevator, and a big empty room where the bedrooms would, eventually, go.</p>
+
+<p>At this point, woefully unfinished, we ran a quick playtest.  It was Grant Wheatley who suggested the airlock -- stuck on perpetual auto-cycle -- as an alternative route to the outside world.</p>
+
+<p>Slowly, often distracted by other things, I worked on completing the other half of the level -- the brown half -- as well as filling in the missing details, such as the bedrooms, the toilets, etc.  I also decided the two top-level walkways, one green, one brown, needed something at each blank end -- and so the "display rooms" were added.  The three pipes which had come all the way from the entry pit in <span class="level">Storage</span> were routed through the wall to disappear out through another wall into an unseen section of the facility -- and, finally, I got to build the tank which had been at the heart of my original idea!</p>
+
+<p>At this point I realised that my little ventilation outlet needed that staple of FPS games and horror/action movies everywhere: an air vent.  My ductwork ran across the open space of the rail terminal and through the wall, beside the pipes, to connect to a matching outlet on the far side.</p>
+
+<p>Once I got everything working (the Vermin Flush System gave me a few minor problems!) it was ready for a final playtest.  It was great -- except that it was way too big for two, or even three, players.  Despite the lure of the egon cannon outside, very few people ventured out there -- although those that did soon found shortcuts I had never dreamed of for getting back in again with their deadly prize!  By design there were no start points outside, so most of the action took place as though the external areas didn't even exist...</p>
+
+<p>It didn't take long to see that a smaller variant was called for...</p>
+
+<h2>Lab17: Quake</h2>
+
+<p>The story so far was that the rail tunnel connecting the two halves of the <span class="level">Lab17</span> facility had collapsed due to an earthquake caused by the "inexorable growth" of the strange crystals which littered the area.  It made perfect sense for another such quake to destroy part of <span class="level">SlimeLab</span> and render the outside area inaccessible -- by blocking part of the slime river and causing the level of the slime to rise.  I already knew -- based on the vision I had for <span class="level">Lab17: Security</span> -- that the river level would have to rise at some point; this simply fed into that future continuity.  And, of course, a quake could even shatter one of those huge, impractical plexiglass windows and allow the rising slime to flood part of the building...</p>
+
+<p>So I flooded my lab, and dropped the control room on my precious tank!</p>
+
+<p>To get the level of the slime just right -- and since I knew how high it had to rise in <span class="level">Storage</span> to create the right effect for <span class="level">Security</span> -- I made a copy of <span class="level">Storage</span> and flooded a section of it, then transferred that level back to <span class="level">Quake</span>.  (Yes, that's how obsessed with detail I can be: the flood-level in <span class="level">Quake</span> is based on getting it right and consistent for another level which may never actually get built!)</p>
+
+<p>While playing around with lighting levels to get the effect I was looking for -- and bearing in mind that, with the huge quantity of light-emitting slime and the horrendously jagged rocks outside, the compile time of this thing was up around 30 hours on my 2.4GHz machine -- it occurred to me that I hadn't yet played with switchable texture lighting, and that it might be kinda fun if the lights in the rail terminal could be switched on and off.  (Useful?  Dunno...  Use it if you like it!)  So, after a couple of false starts (and one completely wasted 30-hour compile) I got it working.</p>
+
+<p>At the same time I decided to flood the end of the corridor near the airlock doors.  This was partially to explain why the charger on the end wall was disabled -- <span class="level">Quake</span> being, so far, the only one of my levels with no health or armour whatsoever.  (<em>This was mostly in response to the fact that Ben kept making devestating use of the armour-charger in particular, and charging up at every opportunity, and beating everybody else; including me!  I figured that with no armour available, I should be able to kill him more often.  I was wrong!</em>)  Once I found that it was possible, given a running start, to get up onto my pile of sandbags, it became obvious that we needed a few floating crates there -- which were duly added.</p>
+
+<p>Finally, after having added some rather nice aftershock effects, I decided that the level needed a little something extra, a nasty little surprise -- an idea which originally occurred to me while I was testing switchable texture lighting -- for whichever hapless player happened to accidently trigger it.  Whatever it is.  And so I added -- well, you'll see.  Don't worry, it's nothing completely unfair, and it does kinda make sense, if you think about it, taking certain other level descriptions into consideration...</p>
+
+<p>Of course, with <span class="level">Quake</span> finished, I now had to transfer some of the changes back into <span class="level">SlimeLab</span> -- for consistency, of course -- and this nasty little surprise of mine, combined with the work I had already done on the flooded version of <span class="level">Storage</span>, got me thinking about the next variant I needed to make.</p>
+
+<h2>Lab17: Flood</h2>
+
+<p>Sure, I originally said that <span class="level">Storage</span> did not need a smaller variant -- but by this stage, the "post-disaster" version is practically a tradition.  Besides, I had another "nasty little surprise" in mind which, once again, would tie in quite nicely with how the finished (albeit currently non-existent) <span class="level">Security</span> had to look.</p>
+
+<p>So I continued my work of flooding <span class="level">Storage</span> (which I had originally begun with <span class="level">Security</span> in mind) -- and almost drove myself mad trying to get a particular facet of my nasty little surprise working.  I could tell you what the problem was -- but that might make my surprise too obvious...  I'm rather proud of some of the little details I included during the process of destroying the level -- some of which you may not even notice!</p>
+
+<p>I also added switchable lighting to the rail terminal -- y'know, the whole consistency thing -- and, for various reasons, added some air ducts.  I also added an additional air vent outlet in one wall of the warehouse, mostly because I was trying to get rid of some extremely strange shadows which were appearing on that wall. (I only had partial success.)</p>
+
+<p><span class="level">Flood</span> is quite a bit smaller than <span class="level">Storage</span>, and quite a bit darker in several areas.  Of course, I wasn't quite finished yet...</p>
+
+<h2>Return to Storage</h2>
+
+<p>My final modification before I could lay <span class="level">Lab17</span> to rest once and for all -- until <span class="level">Security</span>, at any rate -- was to transfer all the new additions to <span class="level">Flood</span> back into <span class="level">Storage</span>.  Of course, this required yet more tweaks which, in turn, had to be rolled back into <span class="level">Flood</span>.</p>
+
+<p>And now -- although some of my play-testers claim to have heard this from me several times before -- it's finished.  Done.  Complete.  (I hope!  I will, of course, endeavour to correct any bugs that might appear...)</p>
+
+<p>Enjoy!  I hope you enjoy playing these levels as much as we do -- and as much as I have enjoyed building them!</p>
+
+<h2>Lab17: Topside?</h2>
+
+<p>With the four existing <span class="level">Lab17</span> levels nearing completion, I was contemplating various possibilities when it occurred to me that it might be interesting to build the facility on the surface of the island, above the entrance pit to <span class="level">Storage</span>.  There would be a helicopter pad, and a couple of demountable-style huts, and a road or two, and, and, and...  Before long I was envisaging something similar to the guerilla compound from <em>Predator</em>, complete with gun emplacements and an ammunition dump.  Its name seemed obvious: <span class="level">Topside</span>.</p>
+
+<p>Of course, the entrance pit itself would have to be present, but flooded with slime to prevent anybody from going down there.  That part of the level is already built, because it required little more than lifting it from <span class="level">Storage</span>.</p>
+
+<p>Now, however, I'm not quite as excited about the concept as I was: after all, 800kb of data just to model an inaccesible tie-in to an existing level is a little extravagant, even for me.  Perhaps the enthusiasm will return, in time -- I do still run it through my mind, occasionally -- but for now it seems destined to be abandoned...</p>
+
+<p>Time will tell...</p>
+
+<h2>Files</h2>
+
+<p>If you have come upon this file independently, and want to know where to find the levels in question, here they are:</p>
+
+<ul>
+<li><a href="http://www.petesplace.id.au/mapping/levels.php#storage">Storage and Flood</a></li>
+<li><a href="http://www.petesplace.id.au/mapping/levels.php#slimelab">SlimeLab and Quake</a></li>
+<li>For completeness, <a href="http://www.petesplace.id.au/mapping/levels.php#lavalab">LavaLab and Erupt</a></li>
+</ul>
+
+</div>
+
+</body>
+</html>

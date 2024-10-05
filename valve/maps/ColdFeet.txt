@@ -1,0 +1,78 @@
+              Cold Feet
+
+By                 :Matthew Manno
+Compiled on        :1/29/02 @ 7:39 P.M.
+New models by      :Matthew Manno
+New textures by    :Matthew Manno
+Thanks to          :Family, and Friends
+                    Valve ERC www.valve-erc.com
+                    Valve Software
+Contact the Author :manno78@yahoo.com
+
+
+
+
+
+
+================================================================
+Title                   : Cold Feet
+Date                    : January 2002
+Filename                : ColdFeet.bsp
+Author                  : Matthew Manno
+Email Address           : manno78@yahoo.com
+Home Page               : http://www24.brinkster.com/~matthewmanno
+
+Description             : It's been described as "a small industrial complex
+			  splashed with color here and there to keep the
+			  interest of the players eye" -JUIM Valve ERC Forums
+
+Thanks to               : Family, and Friends
+                          Valve ERC www.valve-erc.com
+                          Valve Software
+
+================================================================
+* Play Information *
+
+Number of Players	: 2-8
+Single Player           : No
+Deathmatch              : YES 
+Difficulty Settings     : No
+Team Play		: Sure if you want (made for deathmatch though)
+
+================================================================
+* Installation *
+
+Make sure you put the ColdFeet.bsp file into the following directory:
+... \Sierra\Half-Life\valve\maps
+
+================================================================
+* Construction *
+
+Base                    : From scratch
+Editor(s) used          : Worldcraft 3.3
+Known Bugs              : No known bugs
+Build Time              : around 8 hours
+Compile machine         : P3 700 with 512MB RAM
+Compile Time            : About 1/2 an hour
+
+===============================================================
+* Author's Comments *
+
+Go play, and be happy.
+
+manno78@yahoo.com
+
+Matthew Manno
+===============================================================
+
+* Copyright / Permissions *
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission. 
+(I just left this in here because I like to here from people who
+play my maps)

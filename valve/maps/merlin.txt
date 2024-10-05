@@ -1,0 +1,87 @@
+================================================
+  Merlin (HLDM) Spec Sheet
+================================================
+
+
+------General Information--------------------------------------------
+
+Title		: Merlin
+Filename		: Merlin.bsp
+Release Date	: 29th Januaryr 2002
+
+Author		: Peter Manson
+Email Address	: pedro_312@hotmail.com 
+Home page	: http://www.kbhse.demon.co.uk/maps/
+
+Previous Maps	: (1) Enders_game
+		  (2) Rohan
+		  (3) Rohan2
+		  (4) First_arena
+		  (5) Twin
+		  (6) X-flight
+		  (7) Fling
+		  (8) Cube-x
+		  (9) Odyssey
+		  (10) Plateau
+		  (11) Fun house
+		  (12) TB_Finalspecimin
+		  (13) Eden
+		  (14) Rig
+		  (15) BASSAI
+		  (16) Shaolin
+		  (17) Ruin
+
+
+------Map Information------------------------------------------------
+
+Missing Weapons	: hornet
+Secrets		: yes
+Prefabs		: none
+New Textures	: Yes 
+File Size (bsp)	: 8.2 mb
+File Size (sky)	: 1.75 mb
+Sky name		: tropical
+
+
+------Map Instructions-----------------------------------------------
+
+Merlin.zip  contains,
+		Merlin.txt
+		Merlin.bsp
+		Merlin_sky.zip
+
+To instal this level, place the files (Merlin.txt) and (Merlin.bsp)
+ into your half-life/valve/maps directory.
+
+The sky pictures found in (merlin_sky.zip) should be unzipped
+ to your \Half-Life\valve\gfx\env directory.
+
+
+----------------------------------------------------------------------------
+------Additional info--------------------------------------------------
+
+This level has been lying on my hard drive half-built for months.
+So i recently made the effort to finnish it.
+It was intended to be a cross between Fling, and Eden,
+but has turned out quite different to my original ideas.
+
+I did not build this level so it would run perfectly on all computers,
+I just took my time, and enjoyed making it - 
+I tested the map using opengl with a voodoo 3 card and had no problems,
+but would not advise running this level in software mode.
+
+Its a big map, but once you learn the layout, and how best to use the teleporters
+you should be able to reach most areas quickly.
+
+
+
+-------COPYRIGHT-PERMISSIONS------------------------------------------
+------------------------------------------------------------------------------------------
+PLEASE dont change or modifiy this level in anyway without my permission.
+
+Please do not distribute this level UNLESS you include this file with
+NO MODIFICATIONS. 
+.
+-----------------------------------------------------------------------------------------
+Feel free to email me with any questions regarding this level.
+-----------------------------------------------------------------------------------------

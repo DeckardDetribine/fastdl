@@ -1,0 +1,138 @@
+==================================================================================
+
+Title              :hlnoir
+Filename           :hlnoir.bsp
+Author             :TTJ 
+Address            :southfield@gmx.de
+Homepage           :www.crosswinds.net/~ready2fight
+Description        :Half-Life Deathmatch map
+Version            :1.0
+
+==================================================================================
+
+Play Information
+
+Single Player      :No
+Deathmatch         :Yes, in my opinion min. 4 player
+New Sounds         :No
+New Graphics       :well, i only convert the textures and repaint some.
+New Music          :No
+
+=================================================================================
+
+About this Map
+
+At first I want to say that this Map is dedicated to my mapperfriend 
+Gunnar "Crazy Borg" Hoffmann. Without him the Black/White idea would be only a
+joke. He influenced the title, too by mention the word filmnoir ; )
+
+Well, one day I watched this old black/white western movie with John Wayne and
+suddenly I get the idea of an b/w deathmatchlevel. Later I recognize that my level
+is like these american movie pleasantville where everything is b/w but after a 
+while the actors get more and more coloured.
+So I make the basic Layout choose some textures converted them and make hlnoir.
+That is it !!!!!
+
+Probably some people will say : "well If I want a b/w map I just reduce the colour of my
+display. Then I would told these people about this pleasantville movie and
+they will recognize that it is a real cool effect if anything is b/w but the 
+players are coloured.
+
+That is why I recommened very colourful skins like barney in red for example.
+
+=================================================================================
+
+Description
+
+-In Crazy Borgs opinion the map has a little bit frenzy style. There is a main 
+ arena where is a lot action.
+-One special thing is the "speedway" where you can get the rpg.
+-There is no egon and no longjump.
+-The charger get coloured when they are empty.
+-When you jump the "speedway" is a lot faster ; )
+
+=================================================================================
+
+Construction
+
+Base               :TTJ
+Editor used        :Worldcraft 3.3
+For textures       :Wally and Photoshop 5.5
+Known Bugs         :No                  
+Build Time         :3 Weeks
+
+================================================================================
+
+Compile Time using zoner compile tools version 2.22
+
+I use a 350mhz pentium 2 with 128MBRAM and a elsa erazor x videocard.
+
+qcsg: 31s
+qbsp2: 23s
+qrad: 1185s 
+full vis: 188s
+
+================================================================================
+
+Installation
+
+Extract the Map hlnoir.bsp into your sierra\half-life\valve\maps directory and 
+then start the game. 
+
+If you want to play this map with the jumbot extract the hlnoir.jrf file into
+your sierra\half-life\jumbot\wpfiles directory and have fun !!!
+
+Do not forget to use colourful playerskins to provide the "pleasantville" effect.
+But blood make the same effect ; )))))
+
+================================================================================
+
+Textures
+
+I include the wad-file into the bsp so if someone want to use my textures 
+please sent me a mail.
+
+================================================================================
+
+Other Level by Author:
+
+DonkeyKong: HL Deathmatch, well the first attempt but really fun ; )
+
+Watertower: HL Deathmatch, a small one on one map 47% at hornetking
+
+de_urbanassault: Counter-Strike defusion Map, 9 from 10 Stars at
+                 www.counter-strike.de
+
+cs_realmansion: Counter-Strike hostage rescue map, 8 from 10 Stars at 
+                www.counter-strike.de
+
+All these maps are available at my homepage: www.crosswinds.net/~ready2fight
+
+================================================================================
+
+Thanks to:
+
+Tumor for everything and telling me about these "new" game Half-Life; Flash for 
+all his support; Crazy Borg for being my worldcraft teacher and betatester; 
+valve for creating a great game; all these great texture artists without them 
+all these maps would be not possible; Sean for his great Zoner tools; phil 
+for these cool (lan)-parties ; Apocalypso for betatesting
+
+================================================================================
+
+Copyright and Permissions
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+Half-Life (C) 1998-99 Sierra On-line and Valve L.L.C. All rights reserved.
+
+(c) Copyright 2000 TTJ aka Thomas Ritter, Germany
+

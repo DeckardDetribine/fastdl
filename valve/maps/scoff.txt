@@ -1,0 +1,91 @@
+                  ·· I N F O R M A T I O N ··
+
+Title                  : I'll scoff at ya
+
+Date of release        : 30 August 1999
+
+Filename               : scoff.bsp
+
+Author                 : Vondur
+
+Email address          : vondur@planetquake.com	
+
+Homepage               : Vondur's War Supply
+                         www.planetquake.com/vondur
+
+Description            : Half-Life deathmatch level
+
+Other maps by author   : Q1dm - dokkur1-6; [ferrum]; [zed]
+                         Q1sp - Solarfall
+                         Q1ra - sannur
+                         Q2dm - svartur1-3; compass second ed.
+                         HLsp - Prisoner of Event [sigur]
+
+Single Player          : Yes, just for take a look
+
+Cooperative            : No
+
+Deathmatch             : Yes. Scoff at him/her in 1-on-1 game.
+                        
+Difficulty Settings    : Nope
+
+Base                   : New level directly from my brains...
+
+Editor(s) used         : Worldcraft 2.1 [gimme 2.2!!!]
+                         Bred2b
+
+Textures               : halflife.wad
+
+Known Bugs             : None
+
+Build Time             : 1 week exactly [testing included]
+
+Additional utils used  : Halflife compilation controller v1.1
+                         Sprite Viewer v1.05
+
+
+                         ·· N O T E S ··
+
+This map was made under strong influense of HL deathmatches that
+happened  during  my  vacation [aug 99]. It was the first time I 
+played  this  FUNNY  game  in deathmatch. So, I decided to build 
+this level. I've  played my deathmatches on Frenzy and Crossfire 
+primarily, so  this  level  was inspired by them. I was strongly
+enjoyed by camper/sniper/crossbow/357 game. It is very  fun when
+you kills your friend in sniper mode when he shows his head from
+various hidden places. High portion of tactics there is also fun.
+Changing weapons according situation is very important in HL.
+
+Yeah, one word  yet: this level was designed for 1-on-1 gameplay 
+primarily. Cuz, you can play 3 or 4 ffa, but then there will not 
+fun sniper/camper game, but meat processing plant.
+
+
+                    ·· C R E D I T S   T O: ··
+
+Valvesoftware for HL and WC sure.
+
+David Flor for Sprite Viewer.
+
+Gracelessland for HLCC. Damn cool thing.
+
+ALL peeps  who  has  sent me good feedback regarding my previous 
+works - You know who you are!
+
+ALL  musicians  who  inspired  me during level making. 
+At this time:  The Legendary Pink Dots,  Soulfly, Dead Can Dance, 
+Fear Factory, Megadeth, Necros, N.O.I.S.E., LoK, DOOM midi.
+
+
+                   ·· L E G A L  S T U F F ··
+
+This  BSP  may  be  distributed ONLY via the Internet and/or BBS 
+systems. You are NOT authorized to put this BSP  on  any  CD  or 
+distribute it in any way without my permission. And don't remove 
+this .txt file from the .zip archive!
+
+
+     Enjoy, and thank you for reading this file to the end!
+
+
+                        [ v o n d u r ]

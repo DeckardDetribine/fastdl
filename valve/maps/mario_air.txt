@@ -1,0 +1,109 @@
+=======================================================
+Mario Air by DocRock
+=======================================================
+
+Map Name:                       	mario_air.bsp
+Filesize:                       	1.94 mb / 3.74mb unzipped
+Author:                         	DocRock
+Author email:                   	docrock64@cox.net
+Homepage:		http://docrocksmaps.homestead.com/docmaps.html                    
+wadincluded in map:          	mario.wad
+
+Included with this map is a POWER-UP Mario player model and a Luigi player model.
+Use them to jump and run in the mario_air environment of the map.
+Place the powerup_mario.mdl and the powerup_luigi.mdl in your valve/models/player folder.
+
+Also included is a zipped folder containing a snark replacement model.  It is of the mushroom
+koopa's which usually run around in Mario Levels.  If you want to use the snark replacement, you'll have to unzip it to it's proper locations which are laid out for you in the zipped readme.
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:                 		No
+Co-Op:                         		No
+Deathmatch:                     		Yes
+
+Suggested Players:             		8 - 15
+New Textures:                   		Yes 
+New Sounds:                     		Yes
+New Models:                     		Yes (Mario & Luigi POWER-UPs)
+
+Map description:                		A Half-Life deathmatch map set in a surreal vision 				world of Nintendo 64's Mario 64.
+
+=======================================================
+CONSTRUCTION:
+
+base map:                       		None
+prefabs:                        		None
+editor used:                    		Worldcraft 3.5 Hammer
+utilities used:                 		Zoner's Half-Life compile tools, Paintshop Pro 7, Wally
+known bugs:                     		None
+compile machine:                		Intel Pentium 4   2.53 GHZ
+compile time:                   		30 minutes
+
+=======================================================
+INSTALLATION:
+
+Run Winzip and unzip mario_air.zip.
+Open the mario_air folder and place the mario_air.bsp, mario_air.res, and mario_air.txt
+in your valve/maps folder.  Place the 6 (six) grass.tga files into your valve/gfx/env folder.
+Place the 9 wav files in a folder called mario2 and place that in your valve/sound folder.
+Place the spinning_coin.spr, cloud.spr, and explode1.spr in your valve/sprites folder.
+Place the cannon_guy.mdl in your valve/models folder, and take the power_up Mario & Luigi player models and put them in folders inside the player folder which is inside the valve/models folder.
+
+=======================================================
+OTHER LEVELS BY DOCROCK:
+
+sandspyre, kitkat_space, greyscale, kitkat_express, kitkat_factory, hardcore, kitkat_beach, kitkat_klub, Get_Shorty, Farmland2, Cliffside2, Tigger, Scooby_Doo, LOML_Palace, DepotArena, Conundrum, Conundrum 2,
+The Challenger Deep...etc
+
+=======================================================
+SPECIAL THANKS:
+
+To my babykitkat, my lover, my sweetheart, my wife.  I love you!!  My #1 fan, thanks baby
+for playtesting and helping me with this awesome map!  I DEDICATE THIS TO YOU!
+
+Thanks to qUiCkSiLvEr for the updated player models.  powerup_mario and powerup_luigi.
+Also for the spinning_coin and cloud.sprites.  And pinkie, too  :)
+
+Special thanks to Pen-Pen, a Q3A mapper, who's initial Mario 64 map and texture work inspired me to try and build one for Half-Life.
+
+Special thanks to PaPeRDoLL who made the enclosed snark replacement model.
+
+BETA TESTERS:
+babykitkat
+SilentRunner007
+ash
+WaMpA
+W:::Dr Edison:::W
+
+OTHER THANKS:
+
+JoNaS           			grass skybox     Jonas_Jax@hotmail.com
+=======================================================
+DOC'S NEXT MAP....COMING SOON:
+
+kitkat_egyptian
+=======================================================
+COPYRIGHT STUFF
+
+mario_land.bsp                	copyright  May 9, 2003  by DocRock
+powerup_mario.mdl and powerup_luigi.mdl      	copyright  by qUiCkSiLvEr  
+
+Authors MAY use this level as a base to build additional levels as long 
+as you give me credit in your read.me as using this map as a base to 
+build your level.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet.
+
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+PLEASE PLEASE PLEASE email me with any comments about this map or any 
+of my other maps because I love feedback good or bad...and I will do my 
+best to answer any and all emails regarding my maps.
+

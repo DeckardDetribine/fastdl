@@ -1,0 +1,70 @@
+
+1/10/2001
+=========================================================
+
+Title		       : "They Hunger deathmatch 4" (standard Half-Life version) 
+Description	       : Deathmatch map for Half-Life
+Authors		       : Dave Waters / Neil Manke
+Homepages -Dave        : www.planethalflife.com/3dconstruction
+          -Neil        : www.planethalflife.com/manke
+E-mail Addresses       : waters@planethalflife.com 
+                       : nmanke@telus.net
+=========================================================
+
+* Credits *
+
+Thanks to everyone at Valve and Sierra. Thanks to Neil, Einar,
+Magnus, Jack, and Paul at Black Widow Games.
+Thanks to Barking Dog for Counter-Strike textures (used with
+permission for "They Hunger").
+  
+=========================================================
+
+* Installation *
+
+You must have a full installation of Half-Life (Ver. 1.1.0.1) or higher.
+Run hldm4.exe to install the files (default drive is "C", so change it if
+you installed Half-Life to a different drive). They Hunger 2 is NOT required
+to play this version of Thdm4, therefore the They Hunger weapons are not
+available in this map and have been replaced with standard Half-Life issue. 
+    
+=========================================================
+
+* Description *
+
+Single Player          :No
+Deathmatch             :Yes
+New textures           :Yes
+New Models             :No
+New Sounds             :Yes
+New code               :No 
+  
+* Construction *
+
+Base                   :Thdm4.rmf 
+Build time             :NA 
+Compiler               :Athlon 700  
+Tools used             :Worldcraft 3.3 
+
+* Bugs*
+
+None found: report bugs to the e-mail addresses above. 
+
+========================================================
+
+* Distribution *
+
+This level may not be distributed on any medium, such as, but not
+limited to, CDs, floppy disks, etc, without the written permission
+of Dave Waters and Neil Manke. 
+
+* Property *
+
+The custom textures/skins/graphics/code/sounds used in this map are
+the property of their respective authors and are NOT to be used in
+any other add-ons levels/paks/etc.. without the permission of the
+appropriate authors. For more information contact Black Widow Games
+at www.planethalflife.com/manke
+
+Half Life is a registered trademark of Valve Software. 
+Use of this software is at your own risk. 

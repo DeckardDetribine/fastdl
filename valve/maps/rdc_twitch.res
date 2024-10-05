@@ -1,0 +1,20 @@
+// .res entries (19):
+maps/rdc_twitch.txt
+maps/rdc_twitch.res
+gfx/env/morningdewup.tga
+gfx/env/morningdewdn.tga
+gfx/env/morningdewlf.tga
+gfx/env/morningdewrt.tga
+gfx/env/morningdewft.tga
+gfx/env/morningdewbk.tga
+sprites/rdc4.spr
+sound/doors/aliendoor3.wav
+sprites/e-tele1.spr
+sprites/enter1.spr
+sprites/exit1.spr
+sound/rdc_hammer/woohoo.wav
+sound/ambience/techamb2.wav
+sound/ambience/computalk1.wav
+models/uplant1.mdl
+models/teleporter_blue_sprites.mdl
+sound/ambience/des_wind2.wav

@@ -1,0 +1,78 @@
+      
+=============================================================================
+--==== The SeweRage ====-----------=-------------=-------------=------------=
+=============================================================================
+
+Title                   : The SeweRage
+Date                    : 19th february 2001 
+Filename                : thesewerage.bsp
+Author                  : Martijn Schrijver "Dr.DK" 
+Country			: The Netherlands
+Email Address           : drdecay@hotmail.com
+Home Page               : http://come.to/drdk 	
+                       
+
+Description             : Well, its the second map i've created for Half-life. 		  
+			  You can activate a nuke rocket every 5 minutes by 
+			  pressing the nuke button on top of the rocket in the 
+			  test firing chamber. There's just one safety area, 
+			  check it out yourself.	
+
+Special features	: When you got killed by the nuke rocket, the following 
+			  message appears on your screen:
+			  "Feel the blast in your ass, buddy!"	
+			  Then you'll lose 2 points (frags) instead of 1.
+
+Thanks to               : All my friends and of course Valve
+
+
+---= Play Information =-----------------------------------------------------=
+
+Single Player           : No
+Deathmatch              : Yes (10 spawn points) 
+Difficulty Settings     : No
+Team fortress classic   : No
+Opposing Force		: Yes (classic weapons + sniper rifle & M249)
+Counterstrike		: No
+Day of Defeat           : No
+Action Half-life	: No
+
+This map requires Half-life version 1.0.0.9 or above,
+because of the "game_zone_player" entity.
+
+
+---= Map Information =------------------------------------------------------=
+
+New Textures	: No
+New Sounds	: No
+
+
+---= Construction =---------------------------------------------------------=
+
+Base			: New
+Build Time              : Several months, off and on 
+Compile machine         : PII 400 with 128 megs of SDRAM (who cares?)
+QBSP Time               : 24 seconds
+QVIS Time (full)        : 131 seconds
+QRAD Time (extra)       : 769 seconds 
+
+
+---= Map Instructions =-----------------------------------------------------=
+
+Unzip the files in this archive.  Place the map "thesewerage.bsp" in
+your half-life\valve\maps directory. 
+
+If you play Half-life Opposing Force, then place the map in your
+half-life\gearbox\maps directory. 
+
+
+---= Copyright / Permissions =----------------------------------------------=
+
+Authors may not use this level as a base to build additional levels. 
+
+You must not distribute this level unless you include this file with 
+no modifications.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

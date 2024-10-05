@@ -1,0 +1,51 @@
+================================================================
+Title                   : Caverns 
+Filename                : caverns.bsp
+Author                  : Chris Weiler or better known as Dirtbag--[[TOG]]
+Email Address           : mr_punch@videotron.ca
+Home Page               : none yet
+Description             : I started building the map just to get a feel of WorldCraft 2.0 but after a few days it
+                          just took a shape of its own.  Inspiration came from a level in JK (the asteroid in MOTS) 
+                          that I thought was really cool 'cause of all its little passageways.  Another thing that I 
+                          really like in DMs are traps.  Thus the 3 that are in this DM.  The upper area was added
+                          to give the map a sense of depth and more room for more players. Hope you enjoy.
+Other Levels            : none yet
+Additional Credits to   : 1) Valve for making a Kick-Ass game that has consumed my life for the past few months.
+                          2) ID for creating the FPS genre and setting the standard of Video Game engines.
+                          3) PlantetHalflife for a great source of anything Halflife.
+                          4) Radium.  THE PLACE for Halflife maps.
+                          5) All the Halflife editing sites that pretty much taught me how to edit.
+                          6) All the players that showed up to the playtests of incomplete versions of this map.
+                          7) Last but not least my Clan mate 300BAUD--[[TOG]] for giving me advice on design.
+                             BTW we are looking for more members so if your interested E-Mail me or look for us on
+                             GameSpy.  (Another awesome program I can't live without.)
+     
+
+================================================================
+
+* Play Information *
+
+Single Player           : No 
+Deathmatch              : Yes (9 Deathmatch Start Points)
+Difficulty Settings     : N/A
+
+* Construction *
+
+Base                    : From scratch
+Editor(s) used          : Worldcraft 2.0
+Known Bugs              : None
+
+Build Time              : A month of working on it when I could 
+
+Compile machine         : PII 300 Celeron running at 450MHZ with 128 megs of SDRAM 
+QBSP Time               : 18sec
+QVIS Time               : 2min 31sec
+QRAD Time (extra)       : 7min 12sec
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.

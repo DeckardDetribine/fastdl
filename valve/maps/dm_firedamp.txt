@@ -1,0 +1,42 @@
++---------------------------------------------------------------+
+|                          DM_FIREDAMP				|
+|                         BY VICTOR-933				|
++---------------------------------------------------------------+
+| SUMMARY:							|
+|								|
+| Yet another dark and dreary map from me. Even worse, it's	|
+| yet another coal mine map (DM_Shafted, anyone?). Fortunately, |
+| this one's a lot better than the last one.			|
+|								|
+| The name comes from the old English word for flammable gases  |
+| found within coal mines, which claimed many miners' lives in	|
+| explosions.							|
+|								|
+| Every weapon is present, although some may require a little	|
+| thought to reach...						|
++---------------------------------------------------------------+
+| INSTRUCTIONS:							|
+|								|
+| Extract this archive to your half-life/valve folder.		|
+|								|
+|								|
+| IF NECESSARY:							|
+|								|
+| Place WAV files in half-life/valve/sound/dm_firedamp		|
+| Place BSP file in half-life/valve/maps			|
++---------------------------------------------------------------+
+| CREDITS:							|
+|								|
+| TEXTURES:							|
+| 	Half-Life 2						|
+| 	HHH316 (hhh316.deviantart.com)				|
+| 	DemolitionDan (demolitiondan.deviantart.com)		|
+|	Victor-933						|
+|								|
+| SOUNDS:							|
+|	Myst, Half-Life 2, Black Mesa Source			|
+|	(Hacked together and altered by Victor-933)		|
++---------------------------------------------------------------+
+| 	      Find more of my stuff on Gamebanana!		|
+| 	    http://www.gamebanana.com/members/213517		|
++---------------------------------------------------------------+

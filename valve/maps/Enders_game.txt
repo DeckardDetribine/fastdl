@@ -1,0 +1,58 @@
+=====================================================================
+  (Enders_game)  Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		:Enders_game
+Filename	:Enders_game.bsp
+Author		:Peter Manson
+Author Email	:peter@mickeymurphy.freeserve.co.uk
+Home page	:none
+Description	:small death-match map. Ideally suited to 4 players
+Previous Maps	:none
+
+------Credits and Thanks---------------------------------------------
+
+Thanks to radium for reviewing this map.  
+
+e-mail=http://www.planethalflife.com/radium 
+
+
+------Additional Info, Tips, and Notes-------------------------------
+
+This is the first map i have made,
+ e-mail me with any comments, questions, and/or critisim you may have.
+
+------Play Information-----------------------------------------------
+
+Deathmatch	:yes
+Single Player	:no
+Map Description	: small death-match
+How Many Players: 2  -  6
+
+------Map Information------------------------------------------------
+
+New Textures	:none
+New Sounds	:none
+------Construction---------------------------------------------------
+
+Base		:
+Editor(s) used	:
+Compile Machine	:
+Compile time	:compiled using hlcc and took roughly 12 hours
+Playtest time	:
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "Enders_game.bsp" in
+your half-life/valve/maps directory. 
+ You can now run the map via a LAN setup.
+
+------Copyright-Permissions------------------------------------------
+
+As long as you mention my name,
+ you may do what ever the hell you like to my map! 
+                                                   (save the whales)
+
+
+

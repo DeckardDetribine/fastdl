@@ -1,0 +1,86 @@
+[ English ]
+======General Info======
+
+Title: Freight Yard
+Filename: dm_bmtr_r.bsp
+Filesize: 2.52MB
+Author: ZC
+Author Email: iamthezc@gmail.com	
+Author Steam: The_ZC
+
+======Desciption======
+
+A small deathmatch map, takes place in the freight yard area of Black Mesa.
+
+======Game Information======
+
+Mode: Deathmatch
+Spawn points: 22
+
+======Construction======
+
+Base: From scratch, no source files used.
+Tool(s) used: J.A.C.K. / Vluzacn's ZHLT v33
+Created on: Sep 26, 2018
+Finished on: Oct 20, 2018
+Time to Complete: 3 weeks, 3 days
+Compile Machine: Intel Core i3, 8GB RAM
+Compile time: 1 min
+Custom Textures: Yes (all -wadincluded)
+
+======Special Thanks======
+
+Original map author - ZombieSimon
+Developer of HL: BS - Valve Software&Gearbox Software
+
+======Feedback======
+
+Contact me thorough Steam or Email.
+
+==================
+
+
+
+
+[ Chinese ]
+======General Info======
+
+名称：Freight Yard（货场）
+文件名：dm_bmtr_r.bsp
+文件大小：2.52MB
+作者：ZC
+作者邮箱：648443866@qq.com / tr1gger_0nce@163.com
+作者Steam：The_ZC
+作者QQ：648443866	
+
+======简介======
+
+对2013年的地图“黑山火车站”的重制。
+地图得名于其场景，即《蓝色行动》中首次登场的黑山基地货场。
+
+======游戏信息======
+
+模式：DM
+出生点数量：22
+
+======制作过程======
+
+地图：从头制作，未使用任何源文件。
+所用工具：J.A.C.K. / VHLT v33
+制作始于：2018年9月26日
+完成于：2018年10月20日
+制作用时：3星期又3天
+编译用时：1分钟
+硬件：Intel Core i3, 8G内存
+自定义纹理：有（已全部打包进BSP）
+
+======特别感谢======
+
+原版地图作者RMB
+蓝色行动的开发商，V社和G社
+
+======反馈======
+
+请通过邮箱或QQ联系我
+
+==================

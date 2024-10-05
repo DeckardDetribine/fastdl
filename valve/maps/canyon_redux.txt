@@ -1,0 +1,14 @@
+Title: Canyon: Redux
+Version: 1.0
+Release Date: April 13th, 2009
+Get It At: http://www.petesplace.id.au/mapping/levels.php#canyon_redux
+Readme: canyon_redux.html
+Author: Peter Jones From an original concept by Ben Davies
+Contact: http://www.petesplace.id.au/contact_pete.php?subj=Canyon_Redux
+Website: http://www.petesplace.id.au/mapping/
+Play Information
+Game: Half-Life
+Game Mode: DeathMatch
+Players: 2-10
+Base: New level from scratch, although the concept was originally developed as Canyon by my gaming buddy Ben Davies. Hence the "Redux".
+New Graphics: Several, not created by me; see Other Credits for full details.

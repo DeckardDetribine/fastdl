@@ -1,0 +1,77 @@
+* Play Information *
+Title 			: Ministry of Pain V1.1
+Filename		: ministry.bsp
+Author			: FreakyZoid
+Other lvls by author	: None for HL, but a few Quake ones.
+Email address 		: emceetg@geocities.com
+Home page		: http://come.to/TIGU
+
+Description		: Quite a small level, indended for 2 - 3
+			  players. The r-speeds are quite high in
+			  places, but I couldn't really avoid this
+			  with mass re-structuring of the map, and
+			  putting in a load more corridors.
+			  There are a few places on this map with
+			  individual sounds, so 1 - 1 is particularly
+			  tense, because recharging / grabbing the
+			  egon / riding the elevators gives away your
+			  position almost straight away.
+			  Note that the glass around the elevator and
+			  high room are both bullet-proof, but the
+			  glass linking the two is not.
+			  If you're wondering where the name comes from it's
+			  because of the fact that half of this level is
+			  loosely based around the Ministry of Sound - a
+			  nightclub in the UK.
+			  Oh yeah, and in case you didn't catch it, this
+			  is my first HL map. Not that that's any kind of
+			  excuse, of course.
+
+V1.1			: The trap around the gauss gun now works, and the
+			  r-speeds are lower all around, due to moving and
+			  lengthening of corridors. Oh, and there's a truck
+			  in the loading bay now.
+
+Additional Credits to   : Valve, id, Lord Dakushna (whose Laser Turret
+			  prefab I butchered for my own purposes), and
+			  ShadowByte (who made the truck prefab I used as a
+			  basis for the *gasp* truck).
+
+Single Player           : No
+Cooperative Player      : No
+Deathmatch Player       : Yes, 2-4 players
+CTF2			: No
+Difficulty Settings     : No
+New Textures            : No
+CD Track                : Insides, by Orbital. Okay, it's not *actually* on
+			  the HL CD, but I find it provides a suitably creepy
+			  ambience for most DM play.
+
+* Construction *
+Base			: From scratch
+Editor(s) used          : Worldcraft 2.0
+Compile Machine		: AMD K6-2 350, 192MB RAM
+Compile time		: 50+ hours to make, 20 minutes to VIS, and around 10
+			  minutes to light. Bear in mind, though, that a
+			  quarter of the construction time was spent working
+			  out how to get certain effects to work properly, like
+			  the gluon and gauss traps.
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+
+
+
+* Standard Copyright / Permissions That Nobody Reads *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission (but if you want to, ask, and I'll probably
+be so flattered that I'll fall over myself to give you permission).

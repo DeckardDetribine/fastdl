@@ -1,0 +1,77 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		:gotham
+Filename	:gotham.bsp
+Author		:Robert L. Miles (Milestone)
+Author Email	:milestone@robertlmiles.com
+Home page	:www.robertlmiles.com
+
+Description	:Here in this Half-Life multiplayer Deathmatch level, Gotham City has come to life!
+Where if you find the 1/2 gravity hotspot and assume the super jump you can leap from skyscraper to 
+skyscraper, rooftop to rooftop, just like Batman. From a small sewer line, up to ground level and then to the 
+rooftops of tall buildings, you can frag your enemy with much needed delight.
+
+Previous Maps	:Milestone Compound (milescom.bsp)
+
+------Credits and Thanks---------------------------------------------
+
+Thanks to those that helped beta test this map.
+Jeff Goldfarb
+Andrew Holdun
+Jason Chayes 
+William "Chip" Beaman
+
+------Additional Info, Tips, and Notes-------------------------------
+This is not for the faint heart machine; you will need a graphics card with 16megs to play and at least a 
+pentium2 300.
+
+------Play Information-----------------------------------------------
+
+Deathmatch	:Yes
+Single Player	:No, but if you feel like practicing.
+Map Description	:This map is intended to replace your ordinary bright yet restful sunny day with that of a 
+satisfying yet dark, gothic, blood rushing, tense, super human, comic book style, stress release map. This 
+level is riddled with dark textures and very moody up lighting that’s structured right out of the comic 
+books. This large map contains lots of leveling, lots of weapons and hidden secrets. 
+
+How Many Players:8-12 players
+
+------Map Information------------------------------------------------
+
+New Textures	:No
+New Sounds	:No
+
+------Construction---------------------------------------------------
+
+Base		:pentium2 450
+Editor(s) used	:Worldcraft 2.1
+Compile Machine	:dual pentium2 400
+Compile time	:19 hours
+Playtest time	:About 1 month of playtesting/configuring 20 minutes at a time.
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "gotham.bsp" in
+Your half-life/valve/maps directory.  If there are any .wad files in
+this zip, place them in the half-life/valve directory.
+
+------Copyright-Permissions------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without the permission of Robert L. Miles a.k.a Milestone.
+
+
+

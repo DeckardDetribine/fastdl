@@ -1,0 +1,33 @@
+== Half-life deathmatch map ==
+
+Date                    : 14th Jan 2002
+Title                   : DM_citadel
+Filename                : DM_citadel2.zip
+Author                  : nathan goulden
+Email Address           : tecmds@icqmail.com
+Map size                : large
+
+== Play Information ==
+
+Single Player           : no
+Cooperative             : no
+Deathmatch              : yes
+textures		: Mostly new textures
+
+
+== Construction ==
+Base                    : from my de_citadel
+Editor(s) used          : worldcraft 3.3,terragen,wally,602photo,HLCC
+
+
+== Installation Info ==
+unzip to c:\SIERRA\half-life
+
+
+==Copyright / Permissions==
+
+You may use these textures and sky as long as you give me some credit 
+in your maps read-me file
+
+
+

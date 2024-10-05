@@ -1,0 +1,109 @@
+VANGUARD (beta)
+=========================================================================================================
+
+Date                    : 30th September 2003
+Title                   : Vanguard (beta)
+Filename                : vanguard_beta.bsp
+Author                  : ReNo [Duncan Blair]
+Email Address           : reno@elva-mod.co.uk , reno@deadpan-studios.co.uk
+ICQ#			: 28651662
+MSN			: renobutsomebassnickedmynick@hotmail.com
+Home Page               : http://evolution.hlgaming.com
+			  http://www.elva-mod.co.uk
+
+Installation Info	: Unzip the contents of this zip to your half-life folder and all the files
+			  will go to their correct location.
+
+Map Description         : This map was created for the snarkpit mapping contest. The aim of the contest
+			  was to create a level based on a piece of concept art. I chose to base a level
+			  on an environment created by Sparth - the piece of art is included in the zip
+			  file.
+
+			  I went through many different maps in the life of this contest, before finally
+			  coming to work on this one. Due to time constraints, I have unfortunately not
+			  been able to complete the level, and so this beta version is my entry. Hopefully
+			  I will be able to work on this project further, and so turn it into a proper
+			  deathmatch map. Please note that due to the deadline I was unable to run VIS
+			  fully. This is despite leaving it to run on netvis with 4 powerful computers for
+			  20 hours...its not my fault, blame the rockwork!
+
+Other Works by Author   : [1] Obsolete...	HLDM
+			  [2] Elixir...		HLDM
+			  [3] Rebellion...	HLDM
+			  [4] CM Arena...	HLDM
+			  [5] Echo...		HLDM | AGCTF version also available
+			  [6] Forsaken...	HLDM | AGCTF version also available
+			  [7] Outland...	AGCTF
+			  [8] Torrent...	HLDM
+			  [9] Seneca...		HLDM
+
+			  Check them and more out at the maps page of my site:
+			  http://evolution.hlgaming.com/maps.html
+
+Misc Author Info        : This is my tenth unique map release. I am a 19 year old currently studying
+			  BSc Computer Games Technology at the University of Abertay in Dundee,
+			  Scotland. Fingers crossed after getting this degree I will become a
+			  fully fledged Level Designer working in the industry :) Outside of level
+			  design I am a skateboarder, rollerblader, ice skater and snowboarder.
+			  I listen to ska/punk/emo music and play a helluva lot of computer games! I
+			  am also a member of a small student games development team based in Dundee.
+
+
+======================================================================================================
+
+== Play Information ==
+Single Player           : No [1 start]
+Cooperative             : No
+Deathmatch              : Not yet!
+AGCTF			: No
+
+== Construction ==
+Base                    : Scratch (although based on concept art by Sparth)
+Editor(s) used          : Valve Hammer 3.5 beta
+
+== Build Machine ==
+AMD Athlon XP 1800+
+256mb Crucial SDRAM
+128mb Chaintech GeForce4 Ti-4200
+
+== Test Machines ==
+AMD Athlon XP 1800+
+256mb Crucial SDRAM
+128mb Chaintech GeForce4 Ti-4200
+
+
+========================== Playtesting & Suggestions & Feedback ======================================
+
+Still to come...
+
+
+==================================== Thanks... =======================================================
+In no particular order...
+
+	- Friends
+	- Family
+	- All the great HL mapping sites that i learnt from
+	- All the great HL level review sites, past and present
+	- Leperous for running the ever-improving incredible Snarkpit (http://www.snarkpit.co.uk)
+	- Snarkpit forum crew for comments and banter
+	- Everyone involved in the AG mod for improving HLDM (http://www.planethalflife.com/agmod)
+	- My flatmates for trying to get Netvis to compile for 20 hours before I gave up
+	- Anybody who looked at this map and told me their thoughts!
+
+	- Sparth for creating many inspiring works of art (http://perso.wanadoo.fr/arth)
+	- Shaderlab for some of the great textures (http://www.shaderlab.com)
+	- Bob Cooksey for MORE of the great textures (http://www.bobcooksey.com)
+	- Ben "Mr.Ben" Ives for the rock and terrain textures
+	- TheDoenerKing for the forklift truck model (http://www.thedoenerking.de)
+
+
+
+==Copyright / Permissions==
+Authors MAY NOT use this level as a base to build additional levels.
+
+This map may be distributed ONLY on a "not for profit" basis using any medium,
+provided this file is included with no changes.
+
+Magazines and other published media may use my level provided they ask for my permission.
+
+This template is available from www.globalassault.com.

@@ -1,0 +1,45 @@
++---------------------------------------------------------------+
+|                         DM_DANGERCLOSE			|
+|                         BY  VICTOR-933			|
++---------------------------------------------------------------+
+| SUMMARY:							|
+|								|
+| DANGER CLOSE - A military term, used in a call for fire to	|
+| air, naval, or artillery support, to warn that friendly units	|
+| are in close proximity to the intended target.		|
+|								|
+|	------------------------------------------------	|
+|								|
+| Doom 3's art style has been a pretty significant inspiration	|
+| for me over the years, especially the caverns levels at the	|
+| end. This is probably most readily apparent in my recent map	|
+| DM_Subterrane.						|
+|								|
+| I decided to remake Doom 3's D3DM4, "The Edge 2", for HLDM. I	|
+| call it a remake, although to be honest it isn't a perfect	|
+| 1:1 clone; the only thing truly intact is the layout. Still,	|
+| I would say it's close enough to count.			|
+|								|
+| All weapons are present, and there are 24 deathmatch spawns.	|
+|								|
++---------------------------------------------------------------+
+| INSTRUCTIONS:							|
+|								|
+| Extract this archive to your half-life/valve folder.		|
+|								|
+|								|
+| IF NECESSARY:							|
+|								|
+| Place BSP file in half-life/valve/maps			|
+|								|
++---------------------------------------------------------------+
+| DEVNOTES:							|
+|								|
+| R_Speeds at or below 1200.					|
+|								|
+| This map uses stock assets.					|
+|								|
++---------------------------------------------------------------+
+| 	      Find more of my stuff on Gamebanana!		|
+| 	    http://www.gamebanana.com/members/213517		|
++---------------------------------------------------------------+

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/strict.dtd">
+<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Half-Life DeathMatch :: Lab17: Storage</title>
+<meta name="author" content="Peter Jones" />
+<style type="text/css">
+<!--
+body { font-family: verdana,sans-serif; font-size: 14px; color: #006; background: #eef; }
+div { margin: 20px; padding: 0px; border: 2px solid #006; }
+
+h1 { margin: 0px; color: #eef; background: #006; padding: 2px 20px; font-size: 24px; }
+h2 { background: #ccd; padding-left: 20px; font-size: 22px; }
+h3 { background: #dde; padding-left: 20px; font-size: 18px; }
+h4 { background: #dde; padding-left: 20px; font-size: 16px; }
+h1,h2,h3,h4 { border-top: 1px solid #006; border-bottom: 1px solid #006; }
+h3 { width: 75%; border-right: 1px solid #006; }
+h4 { width: 60%; border-right: 1px solid #006; }
+
+p { margin: 20px; }
+
+.level { font-weight: bold; color: #600; }
+.spaced li { margin: 16px 20px; }
+.data li { margin: 3px 20px; cursor: help; width: 150px; }
+.extra,acronym { cursor: help; border-bottom: 1px dotted; }
+.newpage { page-break-before: always; }
+
+li { margin: 0px 10px; }
+dt { clear: both; width: 130px; text-align: right; font-weight: bold; float: left; border-bottom: 1px solid #eef;  }
+dd { margin-left: 140px; margin-bottom: 1px; }
+code { font-size: 0.9em; }
+
+dl ul { margin: 0px; }
+-->
+</style>
+</head>
+
+<body>
+
+<div>
+<h1>Level Details</h1>
+
+<dl>
+<dt>Title:</dt><dd><span class="level">Lab17: Storage</span> (aka <em>SlimeLab Part 1</em>)</dd>
+<dt>Version:</dt><dd>1.4</dd>
+<dt>Release Date:</dt><dd>May 19, 2005</dd>
+<dt>Get It At:</dt><dd><a href="http://www.petesplace.id.au/mapping/levels.php#storage">Lab17: Storage</a></dd>
+<dt>Readme:</dt><dd>lab17_storage.html -- the file you are reading now.</dd>
+<dt>Variants:</dt>
+  <dd><span class="level">Lab17: Storage</span> (lab17_storage.bsp; 35 spawn points)</dd>
+  <dd><span class="level">Lab17: Flood</span> (lab17_flood.bsp; 26 spawn points)</dd>
+  <dd>(See the <a href="http://www.petesplace.id.au/download/hldm/lab17/slimelab_history.html">story</a> behind the assorted levels which make up <span class="level">Lab17</span>, if you're interested.)</dd>
+</dl>
+
+<dl>
+<dt>Author:</dt><dd>Peter Jones</dd>
+<dt>Contact:</dt><dd><a href="http://www.petesplace.id.au/contact_pete.php?subj=Lab17_Storage">Contact Pete</a></dd>
+<dt>Website:</dt><dd><a href="http://www.petesplace.id.au/mapping/">Pete's Place :: Mapping</a></dd>
+</dl>
+</div>
+
+<div>
+<h1>Play Information</h1>
+
+<dl>
+<dt>Game:</dt><dd>Half-Life</dd>
+<dt>Game Mode:</dt><dd>DeathMatch</dd>
+<dt>Level Name:</dt><dd><span class="level">Lab17: Storage</span> (aka <em>SlimeLab Part 1</em>)</dd>
+<dt>Players:</dt>
+  <dd>3-12 for <span class="level">Storage</span>.</dd>
+  <dd>2-6 for <span class="level">Flood</span></dd>
+<dt>Known Bugs:</dt><dd>Software display mode cannot handle this level!</dd>
+</dl>
+
+<dl>
+<dt>Base:</dt><dd>New level from scratch.</dd>
+<dt>New Graphics:</dt>
+  <dd>
+    <ul>
+      <li>An FPC (see <a href="#history11">Revision History</a>):  Original image <a href="http://www.deviantart.com/deviation/5831821/">chicken attack</a> by <a href="http://vevrca.deviantart.com/">vevrca</a>, used with permission (and combined with one of the standard HL textures from <code>halflife.wad</code> -- but specifying which one might give away its location.)</li>
+      <li>A few signs.</li>
+      </ul>
+    </dd>
+</dl>
+
+<dl>
+<dt>Installation:</dt><dd>Place the .bsp files in your valve\maps directory.</dd>
+</dl>
+</div>
+
+<div>
+<h1>Build and Compile Information (Reference)</h1>
+
+<dl>
+<dt>Build Time:</dt><dd>Under construction (on and off) for three months.</dd>
+<dt>Editor:</dt><dd>Valve Hammer Editor 3.4</dd>
+<dt>Additional:</dt>
+  <dd>The Gimp (1.2 and 2.0) [<em>to make the additional graphics</em>]</dd>
+  <dd>Wally 1.51B [<em>to assemble the WAD file</em>]</dd>
+  <dd>XP-Cagey's P13 release of Merl's 1.7 build of Zoner's HL Compile Tools (<strong>ZHLT_1.7P13</strong>)</dd>
+</dl>
+
+<h2>Final Compile Parameters</h2>
+<ul>
+  <li><code><strong>hlcsg.exe</strong> -cliptype precise -wadautodetect -wadinclude lab17_storage.wad lab17_storage</code></li>
+  <li><code><strong>hlbsp.exe</strong> lab17_storage</code></li>
+  <li><code><strong>hlvis.exe</strong> -full lab17_storage</code></li>
+  <li><code><strong>hlrad.exe</strong> -sparse -extra -dscale 1 -bounce 1 lab17_storage</code></li>
+  <li><code><strong>opt_plns.exe</strong> lab17_storage</code></li>
+  </ul>
+
+<h2>Compile Time (on 3GHz P4)</h2>
+<ul>
+  <li>lab17_storage: <strong>4h 25m 19s</strong></li>
+  <li>lab17_flood: <strong>1h 43m 1s</strong></li>
+  </ul>
+</div>
+
+<div class="newpage"><h1>Other</h1>
+
+<h2>Description</h2>
+
+<p>Mid afternoon.</p>
+
+<p>This is Research Lab <span class="extra" title="... but don't let the number mislead you into thinking there are 16 others.  There aren't.  Yet.">#17</span>, buried deep underground on a remote island.  When the subterranean river of slime was first discovered, along with its unearthly fauna and mysterious crystalline growths, a nameless branch of the government scrambled to install a research facility to explore its potential for military applications.  Soon after construction was completed, the installation suffered structural damage due to the inexorable growth of the crystals embedded in the surrounding rock.  In particular, part of the rail tunnel -- connecting the laboratory itself with the warehouse and the outside world -- weakened and collapsed.</p>
+
+<p>This level consists of the entrance section and the warehouse -- and, of course, the river of slime.  Be warned, something <em>hungry</em> lives in the slime.  Nobody has ever seen it -- nobody still living, that is -- but it can be heard patrolling its domain.</p>
+
+<p>The laboratory itself is also available as <a href="http://www.petesplace.id.au/mapping/levels.php#slimelab">Lab17: SlimeLab</a>.</p>
+
+<h2>Story</h2>
+
+<p>What story?  It's DeathMatch: just kill anything that moves, and have fun!</p>
+
+<h2>Features</h2>
+
+<p>All the weapons can be found in this level, but they are not necessarily easy to pick up -- and the Egon Backpack Gun is rather well hidden...  Navigation through the level, and acquisition of many of the 'high-powered' weapons, will require a fair bit of jumping around (remember: crouch-jump is your friend!) or exposure to unfriendly fire.  Or both.  Several sniping positions exist for those who prefer sneaking to running, but getting to them can be fraught with danger.  Watch your step -- and don't go swimming.</p>
+
+<p>The gauss cannon (aka "jump gun") is not available in <span class="level">Lab17: Flood</span> -- but the Egon cannon is a little easier to find.</p>
+
+<h2>Feedback</h2>
+
+<p>I would appreciate feedback from anybody who likes (or dislikes) this level.  If you have something to say about this level, or an error to report, please <a href="http://www.petesplace.id.au/contact_pete.php?subj=Lab17_Storage">contact me</a>.  Without feedback, how can I hope to improve?  :-)</p>
+
+<h2>Playtesting</h2>
+
+<p>Both versions of this level have been extensively playtested by the following people, all of whom have made comments contributing to the finished product:</p>
+
+<ul class="data">
+<li title="aka 'itson'">Shaun Barclay</li>
+<li title="aka 'wiersbowski', most of the time">Ben Davies</li>
+<li title="the author, aka 'phoenix', aka 'darkphoenix'">Peter Jones</li>
+<li title="aka 'dead girl'">Karen McKavanagh</li>
+<li title="aka 'target'">Kim Stallard</li>
+<li title="aka 'doctor'">Grant Wheatley</li>
+</ul>
+
+<p><span class="level">Storage</span> seems to be slightly slow with only two people, but three or four seems to work out pretty well.  I suspect it would support as many as eight or ten players before becoming too crowded; we have not, unfortunately, tested it with more than five at a time.  As a smaller variant, <span class="level">Flood</span> works fine with two players, and with five or six becomes quickly chaotic.</p>
+
+<h2><a name="comments">Comments</a></h2>
+
+<p>After completing <span class="level">LavaLab</span>, the decision to build another lab to study another dangerous fluid seemed almost automatic, and <span class="level">SlimeLab</span> was born.</p>
+
+<h3>Revision History</h3>
+
+<h4>Version 1.4 -- May 19, 2005</h4>
+
+<p>As well as adding several new features to <span class="level">Flood</span>, it was necessary to roll some changes back into <span class="level">Storage</span> for the sake of consistency.  Most of the changes are cosmetic, although there were a few glitches that we discovered when playing the previous release...</p>
+
+<h4>Version 1.3 -- April 5, 2005</h4>
+
+<p>After completing <span class="level">SlimeLab</span> (and its counterpart, <span class="level">Quake</span>,) I decided to generate a matching counterpart for <span class="level">Storage</span>.  Thus <span class="level">Flood</span> was born, and some of the features in it had to be rolled back into <span class="level">Storage</span>.  For a more detailed look at the history of the intertwined development of all four Lab17 levels, see <a href="http://www.petesplace.id.au/download/hldm/lab17/slimelab_history.html">Lab17: History</a>.</p>
+
+<h4>Version 1.2 -- September 12, 2004</h4>
+
+<p>We have been playing this level for at least three months, and there have been very few complaints.  However, there are a couple of minor issues that I felt needed addressing, and a couple of consistency tweaks that have grown out of my work on <span class="level">Lab17: SlimeLab</span>:</p>
+
+<ul>
+<li>Made the ceiling flouro-bars a little more streamlined as per <span class="level">Lab17: SlimeLab</span>; this should also resolve the problem of bumping into them whilst jumping down the corridor.</li>
+<li>Found the HOM error mentioned previously (Version 1.1); added a ledge in an effort to recalculate the surface causing the error.  After further testing I realised the error was actually caused by being able to see further than the maximum view distance set in the level, and fixed it by increasing the maximum view distance.  The ledge I added remains, though; I rather like it.</li>
+<li>Added yet another startpoint or two.</li>
+<li>Added a few more creepers blocking any holes in the rock where the sun is shining in; this was partly in response to having played the level in a mod with a grappling hook which allowed access to those areas which should not normally be accessible -- and which were therefore not designed to be viewed up close...</li>
+<li>Added a couple more items in out-of-the-way places...</li>
+<li>Initially added a radiation-detector-clicking effect to the slime river; it worked well, but was a little distracting -- and it appeared to increase the lagginess of the level -- so I scrapped it again.</li>
+</ul>
+
+<h4><a name="history11">Version 1.1 -- June 14, 2004</a></h4>
+
+<p>Primarily a bug-fix:</p>
+
+<ul>
+<li>Widened the gap between a particular pile of boxes and the wall of the warehouse, so that the player can now fit through the gap as initially intended.</li>
+<li>Investigated reports of an HOM error, but could not locate it.</li>
+<li>Attempted to improve the accessibility of one particular climbable surface that seemed to be giving more trouble than it should.  Only partial success.</li>
+<li>The alarm lights around the freight lift looked great, but every time they went off, server latency went out the window.  I have reduced the brightness of these lights, and hopefully fixed the problem.</li>
+</ul>
+
+<p>Also made a couple of slight design changes, nothing too radical:</p>
+
+<ul class="spaced">
+<li>It seemed that nobody was using the top sniper spot.  I asked a few questions, and the main problem -- apart from the difficulty of actually getting to it -- was the plantlight in the tunnel which nicely silhouetted any sniper foolish enough to sit up there.  I removed the plantlight and placed a light crystal opposite the entrance instead: the sniper hole is still visible, but a sniper waiting there should be mostly invisible...</li>
+<li>Added another ledge along the river, for those adventurous souls who wish to move around outside a <em>little</em> more freely.</li>
+<li>Expanded the range of the thing in the river. :-)</li>
+<li>Added an FPC.  While I was consulting with one of my <span class="extra" title="Ben.  It was Ben.  Who else would come up with something like that?">playtesters</span>, I asked "Is there anything else that I need to add?  Move the light, add a ledge...?"  He said "freshly plucked chicken", so of course, without batting an eyelid I added "freshly plucked chicken" to the "To Do" list.  It is in the level somewhere -- and it is <em>not</em> happy!</li>
+<li>Added an extra multiplayer startpoint or two.  Or six.  Every startpoint <em>should</em> be reasonably close to a reasonable weapon, generally either a shotgun or an AR9mm -- except perhaps one...</li>
+</ul>
+
+<h4>Version 1.0 -- May 30, 2004</h4>
+
+<p>Initial release.</p>
+
+<h3>Known Bugs</h3>
+
+<ul class="spaced">
+<li>I really blew the budget with this one.  Some areas are just way too complex for the software display driver to handle.  All I can recommend is that you run this level under the OpenGL driver, or not at all.  I am sorry if this inconveniences anyone, but I really cannot see a fix for it without completely redesigning the level.  I promise my next level (um, after <span class="level">SlimeLab</span>) will be a lot more playable for all.  The <em>r_speeds</em> seem to peak at around 1550, so these levels may not be playable on a low-end machine.  They run just fine on a 2GHz Celeron.</li>
+<li>There are some strange shadows in <span class="level">Flood</span> which have me baffled; the wall in question appears to be carved up in odd ways.  Of course, after some of the problems I've encountered while attempting to compile <span class="level">Flood</span>, I can live with a few strange shadows...</li>
+</ul>
+
+<h2>Other Credits</h2>
+
+<p>Thanks go to the following:</p>
+
+<ul class="spaced">
+<li><a href="http://www.valvesoftware.com/">Valve Software</a>, for producing this great game, and giving us the means of creating our own levels.</li>
+<li><a href="mailto:webmaster@xp-cagey.com">xp-cagey</a> for his <a href="http://xp-cagey.com/?index=updates">update</a> of the ZHLT compile tools (which got me out of a sticky situation) and for his <a href="http://xp-cagey.com/?article=1000">article</a> on Clipping Hulls, and how they work and why they don't...</li>
+<li>The Playtesters (listed above) for their feedback and suggestions which helped make this level better than it would have been without them.  Also for their &quot;gentle nudging&quot;, which helped me stay focused on finishing!</li>
+<li><a href="mailto:richard177@aol.com">Richard Rice</a> for the forklift prefab.  I found it at the <a href="http://www.planethalflife.com/prefablab/">Prefab Lab</a> (under 'Vehicles'.)</li>
+<li>The <acronym title="Freshly Plucked Chicken">FPC</acronym> image came from <a href="http://www.deviantart.com/deviation/5831821/">chicken attack</a> by <a href="http://vevrca.deviantart.com/">vevrca</a>.  I could not have hoped for a better image for my purposes: a plucked-looking chicken with attitude!  Thankyou, <strong>vevrca</strong>, for giving your permission for the use of this image!</li>
+</ul>
+
+<h2>Other Levels</h2>
+
+<h3>Half Life: Deathmatch</h3>
+
+<ul>
+<li>LavaLab</li>
+<li>LavaLab: Erupt (variant of LavaLab)</li>
+<li>Lab17: SlimeLab</li>
+<li>Lab17: Quake (variant of Lab17: SlimeLab)</li>
+</ul>
+
+<h2>Copyright and Permissions</h2>
+
+<p>This level is copyrighted 2005 by Peter Jones.</p>
+
+<p>You MAY distribute this level through any electronic network (internet, FIDO, local BBS, etc) provided you include <em>this</em> HTML file, and keep the ZIP archive intact.</p>
+
+<p>You MAY include this level in the map rotation of a &quot;free&quot; internet HLDM server, but if you do so I'd <em>really</em> appreciate an email to let me know you're using it!  You MAY NOT include it on your server if you are charging for access to play on the server!</p>
+
+<p>This level MAY NOT be included with any compilation packs UNLESS you ask me first and I grant permission.</p>
+
+<p>You MAY NOT make a profit from this level without direct signed permission from me.</p>
+
+<p>You MAY NOT modify this level (or any of the files in this distribution) in any way, nor may you use it as a base or template for your own level.</p>
+
+<p>In other words: give it to your buddies, play it as much as you like, but give credit where credit is due, and if you are going to make money from this level, I want some too!</p>
+</div>
+
+</body>
+</html>

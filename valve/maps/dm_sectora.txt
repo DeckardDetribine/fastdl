@@ -1,0 +1,60 @@
+===Map Info
+
+	Title		: Black Mesa: Sector A (HL DM)
+	Filename	: dm_sectora.bsp
+	Author		: Andrew Weldon
+	E-mail		: falcon_x32@yahoo.com
+	Website  	: http://awmaps.tripod.com
+	Description	: 16-28 player Half-Life Deathmatch
+	Previous Maps	: dm_phl -- Planet Half-Life HQ
+			  funny_cratemaze -- CrateMaze (SnarkPit's funny map contest)
+			  dm_zeta -- Zeta Sector (HL DM version)
+			  op4_zeta -- Zeta Sector (Op4 DM version)
+			  dm_phreneticism -- Phreneticism (HL DM version)
+			  op4_phreneticism -- Phreneticism (Op4 DM verision)
+
+===Credits and Thanks
+
+	Valve Software
+	Gearbox Software
+	Dave Johnston for his Lab style guides
+	Beta testers:
+		Supercrazy
+		NEPPI
+		[mPr]Nukem
+		and all the others who at least downloaded the beta
+
+
+===Other Info
+	New Textures: a few, all created by me. See if you can spot them all. :)
+	New Sounds  : nope
+
+	This is my seventh release, beyond all my others in size and quality (as far as I'm concerned).
+
+	Currently, no other versions of the map are planned. But this may change depending on the overall reaction to the map. 
+
+	Consider this a bit of a developers log about this map. I know most of you don't care, but I'd like to include this story anyway, since I think it needs to be told. I never had any idea that this map would end up this big! Initially, I had another map entitled dm_blackmesa. I intended it to be somewhere in between the sizes of Zeta Sector and the (at the time non-existant) Phreneticism. However, when I got my new computer running, I decided to start over on that concept, and I put together a similar map by the name of Sector A. I really liked the direction that this new project of mine was going, although the development process would literally flip 180 degrees before the end result you see here... intitially, the entrance area with the map and "Black Mesa Research Facility" sign was the middle of the map. Then, when I realized that idea was BAD, I shifted everything. That's when it got a bit out of hand. I had so many ideas, I didn't know what to do! I began heavily referencing anything I could, using the c1a0, c1a0d, and env_beam rmf files in the SDK (all of them ONLY as reference; all architecture in Sector A was placed manually) as well as a pair of excellent Lab Style guides by esteemed level designer Dave Johnston. 
+	My plans got bigger as time went on, which is probably not good for a DM level... Eventually I ended up with a thouroughly massive research facility, complete with its own test lab that dwarfed the original by Valve. Finally, I came to my senses and realized that I just had too many ideas... So, I made a copy of that version of Sector A and proceeded to remove over 25% of the level's total volume either because it added too much to the r_speeds or just didn't live up to the standards I ended up setting for myself on this map. This worked fairly well at first... until an evil 30 second power outage destroyed 3 hours of work (call me stupid for not saving more often). That wasn't fun. In the end, though, it was worth it. It's very redeeming creating something like this. Even if no one else sees it or likes it.
+	Finally, a word of advice to any upstart level designers out there... If you value your sanity... Please, DO NOT try this at home. :P
+	Enjoy. I sure enjoyed making it. And I have a feeling that, if the reaction from the HL community is positive enough, that this isn't the last you'll see of Sector A...
+
+==Construction
+
+	Base			: scratch, based heavily upon reference from:
+					c1a0.rmf (included in HL SDK)
+					c1a0d.rmf (included in HL SDK)
+					env_beam.rmf (included in HL SDK)
+					"Anomalous Materials" chapter from Half-Life
+					Dave Johnston's Lab Style guides 1 and 2
+	Editor(s) used	: Worldcraft 3.3
+	Compile Machine	: AMD Thunderbird 1.33 gHz, 512 mb RAM.
+	Build time		: approx. 40 days
+	Compile time		: approx. 30 minutes
+
+==Map Instructions
+
+	Unzip "dm_sectora.bsp" into your valve/maps/ directory. Find a server playing the map, and join up. Or create a server with the map. I like that idea better.
+
+This map is (c) 2001 Andrew Weldon. Enjoy.
+
+Anrew Weldon's map making talents will return in one of numerous yet-to-be-announced projects.

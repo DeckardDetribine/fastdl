@@ -1,0 +1,15 @@
+// overview description file for mistechko
+// Z Min 467 Z Max -387
+
+global
+{
+	ZOOM	1.42
+	ORIGIN	-507.5 -465 40
+	ROTATED	0
+}
+
+layer
+{
+	IMAGE	"overviews/mistechko.bmp"
+	HEIGHT	-387
+}

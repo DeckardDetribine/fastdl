@@ -1,0 +1,68 @@
+=========================
+     HL DM  Map Info
+=========================
+---General Information---
+Title 			: "The quahl"
+Version			: Final
+Filename		: quahl.bsp
+Author			: Un_ethical
+Email address 		: namlat@clara.co.uk
+Site URL                : http://home.clara.net/namlat/
+Additional Thanks to    : Valve As You All Know, My Fellow Clan WTF?'ers for All Being Head Cases ! And DOE for Being A Kick-Ass Site
+Release Date            : September26th 1999
+
+---Play Information------
+Map Description		: A conversion of a Quake2 Map That I made Last Year, But Never Released. 
+                          I have chopped It up a fair bit, and have textured with a hopefully 'dark' feel in certain areas.
+                          Designed for medium paced play in a lan or internet setting.
+Size                    : Large
+Recommended # of Players: I would recommend a minimum number of 8+ players
+
+---Map Information-------
+New Textures            : Yes. Suitcharger's And Un_Ethical Logo Character, Un_ethical character Created by myself, Suitcharger Gear Logo courtesy of [WTF?]evile dick .. WTF@digital-e.demon.co.uk
+                        : Four Textures (cf_m_flr2;cf_m_trim5;cf_m_xwall2;cf_m_xwall3a)from the cf_mansion - Unreal Tex Conversion wad. Created by CD Warrior ... contact cdwarrior@usa.net 
+New Sounds		: None
+
+---Construction----------
+Base			: Fresh Tendrill's. A Quake2 Map Of mine.
+			 
+Editor(s) used          : WorldCraft 2.1 - Wally - Q2BeaVer
+Compile Machine		: 233mhz with 64 megs Ram
+Compile time		: 84 Mins 
+
+                                                  
+r_speeds                : wpoly's max at around 600 In two areas, and Stick Around 300 In General.
+Information             : This Is my first 'released' map, that I have had great fun in creating, with valuable input from testers at the DoE .. http://www.halflife.lowlife.com
+                          There are a few systems that restrict the heavy weapons, that are set to reset after 60 seconds. These are straightforward to activate.
+                          Suitcharger's (Three Allocated) Have a custom 'WTF?' texture .. and display the word 'suit' on them.
+                          Available Weapons : Shotgun x 6....buckshot x 8
+                                              9mmAR x 5......9mmAR clips x 6; AR grenades x 8; 9mmbox x 3                   
+					      357 x 3........357box x 6
+					      Crossbow x 1...Crossbow clip x 2
+					      Gauss x 1......Gaussclip x 3
+            				      Egon x 1      
+					      RPG x 1........RPGclip x 3					
+ 					      Tripmines x 8
+ 					      Handgrenades x 5
+					      Snarks x 4
+
+			  Hive Hand NOT available
+
+I hope you enjoy this Half-Life Deathmatch map......and any comments are welcome.
+
+---Authors - Permissions--------------------------------------------
+This BSP Is the creation of Matthew Talman - Aka Un_ethical
+
+Authors MAY NOT use this level as a base to build additional levels, Unless permission is sought 
+from Un_ethical.
+
+You may not distribute this BSP without this file and the quahl.txt file.  Unless it 
+is downloaded through a Half-Life game server using the autodownload feature.
+
+You may not, in any way distribute this BSP for finacial profit.
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission. Though if you ask I'll probably let you.
+
+Thank you 
+Un_ethical

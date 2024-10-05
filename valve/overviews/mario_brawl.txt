@@ -1,0 +1,15 @@
+// overview description file for mario_brawl
+// Z Min 1089 Z Max -513
+
+global
+{
+	ZOOM	1.47
+	ORIGIN	-96 1248 288
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE	"overviews/mario_brawl.bmp"
+	HEIGHT	-512
+}

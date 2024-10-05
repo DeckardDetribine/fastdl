@@ -1,0 +1,54 @@
+Title                   : Yard (boring working title that never got changed)
+Date                    : 25/4/00
+Filename                : yard.bsp
+Recommended players 	: 2-5
+Author                  : Gareth Lloyd aka "The Hair"
+Email Address           : garff11@hotmail.com
+
+===================================================================================
+
+Description : This is my first released map. No! don't delete it already, I said my first RELEASED map, i.e. I have made many others and this is the first that I consider good enough to inflict on the general public. I have read every map making tutorial I could lay my hands on (particularly HB's excellent multiplayer design treatise) and borne all the lessons of my previous pathetic efforts in mind. In particular I've kept a close eye on r_speeds and they are pretty good throughout. They never go above 670 and only get that high in one high up place.
+
+It is designed as a deathmatch map to work with Opposing force and, although it will run as a plain halflife map, you will find that many items seem to be missing as they are OpFor only. It'll be playable but not fun.
+
+The map consists of an upper and lower layer. The upper layer is walled in and contains three main areas in a fairly open arrangement. The first and largest area contains a crane with the rpg on top (hard to get to without falling). The next area is round the corner and features two crates with a few goodies on top. The final upper area is the shed type structure containing several worthwhile items including the sporelauncher.
+
+The entire upper area is divided by walls which can be accessed by the ladders or gauss jumped to. They proved extremely effective in testing - the perfect place to drop grenades/satchels or snipe from. However, you are highly visible up there and I've made enough routes up to prevent anyone dominating.
+
+There are three routes from the upper to the lower area, one from each upper area. The lower area consists of a canal and a pool, and will see less action than the top level. Its the perfect place to retreat to when you're low on health, but is not a camping spot. The Gauss is hidden somewhere down here. Get it: its very useful for jumping onto the walls up top.
+
+A 2 or 3 player game sees a good number of frags and never gets too stale. 4 - 5 players is action packed and bloody but great fun. 6 and above is pushing it - you probably won't be alive long enough to get any decent weapon.
+
+====================================================================================
+
+ - Please use and enjoy this level on your LAN server or whatever, but do not use or copy any part of it. It has taken 4 weeks worth of my spare time and evenings so get your own ideas for maps.
+
+ - By all means pass this around your friends etc but this text document must go with it.
+
+ - I pity the poor fool who even thinks of selling this map for money.
+
+ - If any Magazines want to covermount it (fat chance!) you may, but please tell me.		  
+All hail: i)Wavelength levels - a superb resource (www.contaminated.net/wavelength
+	  ii)Ben, for his LAN that we tested on
+          iii)Sierra, Valve, gearbox etc.
+	  iv)Wireplay, for the best online gaming experience in the world
+	  v)www.halflife.gamedesign.net for OpFor.fgd file
+ 
+====================================================================================
+
+* Construction *
+
+Base                    : From scratch
+Editor(s) used          : Worldcraft 2.0
+Known Bugs              : Please email if you find any (garff11@hotmail.com)
+
+Build Time              : 3 weeks worth of spare time and evenings
+
+Compile machine         : PII 300 with 64 megs of SDRAM 
+Compile time		: around 20 mins
+
+
+Please, please, please email me if you like this level (garff11@btinternet.com) or if you think I need to make any major improvements. It will make me do the next one quicker and let me know what areas I need to work on. 
+
+Thanks for taking the time to read this.
+

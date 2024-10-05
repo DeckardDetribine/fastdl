@@ -1,0 +1,4 @@
+dm_hour - Deathmatch
+by Skaarj (cs-mapping.com.ua)
+
+Special thanks to Sjoerd “Hourences” De Jong

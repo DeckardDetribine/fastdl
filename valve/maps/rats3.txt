@@ -1,0 +1,88 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: Rats3
+Release         : Version 1
+Date		: 28th October 2000
+Filename	: rats3.bsp
+Author		: Chris Spain
+Email Address	: chris@cyber-rat.com
+Home page	: www.cyber-rat.com
+Description	: DM map where the player is about 4 inches tall,
+		: this time set in a bedroom.
+Previous Maps	: Various Quake2, Quake and DOOM maps plus Rats!,
+                : Rats2, RatsXL, and Edge of Darkness.
+Credits/Thanks	: Thanks to Swampbug for the concept of Rats, and to
+                : the following play-testers :-
+                : BigUglyMan, Chris R. and his clan, Geoff and co.,
+                : and Harry & the gang @ LSc
+
+------Play Information-----------------------------------------------
+
+Deathmatch	: Yes - 24 starts defined.
+Single Player	: No.
+Map Description	: Small Fraggers3
+
+Rats3 is the third room in the Rats! series of DM maps. The setting this
+time is a kid's bedroom.
+
+Although this map has lower r_speeds than Rats2/RatsXL, they are still
+higher than the ideal for deathmatch due to the nature of the setting.
+This means that the map is not well-suited to software mode or being
+run on old machines.
+
+Note: As with the previous Rats maps, this map should not be run with
+realistic falling damage set on. Gameplay is much better with the
+default setting (normal dmg).
+
+Known Bugs:
+A bug in Half-Life itself means that if a player is killed or displaced
+whilst firing the laser cannon on the U.F.O. the beam will stay active.
+There's nothing I can do about this, so live with it.
+
+Features:
+You should be aware that the air-lift tube will blow items up the shaft,
+including satchel charges, hand grenades, snarks and trip-mines.
+
+Incidentally, I implemented the lightswitch in this map after many
+requests from people. I've often heard it said that switchable lights
+in maps lead to lower framerates but after making this map with and
+without this feature I could see absolutely no difference in r_speeds
+or framerate between the two versions.
+
+
+------Map Information------------------------------------------------
+
+New Textures	: Just a couple of pictures.
+New Sounds	: None.
+
+------Construction---------------------------------------------------
+
+Base		: From scratch.
+Editor(s) used	: WorldCraft 3.1
+Compile Machine	: PIII 800.
+Compile time	: Approx. 27 mins.
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "rats3.bsp" in
+your half-life/valve/maps directory.
+
+------Additional Info------------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

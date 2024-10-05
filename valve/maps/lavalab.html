@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/strict.dtd">
+<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Half-Life DeathMatch :: LavaLab</title>
+<meta name="author" content="Peter Jones" />
+<style type="text/css">
+<!--
+body { font-family: verdana,sans-serif; font-size: 14px; color: #006; background: #eef; }
+div { margin: 20px; padding: 0px; border: 2px solid #006; }
+
+h1 { margin: 0px; color: #eef; background: #006; padding: 2px 20px; font-size: 24px; }
+h2 { background: #ccd; padding-left: 20px; font-size: 22px; }
+h3 { background: #dde; padding-left: 20px; font-size: 18px; }
+h4 { background: #dde; padding-left: 20px; font-size: 16px; }
+h1,h2,h3,h4 { border-top: 1px solid #006; border-bottom: 1px solid #006; }
+h3 { width: 75%; border-right: 1px solid #006; }
+h4 { width: 60%; border-right: 1px solid #006; }
+
+p { margin: 20px; }
+
+.level { font-weight: bold; color: #600; }
+.spaced li { margin: 16px 20px; }
+.data li { margin: 3px 20px; cursor: help; width: 150px; }
+.extra { cursor: help; border-bottom: 1px dotted; }
+.newpage { page-break-before: always; }
+
+li { margin: 0px 20px; }
+dt { clear: both; width: 130px; text-align: right; font-weight: bold; float: left; border-bottom: 1px solid #eef;  }
+dd { margin-left: 140px; margin-bottom: 1px; }
+code { font-size: 0.9em; }
+
+dl ul { margin: 0px; }
+-->
+</style>
+</head>
+
+<body>
+
+<div>
+<h1>Level Details</h1>
+
+<dl>
+<dt>Title:</dt><dd class="level">LavaLab</dd>
+<dt>Version:</dt><dd>1.21</dd>
+<dt>Release Date:</dt><dd>May 22, 2005</dd>
+<dt>Get It At:</dt><dd><a href="http://www.petesplace.id.au/mapping/levels.php#lavalab">LavaLab</a></dd>
+<dt>Readme:</dt><dd>lavalab.html -- the file you are reading now.</dd>
+<dt>Variants:</dt>
+  <dd><span class="level">LavaLab</span> (lavalab.bsp; 23 spawn points)</dd>
+  <dd><span class="level">LavaLab: Erupt</span> (lavalab_erupt.bsp; 14 spawn points)</dd>
+  <dd>(see '<a href="#bsp">Why are there two BSP files?</a>')</dd>
+</dl>
+
+<dl>
+<dt>Author:</dt><dd>Peter Jones</dd>
+<dt>Contact:</dt><dd><a href="http://www.petesplace.id.au/contact_pete.php?subj=LavaLab">Contact Pete</a></dd>
+<dt>Website:</dt><dd><a href="http://www.petesplace.id.au/mapping/">Pete's Place :: Mapping</a></dd>
+</dl>
+</div>
+
+<div><h1>Play Information</h1>
+
+<dl>
+<dt>Game:</dt><dd>Half-Life</dd>
+<dt>Game Mode:</dt><dd>DeathMatch</dd>
+<dt>Level Name:</dt><dd class="level">LavaLab</dd>
+<dt>Players:</dt><dd>2-10 (but see '<a href="#bsp">Why are there two BSP files?</a>')</dd>
+<dt>Known Bugs:</dt><dd>A couple; see '<a href="#comments">Comments</a>'.</dd>
+</dl>
+
+<dl>
+<dt>Base:</dt><dd>New level from scratch.</dd>
+<dt>New Graphics:</dt><dd>None.</dd>
+</dl>
+
+<dl>
+<dt>Installation:</dt><dd>Place the .bsp files in your valve\maps directory.</dd>
+</dl>
+</div>
+
+<div>
+<h1>Build and Compile Information (Reference)</h1>
+
+<dl>
+<dt>Build Time:</dt><dd>Under construction (on and off) for at least two months.</dd>
+<dt>Editor:</dt><dd>Valve Hammer Editor 3.4</dd>
+<dt>Additional:</dt>
+  <dd>Zoner's HL Compile Tools 2.5.3_1.7P13</dd>
+</dl>
+
+<h2>Final Compile Parameters</h2>
+<ul>
+  <li><code><strong>hlcsg.exe</strong> lavalab</code></li>
+  <li><code><strong>hlbsp.exe</strong> lavalab</code></li>
+  <li><code><strong>hlvis.exe</strong> -full lavalab</code></li>
+  <li><code><strong>hlrad.exe</strong> -extra -dscale 1 -bounce 1 lavalab</code></li>
+  <li><code><strong>opt_plns.exe</strong> lavalab</code></li>
+  </ul>
+
+<h2>Compile Time (on 3GHz P4)</h2>
+<ul>
+  <li>lavalab: <strong>35m 15s</strong></li>
+  <li>lavalab_erupt: <strong>5m 1s</strong></li>
+  </ul>
+</div>
+
+<div class="newpage"><h1>Other</h1>
+
+<h2>Description:</h2>
+
+<p>Night.</p>
+
+<p>This is a research lab nestled precariously in the caldera of an active volcano.  Above the close-study platform, enclosed in a cube of concrete, are three levels: storage, recreation, control.  The only means of access for scientists travelling to and from the lab is the weekly helicopter drop to the helipad on the roof.</p>
+
+<p>Budget cutbacks resulted in a few shortcuts during construction, and the last volcanic murmur caused some critical damage in the control room.</p>
+
+<h2>Story:</h2>
+
+<p>What story?  It's DeathMatch: just kill anything that moves, and have fun!</p>
+
+<h2>Features:</h2>
+
+<p>The weapons that get the most usage appear to be the AR 9mm and the shotgun; ammunition for both, and AR grenades, are plentiful.  There are also several crossbows scattered around the place, and a couple of sniping positions with good views of the roof (but poor coverage of the teleport pads which get you up to them!  Don't sit still for too long!)  At least one of these sniping positions could be considered a &quot;secret&quot;, as could the location of the Egon Backpack Gun.</p>
+
+<p>Some locations can only be reached via a teleport pad.</p>
+
+<h3><a name="bsp">Why are there two BSP files?</a></h3>
+
+<p>Just because.</p>
+
+<p>A week or two before I put the finishing touches on <span class="level">LavaLab</span>, a couple of us started playing an unfinished version.  Play was quite fast even with two people, and with three it became rather chaotic.  Nothing wrong with a little chaos, right?  Then, when we started playtesting the &quot;finished&quot; version, everybody agreed that it was <em>better</em>, but the play dynamic had completely changed and it became a much slower-paced gaming experience, more tactical than berserker.  It no longer seemed particularly suited to two player games.</p>
+
+<p>Because I often play HLDM in <em>very</em> small groups (and therefore, any level I build in the immediate future <em>must</em> be playable with only two players) I decided to do a little tweaking of 'visgroups' in Hammer, enabling me to generate both &quot;small&quot; and &quot;large&quot; versions of <span class="level">LavaLab</span> -- although those are not, perhaps, the most accurate descriptions because the actual playing area does not change by much.</p>
+
+<p>Then, because of continual problems with high <em>r_speeds</em> (see <a href="#comments">Comments</a>) I decided to generate a <em>third</em> variant which got rid of all the problematic glass -- essentially as a test to see if my theories were correct.  (Only some of them were!)  I include this variant for those who want a faster game -- although it still suffers from rather high <em>r_speeds</em>, unfortunately.  Easiest explanation: volcanic eruption has entombed the lab and trapped everybody inside.  (&quot;Cabin fever&quot; makes a great explanation for deathmatch...)</p>
+
+<p>Those of you who have been keeping count will be wondering why there are <i>only</i> two BSP files, since I apparently made three versions.  Quite simply, I came to the conclusion that <code>lavalab_erupt</code> was quite a bit better than <code>lavalab_small</code>, and so I have simply dropped <code>lavalab_small</code>, both from this distribution and from the source file itself.  It was, dare I say, <em>the weakest link</em>.</p>
+
+<p>I used to be indecisive...</p>
+
+<ul class="spaced">
+<li><span class="level">LavaLab ('Large')</span> (lavalab.bsp) is the finished product.  It is probably suitable for <strong>3-10 players</strong>, and is likely to appeal to the closet sniper in us all.</li>
+<li><span class="level">LavaLab: 'Erupt'</span> (lavalab_erupt.bsp) is a smaller, faster paced, more claustrophobic version, probably more suitable for <strong>2-6 players</strong>, and is likely to appeal to your inner berserker.  All external areas are gone, sealed off when the volcano erupted and encased the entire lab in molten rock.  No sniping (well, not <em>much</em> sniping.)  Just raw, visceral action.</li>
+</ul>
+
+<p>Try them both.  <a href="http://www.petesplace.id.au/contact_pete.php?subj=LavaLab">Let me know</a> what you think.</p>
+
+<h2>Feedback:</h2>
+
+<p>I would appreciate feedback from anybody who likes (or dislikes) this level.  Especially since this is my first level, I have no idea whether I am getting it right or not!  So, if you have something to say about this level, or an error to report, please <a href="http://www.petesplace.id.au/contact_pete.php?subj=LavaLab">contact me</a>.</p>
+
+<p>Without feedback, how can I hope to improve?  :-)</p>
+
+<h2>Playtesting:</h2>
+
+<p>This level has been extensively playtested by the following people, all of whom have made comments contributing to the finished product:</p>
+
+<ul class="data">
+<li title="aka 'dead meat'">Shane Barnard</li>
+<li title="aka 'eat my undies'">Ben Davies</li>
+<li title="the author, aka 'phoenix', aka 'darkphoenix'">Peter Jones</li>
+<li title="aka 'target'">Kim Stallard</li>
+<li title="aka 'the doctor'">Grant Wheatley</li>
+</ul>
+
+<p>It seems to be slightly slow with only two people -- connectivity between all areas is quite good, but it is just a little large.  Three or four seems to work out pretty well.  I suspect it would support as many as eight or ten players before becoming too crowded; we have not, unfortunately, tested it with more than four at a time.</p>
+
+<h2><a name="comments">Comments:</a></h2>
+
+<p>The original design criteria that fueled the creation of this level was, quite simply, &quot;breakable glass walkways&quot; (suggested by Ben Davies.)  Since this was my very first attempt to build a level with the 'Hammer' level editor, the initial concept went through several major revisions as I started learning what was and was not possible with the editor.  A couple of the attempts that got ditched along the way may yet be revived; I now know what I was doing wrong!</p>
+
+<p>The first completed incarnation of LavaLab suffered from severe &quot;blackout&quot; problems when running under the software video driver.  In the process of minimising such problems, I have trimmed back much of the glass which was originally used: walkways and complex windows alike.  I realise now that this level suffers from essentially the same problem as being enclosed in a &quot;skybox&quot; or &quot;worldbox&quot;, something which every level building tutorial I've seen specifically recommends against.  Now that I <em>think</em> I understand more of what the compiling process is doing I know why this is a problem -- if this hadn't been my first level, I would never have attempted to make such a design work...</p>
+
+<p>(I also realise that it wasn't necessarily the glass, <em>per se</em>, that was the big problem; it was simply one contributing factor of many.)</p>
+
+<h3>Revision History</h3>
+
+<h4>Version 1.21 -- May 22, 2005</h4>
+
+<p>Just when I thought this level was as finished as it was going to get, I read a review (at <a href="http://www.snarkpit.net">The SnarkPit</a>) of somebody else's first level -- and one of the errors which got mentioned made me realise that <span class="level">LavaLab</span> probably suffered from the same silly error.  Sure enough, I tested it, and the health charger could be used <em>through</em> the wall it was mounted on.</p>
+
+<p>Now it can't!</p>
+
+<h4>Version 1.2 -- April 5, 2005</h4>
+
+<p>This is primarily being re-released to celebrate the full release of <span class="level">SlimeLab</span>.  I have finally saved the source out as two separate files and performed a few minor tweaks, but there was very little that actually needed changing in these two levels, even after a year of play...</p>
+
+<h4>Version 1.11 -- March 15, 2004</h4>
+
+<p>Texture fix only.</p>
+
+<h4>Version 1.1 -- February 27, 2004</h4>
+
+<p>Primarily a bug fix release, but tweaked a few other details too.</p>
+
+<ul class="spaced">
+<li>Dropped the 'small' variant; being in the middle of the three, we hardly ever played it, and whenever we <em>did</em>, it just did not seem as good as either of the other variants.</li>
+<li>Tweaked ladders and handrails so that they behave in a more realistic manner, with regard to weapon fire.  Bullets, grenades, etc. will now pass through ladders and handrails.  Mostly.</li>
+<li>Added several ambient sounds: computers humming, water dripping, crickets and birds making suitably annoying noises...</li>
+<li>Fixed a glitch which created an &quot;invisible ledge&quot; where you should fall but didn't.  Now you do!</li>
+</ul>
+
+<h4>Version 1.0 -- January 28, 2004</h4>
+
+<p>Initial release; included three variants: 'large', 'small', 'erupt'.</p>
+
+<h3>Known Bugs</h3>
+
+<ul class="spaced">
+<li>There are places (some of which have me completely baffled) where the so-called &quot;r_speeds&quot; value climbs above 800 (even above 1000!)  I know this is <em>A Bad Thing</em>, but the <em>cause</em> of the high &quot;r_speeds&quot; is also, in part, the design criterion of the level; I cannot do much more about it without ripping the heart out of the level.  I had to draw the line somewhere (and I figured I was due <em>some</em> leeway since this is my first level...)  Unfortunately I do not have access to a &quot;slow&quot; machine, so I do not know how much this will affect playability.  It runs fine on a 1.8GHz Celeron.</li>
+
+<li>&quot;Blackouts&quot; occur (under the software video driver) when the &quot;r_speeds&quot; value gets too high and the engine has to drop some textured surfaces.  I seem to have eliminated blackouts in both variants, but if you find a spot where it still happens, please let me know.</li>
+
+<li>When the doors open they have a spoken message, eg "Security access granted", etc.  This message only seems to play a certain number of times -- the fire door message only occurs twice, for instance -- and then it stops playing.  I do not know if this is a limitation of the engine, or something I am doing wrong.</li>
+
+<li>The teleports are silent because I feel the level works better with silent teleports.  That's not a bug, it's a feature!</li>
+</ul>
+
+<h2>Other Credits:</h2>
+
+<p>Thanks go to the following:</p>
+
+<ul class="spaced">
+<li><a href="http://www.valvesoftware.com/">Valve Software</a>, for producing this great game, and giving us the means of creating our own levels.</li>
+<li>The Playtesters (listed above) for their feedback and suggestions which helped make this level better than it would have been without them.  Also for their &quot;gentle nudging&quot;, which helped me stay focused on finishing!</li>
+<li><a href="http://cariad.co.za/twhl/">TWHL</a>: &quot;Half-Life Worldcraft / Hammer Mapping Tutorials and Resources&quot; which provided much of the information I used to get over the Hammer learning curve and make this level.</li>
+<li><a href="mailto:hyperglint@usa.net">Hyperion Glint</a> for the toilet stall prefab.  I was looking for a prefab to save myself a little time, and this stall seemed to fit perfectly with the existing 'Level 2' colour scheme.  I found it at the <a href="http://www.planethalflife.com/prefablab/">Prefab Lab</a> (under 'Structures'.)</li>
+<li>Mark 'MotherGoose' Wilkinson for his informative article, <a href="http://collective.valve-erc.com/index.php?doc=1028244832-07414600">The Art of Ladder Making</a>, which enlightened me with regard to my own ladders' flaws.  I knew how my ladders were behaving, but until I read this article, I did not realise there was a better way!</li>
+</ul>
+
+<h2>Other Levels:</h2>
+
+<p>None (yet).  <span class="level">LavaLab</span> is my first Half-Life level.  (As noted above, however, there <em>are</em> two variants of this level, <span class="level">LavaLab</span> and <span class="level">LavaLab: Erupt</span>, available separately from <a href="http://www.petesplace.id.au/mapping/levels.php#lavalab">here</a>.)  Of course, if you like <span class="level">LavaLab</span>, keep an eye on my website because I am likely to be making more.  (In fact, I am already developing the concept of my next level...)</p>
+
+<p>I built a couple of Doom SP levels, way back when, but they were never released to the general public.</p>
+
+<h2>Copyright and Permissions</h2>
+
+<p>Both variants of this level are copyrighted 2004 by Peter Jones.</p>
+
+<p>You MAY distribute this level through any electronic network (internet, FIDO, local BBS, etc) provided you include <em>this</em> HTML file, and keep the ZIP archive intact.</p>
+
+<p>You MAY include this level in the map rotation of a &quot;free&quot; internet HLDM server, but if you do so I'd <em>really</em> appreciate an email to let me know you're using it!  You MAY NOT include it on your server if you are charging for access to play on the server!</p>
+
+<p>This level MAY NOT be included with any compilation packs UNLESS you ask me first and I grant permission.</p>
+
+<p>You MAY NOT make a profit from this level without direct signed permission from me.</p>
+
+<p>You MAY NOT modify this level (or any of the files in this distribution) in any way, nor may you use it as a base or template for your own level.</p>
+
+<p>In other words: give it to your buddies, play it as much as you like, but give credit where credit is due, and if you are going to make money from this level, I want some too!</p>
+</div>
+
+</body>
+</html>

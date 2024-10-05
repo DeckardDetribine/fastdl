@@ -1,0 +1,108 @@
+* Play Information *
+Title 			: Quarry
+Filename		: quarry.bsp
+Author			: Sojorn
+Other lvls by author	: Warehouse 7
+Email address 		: sojorn@sonic.net
+Home page		: Nope, not in this lifetime...
+Story			: Dawn breaks over the quarry.
+			  You've arrived on a request from the
+			  quarry's manager to investigate 
+			  whisperings of worker unrest.
+				  
+			  Word of the incident at Black
+			  Mesa has apparently spread, despite
+			  the best efforts of the useless
+			  military. 
+         
+                          As you pull up to the quarry,
+			  the air feels charged with a sense
+			  staleness. The normally noisy place
+		 	  utters no sound. Removing the pistol
+			  from your glove compartment, you step
+		 	  from the car and approach the entry
+			  tunnel.
+
+			  As you step into the reddish light of
+			  the entrance, the access door gives off
+			  a low groan. Before you have a chance to
+			  dive back under, the door falls shut with
+			  a resounding clang.
+
+			  A mechanical voice crackles over the P.A. 
+ 			  system
+				  
+  			  "This facility is under riot conditions.
+			  Unknown toxin present in large quantities.
+			  Seems to have adverse affect on judgement.
+			  Toxin origin... Unknown"
+
+Description		: A medium sized quarry/mine facility filled
+			  with insane people and weapons. Do you
+			  need more?
+			
+			  The orange stuff in the mines is harmless
+			  in a physical sense. It's the reason for
+			  all the bloodshed though.
+			
+			  In the office overlook
+			  there's a power switch. Flipping it turns on
+			  the machinery in the quarry, and the 
+			  in the cave.
+			  
+			  You can make your way though the machinery
+			  to a fairly nice weapon.
+				  
+			  Good luck and happy fragging!
+
+Additional Credits to   : 1) Valve... Without them, there would be
+			     nothing.
+			  2) My playtesters: Malengine, Spider, IspdChaos
+			     and other regulars on #hlediting.
+			  3) My close friends Kodiak and Red_Dragon
+
+Single Player           : Unless you like flipping switches, no.
+Cooperative Player      : Unless you like flipping switches with
+			  other people, no
+Deathmatch Player       : Yes, absolutely. 
+		       2: Very, very slow
+		     3-4: Better, but still slow
+		     5-6: Medium pace
+		     7-9: Target rich environment
+		     10+: "They're everywhere! They're everywhere!"
+Difficulty Settings     : No
+New Textures            : No
+CD Track                : None
+
+* Construction *
+Base			: None (Inspired by the mine levels of Q2)
+Editor(s) used          : WorldCraft 2.0 (And a lot of saves)
+Compile Machine		: PII-400 with 128 megs RAM
+Compile time		: 21 minutes
+Build time		: Over a month and over 150 hours of that
+			  month.
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+This is my second attempt at something that maybe mistaken
+for a map.
+
+Give feedback. I live on it. Well, feedback, food and sleep. 
+
+Play nice. ;)
+
+
+Now, cry havoc and let slip the lawyers of war!
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without Joe Chenoweth's permission.

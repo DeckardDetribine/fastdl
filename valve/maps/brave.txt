@@ -1,0 +1,65 @@
+____________________________________________________________________________________________________________________
+                                                        -BRAVE-
+                                                    created by: mr.P
+____________________________________________________________________________________________________________________
+
+Ok, just for the record...some parts of this map has been converted from my Uncrossable Parallels map called 
+up_brave, that map(like this one) has a jungle theme...This map is using the great textures that 3D_Mike made
+fro his Counter-Strike map de_predator. Links to the official Uncrossable Parralells site and 3D_Mikes site 
+you'll find in the bottom of this readme file...
+
+About the map: This map has some relly big and open areas, you can move between the parts of the map with the
+teleports. But because of the big areas the longjump is a good thing to have. On the top of the waterfall you'll
+find some satchels and snarks (exelent to drop on the next person that walks under it). And my at the big canyon 
+there is a jumppad(similar to the one in homeworld)...if you use it you'll fly like a bird through the canyon.
+
+Rspeeds are mostly low, but i has some high peaks in two places(nothing you can do about it)...anyway i had fun
+making it and playtesting it, just hope you will have fun fragging on it :P
+One other thing, I couldent get the recharger in the house to work, something is wrong with it...so don't try 
+to recharge, it might explod in your face...
+
+
+                                                         - - -
+                                                         ITEMS:
+                                                         - - -
+Weapons - Many, you'll find them everywhere...
+
+Health/Armour - Many, just keep thoose Argranades comming...I got armour!
+
+Misc - Some teleports and a juppad! weeeeeeeeeeeeee!!!!!!!!!!!
+
+___________________________________________________________________________________________________________________
+
+                                                          - - -
+                                                       Other stuff
+                                                          - - -
+- - - -
+Links:
+- - - - 
+
+The Uncrossable Parallel site: http://www.planethalflife.com/uncrossable/ <---now thats a great mod!
+
+3D_Mikes's site: http://www.lanmaniax.com <----3D_Mikes good stuff!
+
+Leveldesign.nu the best site for sweds like: http://www.leveldesign.nu/ <-----great for us sweds!
+
+
+- - - -
+Credits:
+- - - -
+
+- 3D_Mike, your nice textures!
+- Ionic, your nice little compile helper(ComSet)!
+- The playtesters!
+
+-Special Hug to all the [CWD] clan members *huggz0r*
+
+--------------------------------------------------------------------------------------------------------------------
+
+Any questions should be mailed to me: peppe@pihl.as
+- - -
+NOTE: I have a website, but I havent updated it for months...so if you want to find out more about my maps or just
+have a little chatt then visite me on irc; #mapcore or #planethalflife on Gamesnet.
+
+If you still wanna se my homepage: http://www.geocities.com/sorry_m8/
+------------------------------------------------------------------------------------------------------------------- 

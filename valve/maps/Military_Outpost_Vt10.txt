@@ -1,0 +1,69 @@
+================================================================
+Title                    :Military_Outpost
+Version                	 :1
+Release Date             :May 15 2000
+Filename                 :Military_Outpost_Vt10.bsp
+ 
+Authors                  :Viddiot  
+                          
+Web Page                 :none
+                          
+
+Description            	 :Half-Life Deathmatch Map 
+
+Other DM-levels by author:GEcomplex
+			  GEtemple
+			  GElibrary	
+			  Itzy_bitzy (u can get these from wonswap, i think its www.wonswap.net but im not sure about the ending)
+			  GEcomplex2
+			  GE_Complex (from Goldeneye mod)
+			  GEBunker
+			  Realcombat
+			  Fakecombat
+
+================================================================
+--- Play Information ---
+Game                    : Half Life
+Level Name              : Military_Outpost_Vt10
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Known bugs              : No
+
+	Due to the immence size of this level, I would tell the players b4 they join your server to get this from some Web page, and not to DL it from the server (this level is bigger in K's then Boot_Camp).  Theres no known bugs, but the r_speeds get high in one room, and possibly high in the sewer part.  And I would reccomend playin this in Hardware mode, bec/ software mode might act goofy, or not work at all. But other then that, theres nothing i can think of now, I hope you enjoy the map.  The number of start(spawn) spots is 15, but they are placed in strategic locations, and no 2 are close, so your gonna have to do some travellin to do some spawn killin.  Well i take that back, there's 2 spawn spots in the sewer that are fairly close.  I would reccomend this level be played with 8 or more people, due to its emmence size.  But if you feel like some hide n' go seek, then 2 ppl will suffice. :)
+
+
+--- Construction ---
+Editor(s) used          : WorldCraft 2.1 ZonersHLTools HLCCv1.32
+Construction Time       : At least 1 month 
+Compile time 		: Unknown (didnt compile w/ my machine, some1 
+			  else compiled it on a faster one.), but if it 			  was to be compiled on my POS machine, then it				  would probably take 5 days.
+
+
+Installation
+------------
+
+Unzip the file Military_Outpost_Vt10.zip into your ...\sierra\halflife\valve\maps directory
+
+
+Special Thanx...
+----------------
+...The people who made WC.  And the [COOP] clan for excepting me into it.  I also like to dedicate this level to them too.  And Zoner for his kick A$$ toolz.  I've spent lots of countless hours sitting infront of my computer screen, workin on this level.  So far its my best one.  Id really like to thank my mother for puttin up w/ my horrible mood that i was in during the making of this level.  Its just so frustrating to complete the level and find this one stupid small detail thats out of place(Im a stickler for detail, as this map shows).  Then id have to compile it again...  Oh and a very special THANKS to DigiTec for compiling this level for me... Heres to you Kid.  You can check out our clan web page at www.spawn2000.com. 
+
+
+Copyright / Permissions
+-----------------------
+Copyright by Viddiot
+
+Authors may NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH NO MODIFICATIONS!!!.  If you don't co-operate, then DON'T DISTRIBUTE IT IN ANY FORM!!.
+
+This BSP may be distrubuted ONLY over the Internet and/or BBS systems. You are NOT authorized to put this BSP on any CD or distribute it in any way without my permission.
+
+If you want to include this BSP or anything remotely related to this map, and you have my permission, I would like a copy of whatever you have done w/ this BSP.  If you want to hire me for a mod or anything like that, please email me at Viddiot@yahoo.com  thx.  Hope you like this level.  If you have any questions then you can either email them to me at the previous email address or you can icq me at 16010516.  Chao,  Viddiot
+
+   :: You fall down go boom, no wait you go boom then fall down::

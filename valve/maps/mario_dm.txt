@@ -1,0 +1,156 @@
+=======================================================
+
+Mario DM by DocRock
+
+=======================================================
+
+
+
+Map Name:                       	mario_dm.bsp
+
+Filesize:                       	1.94 mb / 3.74mb unzipped
+
+Author:                         	DocRock
+
+Author email:                   	docrock5@cox.net
+
+Homepage:		http://docrocksmaps.homestead.com/docmaps.html                    
+
+wadincluded in map:          	mario.wad
+
+
+
+=======================================================
+
+LEVEL DESCRIPTION:
+
+
+
+Single Player:                 		No
+
+Co-Op:                         		No
+
+Deathmatch:                     		Yes
+
+
+Suggested Players:             		5-9
+
+New Textures:                   		Yes
+New Sounds:                     		Yes
+
+New Models:                     		Yes
+
+
+Map description:                		A Half-Life deathmatch map set in a surreal vision 				world of Nintendo 64's Mario 64.
+
+
+
+=======================================================
+
+CONSTRUCTION:
+
+
+
+base map:                       		None
+
+prefabs:                        		None
+
+editor used:                    		Worldcraft 3.5 Hammer
+
+utilities used:                 		Zoner's Half-Life compile tools, Paintshop Pro 7, Wally
+
+known bugs:                     		None
+
+compile machine:                		Intel Pentium 4   2.53 GHZ
+
+compile time:                   		30 minutes
+
+
+
+=======================================================
+
+INSTALLATION:
+
+
+
+Run Winzip and unzip mario_dm.zip.
+Open the mario_dm folder and place the mario_dm.bsp, mario_dm.res, and mario_dm.txt
+in your valve/maps folder.  Place the 6 (six) grass.tga files into your valve/gfx/env folder.
+Place the 6 wav files in a folder called mario6 and place that in your valve/sound folder.
+Place the spinning_coin.spr and cloud.spr in your valve/sprites folder.
+Place the cannon_guy.mdl in your valve/models folder.
+
+
+
+=======================================================
+
+OTHER LEVELS BY DOCROCK:
+
+
+
+sandspyre, kitkat_space, greyscale, kitkat_express, kitkat_factory, hardcore, kitkat_beach, kitkat_klub, Get_Shorty, Farmland2, Cliffside2, Tigger, Scooby_Doo, LOML_Palace, DepotArena, Conundrum, Conundrum 2,
+The Challenger Deep...etc
+
+
+
+=======================================================
+
+SPECIAL THANKS:
+
+
+
+To my babykitkat, my lover, my sweetheart, my wife.  I love you!!  My #1 fan, thanks baby
+for playtesting and helping me with this awesome map!  I DEDICATE THIS TO YOU!
+
+
+
+Thanks to qUiCkSiLvEr for the pinkie model. 
+Also for the spinning_coin and cloud.sprites.
+
+
+
+Special thanks to Pen-Pen, a Q3A mapper, who's initial Mario 64 map and texture work inspired me to try and build one for Half-Life.
+
+
+
+OTHER THANKS:
+
+JoNaS           			grass skybox     Jonas_Jax@hotmail.com
+
+
+=======================================================
+
+DOC'S NEXT MAP....COMING SOON:
+
+
+
+=======================================================
+
+
+COPYRIGHT STUFF
+
+
+mario_dm.bsp                	copyright  Oct 20, 2004  by DocRock
+
+
+
+Authors MAY use this level as a base to build additional levels as long 
+as you give me credit in your read.me as using this map as a base to 
+build your level.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet.
+
+
+
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+
+
+PLEASE PLEASE PLEASE email me with any comments about this map or any 
+of my other maps because I love feedback good or bad...and I will do my 
+best to answer any and all emails regarding my maps.

@@ -1,0 +1,23 @@
+mud_n_guts.bsp
+
+A dm map for Half-Life
+by Grampa Geezer, a.k.a. Lengo Pata-Pata
+
+lengo@lengo.org
+www.lengo.org/Half-Life/
+
+
+DM start postitions:  8
+custom sounds      :  2
+  wind2.wav
+  wind5.wav
+Custom sky : pnw_  (pacific northwest)
+  by Grampa Geezer
+
+Missing items: Tau Cannon, Egon
+
+Comment:
+low framerates! Sorry, but this is the best I could do. I hope the framerates
+are tolerable.
+
+All rights reserved. 

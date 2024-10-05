@@ -1,0 +1,121 @@
+Forsaken - An abandoned asteroid base
+====================================================================================================
+
+Date                    : 13th August 2002
+Title                   : Forsaken
+Filename                : forsaken.bsp
+Author                  : ReNo [Duncan Blair]
+Email Address           : reno84@eidosnet.co.uk
+ICQ#			: 28651662
+Home Page               : http://evolution.hlgaming.com
+
+Installation Info	: Unzip everything to your Half-Life folder and all the files will go into
+			  their correct places.
+
+Map Description         : I couldn't decide what sky to use, and when asking people they asked me
+			  the theme - which I had given little though! So here's my late addition
+			  of a background story, a first for me so excuse the lameness...
+
+			    "A large corporation responsible for transporting all kinds of cargo
+			    across the universe built this base on a motionless asteroid for the
+			    purpose of being a midway station between the worlds of Xen and Earth.
+			    In its hayday a thriving refueling station, servicing dozens of ships
+			    each day, the base became more infrequently visited as the technology
+			    to travel large distances in shorter times was developed. Eventually
+			    funding was cut from the project and it was abandoned. Bought over by
+			    the US government, it is now used by the military as an off-world
+			    training ground."
+			
+			It is a medium sized DM map suited for between 2 and 8 players.
+
+Other Works by Author   : [1] Obsolete - HLDM
+			  [2] Elixir - HLDM
+			  [3] Rebellion - HLDM / AG arena
+			  [4] CM Arena - HLDM
+			  [5] Echo - HLDM
+
+			  Check them and more out at the maps page of my site:
+			  http://evolution.hlgaming.com/maps.html
+
+Misc Author Info        : This is my sixth map release. I am currently 18 [at 12/08/02] and live 
+			  in Scotland in a little town called North Berwick where i skateboard,
+			  map and piss about on computers. Sometime i hope to gain a career in a
+			  level design...nothing wrong with optimism :) In spetember I'm off to Uni
+			  to get myself a degree in "Computer Games Technology" so it's a step in
+			  the right direction!
+
+
+===================================================================================================
+
+== Play Information ==
+Single Player           : No [1 start]
+Cooperative             : No
+Deathmatch              : Yes
+
+== Construction ==
+Base                    : Scratch
+Editor(s) used          : Valve Hammer 3.4, Wally
+
+== Build Machine ==
+AMD Duron 800
+256mb Crucial RAM
+Elsa Gladiac MX 32mb
+
+
+========================== Playtesting, Suggestions & Feedback ====================================
+	
+In no particular order...
+
+Real Life mates :	Frank		Trunter
+			Alborac		Moose
+			Eudo		Scotty
+
+Others :		Cassius		Gwil
+			Azelito		Orpheus
+			T-Bone		Dietz
+			Scary_jeff	Rugal
+			Spudboy32	Gollum
+			KornFlakes	Alien_Sniper
+			Edge Damodred	Flewda
+			Prankster	Violation
+			Lemmy		Sliver
+			Boris		Skie
+			Jimmy_P		Flex
+			Hench		Hacktic
+			Psy		Stig
+			Whip		Karate-Nig
+			ZeroCool	Cleg
+			Zaxxon		Alba
+			Moonymaster	Inspector-71
+			RingSting	Taz
+			Symbiote	Mak
+	
+	I *THINK* thats the lot, if you commented on the map and your names not
+	above then I apologize, but there was quite a few people who commented :)		
+
+
+================================= Thanks... =======================================================
+In no particular order...
+
+	Friends
+	Family
+	All the great HL mapping sites that i learnt from
+	The great HL level review sites that are still keeping up with the workload!
+	Scary_jeff for being so kind as to make me a jumbot WP file...AGAIN :)
+	Rince, Inx and everyone else running the show at Gametribe (http://www.gametribe.net)
+	Leperous for running the amazing Snarkpit (http://www.snarkpit.co.uk)	
+	Snarkpit forum crew for comments and banter
+	Everyone involved in the AG mod for improving HLDM (http://www.planethalflife.com/agmod)
+	Challenge-HL folks for being continually interested in HLDM (http://www.challenge-hl.com)
+	Anybody who looked at this map in its alpha/beta stages and told me their thoughts!
+
+
+==Copyright / Permissions==
+Authors MAY NOT use this level as a base to build additional levels.
+
+This map may be distributed ONLY on a "not for profit" basis using any medium,
+provided this file is included with no changes.
+
+Magazines and other published media may use my level provided they ask for my permission.
+
+This template is available from www.globalassault.com.

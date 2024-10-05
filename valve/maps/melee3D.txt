@@ -1,0 +1,29 @@
+++ Melee Town 3D ++ Final Version ++
+
+Map Title               : Melee Town 3D
+Filename                : melee3d.bsp
+Release Date            : August 18, 2004
+Author                  : jooki
+Email Address           : email@jooki.de
+website 		: www.jooki.de
+Map Description         : Nice Caribian Town at Night known from "Monkey Island 1"
+
+Mode                    : Deathmatch              
+BSP size                : 11 MB ( 1.12 MB for the sky )
+Textures 		: over 70 selfdrawn textures
+Editor used             : Valve Hammer Editor 3.4
+
+++ Installation Info ++
+
+Place the files "melee3d.bsp" and "melee3d.txt" in your .../Half-life/Valve/Maps/ folder.
+Place all 6 Skybox-files (.TGA) in .../Half-life/Valve/gfx/ENV/ to get the wonderfull stairy night!!!
+
+
+++ Copyright / Permissions ++
+
+Authors MAY NOT use this level and it's textures as a base to build additional
+levels. ...Or not without mentioning my copyright and email.
+This map may be distributed ONLY on a "not for profit" basis using any medium,
+provided this file is included with no changes.
+Magazines and other published media may use my level provided they ask for my permission.
+

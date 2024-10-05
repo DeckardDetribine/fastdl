@@ -1,0 +1,108 @@
+** INTRODUCTION **
+
+Title			: Jaw Breaker.
+Date			: 20th January 2000.
+Filename		: Gustavo9_JawB.bsp
+Filesize		: 1.1mb, or thereabouts.
+Author			: Keved, my Half-Life alias is Gustavo.
+Email Address		: keved@keved.force9.co.uk, or keved@hotmail.com as a last resort.
+ICQ			: 10393836 (auth required).
+Home Page		: http://www.keved.force9.co.uk
+Totality FPS reviews	: http://www.totality.org.uk
+
+ABOUT THE MAP/ME:
+Jaw Breaker is my ninth FPS map (and sixth for Half-Life Deathmatch).
+
+Previous maps...
+Penitentiary (Half-Life deathmatch, released 5-March-1999).
+Maximillian (Half-Life teamplay primarily/also deathmatch, released 15-May-1999).
+Maximal (Team Fortress Classic territorial domination, released 8-July-1999).
+Mad Bucking Fastards (Half-Life deathmatch, released 27-July-1999).
+Talos (Half-Life deathmatch, released 3-August-1999).
+C4 (Action Half-Life, released 16-September-1999).
+TNT (Half-Life deathmatch, released 23-October-1999).
+Orbital (Team Fortress Classic CTF, released 31-December-1999).
+
+Who am I? I'm 24 yrs old, English, & currently work for an Architectural Practice in NW England.
+
+CREDITS TO:
+1) Valve/Sierra/id.
+2) The Zoner compiling tools version 1.41. Jaw Breaker was compiled with these superb modified compiling tools, via a batch file. sean@dimensionalrift.com. Keep up the good work, Sean.
+3) Records, for salvation from radio/tv hell.
+
+
+
+** PLAY INFORMATION **
+
+SINGLE PLAYER:
+Just to familiarise yourself.
+
+MULTIPLAYER:
+4-8 players. 6 seemed the ideal amount. 16 respawn points are included.
+
+DESCRIPTION:
+Small map based *loosely* on a sewage facility theme. I opted for gameplay over realism in the end.
+
+PLAYING:
+One press of either of the buttons yields obvious results - bridges are briefly extended to the RPG platform. Another of the more powerful weapons, the Gluon, is located inside a poisonous sewage pipe. The poison lingers for around 5 seconds, so don't try grabbing the Gluon when on low health. Not much to chunder on about here as Jaw Breaker is my smallest map so far.
+
+Playtested with Phineas bots for 5 separate hour long sessions. They don't go for the high-positioned Gauss, Snarks in the sewer pipes, or RPG (though DO activate the RPG bridges), though generally play pretty well and don't get stuck anywhere. Feel free to create a Jumbot jrf file.
+
+Hope you like Jaw Breaker. I'd appreciate feedback too...to my email address at the top of this text file. It's a major commitment putting in the time to design these damn maps, so I fully welcome any & all constructive encouragement / ideas / criticisms / praises.
+
+
+
+** WHAT'S NEXT **
+
+"Corps68". TFC CTF. 4mb bsp size with an atmosphere similar to that in C4/TNT. 99% complete (should be released over the next week or two).
+
+"Nostromo". TFC CTF which has a massive bsp size of 5.7mb, and is the sequel to my previous TFC map Orbital. 99% complete (should be released over the next week or two).
+
+After that, I'll be making a few more DM maps similar in size to Jaw Breaker, and maybe venturing into Quake 3 Arena mapping a little.
+
+
+
+** INSTRUCTIONS **
+
+Extract the files manually into the following.
+
+Gustavo9_JawB.bsp into ...\\valve\maps
+
+And of course keep this text file. 8¬)
+
+
+
+** CONSTRUCTION **
+
+Base                    : Created from scratch. A small section of the upper tier (opposite the RPG) was *influenced* (as opposed to directly copied brush for brush) by a Quake 3 Arena map, q3dm3, and was created by myself from scratch. Obviously full credit for the idea to id software's map designers.
+Editor(s) used          : Worldcraft v2.1
+Custom textures		: Yes, a few grass textures found on a bargain-basement texture CD. The text file mentioned all are free for public use, so that no doubt means you can lock me up now, nice Mr.Policeman.
+Custom sounds		: No.
+Known Bugs              : Just that I've stretched some textures, so decals may be out-of-shape/size. For info, all light fixtures are func_illusionary's - don't be surprised by being able to jump through light fixtures.
+Build Time              : 2 weeks, on & off. Estimate of 10 hours creating (on work lunch hours) & 5 hours playtesting (at home). I've also been working other maps simultaneously.
+Compile Time		: Around 5 minutes on my PII 300mhz w/224mb. (Full vis, extra rad).
+
+MAP INFO:
+Rmf size		: 1700kb
+Solids			: 741
+Faces			: 4523
+Point Entities		: 170
+Solid Entities		: 119
+Successive revisions	: 14
+
+
+
+** PERMISSIONS **
+
+You MAY NOT sell this map for money without my permission.
+
+If a magazine wants it on its CD - that's fine - *BUT* you *MUST* send me a copy of the mag and credit myself with it's construction, AND INCLUDE THIS TEXT FILE. Feel free to swap it amongst your net friends & encourage them to send suggestions to me. You MAY NOT alter or add to this level without my permission.
+
+Email me if you'd like to have a look at the (1.7mb) rmf file for Jaw Breaker. Zips down to ~85kb.
+
+You have yerself a nice day, y'hear?
+
+Oh btw, if you see me on a server, I *CANNOT* speak Spanish/Portuguese/Smack talk/whatever...just so I ain't assumed to be a Colombian drug baron like I have been a few times before (or corderoy wearing Uruguayian goat shepherd, that happened once). 8¬)
+
+--
+Gustavo.

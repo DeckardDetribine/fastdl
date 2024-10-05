@@ -1,0 +1,85 @@
+==========================================================
+Title		:Ruines
+Version		:2.0
+Release Date	:8/15/01
+Filename	:ruines.bsp
+Filesize(zipped):874kb
+Author(s)	:Schrade (Brandon Renfrow)
+Webpage		:n/a
+Email Address	:schrade@planethalflife.com
+Description	:Death Match
+                 
+==========================================================
+---Previous maps---
+(DM)Sparta
+(DM)Focus
+(DM)Static       
+(DM)Floodwave     
+(DM)Blinga
+
+(FLF)arctic_assault
+(FLF)cityscape  
+(FLF)DesertFire     
+			    
+==========================================================
+---Play Information---
+Game		:Half-life
+Level Name	:Ruines
+Game Mode	:death match
+Players		:6-10
+
+---Construction---
+Editor Used		:World Craft 3.3
+Compile Machine		:thunderbird 900mhz, 128mb ram
+Base			:scratch
+Construction Time	:4 weeks
+			 
+---Notes---
+I really tried to change my style and I put alot more detail into the map, 
+you may notice that it is very compact and small with lots of hallways this
+is what I was seeking.
+
+to get to the rocket launcher you must enter the building climb to the top and
+then crate jump. To get the egon you must rid the platform to the top of the area
+know as the "pit".
+
+r_speeds climb to 800 W-polys at one place and that is the highest point, it shouldn't
+noticable for the map averaged about 400 on screen
+ 
+
+E-mail me with any comments on the level, praise or criticism.
+Any feedback is much appreciated.
+
+
+---Special thanks---
+Panic and riotsoftware(Diggy, Hosed, Malengine, Buster, and others)
+
+
+================================================================
+
+Copyright and Permissions
+
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name MAPNAME.bsp and is supplied in a zip file called 
+MAPNAME.zip that also contains this text document and 
+no other files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 2001 Brandon Renfrow
+
+===============================================================
+
+This template was constructed by Hornetking. 
+http://www.planethalflife.com/hornetking/
+hornetking@planethalflife.com
+
+===============================================================

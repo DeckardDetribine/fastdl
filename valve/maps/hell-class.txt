@@ -1,0 +1,12 @@
+Hell-Class: HLDM 'arena' level by Leperous (http://www.snarkpit.com)
+Released: 13/10/2002
+
+This level was meant to be created for the SnarkPit contrasting arena, although
+if you play it you may notice the contrast is a bit lame really, as is the rest of 
+the level. But I'm happy with the result, only 4 days of mapping and it's perfectly
+playable. Might turn into an NS or proper DM level one day...
+
+
+	Textures from:
+	ShaderLab (http://www.shaderlab.com) 
+	h f x (http://www.planetquake.com/hfx)

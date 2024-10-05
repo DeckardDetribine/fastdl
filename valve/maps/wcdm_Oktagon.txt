@@ -1,0 +1,33 @@
+~(w)eapon(c)hoose DM_Oktagon~ (Max. 8 Players)
+
+Was hat denn der KIIIA so gemacht , als er die dm_Lunatic feddisch hadde?
+Er hat sich noma an die DM_Oktagon (Infos:http://www.thewall.de/forum/showtopic.php?threadid=40451&highlight=oktagon&s=70756a824818c8013f9ac1e7263a12d5) gesetzt!
+
+Und zwar hab ich mir überlegt , da damals einer der Hauptkritikpunkte war , dass man nach dem Respawnen oft sofort Gegnern nur mit Pistole entgegentreten musste! Ich habe mir überlegt , wie man das Verhindern könnte. Dabei kam ich auf die Idee so eine Art Spawnraum einzurichten , in dem jeder Spieler nach dem Ableben regespawnt wird.
+Dort kann man dann wählen zwischen 3 Waffen ( Crossbow , Shotgun & 9mmAR ). Ausserdem lässt sich alle 2 Minuten eine Tür öffnen , zu einem Raum indem man eine Gauss bekommt! Optional bekommt man auch die Möglichkeit ohne Waffe zu joinen! Das Spiegeldesign der Map machte so eine Sache einfach! Nachdem man eine Waffe abgegammelt hat , wird man automatisch nach 0,5 Sek. in die Arena gebeamt! Niemand wird mehr ohne angemessene Bewaffnung dem Gegner entgegentreten müssen!
+
+Insgesamt enthält die Map:
+
+-Die Arena ( Hauptkampfplatz)
+-2 Spawnrooms ( Waffen wählen und die Arena joinen)
+-Airstrike Room ( Killt alles , ausser den Schutzraum )
+-Jumppack und Gauss Room ( Um sich ein LongJump & eine Gauss  zu verschaffen )
+
+In die zwei letztgenannten Räume kann man folgendermassen gelangen:
+In der Mitte der Arena befindet sich ein HL Sign in der Mitte der Brücke! Wenn man darauf schiesst öffnet sich abwechselnd mal die Tür auf der linken oder rechten Seite! Dahinter befindet sich nun ein Beam , der einen entweder zum Airstrike Room , oder zum JumpPack Room teleportiert!
+Der Airstrike ist nur alle 2 Minuten ausführbar! 
+
+Wenn mp_teamplay aktiviert ist , werden 2 Teams gebildet , die nur im Blauen oder Orangenen SpawnRoom respawnen!( Max. 4vs4)
+(Das bot sich beim farblich getrennten Setting einfach an!)
+Wenn nich , isses normales DM!
+
+In der Arena liegen KEINE Waffen , nur Healthpacks & Baterys!
+
+Credits:
+
+Sky from an CS map! (sry i dunno the name now , but anyway THX)
+Custom Sprites by me!
+Textures : Halflife.wad , VollDaFreak Texset!
+BugTEsting: TintaFisH & me!
+
+So , enuff talkin! Have Fun!

@@ -1,0 +1,82 @@
+================================================================
+Title                   : Subterranean Laboratories - for Half-Life
+Date                    : 17th January 1999 
+Filename                : sublab.bsp
+Author                  : André van Rooijen aka "TELEBUGGY"
+Email Address           : avrooijen@universal.nl
+Home Page               : http://www.inter.nl.net/hcc/A.Van.Rooijen/hlweb/halflife.htm
+                       
+
+Description             : Well, what can I say, it's my first one!
+                          
+                          As the title of the map may suggest, in a laboratory-complex deep underground.
+                          The building is very high and quite open. At the very last moment I also
+                          modelled a little outside erea with an entrance to the complex.
+
+                          As far as gameplay is concerned I noticed that a lot of deathmatch maps are
+                          for the most part horizontal ones. I tried to make a map that also forces you to look
+                          up and down once in a while. As a result the map has quite a number of 
+                          snipers-delight spots in it. Although you are never sure of who might be 
+                          sneaking up behind you.
+                          
+                          The 3 doors all open manualy so you will be able to think of a plan befor
+                          you rush into the room. The lifts all go up and down. They are triggered when
+                          you stand in front of them (don't wait to long though because it's BOOM for you then).
+
+                          While, in filesize, it's quite a large map it played rather well on the
+                          machines I tested it on (from p200 + voodoo 1 to pII 350 with Ati Rage Pro). 
+                          Also LAN playing was smooth enough for our daily fragfests. 
+
+			  I hope you will enjoy playing it as much as I liked building it. And if you
+                          do, please let me know.
+
+Thanks to               : Bionic Bironic, Jeronimo, konteschopper, dualis, Doomy, Lamer deluxe, Kort Jackje,
+                          the sniper (you know who you are) and all the other guys at Davilex who played 
+                          with me on my map and in the meantime made some usefull remarks.
+
+                          And let's not forget the guys from Valve for making a great game.
+
+================================================================
+
+* Play Information *
+
+Single Player           : No (one start so you can look around)
+Deathmatch              : Yes, 4/6 or more players would be ideal, up to about 16 or so.
+Difficulty Settings     : No
+
+================================================================
+
+Make sure you put the .bsp file into the following directory:
+
+... \Sierra\Half-Life\valve\maps
+
+================================================================
+
+* Construction *
+
+Base                    : From scratch
+Editor(s) used          : Worldcraft 2.0
+Known Bugs              : I don't think so (some mapping stuff maybe) .. except for being able to gauss-jump 
+                          out of the level (at least sort of) from the rocks of the outside erea.
+Build Time              : 4 weeks whenever there was an hour of free time 
+                          (and that didn't happen to often).
+
+Compile machine         : P200 with 64 megs of RAM (gimme more!!!)
+QBSP Time               : not so long
+QVIS Time (full)        : Please please, hurry up
+QRAD Time (extra)       : I stopped counting
+
+* Permissions *
+
+If you like it, great put it on your website, copy it for your friends, whatever...
+
+
+BUT...
+
+You MAY NOT sell this sucker for money!
+
+If a magazine wants it on its CD - that's fine - but please send me a copy. OK!! 
+My email address is at the top.
+
+You MAY NOT alter or add to this level without my permission.
+Instead build your own one, it's great fun and more rewarding at the end.

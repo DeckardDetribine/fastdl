@@ -1,0 +1,20 @@
+======================================
+CLOCKWORK ORANGE
+======================================
+by Victor-933
+
+======================================
+Installation
+======================================
+Place Map in your Valve/Maps folder - x:\program files\valve\steam\steamapps\yourname\half-life\valve\maps
+Place Sounds in x:\program files\valve\steam\steamapps\yourname\half-life\valve\sound\clock
+
+======================================
+Stats
+======================================
+Build time: a few days
+Size: Large
+Custom textures: Yes
+Custom sounds: Yes
+Custom models: No
+Custom Sprites: No

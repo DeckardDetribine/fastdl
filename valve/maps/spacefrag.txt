@@ -1,0 +1,33 @@
+
+
+		Spacefrag
+----------------------------------------------------------------------
+Released: 8/7/03
+Author: Evan "The_Belfig" Belfiglio
+Email: ebelfiglio@aol.com
+Web site: www.evansworld.cjb.net
+Files in .zip: spacefrag.bsp, spacefrag.txt (this file)
+-----------------------------------------------------------------------
+Tested by: Evan "The_Belfig" Belfiglio
+	   Alexander "OBILSK" Belfiglio
+
+Made with: Worldcraft 3.3
+
+Instructions: Unzip the .zip file and place spacefrag.bsp and spacefrag.txt in your SIERRA\Half-Life\valve\maps folder.
+
+Game Info: This map took me over a year to complete.  I started around April 2002.  Then school and work took over.  Plus I started playing games like Unreal Tournament 2003.  Finally I decided to finish what I started.  The map takes place in a large space station.  Some of the main features of this map include a decompressing cargo bay and lots of eye candy.  To decompress the cargo bay, go to the cargo bay control room (the room overlooking the cargo bay) and push the big red button.  Lights in the cargo bay will go out, alarms will sound and the big cargo bay door will open.  Once open all inside the cargo bay will be sucked into space.  If you are in the cargo bay when the alarm sounds, the main doors will be closed off.  The only way to survive is to get to the door in the back corner or find a safe crate to hide behind.  Take note that you will only have a few seconds to take cover and most of the crates you will be pulled around.  This is my second deathmatch map.  I consider this to be the best map I have ever made so I hope you enjoy it.  Have fun.
+-------------------------------------------------------------------------
+Other Info
+Game type: Deathmatch
+info_player_start: 1
+info_player_deathmatch: 16
+Recommended players: 2-16
+--------------------------------------------------------------------------
+
+Copyright
+
+Authors MAY NOT use this level as a base to build additional levels.
+You MAY NOT sell this level without my permission or without giving me
+part of the profits.
+You MAY distribute this level but you MUST INCLUDE THIS FILE WITH NO 
+MODIFICATIONS!!!!

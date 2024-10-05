@@ -1,0 +1,52 @@
+_____________________________
+P E R S I A N   L E T T E R S
+Beta1
+
+persia.bsp - Half-Life Deathmatch
+_______
+MAP BY:
+- Campaignjunkie (campaignjunkie@hotmail.com)(http://campaignjunkie.samods.org)
+[map concept, construction, most of the texture mangling, etc.]
+____________
+TEXTURES BY:
+- Blazeer (http://www.blaz.csbanana.com)
+[used his fantastic textures as a base for mangling, in addition to others] 
+- clown 
+[used his excellent church + havana textures as a base for mangling]
+- Marc Schroder (http://www.poke646.com)
+[no mangling, as that would be illegal] 
+- Carbon14
+[reflective water animated overlay]
+- Chalupamonk
+[twilight desert sky]
+- Campaignjunkie 
+[general texture mangling + all the bad textures (which is everything) ]
+__________
+MODELS BY:
+- ginsengavenger (http://ginsengavenger.home.comcast.net)
+[palm trees, plants, pots, etc.]
+__________
+SOUNDS BY:
+- Jinx
+[various sounds]
+- MeanRabbit (http://meanrabbit.com)
+[wind sound, fall sound]
+- Jason Brownlee
+[water sound]
+- Dean Alan
+[Desert Nights music]
+- Finger
+[monk chanting sound]
+__________________
+SPECIAL THANKS TO:
+- The Dark Legion's Looney Bin a.k.a The Batcave (you know who you are)
+- The Star Alliance (http://www.samods.org)
+- The Snarkpit (http://www.snarkpit.com)
+- ReNo (studied his weapon placement a bit)
+- Ferret (just too damn cool for his own good)
+- Finger (broken palace is a great inspiration, plus great monk sound)
+- Adam Hawkins (I don't know why)
+- Anyone I've forgotten
+
+Created for the 2004 Snarkpit Mapping Competition (http://www.snarkpit.com)
+Inspired (quite heavily) by Prince of Persia: Sands of Time (http://www.prince-of-persia.com)

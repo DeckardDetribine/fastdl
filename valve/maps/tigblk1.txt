@@ -1,0 +1,74 @@
+Date: 08 Feb 1999.
+Half-Life Deathmatch Level
+MOUT style map (Military Operations on Urban Terrain)
+=================================================
+Title:            Block 1
+File:             tigblk1.bsp
+Author:           TiGeR
+Email address:    tiger@lockandload.com
+Description:      4 structures with many crossfire
+		  areas.  The 4 buildings have different
+		  lighting schemes and numerous windows.
+
+================================================
+Play information
+
+Single player     no
+Cooperative:      no
+Skills 0,1,2,3:   no
+Deathmatch:       Yes
+New sounds:       no
+New graphics:     no
+New music:        no
+
+================================================
+Info
+
+Developed as the 1st of 3 BLOCK maps for 1/2 Life.
+(Depending on the success of this one)
+
+Each building is designed for ease of access and escape.
+There are no real dead ends in any area. (Thank God)
+
+The Blue Building contains the most health and best mix of weapons,
+with long hallways and smaller rooms.
+The Yellow Building contains all metal floors that will really give
+away your location, but offers larger rooms.
+The Ruins (Actually incomplete buildings) are wide open spaces that
+offer some great hide and stalk options.
+
+Ammo is kinda heavy for the MP5 (light on MP5 grenades)
+Tons of shachel charges and hand grenades.
+Grenades can be thrown from the ground level into second
+floor windows.
+
+r_speeds are always low and you should enjoy play on all
+machine speeds.
+
+================================================
+Construction
+
+Base:           None
+Editor:         WorldCraft 2 by Valve
+Know bugs:      None
+Build time:     I dont remember
+
+================================================
+Thanks to ...
+
+rustyspike for letting me beat his ass on my map
+
+================================================
+Distribution and legal: 
+
+Copyright (c) 1999 Joel M. Gabel, TiGeR, tiger@lockandload.com
+All rights reserved.
+
+Portions copyrighted by Valve, Inc.
+This level may be electronically distributed only at 
+NO CHARGE to the recipient in its current state, MUST 
+include this .txt file, and may NOT be modified IN 
+ANY WAY. UNDER NO CIRCUMSTANCES IS THIS LEVEL TO BE 
+DISTRIBUTED ON CD-ROM WITHOUT PRIOR WRITTEN PERMISSION.
+
+================================================

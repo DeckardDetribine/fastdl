@@ -1,0 +1,78 @@
+=====================================================================
+                B2Dorm By B-Squared
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: B2Dorm
+Date		: March 8, 2001
+Filename	: B2Dorm.bsp
+Author		: Ben Brandt
+Email Address	: b2ben@hotmail.com
+Home page	: http://go.to/bsquared/
+Description	: Scale version of a college dorm room, where the
+                : player is 6 inches tall
+Previous Maps	: B2Castle (available at FilePlanet.com)
+Credits/Thanks	: Thanks to the Half-Life Level Editing Rust forum,
+                : and the Half Life ERC - an excellent reference.
+                : Also thanks to my playtesters / dorm neighbors:
+                : Stimey, BadAss Bob, Rocky, & Josh
+
+------Play Information-----------------------------------------------
+
+Deathmatch	: Yes - 23 player starts defined.
+Single Player	: No.
+Map Description	:
+
+B2Dorm was inspired by the Rats series by Chris Spain, setting the
+6-inch tall player in a college dorm room - a scale version of the
+map designer's dorm room, to be more specific
+
+Because of high level of detail in this map, it is recommended that
+players have a video card, but software mode will work, just not as
+well. Also, because this level is so large, relative to the player,
+falling distances can be potentially quite far, so it is recommended
+that realistic falling damage be turned off when setting up a game.
+
+FEATURES: (Your reward for actually reading the ReadMe file)
+Some cool stuff in the map that might be good to know...
+ - The heater can be used as a bunker, which can be entered from the
+    base or the left side, via the desk drawers.
+ - The legs of the TV Cabinet and Fish Tank can be climbed like
+    ladders, allowing access to the shelves
+ - The bed chains on the loft can also be climbed
+ - To gain access to the bookshelf sniper position with the crossbow,
+    stand on the TV remote and shoot the TV to teleport there.
+ - To gain access to the other bookshelf with the rocket launcher,
+    use the elevator in the desk drawers in that corner of the room.
+ - The microwave door can be opened by shooting the buttons
+ - The dresser in the closet can be entered from the base
+
+------Map Information------------------------------------------------
+
+New Textures	: None.
+New Sounds	: None.
+
+------Construction---------------------------------------------------
+
+Base		: From scratch.
+Editor(s) used	: WorldCraft 3.3
+Compile Machine	: 466 Celeron, 192 MB RAM
+Compile time	: Approx. 3 hrs
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "B2Dorm.bsp" in
+your Half-Life/valve/maps directory.
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!. The only exception to this would be in-game map
+downloading.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

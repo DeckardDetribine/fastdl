@@ -1,0 +1,95 @@
+---------------------------------------------------------------------------
+			CATACLYSM					v1
+---------------------------------------------------------------------------
+by [DRS]Yak_Fighter
+
+INFORMATION
+files:		cataclysm.bsp, cataclysm.txt
+date:		21 April 2002
+email address:	YakFighter@aol.com
+		Yak_Fighter11@hotmail.com
+URL:		http://yak_fighter.tripod.com/yfrf/news_yf.html
+
+---------------------------------------------------------------------------
+MAP INFORMATION
+game type:		HL Deathmatch
+new wads:		compiled into map
+new sounds:		no
+new models:		no
+number of players:	4-15
+# player starts:	18
+
+DESCRIPTION   
+	
+		Yes, its been a couple of years since I released a Half-Life 
+	map...I did manage to become a much better mapper in the mean time.  
+	I took it upon myself to correct all of the mistakes I made in Torque 
+	and to make a high quality map, both visually and play-wise.  After 
+	hours of hard work and the total abandoning of about five almost 
+	complete maps, I finally made a map I was happy with.  	
+		This is a medium-sized, fast-paced map that's fun for the 
+	whole family.  There are six main areas interconnected with hallways 
+	and teleporters.  All of the weapons except for snarks hornetgun are 
+	included.  Getting the egon is possible, but don't be cursing at me for 
+	tricking you to go after it.  I made sure that the weapons are balanced, 
+	and that the ammo placement forces people to move around if they want 
+	the most out of the more powerful ones like the gauss and rpg.  In my 
+	opinion, this kind of weapon/ammo placement provides the best 
+	deathmatch experience.  ;)   There is almost nowhere to hide and camp, 
+	so those of you who like that sort of thing better be prepared to lose.   
+	Basically I created a map that I would like to play.  
+		Frankly, I'm pretty happy with how this map turned out.  I 
+	hope you will enjoy playing it as I did building it.  
+
+CREDITS
+	Than (than@planetquake.com)  - for than_industrial_r1.wad
+	Meat (meatpak@hotmail.com)  - for meatpak textures
+
+	[DRS]Orpheus, [DRS]Zeddicus, [DRS]Reaper, [DRS]DoomDog, [DRS]Alien_Sniper, 
+	[DRS]Maj.Malfunction, [DRS]Hullu, [DRS]AeNiMa, and all the other [DRS] 
+	members (http://www.drsclan.com)  
+
+	Andrew Weldon (KungFuSquirrel), ReNo, Gollum, scary_jeff
+	and everyone else at the SnarkPit Forums (www.planethalflife.com/snarkpit)
+
+	All those crazy people at Prefabland (www.nin64.com/prefabland/)
+
+	Planet Half-Life (www.planethalflife.com)
+	Wadfather (www.planethalflife.com/wadfather/)
+	Wavelength (www.planethalflife.com/wavelength/)
+	Valve Editing Resource Center (www.valve-erc.com)
+	Valve Softare 
+	iD Software
+
+---------------------------------------------------------------------------
+PREVIOUS WORK
+
+-40 odd prefabs
+http://yak_fighter.tripod.com/yfrf/prefabs_yf.html
+www.nin64.com/prefabland/
+www.planethalflife.com/prefablab/
+
+-Torque  (HLDM)
+http://yak_fighter.tripod.com/maps/torque.zip
+
+reviewed:
+8/10 from Global Assault  (www.globalassault.com)
+2/5 from Hornetking UK (www.planethalflife.com/hornetking/)
+6/10 from Biohazard  (www.planethalflife.com/biohazard/)
+7/10 from the Lambda Map Complex  (www.planethalflife.com/complex)
+7/10 from the Snarkpit  (www.planethalflife.com/snarkpit/)
+
+---------------------------------------------------------------------------
+
+This map MAY NOT be sold for money without my prior consent
+This .txt should be distributed with the map at all times
+This map MAY NOT be used as a base or re-released without my prior consent
+If this map is part of a commercial product, notify me before it is released
+
+Yak_Fighter  @2002
+.
+.
+.
+.
+.
+NEVER FORGET RADIUM AND HIS CONTRIBUTIONS TO THE HALF-LIFE MAPPING SCENE!

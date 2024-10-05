@@ -1,0 +1,70 @@
+==========================================================
+Title		:YGDM_Enemy
+Version		:final
+Release Date	:8/07/00
+Filename	:Enemy.bsp
+Filesize(zipped):263kb
+Author(s)	:Yellowgreen
+Webpage		:None
+Email Address	:teabag203@earthlink.net
+Description	:DM
+                 
+				    
+==========================================================
+---Play Information---
+Game		:Half-Life
+Level Name	:Enemy
+Game Mode	:DM
+Players		:good for 2, no more than 4
+Known Bugs	:None that I know of
+
+
+---Construction---
+Editor Used		:Worldcraft v2.0 
+Compile Machine		:P2 400, 64MB RAM, no 3D card :(
+Base			:Original
+Construction Time	:About 3 weeks
+			 
+---Notes---
+ This is my first finished map. I have been experimenting with WC for some months now, and after many
+beginnings that led nowhere, I found a method that works for me.
+
+Please!! E-mail me with any comments on the level, praise or criticism.
+Any feedback is much appreciated.
+
+
+---Special thanks---
+-Thanks to valve for the first PC game I ever played.
+-Thanks to the many great editing sites for all the tutorials.
+-And, of course, thanks to [Ai]*PrOwLeR* and [Cosanostra]$JuVeNiLe$ for testing it with me
+ (and both owning my sorry ass).
+
+
+================================================================
+
+Copyright and Permissions
+
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name MAPNAME.bsp and is supplied in a zip file called 
+MAPNAME.zip that also contains this text document and 
+no other files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 1999 YOUR NAME
+
+===============================================================
+
+This template was constructed by Hornetking. 
+http://www.planethalflife.com/hornetking/
+hornetking@planethalflife.com
+
+===============================================================

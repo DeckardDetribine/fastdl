@@ -1,0 +1,57 @@
+===================================================================================
+DATE: October 19, 1999 (final release)
+===================================================================================
+Title                   : Tremor Canyon
+Files                   : tcanyon.bsp , tcanyon.jrf
+Author                  : QS (Stephen Smart)
+Email Address           : quantumsaint@yahoo.com
+Homepage                : http://start.at/the.page (Quake2 levels availible)
+
+
+Description		: A medium sized DM map for fraggin around in with rocks and earthquakes. This map is
+                          supposed to be more of a natural enviroment (all rock other that the lights). 
+                          Includes all weapons except for the HORNET GUN.
+                       
+                        
+===================================================================================
+--ADDITIONAL CREDITS--
+
+Playtesters: David, Darrell, Pat, David, Lurker (Lurker's Lair), Un_Ethical, Prometheus, Kman
+
+
+=========================================================================================
+--PLAY INFORMATION--
+Game			: Half-Life
+Level Name      	: Tremor Canyon
+Files    		: tcanyon.bsp
+Single Player           : No	
+Cooperative 		: No 
+DeathMatch              : Yes
+MAP    # of PLAYERS     : 3+
+             				
+Difficulty Settings     : No
+
+Platform(s) used               : P200mmx 32MB mem and AMD K6 300 64MB mem
+Editor used                    : WC (for compiling also)
+Known bugs                     : The bots hate lava pits:)
+New sounds/textures/entities   : NO
+============================================================================================
+===========================================================================================
+--LOADING INFORMATION--
+Download, unzip, and put the .BSP file in your c:\sierra\half-life\valve\maps directory (your drive letter may be different). Its that easy...Done 
+
+--Additional Notes--
+
+This is the 10th map I made for HL. This was basically an experiment to see if I could do more natural looking rocks
+than I have seen in other maps. I feel it came out real well. I know the man-made flourescent lights kinda look outta place but that was really the only thing that looked OK.
+Think of it as a Carlsbad Caverns type place:). I am including the JUMBOT ROUTE FILE (jrf) but they tend to dive into the lava quite a bit.
+If you are intersted in getting possibly a better jrf for this map you may want to request it from the experts that make jrf files from one of the sites on the internet.
+
+Also, the r_speeds get up as high as 580 in one spot. This is higher than I like to go but doesnt seem to slow down play as far as I can tell.
+
+============================================================================================
+--LEGAL--
+This Half-Life map/level (Tremor Canyon-tcanyon.bsp) is (c) 1999 Stephen Smart.
+DO NOT put this level/map on any sort of commercial product or compilation unless you have permission from me.
+You MAY distribute this BSP file through any other means, provided you include this .txt file 
+(unaltered) and it is free of charge. Do not modify this BSP in any way.

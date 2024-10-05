@@ -1,0 +1,25 @@
+TItle:		DOWN UNDER
+Filename:	downunder.bsp
+Autor:		JCSTAR
+Email address:	jcstar@ncia.net
+
+Desciption:	This map is based underground (hence down under)! Its a kinda mid-evil
+                looking map with the rock walls and torch lights and with lots of firepower
+                and a swim now and then! i hope you like this map...
+		
+Type:		Deathmatch
+Statice:	final
+
+Players:	4 to 8........maybe more?
+
+Other maps:	Spacestation...Starfire...Explode...Predator...
+		...elevation_v2
+
+WAD file:       PLACE MORBWAD.WAD IN YOUR VALVE DIRECTORY
+      
+Thanks:         Special thanks to MORDOR for his insite and help on all the rough edges!!!
+                
+
+Permission:	You MAY NOT sell this map for money!!!
+		You MAY NOT alter or add to this level without my permission.
+		You MAY email me and let me know how you like the map and or comment. 

@@ -1,0 +1,56 @@
+Title		:nosfe_lab
+Version		:1.000
+Release Date	:01/28/2001
+Filename	:nosfe_lab.bsp
+Filesize(zipped):1.3mb
+Author(s)	:Benoit Champagne (Nosferatu)
+Email Address	:nosfe44@hotmail.com
+Description	:HLDM
+                 
+				    
+==========================================================
+---Play Information---
+Game		:HL
+Level Name	:nosfe_lab
+Game Mode	:DM
+Players		:2 - 6
+
+
+---Construction---
+Editor Used		:Worlcraft 3.3
+Compile Machine		:p3 667 with a Geforce 256 vid card
+Base			:from scratch
+Construction Time	:1 week
+			 
+---Notes---
+This is my second map. As you will see, the tau is a little tricky to reach ;0)
+And if you get trapped while you reach the rpg, i hope you have the lj module although it's still possible to get out.
+
+E-mail me with any comments on the level, praise or criticism.
+Any feedback is much appreciated.
+
+
+---Special thanks---
+I'd like to thank in advance the reviewers who have the patience to testing all these levels.
+
+
+================================================================
+
+Copyright and Permissions
+
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name htension.bsp and is supplied in a zip file called 
+htension.zip that also contains this text document and 
+no other files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 2000-2001 Benoit Champagne

@@ -1,0 +1,67 @@
+Instalation: extract the zip file to [default] c:/sierra/halflife/gearbox/maps
+   
+================================================================================
+* LEVEL INFORMATION *
+--------------------------------------------------------------------------------
+TITLE                   : Crimsonite
+FILENAME                : op4_crimsonite
+AUTHOR                  : Finger aka [pHenyl]catalyst
+DATE                    : 05/22/2002 
+GAME                    : half-Life opposing force map.
+EMAIL ADDRESS           : mooreduncan@hotmail.com
+
+ 
+--------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+--------------------------------------------------------------------------------
+THEME                   : This is an idea ive had in my head for quite some time.  When 
+                          I finally sat down to creat it, it came really fast.  Total build
+                          time was about a week off and on.  To me this place feels like
+                          a Tibetan temple, or someting along those lines.  The name 
+                          crimsonite was what sparked the idea for the map in the first
+                          place.
+
+OPPOSING FORCE	   	: Deathmatch
+
+SUGGESTED PLAYER LOAD   : This map would be well suited for 2 to 10 players I suppose.
+ 
+NEW TEXTURES            : I modified a handful of Halflife textures to better suit the map.
+                          I also used some very nice textures created by Whiteblazer (whiteblaizer@hotmail.com)
+                          , and David Gurrea (http://www.davegh.com/BLADE/davegh.htm)
+                          All new textures have been compiled into the bsp.
+
+SKY MAP                   I used a beautiful skymap called Arctic Sunset...created by Crinity (http://www.planethalflife.com/crinity/)
+       
+NEW SOUNDS              : none
+CD TRACK #              : none
+--------------------------------------------------------------------------------
+* CONSTRUCTION *
+--------------------------------------------------------------------------------
+
+
+EDITOR(S) USED          : valve hammer editor 3.4
+
+OTHER UTILITIES USED    : HLCC w/Zoners compile tools 
+ 
+KNOWN BUGS              : none
+ 
+COMPILE MACHINE         : pentium3 1gig.  512 megs RAM.
+ 
+compile time		: 15 mins
+
+time spent on building 	: on and off for the past year
+ 
+--------------------------------------------------------------------------------
+* CREDITS *
+--------------------------------------------------------------------------------
+My close friends in the game and clanmates.  
+Of course, Valve, Gearbox, and all who contributed to the mapping tools and community.
+
+================================================================================
+* COPYRIGHT / PERMISSIONS *
+--------------------------------------------------------------------------------
+This map may not be distributed without the inclusion of this txt file.
+
+Duncan Moore
+
+

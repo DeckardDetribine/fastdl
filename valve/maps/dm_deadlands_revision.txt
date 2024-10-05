@@ -1,0 +1,46 @@
+Author: Windawz
+Game: Half-Life Deathmatch
+Recommended amount of players: 4-8
+___________________
+
+Installation:
+
+Extract the "valve" folder into your Half-Life directory.
+
+______________________________________________________
+
+Special thanks to:                     
+
+Counter-Strike 1.6 devs                
+Trempler                               
+Admer456                               
+The Whole Half-Life                            
+Valve Software
+
+Testers (Revision):
+
+Trempler
+BrianOblivion 
+
+______________________________________________________
+An updated version of dm_deadlands with several cosmetic changes
+and with most of the balance issues fixed.
+
+General list of changes:
+
+-Improved clipping
+-Improved texture allignment in some places
+-Model/item positions fixed
+-Improved geometry where needed
+-Improved light emitted by the light fixtures
+-More structures and detail added
+-Sli-i-i-ightly better optimization
+-Less gaussclips
+-Powerful weapons are now harder to get
+-Removed game_player_equip
+-Many other little but nice changes I can't remember
+
+
+This map uses detail textures. To enable them, enter 
+"r_detailtextures 1" in the console. Keep in mind that enabling detail textures
+may significantly decrease your framerate.                     

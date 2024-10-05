@@ -1,0 +1,53 @@
+===========================================================
+rdc_twitch by [RDC]Twitch a.k.a Hammer of Doom
+============================================================
+
+Map Name:      		rdc_twitch.bsp
+Author:             [RDC]Twitch a.k.a Hammer of Doom
+Author email:  		arineod@gmail.com
+Homepage:      		WWW.LEVELEDITING.COM
+                    www.robodeath.com ROB DEATH CLAN
+
+wadincluded in map:  	twitch.wad
+============================================================
+LEVEL DESCRIPTION:
+
+Single Player:    		No
+Co-Op:                	No
+Deathmatch:     		Yes
+
+Suggested Players:  	5-25
+New Textures:   		Yes
+New Sounds:      		Yes
+New Models:		        No
+
+============================================================
+CONSTRUCTION:
+
+base map:                	None
+editor used:             	Worldcraft 3.5.1 Hammer
+utilities used:          	Zoner's Half-Life compile tools, Photoshop CS3, Wally
+known bugs:            	    None
+============================================================
+
+COPYRIGHT STUFF
+
+rdc_twitch.bsp  		copyright Jul 24, 2010 by [RDC]twitch - Hammer-of-Doom 	
+
+Authors MAY use this level as a base to build additional levels as long 
+as you give me credit in your read.me as using this map as a base to 
+build your level.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet.
+
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+visit robodeath.com ROBO DEATH CLAN
+
+I used some pictures and textures I found on the internet a while back. I have no way
+to reference the original authors because the site where I downloaded them at is no longer available.

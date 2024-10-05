@@ -1,0 +1,93 @@
+Release date: 26 February '99
+================================================================
+Title                   : Rooftops 1
+Filename                : Rooftps.bsp/Rooftps.zip
+Author                  : Ouwe{GEIT}
+Email Adresses          : ouwegeit@goat.gamepoint.net
+			  ouwegeit@scythe-ent.com
+			  ouwegeit@hotmail.com
+Uin			: 8540475
+Home Page               : http://goat.gamepoint.net/ (A map site.. Go visit it! :)
+Description             : This is my fourth halflife map and this one isn't a geitdm..
+			  Rooftops 1 is the beginning of a new series of halflife maps
+			  which I am making. 
+
+Other maps by Author    : Quake I:
+			  Old QKC outpost (Qkcout.zip/Qkcout.bsp)
+			  GEIT's Arena (Garena.zip/Garena.bsp)
+			  QKC Mines (N/A)
+			  Doomed Arena (da.zip/da.bsp)
+			  Nails up your ass (Nails.zip/Nails.bsp)
+			  QKC Outpost (Qkcop.zip/Qkcop.bsp)
+			  GeitDm1 (Geitdm1.zip/Geitdm1.bsp)
+			  GeitDm2 (Geitdm2a.zip/Geitdm2a.bsp)
+			  Geitdm3 (Geitdm3.zip/Geitdm3.bsp)
+			  Geitdm4 (Geitdm4.zip/Geitdm4.bsp)
+			  Quake II:
+			  Abandoned Warehouse (Aban.zip/Aban.bsp)
+			  Geitdm5 (Geitdm5.zip/Geitdm5.bsp)
+			  Geitdm6 (Geitdm6.zip/Geitdm6.bsp)
+			  Geitdm7 (Geitdm7.zip/Geitdm7.bsp)
+			  Halflife:
+			  Geitdm8 (Geitdm8.zip/Geitdm8.bsp)
+			  Geitdm9 (Geitdm9.zip/Geitdm9.bsp)
+			  Geitdm10 (Geitdm10.zip/Geitdm10.bsp)
+
+Additional Credits to   : Valve - For making Halflife and worldcraft
+			  Scythe Entertainment - For being cool :)
+			  Eendje - For helping me on the halflife section on The GOAT
+			   			(http://goat.gamepoint.net)
+
+================================================================
+
+* Play Information *
+
+Game			: Halflife
+Single Player           : Look around only. 
+Deathmatch              : Yes, 10 or so deathmatch startpositions
+Difficulty Settings     : No
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Worldcraft 2.0
+Known Bugs              : None that I know of.. Mail me if you find any...
+Build Time              : 4 days
+
+* Map Information *
+
+Compile machine         : k6 200 with 64MB RAM
+qcsg Compile Time       : 51 seconds
+qbsp2 Compile Time	: 67 seconds
+radiation Compile Time	: 2105 seconds
+vis Compile Time	: 8294 seconds
+
+Solids			: 977
+Faces			: 6070
+PointEntities		: 138
+SolidEntities		: 66
+
+If you liked it mail me
+If you hated it tell me how to maker a better one
+
+* How to use this level *
+Unzip rooftops.bsp into your valve\maps directory and the map should appear on
+the list of deathmatch maps. If not you can play it by starting a deathmatch server
+and typing 'map rooftops' in the console.
+
+* Where to get this map *
+If you are reading this I presume you already have this map or are about to download
+it.. But anyway.. You can get this map at the following adres:
+
+http://goat.gamepoint.net/
+
+* Copyright / Permissions *
+
+- Authors may NOT change this level or use it as a base for their own levels unless
+  if they have my written permission.
+
+- This map may be distributed in anyway you like, provided you include this
+  .txt files UNMODIFIED and distribute it without any sort of costs..
+
+- CD-ROM publishers and other commercial people need my written permission before
+  they can distribute this level. 

@@ -1,0 +1,105 @@
+TORRENT
+====================================================================================================
+
+Date                    : 11th October 2002
+Title                   : Torrent
+Filename                : torrent.bsp
+Author                  : ReNo [Duncan Blair]
+Email Address           : reno84@eidosnet.co.uk , 0201719@abertay.ac.uk
+ICQ#			: 28651662
+MSN			: renobutsomebassnickedmynick@hotmail.com
+Home Page               : http://evolution.hlgaming.com
+
+Installation Info	: Unzip the contents of this zip to your half-life folder and all the files
+			  will go to their correct location.
+
+Map Description         : This is a small, arena-esque map for the Snarkpit "contrast arena" comp.
+			  The contrasts (which I hope are obvious enough not to need me to explain)
+			  are hot and cold, or more precisely - lava and snow. R_speeds creep up a
+			  tad in places but the main point of this competition was to create a map
+			  with exciting and contrasting visuals. It is playable on a Duron 800 with
+			  a 32mb Geforce2 mx, so if you have a more impressive spec than that you
+			  should get by ok. The snowfall also hits the FPS a fair bit but is crucial
+			  for the competition. Perhaps if enough people care I will make a version
+			  with less FPS eating things in it.
+
+Other Works by Author   : [1] Obsolete - HLDM
+			  [2] Elixir - HLDM
+			  [3] Rebellion - HLDM / AG arena
+			  [4] CM Arena - HLDM
+			  [5] Echo - HLDM
+			  [6] Forsaken - HLDM
+			  [7] Outland - AGCTF
+
+			  Check them and more out at the maps page of my site:
+			  http://evolution.hlgaming.com/maps.html
+
+Misc Author Info        : This is my eight map release. I am an 18 year old currently studying
+			  BSc Computer Games Technology at the University of Abertay in Dundee,
+			  Scotland. Fingers crossed after getting this degree I will become a
+			  fully fledged Level Designer working in the industry :) Outside of level
+			  design I am a skateboarder, rollerblader, ice skater and snowboarder.
+			  I listen to ska/punk music and play a helluva lot of computer games :)
+
+
+===================================================================================================
+
+== Play Information ==
+Single Player           : No [1 start]
+Cooperative             : No
+Deathmatch              : Yes
+AGCTF			: No
+
+== Construction ==
+Base                    : Scratch
+Editor(s) used          : Valve Hammer 3.4, Wally
+
+== Build Machine ==
+AMD Athlon XP 1800+
+256mb Crucial RAM
+128mb Chaintech GeForce4 Ti-4200
+
+
+========================== Playtesting & Suggestions & Feedback ===================================
+	
+In no particular order...
+
+Real Life mates :	Trunter		Frank
+			Alborac		Moose
+			Senate		EuDo
+			Chan		Choch
+			Jeenious	Paul
+
+Others :		A whole lot of people commented on this level so please forgive me for
+			not listing all the names. Suffice to say that everyone's comments were
+			taken to heart and really helped shape the level.
+
+
+================================= Thanks... =======================================================
+In no particular order...
+
+	- Friends
+	- Family
+	- All the great HL mapping sites that i learnt from
+	- All the great HL level review sites, past and present
+	- Rince, Inx and everyone else running the show at Gametribe (http://www.gametribe.net)
+	- Leperous for running the ever-improving incredible Snarkpit (http://www.snarkpit.co.uk)	
+	- Snarkpit forum crew for comments and banter
+	- Everyone involved in the AG mod for improving HLDM (http://www.planethalflife.com/agmod)
+	- Challenge-HL folks for being continually interested in HLDM (http://www.challenge-hl.com)
+	- People at HLCCL forums for the kind words about my work (http://www.hlccl.com)
+	- Crinity for making this and loads of other amazing custom skies
+	- Kornflakes for uploading my map to webspace when I was having endless troubles, and for his
+	  very useful feedback on it :)
+	- Anybody who looked at this map and told me their thoughts!
+
+
+==Copyright / Permissions==
+Authors MAY NOT use this level as a base to build additional levels.
+
+This map may be distributed ONLY on a "not for profit" basis using any medium,
+provided this file is included with no changes.
+
+Magazines and other published media may use my level provided they ask for my permission.
+
+This template is available from www.globalassault.com.

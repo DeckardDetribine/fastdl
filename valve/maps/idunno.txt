@@ -1,0 +1,26 @@
+======================================
+I DON'T KNOW
+======================================
+by Victor-933
+
+======================================
+Installation
+======================================
+Place in your Valve/Maps folder - x:\program files\valve\steam\steamapps\yourname\half-life\valve\maps
+
+======================================
+Stats
+======================================
+Build time: a few hours
+Size: small
+Custom textures: Yes
+Custom sounds: No
+Custom models: No
+Custom Sprites: No
+
+======================================
+Special thanks
+======================================
+
+Whiteboy, for releasing the textures on Wadfather
+Snarkpit, for being a kickass mapping community

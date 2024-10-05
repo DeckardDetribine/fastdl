@@ -1,0 +1,22 @@
+Ancient Pride
+-------------
+
+HLDM Map by [Kasperg]YUGO
+
+This map can be considered the sequel to "Guardian". It's not as 
+big as Guardian but it's a brighter map and better in some aspects.
+The textures are once again from "Tomb Raider 4" and a direct consequence
+is that they blend together quite well. 
+This map was done in 3 days as a break from my Source projects and the 
+map for the upcoming HL1 compo, which I'm still working on.
+
+Ingame features
+---------------
+I know the sun in the skybox is pointing in another direction. It looks
+wrong but it doesnt affect gameplay at all :)
+The egon is present, but there's almost no ammo for it. 
+The Tau cannon is not present, mainly because of the advantage that hackers
+usually had with this weapon in the past. Anyway, real players dont need
+to rely on a particular weapon.
+There is no longjump module in this map. It wouldnt really serve any purpose in this 
+map.

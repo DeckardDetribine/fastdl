@@ -1,0 +1,70 @@
+=====================================================================
+   Half-Life DM Map Spec Sheet
+=====================================================================
+
+------General Information--------------------------------------------
+
+Title		: Meatpit
+Filename	: hldm_meatpit
+Authors		: Jinx (mapping) and Alice/Mloclam (textures)
+Author Email	: matthewblevins@hotmail.com (Jinx)
+Home pages	: http://www.cryotank.net/maps (Jinx) http://hosted.havenofrags.com/al1ce (Alice)
+Description	: A Futuristic Meat Processing Plant
+Previous Maps	: Hypersanctum, GE Basement, Stormvale
+Upcoming Maps   : Temple, DQ's Noir (finishing it up for him), Caverns (?)
+
+------About This Map-------------------------------------------------
+
+I was thinking one day "gee what if someone made a GOOD 'killbox' map"... and Meatpit was born. It's the best bad map you'll ever play. Alice did most of the textures, and they really help make this map something special. This is a small, silly map to play with one's friends, on a LAN, etc.-- not for large servers really. Basically Alice and I took a really goofy map idea... then did it as polished and well as possible.
+
+Enjoy! :)
+
+-Jinx
+
+------Credits and Thanks---------------------------------------------
+
+*Alice, who did almost all the textures for this map.
+
+*Remedy for releasing some of the Max Payne textures (I used a couple): "The textures in this file are property of Remedy Entertainment Ltd., and can be used only as long as the work is recognized as original artwork by Remedy, and no financial profit is made in the process. 
+(C)1998-2001 Remedy Entertainment Ltd."
+
+*-Manah, I used a couple of his textures (http://www.planethalf-life.com/manah)
+
+*MeanRabbit.com (http://www.meanrabbit.com) for new sounds ("mr_" prefix).
+
+*A1 Free Sound Effects (http://www.a1freesoundeffects.com) for some sounds ("a1_" prefix).
+
+*The other AHL mappers, Fiend, [iSk], and everyone else who helped playtest and who gave feedback. You guys make it worthwhile!
+
+------Play Information-----------------------------------------------
+
+Single Player   : No.
+Deathmatch	: Yes.
+LMS:		: Yes.
+Teamplay        : Yes.
+Modification    : Action Half-Life
+Map Description	: A Futuristic Meat Processing Plant
+How Many Players: 2-8 (small map)
+
+------Construction---------------------------------------------------
+
+Base		: none
+Editor(s) used	: Worldcraft 3.3, Zoner's Tools
+Compile Machine	: Pentium II 400 with 384mb ram
+Compile time	: 3 hours. (loooonnngg hlrad)
+Playtest time	: A good bit. Thanks to [iSk] and everyone else who helped!
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive into your action folder.
+
+------Copyright-Permissions------------------------------------------
+
+Authors may not use this level as a base to build additional levels without my direct permission.
+
+You MAY NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!.
+
+This BSP may be distributed ONLY over the Internet.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission- which I may give, just ASK!

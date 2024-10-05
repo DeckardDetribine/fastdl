@@ -1,0 +1,2 @@
+dm_tropic/de_anisotropic - by Grigor
+original dm_tropic_enhanced by Nyko18

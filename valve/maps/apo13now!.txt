@@ -1,0 +1,102 @@
+================================================================
+Title                   : Tension - Apocalypse Now!!! Edition
+Version                 : 2.0
+Release Date            : January 23rd,2001 
+Filename                : apo13now!.bsp
+
+Author                  : Florian 'Apocalypso' Halbritter : apo@planethalflife.com
+                          
+Web Page                : http://www.planethalflife.com/apo
+                          
+
+Description             : Improved version of APOHLDM13.bsp (Tension)
+
+Other levels by author  : APOHLDM1 - Rage Central 
+                          APOHLDM2 - The Epsilon Base	
+                          APOHLDM3 - No place to hide
+                          APOHLDM4 - Face your Fate
+                          APOHLDM5 - En Garde
+                          APOHLDM6 - Riposte
+                          APOHLDM7 - Touche (not released so far)      
+                          APOHLDM8 - The Alpha Complex
+                          APOHLDM9 - Diabolic
+                          APOHLDM10 - Temple of Stars
+                          APOHLDM11 - Towers of Orion
+                          APOHLDM12 - Midnight Madness
+                          APOHLDM13 - Tension (the original version)
+                          AS_GHETTO - Escape from da Ghetto (Counter-Strike)
+                          AS_PALACE - The Palace (Counter-Strike)
+                          +a lot of maps for several mods
+                          (go to www.planethalflife.com/apo to download them)
+
+================================================================
+--- Play Information ---
+Game                    : Half Life
+Level Name              : Tension - Apocalypse Now!!!
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Known bugs              : -
+                          
+
+--- Construction ---
+Editor(s) used          : WorldCraft 2.1
+Construction Time       : 1 week (since APOHLDM13 was already done...)
+
+
+
+Installation
+------------
+
+Unzip the file apo13now!.bsp into your ...\sierra\halflife\valve\maps directory
+
+
+
+Just a few tips...
+------------------
+
+(1) When going for the RPG there are two ways to pick up the gun without being killed 
+    by the slime surrounding it. The first one is very simple: Just be sure to have full
+    health and some armor on and then run through the slime as quickly as you can. The 
+    second one: First go for the long jump module. Using this module you can get from the
+    platform with the RPG on it to the ladder without getting nearly any damage.
+(2) The hornetgun is a pretty effective weapon in this map. But be aware of snipers when 
+    picking it up!
+(3) refers to (2): Try to kill those bastards going for the hornetgun with the crossbow. 
+    A good sniping position may be on the sniper roof on the opposite side of the valley.
+(4) Although the gauss was weakened in the latest HL version it's still a pretty effective
+    weapon and furthermore it's pretty easy to get.... so....
+(5) Keep your ears open! Oftenly sounds (footsteps) tell you where your opponents are...
+
+
+
+What's new in this 2nd release?
+---------------------------------------
+- a lot of minor gameplay improvements (improved places where you could get hung easily, etc.)
+- added some more corridors in order to improve connectivity
+- the Gauss gun can now be found in another room (nearby the old location)
+- some very minor lighting changes
+- fixed a small texture error 
+- changed text displayed when hitting this one specific button (whoohoo!!)
+- added 2 PlanetHalfLife logos 
+- updated readme-files
+
+
+Special Thanx to...
+-------------------
+
+Gustavo
+[DRS]Orpheus
+Panic
+TTJ
+
+
+Copyright / Permissions
+-----------------------
+This level and all files included in the apo13now!.zip-archive are copyrighted by Florian Halbritter,2000.
+You MAY NOT distribute this map on commercial CD-ROMs or in any other commercial way without my permission. 
+You also MAY NOT do any changes to the map or to the archive without my permission.
+With this map being submitted to the PlanetHalfLife Mapping Contest all rights are from now on reserved by PlanetHalfLife, GameSpy and their partners.

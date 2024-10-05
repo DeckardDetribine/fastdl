@@ -1,0 +1,44 @@
+=====================================================================
+     Half-Life (http://www.sierrastudios.com/games/half-life/)
+=====================================================================
+
+-----<General Information>-------------------------------------------
+
+Title		: A Magical Moment
+Filename	: wizhldm1
+Date		: 2003-01-28
+Author		: WizardExt (David Lundvall)
+Author Email	: davidlundvall@brainbucket.net
+Home page	: http://www.smashboz.nl/wiz
+Previous Maps	: -
+
+-----<Credits and Thanks>--------------------------------------------
+
+Sp!kez0r for hosting my maps. 
+My old computer. It lasted for 4 years. :-)
+
+-----<About>---------------------------------------------------------
+
+It's my first released map for any game. I have spent about two 
+weeks on this map and I like the final result.
+Have fun!
+
+-----<Map Information>-----------------------------------------------
+
+Map Description	: Small/medium sized map
+How Many Players: 2-8
+New Textures	: No
+New Sounds	: No
+
+------<Construction>-------------------------------------------------
+
+Editor(s) used	: Valve Hammer 3.4
+Compile Machine	: 2,4Ghz, 512Mb RAM, Radeon 9700
+Compile time	: 6 min
+Playtest time	: 2 hours
+Build Time	: 2 weeks
+Other programs	: ZHLT compiling tools
+
+------<Installation>-------------------------------------------------
+
+Extract the files to valve/maps

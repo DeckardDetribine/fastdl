@@ -1,0 +1,84 @@
+Map Title           : Feud
+Release Date        : February 11, 2002
+Filename            : feud.bsp
+Author              : SuperCrazy
+Email Address       : nick@nickj.net
+ICQ                 : 2649935
+Web Page            : http://crazymaps.caseynet.com
+Description         : I've been mapping for about 18 months now, and Feud is my fifth HLDM
+                      level. I've tried to keep improving with each release, and I don't
+                      think this map breaks that trend. Feud has better architecture than
+                      Subdued, Rorshach's textures are amazing, weapons aren't as sparse as
+                      they were in Subdued, and Feud isn't huge and empty like Subdued was.
+                      At first mapping was a struggle, but now it's my favorite thing to do.
+                      Hopefully you can get some enjoyment out of the level.
+
+Jumbot Waypoint     : I've included a JRF file so you can play Feud with Jumbots. It was
+                      made by Scary_Jeff. Check out his site for maps and other JRFs at
+                      www.planethalflife.com/scaryjeff
+
+Previous Maps       : Alpha
+                      Penance
+                      Uproar
+                      Subdued
+
+Thanks              : Valve Software
+                      -Made the best game ever.
+
+                      The people in #valveerc
+                      -Put up with my insane babbling.
+
+                      Scary_Jeff
+                      -Made a JRF file so life's easier for HPBs like myself.
+
+                      Rorshach
+                      -His textures that I used for this map were amazing.
+
+                      Andrew Weldon, [DRS]Yak_Fighter, Gollum, JUIM, ReNo, Scary_Jeff, Thori
+                      -You guys all gave tons of great suggestions that made the map a lot
+                      better.
+============================================================================================
+Play Information
+
+Single Player       : Yes
+Deathmatch          : Yes - 20 spawn points
+Recommended Players : 5-8
+Weapons             : 1 357, 5 9mmAR, 6 Shotgun, 1 Crossbow, 1 RPG, 1 Egon, 2 Grenade,
+                      2 Satchel, 1 Tripmine, 1 Snark
+Ammo                : 2 357, 4 9mm, 2 AR Grenades, 7 Shotgun, 2 Crossbow, 3 RPG, 4 Egon
+Items               : 2 Batteries, 4 Healthkits
+============================================================================================
+Construction
+
+Base                : An empty grid
+Editor              : Worldcraft 3.3
+Compiler            : Zoner's Tools 2.5.3
+Bugs                : -Half-Life's lifts still suck. The lift can get stuck in the up
+                      position if it is blocked, but if you walk underneath the lift it will
+                      fix itself.
+                      -Sometimes the lasers over the egon don't go all the way to the floor.
+                      I'm not sure what causes this.
+
+New sounds          : No
+New sky map         : No
+New textures        : Yes - 19
+
+Compile machine     : AMD 1.4ghz, 256mb RAM
+HLCSG Time          : 10 seconds
+HLBSP Time          : 7 seconds
+HLVIS Time          : 11 seconds
+HLRAD Time (extra)  : 9 minutes, 26 seconds
+============================================================================================
+Permissions
+
+You may distribute this for free as long as the bsp file and this txt file are both included
+without changes. You may not sell this map for profit, and you may not alter or add to it
+without my permission.
+============================================================================================
+Final notes
+
+Please e-mail me if you like this level or if you review it.
+
+SuperCrazy
+http://crazymaps.caseynet.com
+February 11, 2002

@@ -1,0 +1,18 @@
+// overview description file for DocRock's Tempest.bsp
+// overview done by qUiCkSiLvEr
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.70, Map Origin (168.56, -713.25, -1008.00), Z Min 161.00, Z Max -2177.00, Rotated 0 
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.70
+	ORIGIN	168.56 -713.25 -1008.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/tempest.bmp"
+	HEIGHT	-2177.00
+}

@@ -1,0 +1,16 @@
+Multiplayer map for Half-Life
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Map Name:      qb_street.bsp
+Filesize:      1.56 MB
+
+New textures   2
+New sprites    no
+New models     no
+New sounds     no
+New sky        no
+
+Author:        Roslan | [Beta]-HAXEP | SuddenHit (Xep)
+Author email:  forroslan@mail.ru
+               http://www.studio-sk.com/
+               http://www.newcode.narod.ru/
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

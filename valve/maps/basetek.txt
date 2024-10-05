@@ -1,0 +1,59 @@
+DO NOT DISTRIBUTE WITHOUT THIS TEXTFILE!!!
+
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title           :La base technologique
+Filename        :basetek.bsp
+Author          :Milan Sperka
+Author Email    :milan@gedge.com
+Home page       :www.gedge.com
+Description     :Deathmatch with an attitude
+Previous Maps   :None
+
+------Credits and Thanks---------------------------------------------
+
+Thanks to Odd for all the testing, JuddHunter for all the help
+Check out http://forums.gamedesign.net/forums/ for tons of help
+Thanks to Valve for a kickass job on their game.
+
+------Additional Info, Tips, and Notes-------------------------------
+
+This map is highly detailed. The worse Wpoly I got was a little over 700
+but most of the map is around 200-300. I recommend at least a PII 300 for
+best gameplay.
+
+------Play Information-----------------------------------------------
+
+Deathmatch      :Yes
+Single Player   :No
+How Many Players:2-8
+
+------Map Information------------------------------------------------
+
+New Textures    :none
+New Sounds      :none
+Editor(s) used  :worldcraft 2.1
+
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "basetek.bsp" in
+your half-life/valve/maps directory.
+
+------Copyright-Permissions------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

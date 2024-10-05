@@ -1,0 +1,63 @@
+                           ********
+                           * AXIS *
+                           ********
+
+
+Title                   : Axis
+Files                   : Axis.bsp
+                          This file
+Author                  : ppg
+Email Address           : ppg@lowlife.com
+
+
+Description:		
+                          
+A canny little DM level with a spaceport-type feel. I've concentrated mainly 
+on connectivity to (hopefully) make a fast & clean little frag-o-rama.
+
+This could be the final version - what d'you think?
+
+Installation:
+
+Extract 'Axis.bsp' to your Sierra/Half-Life/Valve/maps/ directory.
+Put this file wherever you want.
+
+
+***********************************************************************
+
+Game			: Half-Life
+Map Name      	        : Axis
+Files    		: Axis.bsp
+DeathMatch              : Yes
+Number of players       : 4-8, more if you like it messy.
+                          
+Platform                : P133 64MB SDRAM.
+
+Editor                  : WorldCraft 2.1
+
+Compiler                : Q2Beaver
+
+time taken              : approx 3 months
+                         
+Compile time            : Just over an hour with QRAD on extra, 
+                          no other compile options used
+                                 
+
+********************************************************************************
+
+Please email me with any comments, positive or negative you have about this map.
+
+********************************************************************************
+
+Thank-You's             : A big big thank-you to Un_ethical for checking this and 
+                          earlier versions out & giving me lots of help with getting
+                          the r_speeds down.  Also big thanks to Jaydub for showing me
+                          some more r_speed tricks and taking the time to edit the rmf.
+                          nice one mate!  Also to 9inNail, Dyne the Unholy and
+                          [old gits]Misanthrope, can't forgetcha!
+
+                          To Michelle for putting up with me hogging the PC all the time;)
+
+                          To everyone at the DOE (http://halflife.lowlife.com/)
+                          for contributing to the best map editing and testing 
+                          site out there.  Go and visit. No really.

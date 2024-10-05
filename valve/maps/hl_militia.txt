@@ -1,0 +1,7 @@
+a Half-life map hl_militia by rofi.
+
+Final release: 29.10.2008
+
+Based on cstrike's cs_militia. Made it just for fun. This time I didn't even touch the geometry, just placed spawn points and items. 6-16 players on the map are recommended.
+
+Don't forget to visit http://hlexe.ipb.su/

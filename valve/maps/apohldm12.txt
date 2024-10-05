@@ -1,0 +1,61 @@
+================================================================
+Title                   : Midnight Madness
+Version                 : 1.0
+Release Date            : May 18th,2000 
+Filename                : apohldm12.bsp
+
+Author                  : Florian 'Apocalypso' Halbritter : apo@planethalflife.com
+                          
+Web Page                : http://www.planethalflife.com/apo
+                          
+
+Description             : Half-Life Deathmatch Map 
+
+Other DM-levels by author: APOHLDM1 - Rage Central 
+                          APOHLDM2 - The Epsilon Base	
+                          APOHLDM3 - No place to hide
+                          APOHLDM4 - Face your Fate
+                          APOHLDM5 - En Garde
+                          APOHLDM6 - Riposte
+                          APOHLDM7 - Touche (not released so far)      
+                          APOHLDM8 - The Alpha Complex
+                          APOHLDM9 - Diabolic
+                          APOHLDM10 - Temple of Stars
+                          APOHLDM11 - Towers of Orion
+                          AS_GHETTO - Escape from da Ghetto (Counter-Strike)
+                          (go to www.planethalflife.com/apo to download them)
+
+================================================================
+--- Play Information ---
+Game                    : Half Life
+Level Name              : Midnight Madness
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Known bugs              : -
+                          
+
+--- Construction ---
+Editor(s) used          : WorldCraft 2.1
+Construction Time       : 9 weeks
+
+
+
+Installation
+------------
+
+Unzip the file apohldm12.bsp into your ...\sierra\halflife\valve\maps directory
+
+
+
+Copyright / Permissions
+-----------------------
+This level is copyrighted by Florian Halbritter,2000.
+
+You MAY distribute this level through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.
+

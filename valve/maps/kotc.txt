@@ -1,0 +1,78 @@
+King of the Castle (created by mazemaster)
+
+------------------
+Installation Info:
+------------------
+Unzip all of the files to your half-life directory. The files will automatically be 
+put in the correct subdirectories.
+
+------------
+Description:
+------------
+When i was in Austria, i saw a castle there and thought: wouldnt it be cool to make a
+castle map. Here is the product of my mapping efforts in crunchy DM format. Be sure
+to play this map with the Arcana Mysteria Magica mod as well for a fun gameplay experience.
+Expect lots of vertical gameplay. (-:
+
+http://www.planethalflife.com/arcana
+
+--------
+Credits:
+--------
+The Counterstrike Team:
+	Various textures.
+AX
+	Sunny Bay skymap.
+
+------------
+Permissions:
+------------
+You may do pretty much anything you want with this map as long as you abide by 2 rules:
+
+1: You may not sell any part of this map in any form unless you obtain permission from me.
+2: I must be listed in the credits of anything that uses any part of this map.
+
+That said, i am pretty cool about people using my work as a base and/or using parts 
+of my maps in their maps. If you have reason to want the source files to this map, 
+you can contact me explaining your reasons, and the chances are that i will give you 
+the source files you requested.
+
+------------------
+Special Thanks To:
+------------------
+RUST forums
+	A great half-life editing forum...
+		http://forums.gamedesign.net
+
+Merl, Who Me, Zipster
+	Excellent modifications to ZHLT
+
+Various people who did small unnoficial playtests
+	...
+
+//Tech stuff
+-------------------------
+Construstion Information:
+-------------------------
+Base: 
+	None
+Level editor used:
+	Valve Hammre Editor 3.4
+
+--------------
+Compiler Info:
+--------------
+Tools used:
+	CSG: Merl's modified HLCSG.exe v1.6.1
+		http://www.chatbear.com/uploaded/1011059245-nulltex.zip
+	BSP: Merl's modified HLBSP.exe v1.6.1
+		(see above)
+	VIS: Zipster's modified HLVIS v1.6.1
+		(see above)
+	RAD: Who Me's modified HLRAD v1.6.1
+		(see above)
+		
+-------------
+Contact Info:
+-------------
+n_alger_@hotmail.com

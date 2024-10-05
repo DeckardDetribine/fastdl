@@ -1,0 +1,18 @@
+
+Map Name:  	Osyris
+Author:	   	John Paul Clark (aka, Delacroix)
+players:	2-6
+
+Note: This is the second map I have published.
+
+-----------------------------------------------------------------
+
+Copyright / permission
+
+This .bsp may not be distributed via cd-rom or via any other profit making medium.
+If it is to be drisputed via internet or the like, it must be distributed under 
+the orginal filename in conjunction with this readme.
+
+!!!!This may not be used as a base for any other maps or modifications without my 
+expressed permission!!!!
+

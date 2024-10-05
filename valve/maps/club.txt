@@ -1,0 +1,68 @@
+================================================================
+Title                   : The Black Mesa Club
+Filename                : club.bsp
+Author                  : Jason Erskine
+Handle 			: The Hermit
+Email Address           : jason.erskine@virgin.net
+Description             : A nightclub with dancefloor, private dance areas, balcony,
+			  cloakroom, DJ box and mamagers office.
+Thanks to               : Valve for making Half-Life. My girlfriend Pippa for her support
+			  and suggestions, even though I didn't know how to do most of them!
+
+================================================================
+
+++ Play Information ++
+
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+Difficulty Settings     : Nope
+New Sounds              : No matey
+New Graphics            : A few.
+New Monsters            : No No
+New Demos               : No
+New Models              : You guessed it, none of these either :)
+
+++ Construction ++
+
+Base                    : New level
+
+Editor(s) used          : Worldcraft 2.1
+
+Known Bugs              : None.
+
+Build Time              : Few months!
+
+++Other Stuff++
+
+Comments                : I don't know how well this plays during a true deathmatch, as I've
+                          only been able to test it on my own and with the JumBot.
+			  So if you have any comments, TELL ME!
+
+Story			: The Black Mesa Club is the only nightspot the scientists and security
+			  guards can get to. Unfortunately someone seems to have been determined
+			  to start trouble, why else would all those weapons be lying around?
+                          Could it be the mysterious Administrator is up to something yet again?
+
+Installation		: Unzip with paths to C:\SIERRA\Half-Life\valve
+                          or were-ever your installed Half-Life\valve dir is.
+                          Eg. On my system it would be D:\Games\Half-Life\valve
+			  You should now find in the valve dir, club.wad and club.txt (this file)
+			  Plus, in the valve\maps dir, club.bsp
+			  Now go play!
+
+================================================================
+			* Copyright / Permissions *
+
+Authors may feel free to use this level as a base to build additional levels or continuations of the level.
+
+You are free to distribute and decompile the file for your own level use.
+
+If you feel there are parts of the level that are cool please add them to your own levels.
+
+If you plan on doing anything cool with floater please e-mail me so I can have a look.
+
+However, If the level buggers up your mind or computer or whatever I accept no responsibility. That is valve's fault.
+
+						
+					

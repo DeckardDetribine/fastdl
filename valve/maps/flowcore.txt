@@ -1,0 +1,51 @@
+
+FLOWCORE - By kamakazee
+
+================================================================
+Date                    : 23/6/01
+Title                   : Flowcore
+Filename                : flowcore.bsp
+Author                  : kamakazee
+Email Address           : myrkul_uk@hotmail.com
+Home Page               : www.planethalflife.com/snarkpit
+
+Map Description         : A deathmatch map set in the reactor coolant system part of the                           game, with a little extra....
+                           
+Other Works by Author   : arabia, other mod maps.
+
+Misc Author Info        : Nowt to say here!
+
+================================================================
+
+== Play Information ==
+
+Single Player           : NO
+Cooperative             : ? dunno!
+Deathmatch              : YES
+
+
+== Construction ==
+Base                    : errrr...
+Editor(s) used          : Worldcraft 3.3
+
+
+== Additional Credits to ==
+
+No one, because no one helped.
+                          
+== Installation Info ==
+BSP into the half-life\valve\maps directory. 
+sounds go in half-life\valve\sounds\custom\m249-2.wav
+Txt into same folder as map
+
+==Copyright / Permissions==
+
+Authors MAY NOT use this level as a base to build additional levels (unless you ask me really nicely or put the map made by me and you as the sub developer).
+
+This map may be distributed ONLY on a "not for profit" basis using any medium.
+
+This map can only be distributed with this txt file, and can be put onto profitable PC magazine CD's with my permision (eg pcgamer etc.)
+
+This template is available from www.globalassault.com
+
+

@@ -1,0 +1,97 @@
+Instalation: 
+Extract phl.wad to  [default] c:/sierra/halflife/valve
+Extract the DL29.bsp and the readme to  [default] c:/sierra/halflife/valve/maps
+
+
+================================================================================
+* LEVEL INFORMATION *
+--------------------------------------------------------------------------------
+TITLE                   : Deep Lamda 29
+FILENAME                : DL29.bsp
+AUTHOR                  : Bluestrike McQueen
+DATE                    : 23.jan.2001
+GAME                    : Half-Life deathmatch
+EMAIL ADDRESS           : Inspiratie@hotmail.com, Bluestrike@spelletjesgarnaal.be
+HOMEPAGE URL            : http://bluestrike.shrimpwars.be 
+                          http://58th.shrimpwars.be 
+OTHER LINKS             : http://rainbow.shrimpwars.be 
+                          http://www.shrimpwars.be   
+ 
+--------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+--------------------------------------------------------------------------------
+The map has a central point, the schaft, you can see all 4 foors here.
+lowest floor (floor1) has a watter pit, 2 passages 1 to the stairs, the secons one
+leads to the elevator and generator room.
+The 3 other floors have 4 connections eatch to on outer ring (call it North, east, 
+south and west if you will)  The outer ring has connections to the different rooms,
+Computer room, Supply , computer room and the observation room. Most rooms connect
+2 floors wity eatch other to.
+
+You can open the top hatch of the machine with a button on the side to get some 
+suit power.
+
+No Hornet and Egon gun in this map.
+
+
+SUGGESTED PLAYER LOAD   : Hmm the map can be used for clanwars 1-1 up to 5-5, 
+                          16 people on it in public games might be a bit crowded tho.
+                          Weaponstay on option recommended
+NEW TEXTURES            : Planet Half-Life logo (phl.wad)
+NEW SOUNDS              : none
+CD TRACK #              : none
+--------------------------------------------------------------------------------
+* CONSTRUCTION *
+--------------------------------------------------------------------------------
+MAP BASE                : My mind
+MAP VERSION		: 1 (build 29)
+PREFABS USED            : none
+EDITOR(S) USED          : Wordcraft 3.3
+OTHER UTILITIES USED    : Q2 beaver and zoners tools to compile. 
+ 
+KNOWN BUGS              : You can't exit the generator when somebody placed an tripwire
+                          on the exit door, so check that before you get in.
+ 
+COMPILE MACHINE         : P3 800MHz 128 MB RAM Win98
+ 
+compile time		: +- 30 minutes
+time spend on building 	: about 22 hours 
+
+--------------------------------------------------------------------------------
+* OTHER LEVELS BY THE AUTHOR *
+--------------------------------------------------------------------------------
+cs_beirut
+es_jail
+cs_jailV2
+tfc_welfort
+Hazard course game I & II Shrimpwars edition
+a few less succesfull more
+
+Soon, hi_town and uw_office
+
+ 
+--------------------------------------------------------------------------------
+* SPECIAL INSTRUCTIONS / ADDITIONAL INFORMATION *
+--------------------------------------------------------------------------------
+Extract phl.wad to  [default] c:/sierra/halflife/valve
+Extract the DL29.bsp and the readme to  [default] c:/sierra/halflife/valve/maps
+ 
+--------------------------------------------------------------------------------
+* CREDITS *
+--------------------------------------------------------------------------------
+Valve for their awesome platform
+All tutorial & tool  makers. 
+=PC= Majestic (Prodidgy/Lance) for his DM l33tness and item placement sugestions.
+
+
+
+================================================================================
+* COPYRIGHT / PERMISSIONS *
+--------------------------------------------------------------------------------
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+You can do everything you like as long as this unchanged txt file wil be includded!
+ 
+ 

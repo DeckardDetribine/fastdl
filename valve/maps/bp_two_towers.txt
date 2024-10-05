@@ -1,0 +1,68 @@
+=====================================================================
+   **-= BAAL-PEOR'S TWO TOWERS =-*-*-= BAAL-PEOR'S TWO TOWERS =-**
+=====================================================================
+
+------General Information--------------------------------------------
+
+Title           : Two Towers
+Filename        : bp_two_towers.zip (1.83 MB)
+Author          : Baal-Peor
+Author Email    : bp@baal-peor.gq.nu
+Home Page       : baal-peor.gq.nu
+Description     : Half-Life Deathmatch
+
+                  ==Black Mesa Training Center: Two Towers Section==
+
+		  Multi-leveled indoors & outdoor arenas including
+		  several elemental traps: two towers with baal-guns.
+		  Ever dream of blasting it out face to face? Do you
+		  have a fear of catwalks or heights? If so, this
+		  level will probably take you to another world. One
+		  that you might fear too much...
+
+------Play Information-----------------------------------------------
+
+Deathmatch      : Yes
+Single Player   : n/a [info_player_start inserted]
+Map Description : Half-Life Deathmatch
+How Many Players: 5-10 players or bots
+
+------Map Information------------------------------------------------
+
+New Textures    : Yes [40+ custom textures by Baal-Peor]
+New Sounds      : No need
+Release Date	: 03-22-2002
+
+------Construction---------------------------------------------------
+
+Base            : Scratch, nicks and nacks
+Editor(s) used  : Quark 6.2, Adobe Photoshop & Wally
+Compile Machine : Sufficient
+Half-Life #	: 43/1.1.0.7 [sw build 1712]
+Compile time    : 7 minutes
+Play test time  : 7 hours
+
+------Reviewers/Mags/CDs---------------------------------------------
+
+I need work in level design [why? Because I gave up on life
+a long time ago...] I'm still serious. Any serious job/mod offers?
+
+If you review this level on your website, please e-mail me at
+bp@baal-peor.gq.nu so I can link to your site from my homepage at
+http://www.baal-peor.gq.nu/ and don't forget that authors can submit
+levels for review at my site!
+
+Using any of the custom textures compiled within this level for
+outside projects is welcome but give credit/link in the text file.
+
+------Copyright-Permissions------------------------------------------
+
+Authors may use this level as a base to build additional levels.
+
+Do not separate this compiled BSP from this text file [period].
+
+You may openly distribute the file: bp_two_towers.zip in any way.
+
+=====================================================================
+   **-= BAAL-PEOR'S TWO TOWERS =-*-*-= BAAL-PEOR'S TWO TOWERS =-**
+=====================================================================

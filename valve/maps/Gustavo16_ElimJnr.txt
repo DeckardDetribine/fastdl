@@ -1,0 +1,120 @@
+** INTRODUCTION **
+
+Title			: Eliminator Jnr.
+Date			: 19th February 2000.
+Filename		: Gustavo16_ElimJnr.bsp
+Filesize		: 3.4mb, or thereabouts.
+Author			: Keved, my Half-Life alias is Gustavo.
+Email Address		: keved@keved.force9.co.uk, or keved@hotmail.com as a last resort.
+ICQ			: 10393836 (auth required).
+Home Page		: http://www.keved.force9.co.uk
+
+ABOUT THE MAP/ME:
+Eliminator Jnr is my 16th FPS map (and 8th for Half-Life deathmatch).
+
+Previous maps...
+01. Penitentiary (Half-Life deathmatch, released 5-March-1999).
+02. Maximillian (Half-Life teamplay primarily/also deathmatch, released 15-May-1999).
+03. Maximal (Team Fortress Classic territorial domination, released 8-July-1999).
+04. Mad Bucking Fastards (Half-Life deathmatch, released 27-July-1999).
+05. Talos (Half-Life deathmatch, released 3-August-1999).
+06. C4 (Action Half-Life, released 16-September-1999).
+07. TNT (Half-Life deathmatch, released 23-October-1999).
+08. Orbital (Team Fortress Classic CTF, released 31-December-1999).
+09. Jaw Breaker (Half-Life deathmatch, released 20-January-2000).
+10. Corps68 (Team Fortress Classic CTF, released 26-January-2000).
+11. The Bone Collector (Half-Life deathmatch, released 2-February-2000).
+12. Jaw Operation (Opposing Force deathmatch, released 2-February-2000).
+13. The Jaw Action (Action Half-Life, released 2-February-2000).
+14. Bone Action (Action Half-Life, released 4-February-2000).
+15. Bone Operation (Opposing Force deathmatch, released 4-February-2000).
+
+Who am I? I'm 24 yrs old, English, & currently work for an Architectural Practice in NW England.
+
+CREDITS TO:
+1) Valve/Sierra/id.
+2) The Zoner compiling tools version 1.41. Eliminator Jnr was compiled with these superb modified compiling tools, via a batch file. sean@dimensionalrift.com. Keep up the good work, Sean.
+3) Records, for salvation from radio/tv hell.
+
+
+
+** PLAY INFORMATION **
+
+SINGLE PLAYER:
+Just to familiarise yourself.
+
+MULTIPLAYER:
+6-18 players. More if you don't mind it being crowded, though a little big for less than 5 players (may I recommend my previous smaller DM maps Jaw Breaker & The Bone Collector for lower player numbers). 16 respawn points are included.
+
+TEAMPLAY:
+Yes, form up into teams, with the obvious teamplay goal of capturing and holding the bunker.
+
+DESCRIPTION:
+A large map complete with a Crossfire-style bunker and airstrike effect. Activate the airstrike once every 5 minutes, and defend the bunker to lock opposing players outside. A "halftrack" vehicle, with 2 mounted guns, is positioned outside to aid defenders.
+
+PLAYING:
+The airstrike procedure...from when the siren sounds until detonation, you have 45 seconds to get through the bunker's door. Note that it isn't enough to simply stay in the bunker's sniper battlements, the ONLY safe place is behind the blast door. Everyone still outside after 45 seconds dies immediately. To be more precise, the trigger_hurt kicks in after 48 seconds.
+
+Plenty of weapons are present (ie 5x9mmAR, 5xShotgun, etc), though it's not jam-packed - they've all been spaced adequately around the map (even to the point of printing out the plan-view onto paper, marking on where the weapons are placed, and juggling the map-wide balance of each type of weapon). Lots of weapons, sure, but those of the same type are spread around. I prefer to see people carrying around an extra weapon or two in reserve rather than trashy crowbar/revolver scuffles commonplace. The bunker is the exception, with very few weapons but plenty of ammo. Also, the largest concentration of weapons/ammo/health/armour is the outdoors area furthest from the bunker.
+
+One Gluon is present, submerged in water, and is guarded by a water trap. A nearby boiler can be turned "on" to heat the water to boiling point. Anybody who then fancies a little swim, volcanic pool style, feel free to jump right in. Those with more substance than empty space between their ears will know it's best to turn the boiler "off" again first. The room in which the boiler is housed has a few dark corners, especially for campers trying to ruin the day of those trying to get the Gluon.
+
+Two RPG's...both require a jump to reach, both CAN be reached merely by jumping.
+
+R_speeds are a little higher than I'd like in places, though nothing outlandish. Wpoly is generally around 300, peaking at 800, though the low-ish epoly content (~2000) helps to balance things out. My set-up is by no means considered fast these days (300mhz Pentium2 & 12mb Voodoo2) and FPS never dropped below 30. OpenGL users should have no problems running it. Software mode users must ask themselves why they've gone to the trouble of finding this map and are still playing FPS games without a 3D card! Still, any software mode users should be ok too. 8OÞ
+
+There will be no "Eliminator Snr". I just liked the sound of the words "Eliminator Jnr" - taken from a Sonic Youth track.
+
+Hope you like Eliminator Jnr. I'd appreciate feedback too...to my email address at the top of this text file. It's a major commitment putting in the time to design these damn maps, so I fully welcome any & all constructive encouragement / ideas / criticisms / praises. Job offers welcome too!!
+
+
+** WHAT'S NEXT **
+
+"Nostromo". TFC CTF which has a MASSIVE bsp size of 5.7mb, and is the sequel to Orbital. Nostromo has been 99% complete for about 2 months now, the damn thing suddenly refused to compile properly. GRRRR@Vis.exe.
+
+"SmashTV". A large deathmatch map that will feature four independent nukes (like my second map Maximillian) as opposed to the one nuke here in Eliminator Jnr. It will also have a strong teamplay element by being "King Of The Hill" in nature (a central bunker complex, surrounded by the 4 nuke-able zones).
+
+I'm also thinking about venturing into HL single player mapping for the first time. Plenty of ideas, probably not enough free time, so I may just continue deathmatch mapping. I'd also like to have a go at Quake 3 mapping, but my cack Ati@Work 2D card refuses to be friends with Q3Radiant - I simply can't even load it never mind do any editing (arghhhh).
+
+
+
+** INSTRUCTIONS **
+
+Extract the files manually into the following.
+
+Gustavo16_ElimJnr.bsp into ...\\valve\maps
+
+And of course keep this text file. 8¬)
+
+
+
+** CONSTRUCTION **
+
+Base                    : Based partly on Gustavo10_Corps68.bsp. 75% of the map is brand new, the other 25% was based on Corps68 though much of that 25% has been re-textured.
+Editor(s) used          : Worldcraft v2.1
+Custom textures		: Yes, a few used without permission from Quake 3 Arena (credit to id, they have some fantastic texture artists). Apologies for ripping - my lax morals I guess.
+Custom sounds		: No.
+Known Bugs              : Just that I've stretched some textures, so decals may be out-of-shape/size. For info, all light fixtures are func_illusionary's - don't be surprised by being able to jump through light fixtures.
+Build Time              : 1 week to build, a few days to playtest & polish. How many hours? Not long, but at a guess, around 15hrs in total.
+Compile Time		: Around 45 minutes on my PII 300mhz w/224mb. (Full vis, extra rad).
+
+MAP INFO:
+Rmf size		: 4150kb
+Solids			: 1826
+Faces			: 11046
+Point Entities		: 339
+Solid Entities		: 248
+Successive revisions	: 15
+
+
+
+** PERMISSIONS **
+
+Email me if you'd like to have a look at the (4mb) rmf file for Eliminator Jnr. Zips down to ~175kb.
+
+You have yerself a nice day, y'hear?
+
+Oh btw, if you see me on a server, I *CANNOT* speak Spanish/Portuguese/Smack talk/whatever...just so I ain't assumed to be a Colombian drug baron like I have been a few times before (or corderoy wearing Uruguayian goat shepherd, that happened once). 8¬)
+
+--
+Gustavo.

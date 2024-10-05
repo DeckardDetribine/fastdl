@@ -1,0 +1,74 @@
+++++General Information+++++++++++++++++++++++++++++++++
+
+Title		: SPASM_Remix
+Filename		: spasm_r.bsp
+Author		: Casey 'Warpig' Hawley
+Email 		: chawley@whoever.com
+Description	: Half-Life Deathmatch
+# of Players (size)	: 2 - 12 (medium)
+
+Ok, I wanted to do a remix of Spasm because I became irritated 
+by the little bugs that became apparent after its original release.
+(See bug fixes below) Plus, I wanted to bring more colored lighting
+into play in order to enhance the architecture and mood of the map.
+The gluon alarm now sounds throughout the level, which was my 
+original intent, as it makes it even riskier to try for it. I also added a
+small extension to the map that includes a secret area. Can you get 
+inside? :)
+
+
+++++Mapography++++++++++++++++++++++++++++++++++++++
+
+1996 / The Pen (Quake: Final Arena)
+1997/ Mansruin (Quake 2 DM - unreleased)
+2001 / SPASM (HLDM)
+2001 / SPASM_Remix (HLDM)
+	
+
+++++Play Information+++++++++++++++++++++++++++++++++++++++
+
+Deathmatch	: Yes
+Single Player	: 1 for test/debugging only
+
+
+++++Map Information+++++++++++++++++++++++++++++++++++++
+
+New Textures	: None
+New Sounds	: None
+
+Bugs fixed:
+- Gluon button fixed
+- "Sliding stones" above fountain fixed
+- Game text fixed
+
+
+++++Construction++++++++++++++++++++++++++++++++++++++++++
+
+Base		: spasm.map
+Editor(s) used	: WorldCraft 3.3
+Compile Machine	: AMD K7 750, 256mb ram
+Compile time	: 26 min.
+Creation Date	: July 30, 2001
+
+
+++++Instructions+++++++++++++++++++++++++++++++++++++++++
+
+Extract the contents of the .zip archive into your Half-Life\valve\maps directory.
+
+
+++Additional Info++++++++++++++++++++++++++++++++++++++++++++
+
+Thanks to Valve for bringing us Half-Life. Thanks also to those who brought
+the bugs in the original Spasm to my attention.
+
+There are a couple spots where r_speeds spike a bit high, but they are in
+low traffic areas.
+
+
+++++Copyright-Permissions++++++++++++++++++++++++++++++++++
+
+This UNMODIFIED file MUST accompany the BSP in any form of distribution. 
+
+These files may be distributed freely. Drop me an email and tell me if you
+like the map!! 
+

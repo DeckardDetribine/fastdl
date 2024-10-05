@@ -1,0 +1,53 @@
+==General Information
+
+	Title		: Phreneticism (HL DM)
+	Filename	: dm_phreneticism.bsp
+	Author		: Andrew Weldon
+	E-mail		: falcon_x32@yahoo.com
+	Website  	: http://awmaps.tripod.com
+	Description	: 6-10 player Half-Life Deathmatch
+	Previous Maps	: dm_phl -- Planet Half-Life HQ
+			  funny_cratemaze -- CrateMaze (SnarkPit's funny map contest)
+			  dm_zeta -- Zeta Sector (HL DM version)
+			  op4_zeta -- Zeta Sector (Op4 DM version)
+
+==Credits and Thanks
+
+	Valve Software
+	Gearbox Software
+
+
+==Map Info
+
+	Deathmatch	: yeparoos
+	Single Player	: no
+	6-10 players recommended
+
+==Map Information
+
+	New Textures: none
+	New Sounds  : nope
+
+	This is my fifth release, paired with my sixth, the OpFor version of this map.
+
+	Very rounded/circular, kinda dark closed corridor-based combat. Hopefully lives up to the name. This map is recommended for 6-10 players,
+	but has a theoretical capacity of up to 20. I don't recommend that you try it, but it might be interesting. :)
+
+==Construction
+
+	Base: scratch
+	Editor(s) used	: Worldcraft 3.3
+	Compile Machine	: AMD Thunderbird 1.33 gHz, 512 mb RAM.
+	Build time	: 7 days
+	Compile time	: 8 minutes
+	Playtest time	: I'm going to stop using this slot, not because I don't playtest, but because I have no idea how long it takes.
+
+==Map Instructions
+
+	Unzip "dm_phreneticism.bsp" into your valve/maps/ directory. Find a server playing the map (ha!), and join. Or create a server with the map. I like that idea.
+
+
+This map is (c) 2001 Drew Weldon. Enjoy.
+
+Drew Weldon's map making "talents" will return in this current project:
+Black Mesa: Sector A

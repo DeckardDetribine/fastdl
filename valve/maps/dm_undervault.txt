@@ -1,0 +1,90 @@
+THE UNDERVAULT
+By Victor-933
+
+=====================================================
+DESCRIPTION
+-----------------------------------------------------
+
+A dark and gloomy map (seems to be a theme with me)
+with a heavy steampunk aesthetic.
+
+=====================================================
+INSTRUCTIONS
+-----------------------------------------------------
+
+INSTALL:
+Extract all files except the "waypoints" folder to
+"half-life/valve".
+
+OPTIONAL:
+Place "dm_undervault.rcw" and "dm_undervault.rcv" in
+"half-life/rcbot/waypoints/valve"
+(only if you have RCBot installed)
+
+
+PATHS:
+
+valve --+
+	|
+	+----- sounds
+	|	|
+	|	+----- dm_undervault
+	|		|
+	|		+----- *.wav
+	|
+	+----- sprites
+	|	|
+	|	+----- dm_undervault
+	|		|
+	|		+----- *.spr
+	|
+	+----- maps
+		|
+		+----- dm_undervault.bsp
+
+
+=====================================================
+NERD STUFF
+-----------------------------------------------------
+
+Built on HP TC1100 Laptop
+
+	1.0 GHz Pentium M Single-Core Processor
+	1.5 GB RAM
+	32MB Nvidia Geforce 420M GO GPU
+
+Tested on:
+
+	HP TC1100 using RCBOT V1.2
+	GPD XD Android Tablet (via Xash3D Android)
+
+Highest R_SPEEDS count: ~1040 WPOLY
+
+=====================================================
+CREDITS
+-----------------------------------------------------
+
+TEXTURES:
+
+The Poke646 Team
+Half-Life 2
+The Deathmatch Classic Team
+The Nightwatch Team
+Victor-933
+
+SOUNDS:
+
+Doom 3
+Blood
+Quake 2
+
+=====================================================
+OTHER MAPS BY VICTOR-933
+-----------------------------------------------------
+
+DM_Enpro
+DM_Achluophobia
+DM_Fenrir
+DM_Clocktower
+
+Find them on http://wwww.gamebanana.com/ !

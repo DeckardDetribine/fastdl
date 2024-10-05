@@ -1,0 +1,60 @@
+================================================================
+Title                   : StalkNight
+Date                    : 13 June 2001 
+Filename                : Stalknight.bsp
+Author                  : Hugo "Bug" Dechesne 
+Email Address           : hugo-online@zonnet.nl
+
+Description             : A storage facility with an underground stockingroom at night. At the
+			  surface are 5 houses and 2 snipetowers, all the houses are connectet
+			  through the underground stockroom. Looks excellent and the gameplay 
+			  is visciously good. YOU MUST PLAY.
+
+
+
+Additional Credits to   : Randy Lundeen
+			  Evilone
+  			  Valve Software
+                          Qoole 99			  
+================================================================
+
+Play Information 
+
+Single Player           : No 
+Deathmatch              : 2-6
+Difficulty Settings     : No
+
+Construction 
+
+Base                    : From scratch
+Editor(s) used          : Qoole 99
+Known Bugs              : If you place a trip mine against the wall in a tunnel underground and	
+			  walk through it or shoot it it won't explode. Instead place it on the
+			  wall.
+
+Build Time              : don't ask
+
+Compile machine         : PII Celeron 433 with 128RAM Geforce 256
+Compile time		: about 15 minutes
+
+
+================================================================
+
+Copyright and Permissions
+
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name kill_frenzy.bsp and is supplied in a zip file called 
+kill_frenzy.zip that also contains this text document and 
+no other files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 2001 Hugo Dechesne

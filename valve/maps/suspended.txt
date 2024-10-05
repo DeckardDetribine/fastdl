@@ -1,0 +1,23 @@
+Suspended: HL deathmatch by [Kasperg] YUGO     2006
+
+
+Extract the bsp file  into your valve/maps folder
+
+This map is my first experience in voluntarily displaying more than 900 wpolys.
+The map was born out of a sketch I did for a shopping mall.
+The layout is made of a big arena-type area with some sub-rooms that connect the 
+different height levels of the map. In playtesting, it was fun even with bots.
+Texturing, although objectively blurry and simple, is an important aspect of the map. 
+The main color scheme follows a set of rules: the greyish concrete is used for wall surfaces. 
+The blueish one is used as railings would. The yellowish concrete is used in vertical 
+supports. The rest of the beams, thinner supports and trims are made of red, orange or 
+yellow materials. The floor is either solid concrete or covered with orangish sand. If 
+this was a real place, the sand would feel moist and cold, as well as most of the walls.
+
+This map is a possible candidate for a Source conversion.
+
+
+
+The rest of my maps can be found here:
+------------------------------------------
+http://twhl.co.za/mapvault.php?author=1210

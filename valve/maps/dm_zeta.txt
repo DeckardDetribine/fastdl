@@ -1,0 +1,50 @@
+------General Information--------------------------------------------
+
+Title		: Zeta Sector
+Filename	: dm_zeta.bsp
+Author		: Andrew Weldon
+Author E-mail	: falcon_x32@yahoo.com
+Description	: 8-12 player Deathmatch
+Previous Maps	: dm_phl -- Planet Half-Life HQ
+		  funny_cratemaze -- CrateMaze (SnarkPit's funny map contest)
+
+------Credits and Thanks---------------------------------------------
+Valve Software
+Gearbox Software
+Dave Johnston
+
+
+------Play Information-----------------------------------------------
+
+Deathmatch	: inDEED
+Single Player	: no
+Map Description	: see above
+8-16 players recommended
+
+------Map Information------------------------------------------------
+
+New Textures: one, compiled into bsp
+New Sounds  : nope
+
+Third completed map from me. 
+
+------Construction---------------------------------------------------
+
+Base: scratch
+Editor(s) used	: Worldcraft 3.3
+Compile Machine	: AMD Athlon 800, 192 mb RAM.
+Build time	: about 20 days
+Compile time	: 15 minutes
+Playtest time	: a couple hours
+
+------Map Instructions-----------------------------------------------
+
+Unzip "dm_zeta.bsp" into your valve/maps/ directory. If you're going to start a server, I would assume you already know how to select the map and begin the game. If you are joining a game using this map, I assume that you also know how to start playing this map. If you're really bored, my test info_player_start is still in the map, and you can run around and blow yourself up. If you're into that kinky stuff.
+
+
+This map is (c) 2001 Drew Weldon. Enjoy.
+
+Drew Weldon's map making "talents" will return in one of these current projects:
+OpFor single player campaign: Nova 001
+Half-Life Deathmatch: Facility 15 (dm_fac15)
+Counter-Strike: Silo 6A (de_silo)

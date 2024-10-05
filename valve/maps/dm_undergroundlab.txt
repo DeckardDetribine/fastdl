@@ -1,0 +1,14 @@
+dm_undergroundlab
+
+This is my entry for the seconds "Map from layout" compo at TWHL.
+Its a HLDM map for Half-Life.
+
+I don't expect to win this at all because i made a fatal mistake near the end, forcing me to make an alternative path not shown on the layout picture, i hope this isn't a big issue for the judges.
+
+This map features some of my best vertex manipulation work. It took me 3 days to map the cave part using tetrahedrons.
+
+
+ENJOY THE MAP!
+
+
+- Atom

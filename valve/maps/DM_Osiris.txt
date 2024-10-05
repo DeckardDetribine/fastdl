@@ -1,0 +1,34 @@
+[
+
+
+Map by KIIIA!
+
+Textures :
+
+Sock
+Evillair
+MarGon
+
+Sky:
+
+Ken "Doc Mojo" Musgrave and Armands Auseklis
+
+Palmmodel:
+
+Rick J. Kelley, aka Rat
+
+Release date:
+
+June 28th ,2004
+
+Compile time :
+
+about 4h on a
+
+AMD TB 1050 MHz
+128MB PC100
+
+
+]
+
+Nothin` left to say , but nJoy and have fun!

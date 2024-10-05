@@ -1,0 +1,120 @@
+SENECA
+=======================================================================================================
+
+Date                    : 1st June 2003
+Title                   : Seneca
+Filename                : seneca.bsp
+Author                  : ReNo [Duncan Blair]
+Email Address           : reno@elva-mod.co.uk , reno@deadpan-studios.co.uk
+ICQ#			: 28651662
+MSN			: renobutsomebassnickedmynick@hotmail.com
+Home Page               : http://evolution.hlgaming.com
+			  http://www.elva-mod.co.uk
+
+Installation Info	: Unzip the contents of this zip to your half-life folder and all the files
+			  will go to their correct location.
+
+Map Description         : A very quake3/ut style space arena for HLDM. While maps like this are very
+			  common for the two prior mentioned games, for Half-Life they are quite rare,
+			  and even more rare to be found well made. I was in the mood for making a
+			  quick arena and this is the result.
+
+			  Beware, r_speeds are VERY high in this map. Due to being very open, and
+			  quite complex in terms of architecture, there was very little I could do to
+			  lower them. I am confident I have done everything in my ability to get them
+			  as low as I can, but they still peak at 1800 odd. Despite this, the map
+			  seems to run just as well as many lower r_speed maps, and in some cases
+			  even better. I guess it goes to show that r_speeds aren't the only pointer
+			  to how well a map will run :)
+
+			  While the map is designed to work in HLDM just fine, it is probably best
+			  suited to the Adrenaline Gamer mod's arena mode...
+			  http://www.planethalflife.com/agmod
+
+Other Works by Author   : [1] Obsolete...	HLDM
+			  [2] Elixir...		HLDM
+			  [3] Rebellion...	HLDM
+			  [4] CM Arena...	HLDM
+			  [5] Echo...		HLDM | AGCTF version also available
+			  [6] Forsaken...	HLDM | AGCTF version also available
+			  [7] Outland...	AGCTF
+			  [8] Torrent...	HLDM
+
+			  Check them and more out at the maps page of my site:
+			  http://evolution.hlgaming.com/maps.html
+
+Misc Author Info        : This is my ninth unique map release. I am an 18 year old currently studying
+			  BSc Computer Games Technology at the University of Abertay in Dundee,
+			  Scotland. Fingers crossed after getting this degree I will become a
+			  fully fledged Level Designer working in the industry :) Outside of level
+			  design I am a skateboarder, rollerblader, ice skater and snowboarder.
+			  I listen to ska/punk/emo music and play a helluva lot of computer games! I
+			  am also a member of a small student games development team based in Dundee.
+
+
+======================================================================================================
+
+== Play Information ==
+Single Player           : No [1 start]
+Cooperative             : No
+Deathmatch              : Yes
+AGCTF			: No
+
+== Construction ==
+Base                    : Scratch
+Editor(s) used          : Valve Hammer 3.4, Wally
+
+== Build Machine ==
+AMD Athlon XP 1800+
+256mb Crucial SDRAM
+128mb Chaintech GeForce4 Ti-4200
+
+== Test Machines ==
+AMD Athlon XP 1800+
+256mb Crucial SDRAM
+128mb Chaintech GeForce4 Ti-4200
+
+AMD Athlon XP 2000+
+512mb DDR RAM
+128mb GeForce4 Ti-4400
+
+
+========================== Playtesting & Suggestions & Feedback ======================================
+	
+In no particular order...
+
+Real Life mates :	Trunter		Paul
+			Chan		Choch
+
+Others :		A whole lot of people commented on this level so please forgive me for
+			not listing all the names. Suffice to say that everyone's comments were
+			taken to heart and really helped shape the level.
+
+
+==================================== Thanks... =======================================================
+In no particular order...
+
+	- Friends
+	- Family
+	- All the great HL mapping sites that i learnt from
+	- All the great HL level review sites, past and present
+	- Leperous for running the ever-improving incredible Snarkpit (http://www.snarkpit.co.uk)
+	- Snarkpit forum crew for comments and banter
+	- Everyone involved in the AG mod for improving HLDM (http://www.planethalflife.com/agmod)
+	- Challenge-HL folks for being continually interested in HLDM (http://www.challenge-hl.com)
+	- People at HLCCL forums for the kind words about my work (http://www.hlccl.com)
+	- Justin Fisher for making the custom sky
+	- Yves "evil_lair" Allaire for his great textures that helped shape the map
+	  (http://planetquake.com/hfx)
+	- Anybody who looked at this map and told me their thoughts!
+
+
+==Copyright / Permissions==
+Authors MAY NOT use this level as a base to build additional levels.
+
+This map may be distributed ONLY on a "not for profit" basis using any medium,
+provided this file is included with no changes.
+
+Magazines and other published media may use my level provided they ask for my permission.
+
+This template is available from www.globalassault.com.

@@ -1,0 +1,14 @@
+// overview description file for nowhere.bsp
+
+global 
+{
+	ZOOM	2.87
+	ORIGIN	-62.44 	-82.78	376
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/nowhere.bmp"
+	HEIGHT	-1024
+}

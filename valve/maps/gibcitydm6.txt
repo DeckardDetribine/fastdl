@@ -1,0 +1,114 @@
+=====================================================================
+   Half-Life Map Specification Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: GibcityDM6
+Release         : Official release
+Date		: 30th December 2002
+Filename	: gibcitydm6.bsp
+Author		: Wayne W. Smith
+Email Address	: wsmith@gibcity.com
+Home page	: www.gibcity.com
+Description	: Medium City Level with building interiors.
+Previous Maps	: Various Quake2, Half-Life & Daikatana maps.
+
+Credits/Thanks	: William Edward Smith - Play Tester/Design Helper
+                : Julia Elizabeth Smith - Play Tester
+                : Dan Murphy - Play Tester/Design Helper
+                : Jerry Potucek - Play Tester/Design Helper
+                : John Romero - All around game developer "God"
+                  (John gave me the idea to release .map files)
+                : Pete Parisi - Building Textures - www.badmeat.com
+                : Valve Software - Half-Life
+                : Prospect Vector - Tread3D Level Editor
+
+
+Special Notes   : Special credit goes to my wife Jacalyn, son WES, and
+                  daughter JES for putting up with a 40+ obsessive map
+                  maker.
+
+                : I have included the .map and .wad files in an effort
+                  to help and encourage other authors.  Use all or part
+                  as you wish.
+
+
+------Play Information-----------------------------------------------
+
+Game Version    : Half-Life DM
+Deathmatch	: Yes - 6 starts provided
+Single Player	: No but one start is provided
+Map Description	: A medium size city deathmatch level but unlike DM5
+                  there are building interiors.
+
+
+------Map Information------------------------------------------------
+
+New Textures	: Yes
+New Sounds	: None
+
+
+------Construction---------------------------------------------------
+
+Base		: New
+Editor(s) used	: Tread3D
+Build Time      : Four weeks (on and off)
+Known Bugs      : None
+Compile Machine	: Compaq DeskPro 4000; Pentium II 450; 384MB RAM;
+                  3D Prophet II GTS
+Compile times	:
+                  Csg time                :   20 sec 
+                  Bsp time                :   15 sec
+                  Vis time                :  445 sec
+                  Rad time                : 1580 sec
+                  Total compile time      :  34 min 20 sec  (2060 sec)
+
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "gibcitydm6.bsp" in
+your half-life/valve/maps directory.
+
+
+------Additional Info------------------------------------------------
+
+Map Construction/Layout :
+
+
+                  All the DM starts have a weapon and ammo in front
+                  of them.
+
+                  The following entities are not included in this map
+                  Gauss, Hornetgun, and Snark.
+
+                  The generator was a heavily modified prefab authored
+                  by AmranX.
+
+                  The street light was a heavily modified prefab authored
+                  by iKKe[BAR]. 
+
+                  There are no secrets in this map.
+
+                  There are custom textures in this map.  These
+                  textures were compiled into the .bsp and this
+                  was done to facilitate an easier download from
+                  a server during a game.
+
+                  If you do not like this map or any of the entity
+                  placements don't bother to tell me, just take the
+                  .map and/or .wad files provided and make your own
+                  version.
+
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY use this level as a base to build additional levels without
+giving me any credit. (Yes, this is not a misprint.) 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without permission from the author of the present work or works.

@@ -1,0 +1,8 @@
+global_box
+
+a deathmatch map by
+
+Dumazcus
+
+This is my first deathmatch map.  Thanks to all the guys at Valve ERC and other mapper forums for their help and information.
+

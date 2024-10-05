@@ -1,0 +1,78 @@
+-------------------------------------------------------------------------
+
+* Play Information *
+Title 			: galileo
+Filename		: galileo.bsp
+Author			: [DRS]DoomDog - Anchorage, ALASKA
+Other lvls by author	: morality, vx800, drs_unity9, freewill, op4_freewill
+Email address 		: mrapp@gci.net
+Home page		: http://www.mrapps.com
+Description		: Deathmatch map for Half-Life
+Size			: medium-small
+Additional Credits to   : [DRS]Reaper, [DRS]Orpheus, [DRS]Misery,
+				[DRS]Dogkiller, [DRS]JRipper, [DRS]Hooligam
+Single Player           : no
+Cooperative Player      : no
+Deathmatch Player       : yes
+CTF2			: no
+Difficulty Settings     : no
+New Textures            : no
+CD Track                : no
+
+-------------------------------------------------------------------------
+
+* Installation *
+
+Put the file galileo.bsp in your half-life/valve/maps folder. 
+    
+
+------------------------------------------------------------------------
+
+* Tips & Notes *
+
+Not all half-life weapons are used. Left out were tau_cannon, rpg, and
+the "bee-gun".  You have 2 seconds to get the gluon before you are sucked
+out into space, so hurry (it can easily be done). The "toilet" also acts
+as a recharger.
+
+------------------------------------------------------------------------
+
+* Construction *
+
+Base			: new Level from scratch
+Editor(s) used          : Worldcraft 2.1
+Compile Machine		: Pentium II 450MHz
+Compile time		: not long
+
+-------------------------------------------------------------------------
+
+* Additional Information *
+
+Extra special thanks goes to [DRS]Hooligan, [DRS]JRipper, and [DRS]Dogkiller
+for assisting in the play test of this map and identifying bugs and providing
+overall input on the map.
+
+Extra special thanks goes to [DRS]Orpheus for the idea of the air-lock trap.
+
+Extra special thanks also goes to [DRS]Orpheus as well as [DRS]Reaper
+and [DRS]Misery for inspecting the map for problems and deficiencies.
+
+Those [DRS] are a pretty good bunch of people!!!
+
+Hope at least one person who plays this map likes it, if so, then
+it will be worth it!
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+DoomDog 04/01/2000
+

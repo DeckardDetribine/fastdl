@@ -1,0 +1,80 @@
+================================================
+   Half-Life Map Spec Sheet
+================================================
+
+
+------General Information--------------------------------------------
+
+Title		: LV-231 
+Release Date	: September 6th 2001
+Filename	: lv231.bsp
+Author		: Joe (ZenMaster) Cassella
+Email Address	: zenmaster@ccwebnet.com
+Home page	: www.clanalien.com
+Previous Maps	: yutani2
+		  alienship
+		  aliens
+		  
+
+------Map Information------------------------------------------------
+
+Map type	: Medium sized Deathmatch, 4 to 12 players
+Spawn points	: 20
+New Textures	: yes
+New Sounds	: None
+Missing Weapons	: Hornet Gun
+Secrets		: none 
+Bugs		: none that I know of
+
+------Construction---------------------------------------------------
+
+Base		       : From scratch. 
+Programs used	       : WorldCraft 3.3
+		         Zoners  tools
+		         HLCC
+			 Wally  
+Compile Machine	       : AMD Athlon 1 Gig, 256k Ram
+Construction time      : 3 days (about 16 hours)
+Compile time	       : 3 minutes
+
+
+Mad Props and thanks to Valve, Rebellion, The Makers of Oz (Willi, ToonCop and StarBreaker), Zoner, Autolycus and the Valve-ERC, the guys at Gracelessland and Wally, Underground_King at The Lower Level, and my ALIEN clanmates for beta testing and encouragement.  
+
+---------Description------------------------------------------------
+This map depicts part of a colonial supply depot owned by the Weyland-Yutani Corporation, the infamous "Company" from the Aliens series of movies. The colony has been overrun by Aliens, and some of the damage they have caused can be seen in the map.  
+
+The map is fairly small, with weapons placed to provide a good deal of chaotic fighting.  Oz players should find this an ideal map for serious fragging.  Regular Half-Life players will enjoy strategic spots for sniping as well as good general gameplay.
+
+Some of the textures used were converted from the "Alien vs Predator" game by Fox and Rebellion, using a great texture utility program called Wally.  They are embedded in the bsp file using the -wadinclude parameter of Zoners tools, so no additional wad file is needed. It does make the filesize much larger though.
+
+I am a big Aliens fan, and my maps reflect this. I get bored with the same old "military camp" type maps, so I try to make maps that are more interesting, with a special theme.  
+
+Any good mapmaker knows there must be a balance between playability and detail, and this is often the hardest part of mapping.  I tried my best to strike this balance.  Any and all feedback is welcome.  Thanks for reading and I hope you enjoy the map!
+
+-Zen
+
+Contact me at zenmaster@ccwebnet.com  
+For Oz info hit our clan website at www.clanalien.com
+And the official Oz site at www.planethalflife.com/oz
+
+------Map Instructions-----------------------------------------------
+
+Unzip this file and place "lv231.bsp" into 
+your half-life/valve/maps directory.
+If you play Oz you should also put it in your half-life/oz/maps directory.
+
+
+------Copyright-Permissions------------------------------------------
+
+This map file is copyrighted 2001 and all rights are reserved.
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+----------------------------------------------------------------------------------

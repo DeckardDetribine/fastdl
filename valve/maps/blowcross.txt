@@ -1,0 +1,11 @@
+BlowCross
+v 1.1
+
+*** frost.cs-mapping.com.ua ***
+by Fr0sT (Fr0sT@inet.ua) & Flash (Flash_AD@mail.ru)
+========================================
+Modification HL :   Half-Life, HL - Weapon Edition
+Max Players :       20
+Create-time :       3 days
+Compil-time :       20 min
+========================================

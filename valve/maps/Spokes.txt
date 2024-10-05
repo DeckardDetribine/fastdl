@@ -1,0 +1,53 @@
+================================================================
+Title                   : Spokes - for Half-Life
+Date                    : March 31th 1999
+Filename                : Spokes.bsp
+Author                  : Glen Cooper aka "WebGord"
+Email Address           : gcooper@huntinter.com
+Home Page               : www.huntinter.com	-company I work for (not Half-Life related)
+Mail Address            : Glen Cooper
+                          4331 Lake Washington Blvd. NE #7206
+                          Kirkland, WA 98003
+                          USA
+Description             : This map revolves around one central room with four corridors going 
+			  off in four different directions.  One room has a turret where you 
+			  can control 2 corridors at once.  Another room has a great place for 
+			  sniping (once you turn the lights off).  Should be good fast deathmatch 
+			  for 2 to 8 players.
+
+Previous Maps		: Gymnasium
+
+Additional Credits to   : i)   ID software
+                          ii)  Valve/Sierra
+
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Deathmatch              : Yes, 2 to 8 players
+Difficulty Settings     : No
+
+================================================================
+
+Make sure you put the .bsp file into the following directory:
+
+... \Sierra\Half-Life\valve\maps
+
+================================================================
+
+* Construction *
+
+Base                    : None
+Editor(s) used          : Worldcraft 2.0
+Known Bugs              : None that I know of
+Build Time              : About 3 days with a few more for tweaking.
+
+Compile machine         : PII 450 with 128 megs of RAM
+QBSP Time               : 10 seconds
+QVIS Time               : 2 minutes
+QRAD Time (extra)       : 9 minutes
+
+* Permissions *
+
+Do what ever you want.  Don't bother me none.

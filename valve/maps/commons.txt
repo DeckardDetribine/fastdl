@@ -1,0 +1,70 @@
+=====================================================================
+   THE COMMONS
+
+   a half-life deathmatch level, ideal for 1-on-1 play
+=====================================================================
+build 0.92
+6.28.99
+
+------General Information--------------------------------------------
+
+Title           :	The Commons
+Filename        :	commons.bsp
+Author          :	Jean-Paul LeBreton <aka Evil Jack>
+Author Email    :	jpleb@earthlink.net
+Home page       :	http://home.earthlink.net/~jpleb
+Previous Maps   :	Nope, this is my first release.
+
+------Play Information-----------------------------------------------
+
+Deathmatch      :	Yes
+Single Player   :	No
+How Many Players:	2-4 (2 ideally)
+
+------Map Description-----------------------------------------------
+
+For all intents and purposes, this map is a completely new place.  But it is based off the actual architecture of the upper school commons building of the Oakridge School in Arlington, Texas... my old high school.  However some obvious liberties have been taken with regard to form and function.  No lame story... just have fun!
+I've tried to make this level play as quickly and smoothly as possible.  The gravity is a little tweaked, and jump pads whisk you to the upper levels.  Invisible clip brushes should smooth things out, keep you from snagging on corners.  You will be able to move from one area to the next as if the level were coated in warm butter.  Crush your foes!
+
+
+------Map Information------------------------------------------------
+
+New Textures    :	one, my personal logo in the hologram room
+New Sprites	:	none
+New Sounds      :	none
+New Weapons	:	none
+New Monsters	:	the fearsome flesh-eating creature of Xantar
+
+------Construction---------------------------------------------------
+
+Base            :	new level from scratch
+Editor(s) used  :	Worldcraft 2.1, Wally for textures
+Compile Machine :	K6-2 300, 64 mb RAM
+Compile time    :	32 minutes 33 seconds
+Development time:	4 days
+Playtest time   :	weeks o' tweaks ;)
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "commons.bsp", in
+your half-life/valve/maps directory.
+
+------Credits and Thanks---------------------------------------------
+
+Lots of thanks to Holy Man, Cecil, and all the guys down at the DOE for feedback, Snowdog for the generous use of his makeshift server, Robyn for moral support, Valve & id for the inspiration.
+
+Special thanks to Sean "Zoner" Cavanaugh for his custom compile tools.  Among other things they allow you to include specific custom texture WADs in your BSP, instead of including all used textures.  It's really spiffy!  Makes the file size a LOT smaller.
+
+------Shouts Kicked Out---------------------------------------------
+
+Two, to Lee and Travis over at ION Storm.
+
+------Bleh----------------------------------------------------------
+
+I've been making levels for quite some time, but this is my first release.  Please, I crave feedback!  Even if you hated this map, any input would be appreciated as I am always seeking to further my skills.  Send all replies to jpleb@earthlink.net!
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+The archive containing this BSP may be distributed, as is with NO modifications, over the Internet and/or BBS systems.  If you want to put it on a CD, please send me a copy.

@@ -1,0 +1,52 @@
+--------------------------------------------------------------------------------------------------------------------
+                                             Tomorrow Land - HighLand 
+--------------------------------------------------------------------------------------------------------------------
+
+Install: 
+
+mist.bsp and mist.txt >>-----> valve/maps
+the rests >>-----> valve/gfx/env (if you dont have that dirictory then create it)
+
+--------------------------------------------------------------------------------------------------------------------
+
+About the map...
+
+Mist is the second map in my little hldm fantasy serie called TomorrowLand, I just love the fantasy-theme...
+This map is quite large, with huge opend areas...the map layout is kinda unike I think. There are two parts in 
+this map, the first (and biggest) part is an island with a lighthouse. Second part is a ship out at sea, and 
+you move between this two parts by using the teleports. 
+
+Featured one jumppad and one special made tree, an floting island (remember this is a fantasy theme), the masts 
+on the ship are climable just like the ropes. R_speeds are good, like 600-650 in the highest areas i think...
+From the RPG podie you have a perfect view over the islans, Ill say that its perfect place to be sniped on, so 
+remember to grab some batterys before climbing up there.
+
+Each part took about 10 houers to build (not the playtest time included)...have tested it alot to find and remove
+all bugZZ0r, think I have found them all...
+Got some mist in the bottom ofthe skybox in the island part, so there is only one more thing to say...SET SAIL!
+
+- - -
+
+Items: 
+
+Weapons - Many
+
+Items - Many
+
+Misc - Some teleports, some Rechargers (don`t care to count them)
+
+- - -
+
+Credists: 
+
+...Not many, but thoose who has helped me knows it!
+Ionic - ComSet :D
+
+--------------------------------------------------------------------------------------------------------------------
+
+Any questions should be mailed to me: peppe@pihl.as
+- - -
+NOTE: I have a website, but I havent updated it for months...so if you want to find out more about my maps or just
+have a little chatt then visite me on irc; #mapcore or #planethalflife on Gamesnet.
+
+-------------------------------------------------------------------------------------------------------------------- 

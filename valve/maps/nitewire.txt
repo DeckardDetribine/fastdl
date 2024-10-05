@@ -1,0 +1,65 @@
+================================================================
+Title                   : Operation Nitewire (Trenches II)
+Filename                : Nitewire [Package: nitewire.zip -- nirewire.bsp nitewire.txt]
+Author                  : Dr Funk
+Email Address           : drfunk@cgocable.net [Comments welcome]
+Website                 : http://www.cgocable.net/~drfunk/
+Description             : I got so much email and comments from
+			  the first map, onawire, so here is my
+			  next masterpeice, nitewire. It is 
+			  dark, but it is a lot of fun!
+Thanks to               : Beta Testing - Jaxon
+					 Rover (Mr. Avenger)
+					 Tim (Tim/TimEnchanter)
+					 UNHOLY (Torpedo)
+					 HK93c (Primative Pete)
+					 Wrath
+					 Jat (Missy)
+					 Hisky (Hisky)
+					 Haldore
+					 Snicker
+					 Chrispix (Dancing Bonez)
+					 Mad-Monk
+					 Trooper
+					 
+Great Links            : My Website: http://www.cgocable.net/~drfunk
+		         FAST Website: http://www.digitalvelocity.com/games/fast/index.htm
+			 Rainbow Six Retreat: http://rainbow6.3dretreat.com/
+
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Cooperative             : No
+Deathmatch              : No
+Teamplay                : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : Yes
+New Monsters            : No
+New Demos               : No
+New Models              : No
+
+* Construction *
+
+Base                    : Completely from scratch
+Editor(s) used          : Worldcraft 2.0
+Known Bugs              : None Found.
+Build Time              : At least 2 weeks to complete this one!
+Comments                : I hope you all enjoy this one! I had a lot of fun making it!	  
+Installation		: Unzip nitewire.zip into your sierra/half-life/valve/maps directory and
+                          join a game with nitewire.bsp!  Or if youd like to run around in it, 
+                          run "hl.exe -console +map nitewire.bsp". Have fun!
+Notes                   : Let me just warn you that the size of the file is extremely big and
+			  definately shouldn't be downloaded from a server, unless you have a really
+                          high speed modem.
+
+			  Also, the reasons you may find high r_speeds are simple. In regular
+			  deathmatch maps you dont see large chunks of the level from one area,
+			  like these types of maps do. So if you really want good speeds on levels
+		          like this and On a wire, you'll probably want a fast processor. It's
+			  probably best to turn the decal amount down to about 100-1000. To do 
+		          this, bring down the console and type "r_decals 100". Turning off your
+			  view weapon is also suggested, which is done by bringing down the console
+			  and typing "r_drawviewmodel 0".          

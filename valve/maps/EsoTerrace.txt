@@ -1,0 +1,60 @@
+
+EsoTerrace : a Half-Life Deathmatch Experience by DocRock
+Map Name:             	EsoTerrace.bsp
+Filesize:                       	2.53 mb unzipped
+Author:                         	DocRock
+Author email:                 	docrock10@hotmail.com
+wadincluded in map:       	r25.wad, mapper.wad
+
+LEVEL DESCRIPTION:
+Single Player:          No
+Co-Op:                   No
+Deathmatch:           Yes
+
+Suggested Players:  6 - 12
+New Textures:        Yes 
+New Sounds:          No
+New Models:           No 
+Map Description:	A crate depository high above a city.												
+
+CONSTRUCTION:
+base map:             	None
+prefabs:               	None
+editor used:          	Hammer 3.5
+utilities used:        	Zoner's Half-Life compile tools, Half-Life Pak Explorer
+known bugs:         	None known
+compile machine:   	Intel Pentium 4   2.53 GHZ
+compile time:        	7 minutes
+
+INSTALLATION:
+
+1. Run Winzip and unzip EsoTerrace.rar
+2. Open the EsoTerrace folder and place the EsoTerrace.bsp, EsoTerrace.res, 
+	and EsoTerrace.txt in your valve/maps folder.  
+3.Place the 6 (six)velcor256_.tga files into your valve/gfx/env folder.
+
+OTHER LEVELS BY DOCROCK:
+2012 maps:
+logo_2012, rockpit_2, monkey_isle3, mario_castle_kart
+
+Or visit GameBanana for my latests releases
+http://www.gamebanana.com/members/177329
+
+SPECIAL THANKS:
+To my babykitkat, my lover, my sweetheart, my wife.  I love you!!  My #1 fan, thanks baby
+for playtesting and helping me with this awesome map!  I DEDICATE THIS TO YOU!
+BETA TESTERS:
+babykitkat
+SKYMAP AUTHOR:
+unknown but I think its MightyPete
+WADAUTHOR:
+unknown but I think its Crinity
+
+DOC'S NEXT MAP....COMING SOON:
+More Information Coming Soon
+
+Copyright April 15, 2012 by DocRock
+Authors MAY use this level as a base to build additional levels as long 
+as you give me credit in your read.me as using this map as a base to 
+build your level.
+

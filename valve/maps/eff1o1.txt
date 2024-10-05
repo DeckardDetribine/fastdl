@@ -1,0 +1,38 @@
+* Play Information *
+Title 			: eff1o1a
+Filename		: eff1o1.bsp
+Author			: Holger "the" Stellmacher
+Email address 		: theStellmacher@eff-clan.de
+ICQ			: 23693574
+Home page		: http://www.eff-clan.de
+Description		: It is a tiny sized listemn-and-shoot kinda map.
+Additional Credits to   : VALVe, id, [RI] Wolf for helping me and my newbie-problems and my teammates for testing. Fixed by ~X~.
+Deathmatch Player       : 2 players
+
+* Construction *
+Base			: From scratch
+Editor(s) used          : Worldcraft 2.0
+Compile Machine		: P450II, 128MB RAM
+Compile time		: 1,5 minutes
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+
+
+You will need the jumppack to get the 9mmAR, or do a Gauss-jump.
+The Gauss is hidden behind a secret door within the stairs.
+This level even runs smoothly on my old P150 (with 3d card.
+
+
+* Standard Copyright / Permissions To Make The ZIP Larger *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

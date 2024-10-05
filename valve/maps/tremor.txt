@@ -1,0 +1,66 @@
+Title                   : Tremor
+Filename                : tremor.bsp
+Author                  : Evan "EASE_one" Hort
+Address                 : ease@radioactivesoftware.com
+Description             : It’s a facility after a small earthquake. That’s why the normal lights are off or broken and the emergency floodlights (red and blue) are on instead, and the machine room has water on the floor from a broken container and a machine broken and running electricity through the water.  Watch out, that stuff will shock you dead. Players will want to use their air acceleration when jumping from machine to machine.  Air accelerations means you should keep pressing the direction you want to go, even crouch in the air to get a little more air-time. I found that this map works well with about 3-6 people depending on how fast paced you like your DM. Personally, I like to creep around a bit and get the jump on the other players!  Also make sure that texture sounds are turned on when u play (you know where metal sounds like metal and concrete sounds like concrete when you walk over it) that way u can get a good idea of where the other players are.  Well have fun with it!!
+
+Special Thanks to       : Darkman{Decaf}, Erik "Dante" Johnson
+Webpage                 : www.radioactivesoftware.com
+
+================================================================
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes
+Cooperative             : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+
+Construction
+
+Base                    : New level from scratch
+Editor used             : Worldcraft v2.0 and 2.1
+Known Bugs              : 
+
+
+================================================================
+
+Installation
+
+To play this level, extract this file "tremor.bsp" into
+your sierra\half-life\valve\maps directory and then start the 
+game.
+
+Start a deathmatch server and type "map tremor" or "changelevel
+tremor" in the console. To test it out in single player mode
+start Half-Life with hl.exe -console, hit the console button and
+type "map tremor". If you put this on a DM server, let me know 
+por favor.
+
+================================================================
+
+Copyright and Permissions
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it using any non-network method without my (Evan Hort) permission.
+
+July 26, 1999
+
+This map was created by Evan Hort.  Any comments or questions should be 
+directed top him at ease@radioactivesoftware.com.
+
+This map is copyright 1999 Evan Hort and/or RadioActive Software, all rights reserved.  Unauthorized distribution (that is, distribution over via magazine cover CD or other non-network method of distribution, with the exception of floppy and/or ZIP disks) or alteration of this map without written consent of Evan Hort and/or RadioActive Software is prohibited.
+
+Half-Life is copyright Valve Software, L.L.C. and Sierra Studios

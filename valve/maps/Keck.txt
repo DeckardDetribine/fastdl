@@ -1,0 +1,106 @@
+                 KECK
+
+By                 :Matthew Manno
+Compiled on        :1/29/02 @ 5:04 P.M.
+New models by      :Matthew Manno
+New textures by    :Matthew Manno
+Thanks to          :Family, and Friends
+                    Valve ERC www.valve-erc.com
+                    Valve Software
+Contact the Author :manno78@yahoo.com
+
+
+
+
+
+================================================================
+Title                   : Keck
+Date                    : January 2002
+Filename                : keck.bsp
+Author                  : Matthew Manno
+Email Address           : manno78@yahoo.com
+Home Page               : http://www24.brinkster.com/~matthewmanno
+
+Description             : An alien ship crashed into the side of a mountain
+                          then some people showed up and they all started
+                          killing each other with the guns and ammo lying
+                          around for no reason what so ever.
+
+Thanks to               : Family, and Friends
+                          Valve ERC www.valve-erc.com
+                          Valve Software
+
+================================================================
+* Play Information *
+
+Number of Players	: 4-12
+Single Player           : No
+Deathmatch              : YES
+Difficulty Settings     : No
+Team Play		: Sure if you want (made for deathmatch though)
+
+================================================================
+* Installation *
+
+In order for the map to be installed properly please unzip it into your
+Half-Life directory. This should be done so that the new models get placed
+into the correct directories. A listing and outline of the files and
+directory structure is as follows
+
+        Half-Life Root Directory
+           |
+            ----->Valve
+                     |
+                     |----->models
+                     |         |
+                     |          ----->Keck
+                     |                   |
+                     |                    ----->KeckMale.mdl
+                     |                          KeckFem.mdl
+                     |                          KeckPregnant.mdl
+                     |                          KeckMaleDead.mdl
+                     |
+                      ----->maps
+                               |
+                                ----->Keck.bsp
+                                      Keck.txt
+                                      Keck.res
+
+================================================================
+* Construction *
+
+Base                    : From scratch
+Editor(s) used          : Worldcraft 3.3
+Known Bugs              : Yes! It Half-Life crashes in software mode
+Build Time              : Between 24-32 hours including the 4 new models
+                          and textures. I've been working on it for about
+                          2 months now.
+Compile machine         : P3 700 with 512MB RAM
+Compile Time            : ~3/4 of an hour
+
+===============================================================
+* Author's Comments *
+
+This one took me a LONG time so go have some fun at my expense. Questions,
+and comments are welcome, you can contact me at
+
+manno78@yahoo.com
+
+I believe the reason it crashes in software mode is because of the number
+of entities I use. However I'm not enirly sure truth be told. Again please
+do not run it in software mode.
+
+-Matthew Manno
+===============================================================
+
+* Copyright / Permissions *
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission. 
+(I just left this in here because I like to here from people who
+play my maps)

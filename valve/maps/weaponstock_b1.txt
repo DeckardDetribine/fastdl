@@ -1,0 +1,19 @@
+Welcome to the abandoned part of Black Mesa, that was turned into the military storage.
+The entry to the storage is blocked in cause of broken elevator, that ccan be controlled or
+repaired only at the basement level, far underground. So you have to wait for someons help 
+and stay alive. There is a real hell eround. there's a war between soldiers, aliens and 
+survivors like Gordon Freeman, Barney Colhoun and others.
+There also still water collectors system. It will help you to save your life for some time.
+You can use all weapons on your way.
+Good luck, mister.
+
+Author: 
+-Benny (youknowbenny@narod.ua)
+Thanx 2:
+-Urker (for support)
+-http://cs-mapping.com.ua (for teaching,and helping)
+-http://tfsoft.org.ua (for testing)
+
+You can play this and my other map at tfsoft.org.ua:27016
+
+That's all :)

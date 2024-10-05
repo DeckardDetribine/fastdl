@@ -1,0 +1,66 @@
+================================================================
+
+Title                   : Tower Arena
+Filename                : twrarena.bsp
+Author                  : Jim Davies
+Address                 : jfdavies@hotmail.com
+Description             : Half-Life deathmatch map:
+			  Square walled arena with central tower amd walkway
+
+Special Thanks to       : Valve
+			  WorldCraft
+			  Wavelength at www.planethalflife.com/wavelength
+			  Mike/Pete/Gareth/Gavin for playtesting.
+			  Eivind Sommersten (Bash) for the template of this readme.
+			
+Webpage                 : http://members.xoom.com/jf_davies/starthere.htm
+
+================================================================
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes, 2-6 players
+Teamplay                : Yes, 2 teams (one team hold the tower, maybe?!)
+
+================================================================
+
+Construction
+
+Base                    : New level from scratch
+Editor used             : Worldcraft v2.0
+Known Bugs              : Dead bodies do come through floor and walls in certain areas.
+			  Especially in 'under tower' room. Terrible fps when viewing
+			  entire level :-(.
+Build Time              : About 30 hours total time (at a guess).
+
+Compile Info:
+-------------
+QBSP			: approx. 2 minute
+VIS (fast)		: approx. 6 minutes
+QRAD			: approx. 10 minutes
+Compile system		: Pentium 166 (overclocked to 200MHz), 32MB SDRAM
+
+================================================================
+
+Installation
+
+To play this level, extract this file "twrarena.bsp" into
+your sierra\half-life\valve\maps directory and then start the 
+game.
+
+Start a deathmatch server and type "map bash" or "changelevel
+bash" in the console.
+
+================================================================
+Copyright and Permissions
+
+Can be distributed but please keep this text file with it (you know the score).
+Please contact me if you put this on your server. Feedback is, and always will
+be, very appreciated.
+
+
+Thanks for playing Tower Arena
+
+Jim 'Magic Hamster' Davies
+Chester, UK

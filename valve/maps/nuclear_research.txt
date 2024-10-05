@@ -1,0 +1,56 @@
+May 19, 2003
+
+================================================================
+
+Title                   : Nuclear Research
+Filename                : nuclear_research.bsp
+Author                  : Obadiah G. Reid a.k.a Tracer Bullet
+Address           	: Obadiah@pacificu.edu
+
+Description             : Halflife DM level for 4-12 players. 
+A laboratory/industrial style map set in a small nuclear research complex.
+
+Special Thanks to       : “Hanible” and “BOOM!!” for playtesting and just being 
+      great LAN buddies.
+================================================================
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes
+Cooperative             : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+
+================================================================
+
+Construction
+
+Base                    : New level from scratch
+Editor used             : Hammer v3.4
+Known Bugs              : None
+Build Time              : 8 hours: PIII 1000 Mhz 256 MB ram
+
+================================================================
+
+Designer's Notes
+
+This is my first public release, but not my first map. The r_speeds are a bit high, as I designed for computers equal to mine or better.  I don’t think w_poly ever goes over 800 though. This map began as an experiment with env_laser and func_tracktrain, and sort of grew from there. Any constructive criticism would be appreciated, as I’m always trying to become a better maper.
+
+================================================================
+
+Installation
+
+To play this level, extract the file "nuclear_research.bsp" into
+your sierra\half-life\valve\maps directory and then start the game. 
+
+================================================================
+
+Copyright and Permissions
+
+
+This map may be redistributed through any medium, provided that this text file is included with it, the names are not changed, and no exchange of money is involved.
+
+© Obadiah Reid 2003

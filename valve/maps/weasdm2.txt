@@ -1,0 +1,60 @@
+================================================================
+Date                    : 12/17/98
+Title                   : The Cathedral
+Filename                : weasdm2.bsp
+Author                  : Luke Whiteside "weasl" 
+Email Address           : weasl@gamedesign.net
+Description             : A small DM level for 2-6, designed for Half-life.
+                          A dark warehouse where stealth and sounds
+                          are the key. The level was orginaly intended to be 
+                          included in Aerosoft's now canceled Hypnosis. 
+                           
+Quake Levels by Author  : The Blood Pool "bldpool.bsp" 
+                          Base 311 "base311.bsp" 
+                          Agnosia "agnosia.bsp"
+                          Arena 311 "arena311.bsp"
+			  Domain of the Lost "domlost.bsp"
+
+Quake 2 Levels by Author: Cathedral Memories "weasdm1.bsp"
+
+Other Works by Author   : Deathmatch eXtreme: Platinum Edition
+                           (5+ levels and some other stuff)
+
+Misc Author Info        : News monkey at rust
+                           http://www.gamedesign.net
+                          Member of Clan 311
+                           http://www.clan311.org
+                          Founder of the 3D Mapping Guild
+                           http://www.frag.com/3dmg/
+
+
+================================================================
+
+* Play Information *
+
+Single Player           : No - Except to look around
+Cooperative             : No 
+Deathmatch              : YES!
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Worldcraft 2.0
+                          
+* Other Info *
+
+Unzip into the half-life\valve\maps directory (create if necessary). 
+Launch Half-life (make sure to include the -console command), go to the console and type: map weasdm2
+
+* Shout Outs *
+Thankz to all the people that kept pressuring me to return to mapping :)
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without WRITTEN permission from Luke Whiteside.
+

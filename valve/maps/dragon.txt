@@ -1,0 +1,75 @@
+==========================================================
+Title		:Dragon
+Version		:1
+Release Date	:12/18/00
+Filename	                :dragon.bsp
+Filesize(zipped)       :560 kb
+Author(s)	                :Yellowgreen
+Webpage		:none
+Email Address	:teabag203@earthlink.net
+Description	:HLDM
+                 
+				    
+==========================================================
+---Play Information---
+Game		:Half-Life
+Level Name	:Dragon
+Game Mode	:HLDM
+Players		:6 - 10
+Known Bugs	:None that I know of
+
+
+---Construction---
+Editor/Tools Used	:Worldcraft3.3, Zoner's HL compile tools, Q2beaver
+Compile Machine	:P2 400, 64MB RAM, no 3D card :(
+Base		:original
+Construction Time	:several months on and off
+			 
+---Notes---
+ This is my second release, the first being a rather small map entitled Enemy, and I am 
+fairly pleased with the way it turned out.  All the weapons except the hornet gun and the
+egon are present, and you'll notice there is only one MP5; you will have to venture into 
+the trap room to get it - make sure there is noone waiting :) Ordinarily I am no fan of traps, 
+as I find they just as often hinder gameplay as enhance it, but the industrial-like environment
+of Dragon seemed well suited, particularly with all the molten metal.
+
+Please!! E-mail me with any comments on the level, praise or criticism.
+Any feedback is much appreciated.
+
+
+---Special thanks---
+Thanks first to Valve for the great game.
+Thanks to B-nutz and my fellow members of the IZ clan for the feedback, and to all who 
+downloaded my map!
+
+
+
+================================================================
+
+Copyright and Permissions
+
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name Dragon.bsp and is supplied in a zip file called 
+Dragon.zip that also contains this text document and 
+no other files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product. Hmm, better make it two in case
+I break the first one.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 2000 Jay Nuzzo, a.k.a.Yellowgreen
+
+===============================================================
+
+This template was constructed by Hornetking. 
+http://www.planethalflife.com/hornetking/
+hornetking@planethalflife.com
+
+===============================================================

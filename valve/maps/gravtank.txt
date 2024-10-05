@@ -1,0 +1,66 @@
+22/02/00   "Gravtank"  V 1.0
+
+A deathmatch map for Half-Life
+
+*********************************************
+
+Designer/Mapper: 	Nick Coombe (STEP)
+
+web site: 		http://welcome.to/crinity
+
+*********************************************
+HALFLIFE(r) is a registered trademark 
+*********************************************
+
+Files included in this .zip file:
+
+gravtank.bsp
+readme.txt
+
+*********************************************
+
+INTRO & INFO
+
+In the year 3032, prisoners are forced to take part in a brutal new sport for the 
+insatiably violent appetite of the global elite. Using cutting edge "insta-clone" 
+technology, players experience countless horrific deaths, only to be instantly reborn 
+to enact retribution for their own murders. Unjustly imprisoned, you have been forced 
+to take part in the latest arena created for the sport - the Gravtank. 
+
+"CRY HAVOC AND LET SLIP THE PRISONERS OF WAR!..."
+
+*********************************************	
+
+Installation & How to run the game
+-----------------------------------
+
+
+1)Extract the file gravtank.bsp to your Halflife/valve/maps directory
+
+2)Select the game from the multiplayer menu in Half_life
+
+
+*********************************************		                                 
+* Level information *
+
+Single Player Map       : No
+
+Deathmatch/Co-op        : Yes
+
+Number of Players       : 6 - 12
+
+New Graphics            : No
+ 
+New Models/Code	    	: No
+				
+New Sounds		: No
+
+Tools used              : Worldcraft 2.0, Q2BeaVeR
+
+Problems		: The r_speeds can get a little high in places (up to around 800), so a fast PC 
+                          or decent graphics card are recommended
+			  
+Distribution  	 	: This map is free of charge - play your heart out, kid.
+
+
+	

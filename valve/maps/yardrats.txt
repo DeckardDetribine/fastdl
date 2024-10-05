@@ -1,0 +1,38 @@
+================================================================================
+Title                   : YardRats	
+Filename                : YardRats.bsp
+Date Completed          : 03/07/01
+                                      
+Author                  : Spill[HCH]
+Email Address           : SpillNorman@gmx.de.com
+
+Other levels by author  : dm_rock, dm_Satcon, Labcore, Orbit_dm, Beach_dm, Flat_dm2, Oilworks, ShowerRats
+
+Description             : Outdoor Funmap.
+
+
+Thanks to               : Corekiller[HCH] an Butterstulle[HCH] for Betatest and nice Ideas.
+================================================================================
+
+* Play Information *
+
+Game                    : Half-Life
+Single Player           : No (1 single player start)
+Deathmatch              : Yes, Suitable for 4-16 players.
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : some
+New Monsters            : No
+New Demos               : No
+New Models              : No
+
+* Construction *
+
+Editor(s) used          : Hammer3.4
+Known Bugs              : None
+Build Time              : 2 days.
+Compile Time            : 5 Minutes on a 1200 Mhz 386 Meg Ram
+Installation		: Place the Yardrats.bsp into your /Valve/Maps directory
+			 
+			
+ 

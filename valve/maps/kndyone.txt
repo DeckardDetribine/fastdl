@@ -1,0 +1,4 @@
+KndyOne conversion- By Leperous
+
+Just a quick HL version of OP4 Kndyone that I knocked up
+There's no hornetgun, but all other HL weapons are there

@@ -1,0 +1,81 @@
+* Play Information *
+
+Title 			: Vacant Town
+Filename		: vacant_town.bsp
+Author			: Wolf
+Other levls by author	: Combat Camp, Lost Village, Castle Rush,
+			   Steelwork, Lost Village 2, cctf3, cctf6
+			   pain1o1
+Email address 		: wolfsdistrict@gmx.de / ri-wolf@gmx.de
+Home page		: http://wolf.gametown.de
+Description		: This thing of a map :), is constructed in
+			  a regular town-style. It has buildings with
+			  second floors, many short rusty tunnels wich
+			  lead the player in each section of the map.
+                          The map has 5 buildings and one little
+                          Also in this map you can find a
+			  tower with an elevator in it and two MG´s
+			  on the top of it. This tower is a fortress,
+			  when two players use the MG´s and have
+			  backup around the tower 
+			  The idea of this map was, to merge best
+			  possible speed and gameplay in opposite
+			  of detail and itemplacement
+			  If i made the right compromise between this
+			  things...  well - play and have fun ;)
+Additional Credits to   : Clanmembers of Raising Inferno for testing
+			  this map and comments for the gameplay.
+			  and spacial thanks to [RI]Smartbomb
+                          for intense LAN-testing :)
+Single Player           : no
+Cooperative Player      : no
+Deathmatch Player       : DM and Teamplay
+Difficulty Settings     : no
+New Textures            : no
+CD Track                : no
+
+* Construction *
+Base			: new Level from scratch
+Editor(s) used          : Worldcraft 2.1
+Compile Machine		: Pentium II 350MHz
+Compile time		: around 1820 secs.
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+
+There are 3 regular secrets in this map. They hide the powerfull
+weapons of Half-Life. Find this secrets and you are in a big advantage
+the most times ;)
+
+  The hidden weapons are: 
+
+	- RPG
+	- GAUSS and AMMO
+	- SNARKS
+
+and in a specialsecret ;) (hehe... its a bit nasty -> doublecrosslike)
+
+	- EGON
+
+Many people had so much fin with the secrets in my maps. I thought:
+put some in your map, and the surprise-effect is allways there... :)
+
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+
+Wolf      Wolf´s District 1999     http://wolf.gametown.de
+
+Texture modes fixed by ~X~

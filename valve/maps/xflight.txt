@@ -1,0 +1,64 @@
+================================================
+   Half-Life Map Spec Sheet
+================================================
+
+
+------General Information--------------------------------------------
+
+Title		: xflight 
+Release Date	: 04th Febuary 2001
+Filename	                  : xflight.bsp
+Author		: Peter Manson
+Email Address	: peter@mickeymurphy.freeserve.co.uk
+Home page	: (under construction )
+Description	: Medium sized Deathmatch
+Previous Maps	: Enders_game
+		  Rohan
+		  Rohan2
+		  First_arena
+		  Twin
+
+
+------Map Information------------------------------------------------
+
+New Textures	: None.
+New Sounds	: None.
+Missing Weapons	: Egon / Hornet
+Secrets		: none 
+
+------Construction---------------------------------------------------
+
+Base		       : From scratch. (jumpads from previous level)
+Programmes used	       : WorldCraft 2.1
+		         zoners  v.242	
+		         HLCC   v.131
+Compile Machine	       : Pentium 2,  384 ram
+Construction time	       : 5 hours
+Compile time	       : Approx. 2 hours.
+
+
+
+------Map Instructions-----------------------------------------------
+
+Unzip this file and place "xflight.bsp"  into 
+your half-life/valve/maps directory.
+
+----------------------------------------------------------------------------
+****************** HAVE FUN ******************************
+----------------------------------------------------------------------------
+
+
+
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+----------------------------------------------------------------------------------

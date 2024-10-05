@@ -1,0 +1,18 @@
+
+//primary white walls
+BN3_wall5a    detail/pshopd_09    20.0    20.0
+BN3_wall5b    detail/pshopd_09    20.0    20.0
+
+//plant stand prefabs
+jxmp041a    detail/pshopd_09    20.0    20.0
+
+//Elevator Room walls
+holobby    detail/pshopd_10    14.0    14.0
+hopillar1    detail/pshopd_10    14.0    14.0
+
+//redish diamond floor
+hofloor10    detail/pshopd_01    18.0    18.0
+
+//blue star flooring
+HOFLOOR5    detail/pshopd_01    18.0    18.0
+HOFLOOR5B    detail/pshopd_01    18.0    18.0

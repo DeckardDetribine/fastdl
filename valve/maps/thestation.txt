@@ -1,0 +1,90 @@
+1.16.99
+
+================================================================
+
+Title                   : The Station
+Filename                : thestation.bsp
+Author                  : Cathode[MoB]
+Description             : A supply/train station, it's dark (Mabey too).
+			  And for some reason or another you 
+			  feel like finding people and killing them. Six
+			  or more people will do, and there's no
+			  Egon, even the most powerful weapon in the map
+			  is hard to get too. I picked the 7th track for
+			  the CD, is it just me or are usually the best
+			  songs on CD's the 7th track? Anyway this is my
+			  first map so comments/critism is welcome. Uhh
+			  I want to start a clan for HL [MoB] 
+                          [Money over Bitches], interested email me (sorry
+			  for the plug).
+
+Special Thanks to       : TRiLoGY, Marnello22, PeeperZ,
+			  Valve for making Half-Life
+			  and iD for the FPS genre
+
+E-mail			: cathode98@hotmail.com
+Webpage                 : nope
+
+================================================================
+
+File/Playing Information
+
+Single Player           : No
+Deathmatch              : Yes (06-12 players)
+Cooperative             : Yes/Teamplay i guess
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+CD Track		: 07
+Solids			: 795
+Faces			: 4800
+PointEntities		: 141
+SolidEntities		: 12
+Sky Texture		: Morning (can't really see the sky)
+
+================================================================
+
+Construction
+
+Base                    : New level from scratch
+Editor used             : Worldcraft v2.0
+Known Bugs              : None known
+Build Time              : Three weeks on and off
+			  Music thanks to 311, StP, DMB,
+			  Led Zeppelin, Pink Floyd
+
+Compile times/Machine
+
+Qcsg			: 13 Seconds
+Qbsp			: 16 Seconds
+Vis			: 1716 Seconds
+Qrad			: 292 Seconds
+Total Time		: 34:35 Minutes
+
+Machine			: Dell XPS R400 with 64 mb RAM, 400 mb
+			  swap file and Voodoo 2, Velocity 128
+
+================================================================
+
+Installation
+
+To play this level, extract the file "thestation.bsp" into
+your sierra\half-life\valve\maps directory and then start the game.
+Start a deathmatch server and type "map thestation" or "changelevel
+thestation" in the console. To test it out in single player mode
+start Halflife with hl.exe -console -toconsole -dev. This enables
+you to try some stuff using the cheat codes.
+
+================================================================
+
+Copyright and Permissions
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name malice.BSP and is supplied in a zip file called malice.ZIP 
+that also contains this text document and no other files.
+
+1.16.99

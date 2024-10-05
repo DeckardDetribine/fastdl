@@ -1,0 +1,10 @@
+DM_ENPRO - By Victor-933
+
+INSTRUCTIONS:
+Extract contents of archive to your Half-Life/Valve directory (/steam/steamapps/common/half-life/valve/)
+
+This map is a kinda-sorta-somewhat sequel to DM_Achluophobia, in that it's within the same theme and there's a couple references to it in here. It's very dark and very gloomy, but hopefully not too dark. Build time is about one month, off and on.
+
+Texture credits: Shaderlabs' "Majestic" pack, the Nightwatch team, Doom 3, Poke646: Vendetta, Victor-933 (I don't steal EVERYTHING, just things I can't make myself worth a $#!7 :P)
+
+Sound Credits (most of these show up hacked together into various combined sounds): Black Mesa Source, Doom 3, Quake 2, Event Horizon (good movie btw)

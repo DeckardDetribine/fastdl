@@ -1,0 +1,50 @@
+===================================================================================
+DATE: October 19, 1999 (final)
+===================================================================================
+Title(s)                : Northern Outpost 676
+Files                   : n_out676.bsp , n_out676.jrf
+Author                  : QS (Stephen Smart)
+Email Address           : quantumsaint@yahoo.com
+Date of release		: October 19, 1999
+Description		: A small arena type map with a fort/base look. Includes all weapons. 
+                          Good for 2 players with lots of action.
+                          
+===================================================================================
+--ADDITIONAL CREDITS--
+Playtesters: David, Darrell, David, Pat
+
+Big THANKS to my bro for all the input on creation.
+
+=========================================================================================
+--PLAY INFORMATION--
+Game			: Half-Life
+Level Name      	: Northern Outpost 676
+Files    		: n_out676.bsp
+Single Player           : No	
+Cooperative 		: No 
+                          
+DeathMatch              : Yes
+MAP    # of PLAYERS     : 2-3 (maybe 4 depending on how mauch action you like)
+             				
+Difficulty Settings     : No
+
+Platform(s) used               : P200mmx 32MB mem and AMD K6 300 64MB mem
+Known bugs                     : Bots get stuck on chainlink fence while climbing.
+New sounds/textures/entities   : NO
+============================================================================================
+===========================================================================================
+--LOADING INFORMATION--
+Download, unzip, and put the .BSP file in your c:\sierra\half-life\valve\maps directory (your drive letter may be different). Its that easy...Done 
+
+--Additional Notes--
+This is the 3rd map I made for HL... this is the revised version with new texturing and better item and weapon placement to reduce high r_speeds
+that were in the first version (n_out675.bsp). This map plays tight even with only 2 people. If you dont like running around for 30 minutes looking for
+the other player then this map should be OK. Also, I have included a JUMBOT ROUTE FILE (jrf) with this version but I am no expert on making the routes
+work correctly. They should play OK but not perfect. If you think the routes need help there are a few JRF sites that will make JRF files on request.
+
+============================================================================================
+--LEGAL--
+This Half-Life map/level (Northern Outpost 676-n_out676.bsp) is (c) 1999 Stephen Smart.
+DO NOT put this level/map on any sort of commercial product or compilation.
+You MAY distribute this BSP file through any other means, provided you include this .txt file 
+(unaltered) and it is free of charge. Do not modify this BSP.

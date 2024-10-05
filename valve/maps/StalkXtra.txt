@@ -1,0 +1,40 @@
+Title           : StalkXtra
+Filename        : StalkXtra.bsp
+Author          :  sUk72
+Author Email    : sUk72@netzero.net
+Previous Maps	: nothing special
+		
+
+------Map Desciption-------------------------------------------------
+
+its basicly stalkx mixed with stalkyard and a few things i added to twist it up
+
+------Play Information-----------------------------------------------
+
+
+Deathmatch      :  Yes
+Team Deathmatch : sure
+Single Player   : itll be boring
+How Many Players:  2- ? 
+
+------Construction---------------------------------------------------
+
+Size		:  3.3mb 
+Base            :  stalkx?
+Editor(s) used  :  Valve Hammer Editor / Zoner's HL tools 
+Compile Machine :  1.9 xp athlon
+Compile time    : no clue..i walked away and didnt look
+Playtest time   :  sadly none =[
+Textures	: random ones i found on my pc...im sorry i dont know the authors
+
+Sounds          : rain sound i got from the rain tut on mod mappers site
+
+secrets         : 1..hey stalkyard had a secret
+
+------Special Thanks-------------------------------------------------
+ |mg| clan for putting up with me,killer px for making me add custom textures in it,mod mapper for the cool rain
+ tut,jetblack for asking me to make the map,my buddies in xr xlan for watching me make it and telling me i screwed 
+up.Golem for helping me with the loc file...and i just cant remember everyone...sorry 
+hey this isnt the golden globe award...damn
+
+oh and i stole this template from juim...so thanks man =]

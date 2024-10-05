@@ -1,0 +1,71 @@
+================================================================================
+* LEVEL INFORMATION *
+--------------------------------------------------------------------------------
+TITLE                   : Half-Life Tourney 1
+FILENAME                : hl_tourney1
+.zip CONTENTS           : hl_tourney1.bsp
+                          hl_tourney1.txt
+			  sonic2.wav
+		          (courtsey of Sonic Mayhem)
+			  [altar256 sky]
+AUTHOR                  : Svante "xerent" Ekholm
+e-Mail                  : xerent@home.se
+HOMEPAGE                : http://go.to/xerent
+DATE                    : 7/8/2001
+GAME PLAY TYPE          : DeathMatch
+--------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+--------------------------------------------------------------------------------
+Average DM map
+--------------------------------------------------------------------------------
+SINGLE PLAYER           : No Player Respawn Points
+CO-OPERATIVE            : N0 Player Respawn Points
+DEATHMATCH              : A lot of Player Respawn Points
+SUGGESTED PLAYER LOAD   : 2 to 6
+DIFFICULTY SETTINGS ?   : N/A
+NEW TEXTURES ?          : Yes
+NEW SOUNDS ?            : Yes
+CD TRACK #              : 0
+--------------------------------------------------------------------------------
+* CONSTRUCTION *
+--------------------------------------------------------------------------------
+BASE MAP USED ?         : No, New Map
+PREFABS USED ?          : None
+EDITORS USED            : Worldcraft 3.3
+UTILITIES USED          : ZHLT, Wally, Paint Shop Pro
+KNOWN BUGS              : Sometimes the bounce pads dont work and 
+			  the music can be buggy.
+                          
+COMPILE MACHINE         : AMD Athlon tbird 1100mhz
+                          256Mb RAM
+                          GeForce 2 MX 64Mb
+
+COMPILE TIME		: 3 minutes (!!!!)
+--------------------------------------------------------------------------------
+* OTHER LEVELS BY THE AUTHOR *
+--------------------------------------------------------------------------------
+de_fate2k
+dod_thunder
+dod_2trenches
+
+--------------------------------------------------------------------------------
+* CREDITS *
+--------------------------------------------------------------------------------
+Thanks to the following people for playtesting my map:
+Lucien
+
+--------------------------------------------------------------------------------
+* COPYRIGHT/PERMISSIONS *
+--------------------------------------------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+This LEVEL may be distributed ONLY over the Internet and/or BBS systems
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+You MAY NOT use the quake3x.wad as it is made by ME and you MUST NOT USE IT
+in any form for your own use without having MY PERMISSION.
+
+The SONIC2.WAV is copyrighted by Sonic Mayhem.

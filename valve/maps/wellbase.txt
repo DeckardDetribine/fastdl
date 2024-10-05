@@ -1,0 +1,56 @@
+================================================================
+ PLAY INFORMATION
+================================================================
+
+Title			: WellBase
+Filename		: wellbase.bsp
+Game			: Half-Life
+Type/Mod		: DM
+
+Author			: Smeghead75
+Other Levels by Author	: none so far
+Email Address		: smeghead75@hotmail.com
+Homepage		: none
+Additional Credits To	: Thanx Goes out to a mate called Jake who also does some very decent maps (jakestrainers), who helped me out on this one.
+
+================================================================
+ DESCRIPTION
+================================================================
+
+This map is my first released map, and I thought up the idea while in a boring lesson at school! It centers around a large well down the middle of the map (which is just large enough to long jump, hint hint)With several rooms coming off of the large one. There isn't any prevalent thme to this map, its just some good fun I think for quite a fairly large amount of people (about 16 max i think)
+
+================================================================
+ CONSTRUCTION
+================================================================
+
+Base			: Scratch
+Editor(s) Used		: WorldCraft 2.1, Zoners HL Tools
+Build Time		: I dunno, too long
+Compile Machine		: P3 500, 128Mb Ram
+Compile Time		: CSG: 57
+			  BSP: 96
+			  VIS: 634
+			  RAD: 494
+			  TOTAL: 1281 seconds (21 mins 20 secs approx)
+
+================================================================
+ ADDITIONAL INFORMATION
+================================================================
+
+Have Fun!
+
+================================================================
+ COPYRIGHT / PERMISSIONS
+================================================================
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+________________________________________________________________

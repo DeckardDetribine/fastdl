@@ -1,0 +1,103 @@
+ ================================================================
+Title                   : Hound 
+Author                  : LEGION       
+                                  
+Email Address           : Rearwake@hotmail.com
+ICQ				: 22512418   Feel free to contact me....
+
+Misc. Author Info       : 19 year old bloke from Loughborough (we rule the world)
+
+
+Description             : A deathmatch level for Half-life.  Worth playing.  Doesn't need much else saying about it.
+
+Additional Credits to   : Everyone at Id Software, because I love you all, carnaly.  Quake3 looks SO good!  
+
+Valve for making such an excellent game. Superb game engine. Roll on TF2.
+
+Everyone who has given me support and encoragement in my work.
+			 
+Special thanks to all of my fantastic playtesters for all of their help...  the map has changed because of you guys, and i think it was for the better...
+
+here's who i can remember:
+
+Scary-one for great help with r_speeds.
+Vansmac for letting me do private playtests with some of my friends - thanks a lot!
+All the guys at the Opera... T@tsu for making that kickass map page for everyone to enjoy (coming soon)
+All of my friends on ICQ who i showed the map to...  You know who you are, and if ya want mentioning in my next text file you can ask :)
+Coroner for some great ideas and stuff...
+Meanie for his encoragement....
+Radium for putting up with my constant harassment!
+                              
+================================================================
+
+* Play Information *
+
+Single Player           : Yes, you can have a wander round....
+Multiplayer             : I'd say about 4-12, maybe more....  Teamplay might be fun too...
+
+Difficulty Settings     : No  
+New Sounds              : No
+New Graphics            : A few edited ones from the HL wad file - you'll probably not even notice...
+
+* Construction *
+
+Base                    : Original level made from scartch
+                          
+Editors used            : Hlcc and Worldcraft.  PLEASE... SOMEONE FIX WORLDCRAFT!!!
+ 
+Build time              : For ever (it seemed)
+Known Bugs              : None that I know of.
+			   
+			  
+
+==============================================================================
+* OTHER MAPS BY SAME AUTHOR *
+==============================================================================
+* Deathmatch *
+
+GUTLESS1  
+GUTLESS2  
+RATTLER         71%
+ANCIENT         38%
+FEUDAL          58%
+
+* Single player *
+REVAMP1         68% 71% 58% and a lot of encoragement from the public
+
+If you want to help me out by playtesting a new level for me, contact me.
+
+I have also made quite a few doom2 levels (one got on PCZone ages ago), so if you want them I can mail them to anyone interested.  Most are unreleased, and will be put on my web page as soon as I get one....
+  
+==============================================================================
+  
+* Copyright / Permissions *
+
+If you edit this map yourself and release any part of it then I'll consider you a talentless plagerist.. So, no, you may not use this map and edit it and release it...
+If you release it in a map pack, however, tell me....
+If you want to release this on a cover disk PLEASSSSE mail me...  I'll love you forever and force all my friends and family  to buy your mag...:)
+
+Big games companies have my permission to hire me to make levels for their games.
+
+
+
+
+
+
+.
+
+..
+
+...
+
+....
+
+.....
+
+......
+
+.......
+
+
+
+WHAT YOU DOING STILL READING THIS?  GO FRAG SOMEONE!!!!!
+

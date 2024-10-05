@@ -1,0 +1,88 @@
+=======================================================
+Moneytrain a Half-Life Deathmatch Experience by DocRock
+=======================================================
+
+Map Name:                       	moneytrain.bsp
+Release date:		Aug 19, 2018
+
+Author:                         	DocRock
+Author email:                   	docrock10@hotmail.com
+Facebook:		https://www.facebook.com/doc.rock.988
+Twitch:			https://www.twitch.tv/docrock_creations
+Youtube:			https://www.youtube.com/channel/UCUzP05HJf5Qc_JbGGw2bX_w/featured?view_as=public
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Map description:                		A Half-Life deathmatch map set in a train station.
+						
+wadincluded in map:          		moneytrain.wad
+
+=======================================================
+CONSTRUCTION:
+
+editor used:                    	 	Hammer 3.5.2
+utilities used:                 		Vluzacn's 64 bit compile tools
+				Paintshop
+				Wally
+				Half-Life model viewer
+				Goldwave	
+compile machine:                		Windows 10 Shuttle R8
+				Intel(R) Core(TM) i7-7700K 4.20 Ghz 
+				64.0 GB RAM Quadro GeForce 
+				
+compile time:                   		6 minutes
+
+=======================================================
+INSTALLATION:
+
+1. 	Run Winrar and unzip moneytrain.zip
+
+2. 	Open the moneytrain maps folder and place the moneytrain.bsp, moneytrain.res, and moneytrain.txt in your valve/maps folder.  
+
+3.	Open the gfx/env folder and place the tsccity.tga files in your valve/gfx/env folder.
+
+4.	Open the moneytrain sound folder and put the money sound folder in your valve/sound folder.
+
+5.	Open the moneytrain models folder and place the money models folder inside your valve/models folder.
+
+=======================================================
+THANKS:
+
+DiscountKiller		Thanks for the use of your awesome textures!
+			https://gamebanana.com/textures/4993
+
+CreepItAll			Thanks for the buggsmoney player model and 
+			other model suggestions
+
+gamerlab			assorted models
+=======================================================
+SOUND THANKS:
+
+heigh-ho			incoming.wav
+dalibor			escalator.wav
+claudius			underground.wav
+debsound			passby.wav
+
+=======================================================
+BETA TESTERS:
+
+babykitkat
+DiscountKiller
+CreepItAll
+
+=======================================================
+SPECIAL THANKS:
+
+To my babykitkat, my lover, my sweetheart, my wife.  I love you!!  My #1 fan, thanks baby
+for playtesting and helping me with this awesome map!  I DEDICATE THIS TO YOU!
+
+
+
+
+
+
+
+
+
+	

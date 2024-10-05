@@ -1,0 +1,5 @@
+N out_dirt1_258
+G gatebluemetal
+G fence2
+G fence3
+Y snow_ice

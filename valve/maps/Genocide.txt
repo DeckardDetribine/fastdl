@@ -1,0 +1,124 @@
+This file should be read in Notepad.
+
+
+			   ========================================
+			   =        Genocide - by RipTorn         =
+			   ========================================
+
+
+====================================================================================================
+
+Author                  : Graham 'RipTorn' Aldridge
+Title                   : Genocide
+Filename                : Genocide.bsp
+Email Address           : GTA@NetAccess.co.nz
+Description             : My first attempt at a Half-life Deathmatch or Teamplay level.
+
+Thanks to               : Simon Mee, Nick 'Mr T' Butterick and Chris 'Xenocide' Aldridge.
+
+
+                                       (-:  1/4/99  :-)
+====================================================================================================
+
+Stuff                   :
+
+Single Player           : If you want to look around.
+Deathmatch              : Yes (2-6 players) - 8 may be a bit much. 4 is best. 
+
+Construction 
+
+It came from...         : New level from scratch
+Editor used             : WorldCraft 2.0 beta.
+Known errors            : I have got stuck under the stairs, where the trip-mines are.
+                          But this should not happen again. I hope.
+
+Build Time              : About 10-12 hours construction. 1-2 hours object placement and getting 
+                          the nerve gas trap to work. 2 hours sound and 'tweaking' the trap.
+                          many a day playing. 
+                          Full compile: VIS 248 sec. QRAD 668 sec. Total 1032 sec (18 min.)
+			  
+Getting it going        :
+                          If you are reading this you probably have already unzipped all the stuff
+                          you need. If you haven't and are using your telepathy to read this file,
+                          you should open this zip with Pkunzip running in dos mode. Or if you 
+                          must you can disgrace you proud heritage by using WINDOWS and its 
+                          associated unzipper to, no doubt, screw up your computer.
+                          
+                          eg: Pkunzip c:\where\i\put\my\zips\Genocide.zip c:\very\temporary\files
+
+                          where you put it is your business, but if you want the file to work and
+                          not waste precious space, I suggest you put Genocide.bsp in 
+                          C:\Sierra\Half-life\valve\maps (if Half-life is somewhere else on your
+                          HD make sure Genocide.bsp goes in the Valve\Maps sub-directory of 
+                          Half-life)
+                          
+                          Once that is done, the level should work (hurrah!) And you will be able
+                          murder all you friends in horribly gruesome ways.
+
+                          If you want to look about the level first (Good idea) Then run Half-life
+                          with the -Console command (HL.exe -console). Now at the menu you will have
+                          a button marked 'Console.' try pressing it. once at the console, type:
+                          
+                          deathmatch 1
+                          Map Genocide                          
+
+                          This will let you test the level.
+
+A few thoughts          : The settings I use, and you should too.
+
+
+                          Weapons stay: 2-3 people, OFF. More, ON.
+
+                          Teamplay: if you have 4 or more players.
+
+                          Force Respawn: NO. - Make sure.
+
+                          Time limit: Above 30min please.
+                          
+
+                          My aim for this level:
+                          A level that runs WELL on my non MMX Cyrix.
+
+                          A 2-6 player level with a trap to send everyone running.
+   
+                          A level I could use on a LAN. (2 player only)
+
+                          A level that is easy to navigate. Using different lighting to distinguish 
+                          the various floors. Also on that is mirrored down the middle for easy
+                          remembering of how to get from one place to another.
+ 
+                          Some of the levels I have downloaded have been horrible to get around,
+                          trying to get where you want to go, easily and quickly is very important
+                          to me. Though the design is made so that you can't simply 'jump' from
+                          floor to floor.
+ 
+                          As far as the detail thing goes, this is my first Map. I am making other 
+                          DM and SP levels that will be of a higher detail level and have a few
+                          hopefully unseen (and very deadly) traps. These DM levels will have a 
+                          TeamPlay focus. And some will be set outdoors for better visuals 
+                          and larger killing areas.
+
+
+                          Number of weapons: All but .357. Sorry.
+
+
+Special Thanks           :
+                           V A L V e: for making the best (SP) game of all time.
+                           S I E R R A: For finally seeing the light when it comes to release dates.
+                           The person who designed the Hound-eye.
+Special Hates            : 
+                           S I E R R A: for not buying ID when they had the chance.
+                           All those who think GoldenEye is better than Half-Life.  
+                           The Administrator.
+                           
+
+
+
+
+
+
+
+This File and all related Files (Genocide.zip, Genocide.bsp and Genocide.txt) are to only be
+distributed free of charge via public services such as the Internet and BBS's. These files are
+not to be modified or edited and can not be include on profit making media without the authorisation
+of the authour.                           

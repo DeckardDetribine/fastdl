@@ -1,0 +1,30 @@
+Ancient Box
+
+A map by hlife_hotdog
+
+---------------------------
+
+Thanks to:
+
+Counter-Strike Source for most textures and some sounds
+Half-Life 2 for other sounds
+
+---------------------------
+
+This was my first attempt at creating a nice looking "killbox" map as they are called. Basically one room for a handful of players to slug it out together in a violent and messy game of deathmatch.
+
+Set in an ancient temple somewhere in the world (South America perhaps?), the room is dominated by a single opening in the roof letting in just enough light to illuminate the entire room. Some parts are crumbling but overall the temple is in fairly good condition but some areas of the outer area have suffered some flooding.
+
+---------------------------
+
+Authors MAY use this level as a base to build additional levels as long as you give me credit in your read.me as using this map as a base to build your level.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT IN ANY FORM.
+
+This map includes textures used in other Half-Life modifications as well as textures used in other PC games.  It is not my intention to steal these textures and use them for personal gain.  I use these textures because I think they are very well done and am honored to use them.  Please do not be offended that I borrowed your textures if you are the author of them.
+
+This LEVEL may be distributed ONLY over the Internet.
+
+You are NOT authorized to put this LEVEL on any CD or distribute it in any way without my written permission.
+
+PLEASE email me with any comments about this map because I love feedback good or bad...and I will do my best to answer any and all emails regarding my maps.

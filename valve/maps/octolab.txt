@@ -1,0 +1,175 @@
+*** Overview
+
+Title           : Octolab 
+Included Files  : octolab.bsp (map for regular HL)
+                  octolab.jrf (Jumbot Waypoints for above map)
+                  op4_octolab.bsp (Opposing Force Conversion of map)
+                  octolab.txt (this file)
+Author          : aXon
+Author Email    : axon@thefortress.org
+Home page       : Pixel Map Reviews: http://hlmaps.hypermart.net/
+Description     : Small FFA DM map, also good for small team matches
+Map Version     : Release 1
+Release Date    : End of November, 1999
+Previous Maps   : Countless Unreleased Piles of Crap
+Shameful Plea   : Wanna hire me? Oh pleeeeeeease, I'd love to map
+                  for a living. :] (oh please oh please...)
+
+
+*** Usage Instructions
+
+To use this map, unzip all the files into your sierra/half-life 
+directory, keeping the "Use Folder Names" box checked. The files 
+will automatically be placed in the correct directories. If you're 
+not using winzip, you'll have to manually place the files in the 
+correct places.
+
+octolab.bsp goes in valve/maps
+op4_octolab.bsp goes in gearbox/maps
+octolab.jrf goes in jumbot/wpfiles
+
+
+*** Info about the Map
+
+This is a FFA style DM map for Half-Life and Half-Life: Opposing 
+Force. I actually think the OpFor version is probably a lot more 
+fun, as I like the weapon selection from OpFor better. One of my 
+friends (ADEUP, thanx a lot buddy!) put the beta of the plain old 
+HL version on his server and we had fun with 3 on 3 teamplay too.
+
+If you were wondering, it's called octolab because the layout is 
+contained inside an octogon, and because I used the c2a4 lab texture 
+set. This is my favorite texture set from HL. I know that lab style 
+has been done a lot, but I think the map is different enough from 
+most other lab style maps that it will stand out a bit.
+
+Waypoints for the Jumbot are included for playing against bots in 
+the HL version of the map. There aren't any bots for OpFor as I 
+write this, but as soon as there is one I'll release a waypoint 
+file for the OpFor addon.
+
+Weapons in the HL version of the map are:
+
+- Crowbar (start with it)
+- Glock (handgun, start with it)
+- RPG
+- Gauss (Tau cannon)
+- Hornet Gun
+- Shotgun
+- 9mmAR w/grenades (Machine gun)
+- Crossbow
+- Hand Grenades
+- Tripmines
+- Satchels
+- Snarks
+
+The 357 is left out because it's not very useful anyway, and the 
+egon (gluon gun) is left out because i despise it with every 
+fiber of my being. The Hornet gun is left in because some people 
+just can't live without it. Also, with many heavy weapons (rpg, 
+gauss, AR grenades) close by, anyone relying exclusively on the 
+hornet gun will not last long.
+
+Weapons in the OpFor version are:
+- Pipe Wrench (start with it)
+- Glock (start with it)
+- Spore Launcher (the green thing that shoots green things)
+- Gauss
+- Shockroach (shoots the balls of blue energy, requires no ammo)
+- Shotgun
+- 9mmAR w/grenades
+- M249 (chain-fed machine gun)
+- Sniper Rifle
+- Desert Eagle (handgun with laser sight)
+- Barnacle (grappling hook)
+- Displacer (the BFG that you can teleport yourself with)
+- Hand Grenades
+- Tripmines
+- Satchels
+- Snarks
+
+As you can see, the OpFor version is much more diverse in 
+weaponry. The displacer is hidden, along with some medkits and 
+batteries. There's a couple other secrets related to computer 
+panels, but I'll leave you to find those. ;]
+
+If you do play this map, or put it in your server's rotation, I'd 
+love to hear about it. Send me an email at axon@thefortress.org
+
+
+*** Beta testers
+
+ADEUP
+Visit his server, ADEUP's Spueda, on WON
+http://welcome.to/ADEUPS
+
+ClemsonKev for serving a test
+
+Toasta[COD] for agreeing to test but never actually getting to, 
+and also for inspiring a lot of my current projects.
+
+The Department of Engineering, for at least posting my map, even 
+though I never actually got any testing info from it.
+http://halflife.lowlife.com/
+
+
+*** Thanks to
+
+Valve Software, for making the best game ever
+
+Gearbox Software, for making the best addon ever for the best game 
+ever (that addon being OpFor)
+
+Autolycus at the HLERC for all the wonderful editing information, 
+and for posting the OpFor FGD just it time for this map's release.
+http://halflife.gamedesign.net/
+
+Navyfighter, JuddHunter, and anyone else that helped me over at the 
+HL editing forum over these last 8 months I've been mapping. Thanx 
+a lot guys!
+http://forums.gamedesign.net/forums/wwwthreads.pl?action=list&Board=HL_LevelEditing
+
+Zoner for his greatly improved HL Compile Tools
+The latest version can be downloaded at the ERC:
+http://halflife.gamedesign.net/
+
+theAntiELVIS for the Half-Life Level Compilation Controller, 
+also available at the ERC.
+
+Anyone taking the time to review this map.
+
+Anyone playing this map, or using it in their server's mapcycle.
+
+
+*** Stats
+
+Deathmatch      : Yes (16 starts)
+Teamplay        : Surprisingly, Yes
+Single Player   : No
+Coop            : No
+How Many Players: 2-8
+New Textures    : No
+New Sounds      : No
+
+
+*** Construction
+
+Base            : None
+Editor used     : Worldcraft 2.1 (notice the lack of a "funny pun" on Worldcraft)
+Build Time      : ~12 hours total over 3 days (I was on a roll for the first time)
+Compile Machine : Home Built P2-450 w/256 megs ram
+Compile time    : 500 seconds (about 8 minutes)
+Playtest time   : 12 days 
+
+
+*** Copyright and Permissions
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS! If you don't cooperate, then DON'T DISTRIBUTE IT IN 
+ANY FORM!
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put these BSPs on any CD or distribute it in
+any way without my permission.

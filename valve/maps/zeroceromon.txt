@@ -1,0 +1,60 @@
+.-----------------------------[Half-Life DM Map]--- ò_ó -- - -
+| Title         : Zeroceromon                       <|>
+| Date          : 9.10.2001 (dd.mm.yy)              ´|`
+| Filename      : zeroceromon.bsp                   ((
+| Author        : Jussi Kivilinna
+| Email         : hullu@hullu.cjb.net
+| Home page     : http://hullu.cjb.net/
+| Description   : Small lab-style map.
+| Previous Maps :
+|               HLDM Varrock (hullu6dm) (hldm)
+|               Templecore (hullu5dm) (hldm)
+|               op4ctf_StorageArea (hl-op4)
+|               Peruskoulu 1.5 (hl-op4)
+|               ...
+| Credits/Thanks:
+|       Helping/Betatesting:
+|               [DRS]Orpheus
+|       Playtesting:
+|               Pexxi
+'-------------------------------------------- --- -- - -- - -
+
+Deathmatch      : Yes - 11 starts defined. 
+Single Player   : No
+Min. players    : 2
+Max. players    : 8
+
++-----Map Information------------------------- --- - -- -- -
+
+New Textures    : Some (modified light-textures(decreaced brightness) and one in secret)
+New Sounds      : None.
+
+Some of the panels are breakable and all have same texture.
+
++-----Construction------------------------------ --- - -- -- -
+
+Base            : Lab-area which I used in Templecore-map.
+Build Time      : Started making area used in Templecore fall 2000 (took about 2-3 weeks). Made new areas and fixed old ones (thanks to [DRS]Orpheus for pointing out places which needed fixing) fall 2001 (1-2 weeks).
+Editor(s) used  : WorldCraft 3.3, PSP7, Wally, ZTools 2.5.3
+Compile Machine : Celeron 400@450 / 128Mb
+Compile Time    : ~25min
+
++-----Map Instructions------------------------ --- - -- -- -
+
+Unzip the files in this archive.
+ o Place the map, "zeroceromon.bsp" in your '½-life/valve/maps' directory.
+ o Place two files from "overviews"-directory in your '½-life/valve/overviews' directory.
+ 
+If you are using HPB-Bot:
+ o Place the HPB-Bot-waypoint-file "zeroceromon.wpt" in your '½-life/valve/maps' directory.
+ 
+If you are using Jumbot:
+ o Place the Jumbot-waypoint-file "zeroceromon.jrf" in your '½-life/jumbot/wpfiles' directory.
+
++-----Copyright-Permissions----------------------------------- --- - -- -- -
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems. You are NOT authorized to put this BSP on any CD or distribute it in any way without my permission.

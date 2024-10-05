@@ -1,0 +1,15 @@
+Cliffs
+======
+
+By Bryce Fitzsimons
+brycef84@hotmail.com
+http://thehobbit.n3.net - My webpage. Not related to HL in any way.
+
+I like space levels, but I decided to make one on Earth, so to speak.  Thus, here is a HL DM cliff and abyss level that I made in about 2 days.  This map includes a fogging technique that I invented a long time ago but never used until now - it's somewhat of a kludge using func_illusionary's.  This level is good also with 200 gravity.
+
+This includes a few custom textures; these are compiled in the actual BSP file.
+
+This map and other maps of mine are available at http://thehobbit.wox.org/hl-maps/
+
+Release date: March 9, 2002
+File Size: 609 KB

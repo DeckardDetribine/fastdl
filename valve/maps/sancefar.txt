@@ -1,0 +1,39 @@
+Sancefar
+By Rimrook
+
+This map was rather difficult to construct sensibly and keep the performance under
+budget. There are locations where the r_speeds are rather high but they are mostly
+views from the towers. I tried to break away from the casual blockiness of the
+grid for whom we are all slaves to.
+
+Other than that, artistically, i did much research and had drawn several notes.
+After all that, I broke away from the notes since things always look better on
+paper, once constructed, it looked like (@*Q&#. Texturing was another issue.
+I found it better looking and more eye-pleasing to have smooth-vs-rough textures
+through out the map. Thusly I made a basic minorly textured surface that I used as
+a base for all of the other architectual surfaces. The skybox was also something i
+dared to differ once again. I tried pink, brown, teal, but this time. YELLOW! It
+ties the world together and really makes the details stand out euphorically rather
+than forcing difference with two different colors, like green and blue.
+
+This map truly examples how powerful the Half-Life 1 engine really is. As mentioned
+before, the r_speeds r_shit, but managed differently. Since this is a giant map with
+many details, this should murder the engine. However, using the methods described in
+my journal about portal node sizes combined with a full-vis, the engine cut alot of
+portals and rather sloppily auto-hinted the map. Yeah, sloppy, but rather efficient
+since it halved the overall average r_speeds. If you really want to know the custom
+settings for the batch compiler, here they are.
+
+-VIS-
+Max Distance			6000
+Vis Type			Full
+
+-BSP-
+Max Node size			240
+Subdivide			240
+
+-RAD- (This settings are my personal high-contrast settings)
+Extra				On
+Bounce				0
+Smooth				180
+Coring				64

@@ -1,0 +1,39 @@
+--------------------------
+Room of Doom  Infotext
+--------------------------
+
+Mapper 		: Kampy (Sebastian Kamper)
+Mappers Email 	: webmaster@kampys-stuff.de  /   Kampy20@gmx.de
+Mappers Page	: www.kampys-stuff.de
+Betatests	: 4
+Map completed 	: 6.5.2003
+Base		: arena map of the A.M.O.K. Mod (original map by Kampy too)
+textures	: self made textures and one CS rost texture
+files 		: room_of_doom.bsp + read_me.txt
+
+--------------
+How to install:
+--------------
+Put the BSP file into your VALVE\MAPS folder (for example: C:\sierra\half-life\valve\maps)
+
+-------------------------
+* Copyright / Permissions *
+-------------------------
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+if there are any questions contact me!
+
+
+and be sure to visit
+--------------------
+www.kampys-stuff.de
+--------------------

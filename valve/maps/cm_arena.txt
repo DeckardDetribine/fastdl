@@ -1,0 +1,105 @@
+CM Arena - In Dedication to the HLDM clan "Colonial Marines"...WHOOPAH!
+====================================================================================================
+
+Date                    : 19th April 2002
+Title                   : CM Arena
+Filename                : cm_arena.bsp
+Author                  : ReNo [Duncan Blair]
+Email Address           : reno@valvepit.com
+ICQ#			: 28651662
+Home Page               : http://evolution.valvepit.com
+
+Map Description         : This map was made in dedication to my ex-HLDM clan, Colonial Marines.
+			  It originally started out as a small indoors arena, but quickly expanded
+			  into a medium sized deathmatch map. Even the original indoors section
+			  has changed completely :)
+
+			  w_poly readings hit 1400ish in 2 places, but they are just small spots. All
+			  other areas *fingers crossed* have stayed well below 1000 :)
+
+Other Works by Author   : [1] Obsolete
+			  [2] Elixir
+			  [3] Rebellion
+
+			  Check them and more out at the maps page of my site:
+			  http://evolution.valvepit.com/maps.html
+
+Misc Author Info        : This is my fourth map release. I am currently 17 [at 19/04/02] and live 
+			  in Scotland in a little town called North Berwick where i skateboard,
+			  map and piss about on computers. Sometime i hope to gain a career in a
+			  level design...nothing wrong with optimism :)
+
+
+===================================================================================================
+
+== Play Information ==
+Single Player           : No [1 start]
+Cooperative             : No
+Deathmatch              : Yes
+
+== Construction ==
+Base                    : Scratch
+Editor(s) used          : Worldcraft 3.3/Valve Hammer 3.4, Wally
+
+== Build Machine ==
+AMD Duron 800
+256mb Crucial RAM
+Elsa Gladiac MX 32mb
+
+
+========================== Playtesting & Suggestions =============================================
+	
+Colonial Marines :	Sungod		Doc
+			Blasty		Bob
+			Rowly		Goose
+			Fatboy		Massy
+			Stoofer		Jakal
+
+Real Life mates :	Moose		Alborac
+			Sonic		Senate
+			Franky Bo	Trunter
+			sXe_AlcoHoliC
+
+Others :		Scary_jeff	Orpheus
+			Neppi		Andrew Weldon (KungFuSquirrel)
+			Gollum		Alien Sniper
+			Leperous	Innocent
+			Violation	Supercrazy
+			Vengeance	ACE|FRAG
+			Kagemusha	jolly_roger
+			Renegade	Ferret
+
+
+================================= Thanks... =======================================================
+In no particular order...
+	
+	Colonial Marines, my HLDM home, to whom this map is dedicated!
+	Sungod for leading us for so long, u did well m8 :)
+	Fatboy for resuming control after Sunny lost interest, you lived upto the job well ;)
+	Friends
+	Family
+	All the great HL mapping sites that i learnt from
+	All the great HL level review sites that im sending this too!
+	Scary_jeff for the Jumbot waypoint file for the map, you rule m8 ;)
+	Counter-Strike for the sky i've used.
+	Kage of "The Rig" mod for letting me finish this ;) (http://therig.valvepit.com)
+	Howling for hosting me and running the excellent ValvePit (http://www.valvepit.com)
+	Leperous for running (and upgrading!) the amazing Snarkpit (http://www.snarkpit.co.uk)	
+	Snarkpit forum crew for comments and banter.
+
+
+== Installation Info ==
+Unzip cm_arena.bsp and this text file to your half-life\valve\maps directory.
+Unzip cm_arena.jrf (optional file) to your half-life\jumbot\wpfiles directory.
+Unzip all other files to your half-life\valve\gfx\env directory.
+
+
+==Copyright / Permissions==
+Authors MAY NOT use this level as a base to build additional levels.
+
+This map may be distributed ONLY on a "not for profit" basis using any medium,
+provided this file is included with no changes.
+
+Magazines and other published media may use my level provided they ask for my permission.
+
+This template is available from www.globalassault.com.

@@ -1,0 +1,97 @@
+.::  Map Information  ::.
+
+Faction
+Half-Life Deathmatch
+dm_faction.bsp
+Recommended Players: 6-8
+
+
+.::  Author Information  ::.
+
+Author: Andrew C. Weldon
+E-Mail: aweldon@planethalflife.com
+URL:    http://planethalflife.com/awmaps/
+
+
+.:: Previous Work ::.
+
+Map Title		BSP Name		Game Type	Released
+---------		--- ----		---- ----	--------
+Planet Half-Life HQ	dm_phl.bsp		  HL DM		Jan. '01
+CrateMaze		funny_cratemaze.bsp	  HL DM		Jun. '01
+Zeta Sector		dm_zeta.bsp		  HL DM		Jun. '01
+Zeta Sector		op4_zeta.bsp		 Op4 DM		Jun. '01
+Phreneticism		dm_phreneticism.bsp	  HL DM		Jul. '01
+Phreneticism		op4_phreneticism.bsp	 Op4 DM		Jul. '01
+Sector A		dm_sectora.bsp		  HL DM		Jul. '01
+Wormhole		op4ctf_wormhole.bsp	 Op4 CTF	Aug. '01
+Repair Bay 4		dm_rep4.bsp		  HL DM		Nov. '01
+Repair Bay 5		op4_rep5.bsp		 Op4 DM		Nov. '01
+Valor			dm_valor.bsp		  HL DM		Dec. '01
+Valor			op4_valor.bsp		 Op4 DM		Feb. '02
+Gauntlet		op4ctf_gauntlet.bsp	 Op4 CTF	Mar. '02
+
+
+.::  Map Description  ::.
+
+In my search for the perfect textures for some of my upcoming projects, I
+found Sock's excellent Tech texture set. Inspired, I downloaded them, converted
+them all to .wad format, and started building. This is the result.
+
+I wouldn't say this map quite meets my level of achievement in Valor or Repair
+Bay 4, but it's by no means a bad map in my opinion. I lost inspiration somewhat
+late in development, and started a new project, Defiance, based upon the same texture
+set but a new architectural outlook. However, the playtest with 4 and 5 were fun (if
+not a bit sparse), and the general reaction when I announced that I was not planning
+on releasing this map was one of general disappointment; while the map is by no means
+my best, it still is of releasible quality. For this reason it's in your hands now.
+
+Consider it a teaser for Defiance. :)
+
+.::  Thanks to:  ::.
+
+	Valve Software
+	Gearbox Software
+	Sock (textures, converted from Q3 versions found at: http://planetquake.com/simland/)
+	Crinity (Desert Dusk skymap)
+
+From #valveerc:
+	Gonnas
+	Roadkill
+	Zypher
+	Cayle George
+	tom
+	Delete_Me
+	Anyone I forgot who helped critique or playtest
+
+From the Snark Pit:
+	ReNo
+	Gollum
+	
+.::  Technical Info  ::.
+
+Editor: WorldCraft 3.3/Valve Hammer
+
+Build Time: Approx. 1 month
+
+Compile Time:
+	CSG: 11.30s
+	BSP: 11.18s
+	VIS: 1m 6s
+	RAD: 10m 14s
+
+Compile Tools: Zoner's 2.5.3 with Merl's 1.5 custom build of CSG and BSP and WhoMe's custom build of HLRAD
+
+Compile Machine: AMD Athlon XP 1900
+		 1 GB PC2100 DDR Memory
+		 
+.::  Instructions  ::.
+
+Unzip the contents of the .zip file into your Half-Life directory. All files will be automatically placed from there.
+
+.::  Other Stuff ::.
+
+dm_faction (c) 2002 Andrew Weldon
+
+
+		 

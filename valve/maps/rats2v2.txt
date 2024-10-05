@@ -1,0 +1,76 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: Rats2
+Release         : Version 2
+Date		: 24th December 1999
+Filename	: rats2.bsp
+Author		: Chris Spain
+Email Address	: cspain@cyber-rat.com
+Home page	: www.cyber-rat.com
+Description	: DM map where the player is about 4 inches tall,
+		: set in a bathroom.
+Previous Maps	: Various Quake2, Quake and DOOM maps plus Rats!
+Credits/Thanks	: Thanks to Swampbug for the concept of Rats, and to
+                : Stage Diver for playtesting Rats2.
+Version 2       : Fixes annoying problem with soapdish elevator.
+
+------Play Information-----------------------------------------------
+
+Deathmatch	: Yes - 24 starts defined.
+Single Player	: No.
+Map Description	: Small Fraggers2
+
+Rats2 is - you guessed it - the imaginatively-titled sequel to Rats!
+This time the action takes place in a giant bathroom, which provides
+some new features for your fragging fun, including a sponge bounce-pad,
+a toy boat complete with machinegun, and a toilet to flush away those
+unwanted enemy players.
+
+This map has higher r_speeds than Rats, so lag may be a problem on
+older machines and software mode is definitely out. Unfortunately,
+with this sort of map it's a compromise between detail and r_speeds
+and with this map I decided to leave in more detail than in Rats.
+
+Note: As with Rats, this map should not be run with realistic falling damage
+set on. Gameplay is much better with the default setting (normal dmg).
+
+Known Bugs:
+None.
+
+
+------Map Information------------------------------------------------
+
+New Textures	: None (just to keep it simple).
+New Sounds	: None.
+
+------Construction---------------------------------------------------
+
+Base		: From scratch.
+Editor(s) used	: WorldCraft 2.1
+Compile Machine	: PII 400.
+Compile time	: Approx. 8 mins.
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "rats2.bsp" in
+your half-life/valve/maps directory.
+
+------Additional Info------------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

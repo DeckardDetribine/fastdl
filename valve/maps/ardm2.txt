@@ -1,0 +1,50 @@
+* Play Information *
+Title 			:Weapons Work Shop
+Filename		:ardm2.bsp
+Author			:ARage (Alex Raginskiy)
+Other lvls by author	:ardm1.bsp (The Camp)
+Email address 		:arage@hotmail.com
+Home page		:http://members.xoom.com/arage/
+Description		:Medium sized DM map
+Additional Credits to   :
+
+Darghoul - For all the support, explanations, help, and the positive feed back
+halflife.gamedesign.net - Great tutorials
+My brother for letting me use his computer a countless amount of times.
+
+Valve for making the best game I ever played.
+
+Single Player           :no
+Cooperative Player      :no
+Deathmatch Player       :YES!
+CTF2			:no
+Difficulty Settings     :none
+New Textures            :none
+CD Track                :n/a
+
+* Construction *
+Base			:Scratch
+Editor(s) used          :World Craft 2.0
+Compile Machine		:AMD K6 233 64 Ram
+Compile time		: BSP:? VIS (Full):1678 RAD (Extra):1038
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+
+Took about 1 Month 5 days, I also took a break alot.
+
+
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

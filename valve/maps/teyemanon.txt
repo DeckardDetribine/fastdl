@@ -1,0 +1,44 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------Install Instructions-----------------------------------------------
+
+Extract 'teyemanon.bsp' to your 'half-life\valve\maps' directory.
+
+------General Information--------------------------------------------
+
+Title           : Teyemanon
+
+Date            : 14.9.2002 (txt: 20.9.2002)
+
+Filename        : teyemanon.bsp
+
+Author          : Jussi Kivilinna
+
+Email Address   : hullu@unitedadmins.com
+
+Home page       : http://hullu.xtragaming.com/index.html  
+
+Description     : Half-Life: Deathmatch Map.
+                  Night-industrial themed arena map.
+
+------Play Information-----------------------------------------------
+
+Deathmatch      : Yes
+Teamplay        : Yes
+Single Player   : No
+
+------Construction------------------------------------- --- - -- -- -
+
+Base            : How you say it in english.. scratch or sumthing
+Build Time      : Started one day .. finished next day .. less than 36hr
+Editor(s) used  : WorldCraft 3.4, ZTools 2.5.3 Custom Build 1.61
+Compile Machine : Celeron 400@450 / 128Mb
+Compile Time    : ~20min (hlrad -chop 16 -texchop 8 -extra)
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+
+ 

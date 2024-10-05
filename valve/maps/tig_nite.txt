@@ -1,0 +1,93 @@
+date: 15th of April 1999.
+Half-Life deathmatch level.
+
+====================================================
+title:            Good Nite
+file:             tig_nite.bsp
+author:           ]Tigger-oN[ 
+email address:    tigger@ebom.org
+URL:              http://www.ebom.org/ray
+                  http://planethalflife.com/tigger 
+description:      Small teamplay map, good for 
+                   1on1's, 2on2's and maybe the odd 
+                   3on3 teamplay. FFA up to 6 ppl, 
+                   More and it will full apart :]
+
+====================================================
+play information
+
+single player     no
+cooperative:      no
+skills 0,1,2,3:   no
+deathmatch:       Small teamplay games. small 
+                   FFA (up to 6 ppl)
+new sounds:       no
+new graphics:     no
+new music:        no
+
+
+how to start      start a multiplayer game and 
+                   select tig_nite from your 
+                   map list
+                  
+====================================================
+info
+the water *was* transparent, but this caused a bit of 
+a slowdown on some set-ups and a big increase in 
+r_speeds, this would have to be about the only thing 
+i would have liked to include that i didn't.
+
+floating satchel's and sliding tripmines are cool in 
+the water where there is a current (well i think so) 
+
+would like to request that radium's review site 
+does NOT do a review of this level until after 
+the 15th may, thanx
+
+
+====================================================
+construction
+
+base:           none
+editor:         WorldCraft 2 by Valve
+other progs:    Half-Life Sprite Viewer v1.05 Beta
+                 by David Flor (a.k.a. Nighthawk)
+                 http://www.planethalflife.com/mach3/
+know bugs:      none known
+build time:     about 4 weeks of spare time
+
+====================================================
+thanx to ...
+
+autolycus at http://www.gamedesign.com
+
+evilchild at the DoE, http://halflife.lowlife.com
+
+Mardegun 
+Mr. NoHead
+Alex
+Stoltmann
+David E
+Puppy66666
+Stoffy
+Dan
+Brent M
+Reaperman
+
+....and all the other beta testers
+
+
+====================================================
+Distribution and legal: 
+
+Copyright (c) 1999 ray, tigger-on, tigger@ebom.org
+All rights reserved.
+
+Portions copyrighted by Valve, Inc.
+This level may be electronically distributed only at 
+NO CHARGE to the recipient in its current state, MUST 
+include this .txt file, and may NOT be modified IN 
+ANY WAY. UNDER NO CIRCUMSTANCES IS THIS LEVEL TO BE 
+DISTRIBUTED ON CD-ROM WITHOUT PRIOR WRITTEN PERMISSION.
+
+====================================================

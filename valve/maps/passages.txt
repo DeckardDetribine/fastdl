@@ -1,0 +1,65 @@
+================================================================================
+* LEVEL INFORMATION *
+--------------------------------------------------------------------------------
+TITLE                   : Passages
+FILENAME                : Passages.zip
+.zip CONTENTS           : Passages.bsp, Passages.txt
+
+AUTHOR                  : Dilbert
+e-Mail                  : Dilbert_half_life@hotmail.com
+HOMEPAGE                : http://homepages.tesco.net/~hfhome/
+DATE                    : 21/02/2002
+GAME PLAY TYPE          : Deathmatch
+--------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+--------------------------------------------------------------------------------
+As the name says lots of passages!
+Secrets: There a number of secret areas & secret "doors"?
+
+--------------------------------------------------------------------------------
+SINGLE PLAYER           : No
+CO-OPERATIVE            : No
+DEATHMATCH              : Yes
+DIFFICULTY SETTINGS ?   : No
+NEW TEXTURES ?          : Yes
+NEW SOUNDS ?            : No
+
+Credits: "Gerbil" & "Who" for play testing.
+--------------------------------------------------------------------------------
+* CONSTRUCTION *
+--------------------------------------------------------------------------------
+BASE MAP USED ?         : No, New Map
+PREFABS USED ?          : None
+EDITORS USED            : Hammer,
+UTILITIES USED          : Pakscape, Wally
+KNOWN BUGS              : None
+                       
+COMPILE MACHINE         : P3 800 with 768 megs of RAM
+--------------------------------------------------------------------------------
+* OTHER LEVELS BY THE AUTHOR *
+--------------------------------------------------------------------------------
+Half-Life                : Acid (Deathmatch)
+Half-Life		 : Recross2 (Deathmatch)
+Half-Life		 : The Project (Single player mod)
+Half-Life		 : Minp2 (Deathmatch)
+Half-Life		 : Minp3 (Deathmatch)
+Half-Life		 : 0power (Deathmatch)
+Opposing force           : op4_acid (Deathmatch)
+--------------------------------------------------------------------------------
+* SPECIAL INSTRUCTIONS OR INFORMATION *
+--------------------------------------------------------------------------------
+Copy the Passages.bsp into your Sierra/Half-Life/Valve/Maps directory.
+ 
+--------------------------------------------------------------------------------
+* COPYRIGHT/PERMISSIONS *
+--------------------------------------------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. This LEVEL may be distributed ONLY over the Internet
+and/or BBS systems You are NOT authorized to put this LEVEL on any CD or
+distribute it in any way without my written permission.
+
+ 
+[END OF DATA]=========================================================[.txt|Gen]
+

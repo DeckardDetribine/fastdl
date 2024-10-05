@@ -1,0 +1,66 @@
+* * * HALF-LIFE DEATHMATCH MAP * * *
+
+6th July 1999
+
+*Map Info*
+=====================================================================
+Map Title               : BRAGAS (Pants)
+Map Filename            : bragas.bsp
+Map Format              : Half-life BSP
+Map Version             : 1.0.2
+Author                  : Adam Mummery-Smith
+E-Mail Address          : adam@yesit.co.uk
+Home Page               : http://www.earthquake.freeisp.co.uk
+Description             : Arena-based deathmatch level.  This level just kind of evolved
+                          from an idea that I had.  I have tried to combine some of the
+                          good points from other deathmatch levels that I have played.
+Credits to              : Valve for Half-Life and Worldcraft
+                          All the guys at Wavelength
+                                          (http://www.planethalflife.com/wavelenth)
+                                                     for their fantastic tutorials which
+                                                     helped me to build this level !!!
+
+*Play Info*
+=====================================================================
+Single Player           : If you want - no monsters though :)
+Cooperative             : No
+Deathmatch              : Absolutely !
+Teamfortress            : No
+Difficulty Settings     : No
+New stuff               : None
+CD Track                : None
+
+*Construction Info/Statistics*
+=====================================================================
+Base                    : Original
+Construction time       : About 3 weeks on and off (during my exams *g*)
+Editor(s) used          : Worldcraft 2.1
+Compile Time            : QCSG - 8 Seconds
+                          QBSP - 11 Seconds
+                          QRAD - 70 Seconds
+                          VIS - 507 Seconds
+Compile Machine         : PII 300MHz w/128 Mb RAM
+Solids                  : 334
+Faces                   : 2005
+PointEntities           : 171
+SolidEntities           : 53
+Known bugs              : A few related to VIS info (ie, can see parts of level that
+                          you shouldn't be able to) but don't affect gameplay. Some
+                          places are also REALLY hard to get to :)
+Comments                : Best with 2-6 players.
+
+*Other Info*
+=====================================================================
+In early versions the framerate of this was real bad.  Please let me know
+if you have trouble with this.  I would REALLY appreciate any comments/suggestions
+that anyone has about it.  I am still a novice to level building so constructive
+criticism is expected ! :)
+
+*Legal Stuff*
+=====================================================================
+Authors MAY modify this map and use it as a base for additional levels. (Contact me
+if you want a copy of the original .MAP file :) )
+
+This map may be distributed over internet, BBS or any other FREE media.  It must
+NOT be sold, under ANY circumstances for ANY amount of money without my permission.
+Also, it must always be distributed along with this .TXT file.

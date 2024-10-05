@@ -1,0 +1,55 @@
+===Map Info
+
+	Title		: Repair Bay 4 (HL DM Version)
+	Filename	: dm_rep4.bsp
+	Author		: Andrew Weldon
+	E-mail		: aweldon2@bigred.unl.edu
+	Website  	: http://awmaps.tripod.com
+	Description	: 6-12 player HL Deathmatch
+	Previous Maps	: dm_phl -- Planet Half-Life HQ
+			  funny_cratemaze -- CrateMaze (SnarkPit's funny map contest)
+			  dm_zeta -- Zeta Sector (HL DM version)
+			  op4_zeta -- Zeta Sector (Op4 DM version)
+			  dm_phreneticism -- Phreneticism (HL DM version)
+			  op4_phreneticism -- Phreneticism (Op4 DM verision)
+			  dm_sectora -- Black Mesa: Sector A
+			  op4ctf_wormhole -- Wormhole
+
+===Credits and Thanks
+
+	Valve Software
+	Gearbox Software
+	[DRS]Orpheus
+	ReNo
+	Supercrazy
+	Mustang
+	The various folks in #valveerc who d/led and commented
+	All the other people who downloaded the beta but didn't return specific comments
+	Terragen
+	
+
+===Other Info
+	New Textures: Custom skybox texture, mounset*.tga
+	New Sounds  : nope
+	Prefabs     : modified version of Carlos Salgado's Explorer prefab	
+
+	Repair Bay 4 is my ninth release, and should be able to hold anywhere from 6-12 players. Happy fragging.
+
+==Construction
+
+	Base			: scratch
+	Editor(s) used	: Worldcraft 3.3
+	Compile Machine	: AMD Thunderbird 1.33 gHz, 512 mb RAM.
+	Build time		: approx. 2 months (on/off work)
+	Compile time		: approx. 20 minutes
+
+==Map Instructions
+
+	Unzip the contents of this zip file into your /valve/ directory. The zip file should then place all files in the appropriate locations. If you have "Use folder names" disabled, place dm_rep4.bsp and dm_rep4.txt into your /valve/maps/ directory and the 6 sky textures into the /valve/gfx/env/ directory.
+
+This map is (c) 2001 Andrew Weldon. Enjoy.
+
+Andrew Weldon's map making talents will return in the following:
+	Repair Bay 5 -- Opposing Force DeathMatch
+	Repair Bay 6 -- Opposing Force Capture the Flag
+	Gauntlet -- Opposing Force Capture the Flag

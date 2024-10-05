@@ -1,0 +1,102 @@
+=================================================================================================
+Title                   : Danger Room
+Files                   : danger.bsp, danger.jrf
+Author                  : QS
+Email Address           : quantumsaint@yahoo.com
+More maps by me?        : http://members.xoom.com/the_page/hl 
+
+
+Warning                 : You must have version 1.0.0.9 or better of Half-Life to
+                          play this map.                          
+
+Description		: 2-4 player arena that comes complete with spectator area (no fighting).
+                          Players inside the spectator area will be able to view fighting without
+                          the fear of being killed due to special shielding and 2 ply glass pains.
+                          Players inside spectator area will also be able to interact with the
+                          action inside the arena through the Kill Switches located at each 
+                          window. Switches include snark attack, toxic wash (radioactive stew),
+                          airstrike and nerve gas. Use them wisely to drain life and armor from
+                          opponents inside the fighting area before entering.
+                          
+                          Players inside the fighting area are awarded one point every 30
+                          seconds. This is to keep opponents from getting ahead and not entering
+                          the fighting area causing an automatic win.
+
+                          When you begin the map, you will be without any weapons. You will need
+                          to enter the fighting area via the teleport buttons in each spawn area
+                          to recieve weapons. Upon teleport to arena you will recieve the weapons
+                          that were displayed in the window case behind the teleport buttons. 
+                          Weapons will only be recieved through teleport and killing your 
+                          opponents and taking their weapon.
+                                                                                         
+                          There is ammo automatically supplied with each weapon upon teleport
+                          and there is ammo inside the arena area. No weapons are present in the
+                          arena other than your opponent's, so choose your weapon set wisely 
+                          before entering.
+                         
+                    Note: Two players teleporting at the same time from the same teleport pad
+                          will result in death to both players.
+
+                          This was done to keep players from sticking
+                          during teleport and one player being without weapons inside 
+                          the fighting area. It had to be done this way. Remain clear of 
+                          the teleporter if another player is pressing the switch.
+                         
+                          This map was designed for the small LAN here and to play against
+                          bots but r_speeds were kept low for possibility of internet play
+                          with small amounts of players.
+                          
+                    
+                          
+Challenges              : 1. To see who can rule the arena for the longest amount of time.
+                          2. Go without any deaths or get best ratio.
+                          3. Who can collect all weapons availible at one time without dying.
+                          
+                         
+Weapons Included        : RPG, 9mmAR, Gauss, Shotgun, Crossbow, 357,                                                     
+                          9mm pistol, Snarks, Satchels, Tripmines, Handgrenades
+            
+                                   
+=================================================================================================
+--ADDITIONAL CREDITS--
+
+Big thanks to Valve
+
+=================================================================================================
+--PLAY INFORMATION--
+Game			: Half-Life
+Level Name      	: Danger Room
+Files    		: danger.bsp, danger.jrf
+Single Player           : No	
+Cooperative 		: No 
+DeathMatch              : Yes
+MAP    # of PLAYERS     : 2-4
+             				
+Difficulty Settings     : No
+
+Platform(s) used               : P200mmx Voodoo3 128MB mem and AMD K6 300 64MB mem Voodoo2
+Editor(s) used                 : WC, ZHLT, Q2 Beaver, Wally
+Known bugs                     : Sometimes, players will still recieve one point if they are dead                                  
+                                 inside arena due to automatic point bonus.
+New sounds/textures/entities   : New textures by me - trap signs and "no fighting" sign, thay are                                  
+                                 compiled into the map so there is no need to add a seperate WAD.
+=================================================================================================
+=================================================================================================
+--LOADING INFORMATION--
+Download, unzip, and put the .BSP file in your c:\sierra\half-life\valve\maps directory 
+(your drive letter may be different). Its that easy...Done 
+
+--Additional Notes--
+
+This map took about 4 days to make and has been through about 60 hours of playtesting and many
+revisions over the last 6 months to iron out the bugs.
+
+=================================================================================================
+--LEGAL--
+This Half-Life map/level (Danger Room, danger.bsp) is (c) 2000 Stephen Smart.
+DO NOT put this level/map on any sort of commercial product or 
+compilation unless you have permission from me.
+You MAY distribute this BSP file through any other means, 
+provided you include this .txt file (unaltered) and it is free of charge.
+The text file does not need to be included if downloaded directly from server during game.
+Do not modify this BSP in any way.

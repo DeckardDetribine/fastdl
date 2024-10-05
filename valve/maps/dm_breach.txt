@@ -1,0 +1,20 @@
+DM_BREACH
+
+HLDM MAP FOR TWHL COMPO 19
+
+Jax's comeback into HL mapping after around 1 & 1/2 years?
+
+Zip include dm_breach.bsp
+
+Thanks to Ant for playtesting at the last second.
+
+Congratulations to myself for actaully getting this in on time
+even if I had to strive to make it get like it is in time 
+(map was only around 70% done at the last day or so).
+
+Map includes custom textures.
+Map should run without error.
+Map has over 8 spawn points.
+
+Thanks, Jax
+

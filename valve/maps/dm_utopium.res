@@ -1,0 +1,12 @@
+gfx/env/night1up.tga
+gfx/env/night1dn.tga
+gfx/env/night1lf.tga
+gfx/env/night1rt.tga
+gfx/env/night1ft.tga
+gfx/env/night1bk.tga
+sound/ambience/3dmthrill.wav
+models/orange_glow.mdl
+models/orange_glow2.mdl
+models/bigpillow.mdl
+maps/dm_utopium.txt
+maps/dm_utopium.res

@@ -1,0 +1,74 @@
+================================================================
+Title                   : Scary_2 senior 
+Date                    : 11th October 1999 
+Filename                : scary_2snr.bsp
+Author                  : Steve Lyne aka "Scary-one" 
+Email Address           : steve.lyne@telia.com
+Home Page               : http://scary1.remotepoint.com
+
+Description             : This is an upadated version of the original Scary_2, although it hasn't been a bug fixing mission.
+			  The goal has been to make a level capable of bearing the weight of 4 to 6 players (scary_1 capacity).
+			  Whilst adding a section I changed the mood to a late night setting, which works well in my opinion.
+			  I stated at one point that the level would be updated with a water section, this turned out not to
+			  the case. Such is life, and such is mapping. I never REALLY know how a map will develop .. one can
+			  only try to visualise the finished product.
+
+			  Anyway guys ... enjoy! I hope it makes for a decent battlefield.
+ 
+Other Levels by myself  : Manhunt (manhunt.bsp)
+			  Enraged (enraged.bsp) revised - (enraged2.bsp)
+			  Outcry  (outcry.bsp)  revised - (outcry!.bsp) 
+			  Scary_1 (scary_1.bsp)
+			  Scary_2 (scary_2.bsp) the original :)
+			  RemoteChance (r_chance.bsp)
+			  PCG_Infested (currently unreleased)
+
+			  Most are available from Radium or from my own homepage at http://scary1.remotepoint.com
+
+Additional Credits to   : i)   My family - Kirsi, Nathalie & Emily.
+  			  ii)  Valve/Sierra 
+                          iii) ID Software
+			  iv)  Radium @ www.planethalflife.com/radium 
+			  v)   Draft4u, Pratt and the rest of the [H.o.H] guys  
+			       Visit their clan page at http://clans.halflife.net/havoc/
+			       Look out for my next map "Havoc" too .. which will be out "when its done" :)
+			  vi)  Nathan May aka [DRS]Misery for help and support. Check out his "Victory" map .. its cool!
+			  vii) Sean Cavanaugh for his adapted compile tools. Reach this guy at seancavanaugh@hotmail.com 
+
+================================================================
+
+* Play Information *
+
+Single Player           : No (one start)
+Deathmatch              : 2-8 maybe
+Difficulty Settings     : No
+
+* Construction *
+
+Base                    : Scary_2 (which is mine .. built from scratch)
+Editor(s) used          : Worldcraft 2.0
+Known Bugs              : I don't think so
+
+Build Time              : 3 evenings to rebuild. About 3 days or so for the original level. 
+
+Compile machine         : PII 333 with 96 megs of SDRAM 
+HLCSG Time		: 
+HLBSP Time              : forgot to check
+HLVIS Time              : and couldn't be bothered to recompile the level (nothing horrendous though)
+HLRAD Time (extra)      :  
+
+* Permissions *
+
+You MAY NOT sell this sucker for money!
+
+If a magazine wants it on its CD - that's fine - *BUT* you *MUST*
+send me a copy. OK!! Then we are quits :) Email me ... I'm not impossible.
+
+General BBS use - sure, I don't have a problem with that.
+
+You MAY NOT alter or add to this level without my permission.
+
+* Last but not least *
+
+Please, please, please email me if you like this level. I need to know that you like what you see.
+It boosts my confidence and gives me a big kick up the ass to get the next one done.

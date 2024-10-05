@@ -1,0 +1,15 @@
+// overview description file for LessRTool
+// Z Min 577.00 Z Max -289.00
+
+global
+{
+	ZOOM	2.30
+	ORIGIN	8 192 144
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE	"overviews/LessRTool.bmp"
+	HEIGHT	-290
+}

@@ -1,0 +1,12 @@
+gfx\env\utopiaatoll_bk.bmp
+gfx\env\utopiaatoll_bk.tga
+gfx\env\utopiaatoll_dn.bmp
+gfx\env\utopiaatoll_dn.tga
+gfx\env\utopiaatoll_ft.bmp
+gfx\env\utopiaatoll_ft.tga
+gfx\env\utopiaatoll_lf.bmp
+gfx\env\utopiaatoll_lf.tga
+gfx\env\utopiaatoll_rt.bmp
+gfx\env\utopiaatoll_rt.tga
+gfx\env\utopiaatoll_up.bmp
+gfx\env\utopiaatoll_up.tga

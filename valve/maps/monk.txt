@@ -1,0 +1,47 @@
+Half-life deathmatch map
+================================================================
+Date                    : 27th june 2001
+Title                   : monk
+Filename                : monk.bsp
+Author                  :  nathan goulden
+Email Address           : nathangoulden@netscapeonline.co.uk
+Map Description         : a spanish monk monestry,
+Map size              : Large
+                           
+Other Works by Author   : made a lot of counterstrike maps,halflife and day of defeat maps.
+================================================================
+
+== Play Information ==
+
+Single Player           : no
+Cooperative             : no
+Deathmatch              : yes
+textures                     :a couple of new ones
+sounds                     :monk.wav
+== Construction ==
+Base                    : based on my own de_monk1,2,3
+Editor(s) used          : worldcraft 3.3,terragen,wally
+
+
+== Additional Credits to ==
+i want to give credit to my dad mark for designing the monk series
+and also snarkpit for reviewing it as a counterstike map.
+
+                          
+== Installation Info ==
+Unzip then place monk.bsp and monk.txt into the half-life\valve\maps directory. 
+place monkskys as tga. files into half-life\valve\gfx\env
+place monks.wav into your half-life\valve\sound\ambience
+place monk.wad and global assault.wad into half-life\valve
+
+
+==Copyright / Permissions==
+Authors MAY NOT use this level as a base to build additional levels.
+
+This map may be distributed ONLY on a "not for profit" basis using any medium.
+
+have fun playing monk 
+if you wound like the counterstrike version of my map
+go to either planethalflife.com/snarkpit. or planethalflife.com/csmaps
+
+

@@ -1,0 +1,87 @@
+
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+
+
+------General Information--------------------------------------------
+
+Title		: Goldeneye Basement
+Filename	: hldm_gebasement
+Author		: Jinx
+Author Email	: matthewblevins@hotmail.com
+Home page	: http://www.cryotank.net
+Description	: a loose conversion of the map from the N64 game
+Previous Maps	: hldm_meatpit + lots of Action HL maps
+Upcoming Maps   : no more hldm maps planned, check Action HL for more of my work!
+
+
+------Credits and Thanks---------------------------------------------
+
+The Action HL testers for testing that version of this with me!
+
+RARE for making the great original N64 game which I still love.
+
+Dethtex for some textures from his Gloom 2 wad (http://users.nac.net/schwenz/)
+
+Sean for a texture from his Graphtallica Texture Pack #1, converted by Un_ethical 
+(http://www.geocities.com/SiliconValley/Vista/5859/)
+
+Final Commando for the wall textures, which I got from some random wads he had online at some point.
+
+3DMike: some crate textures from his de_predator wad. (http://www.3d-mike.com/) (http://www.lanmaniax.com/)
+
+Cayle George: a few from his "megawad", very nice. (http://www.planethalflife.com/cayle/)
+
+
+------Additional Info, Tips, and Notes-------------------------------
+
+Actually the first map I did when starting mapping was basement; it was pretty awful though and never released! I basically went back and stole a couple things from the old map and did a new version that was more what I wanted it to be. That was ahl_gebasement... then I went back AGAIN and started to do a NEWER version for HLDM and AHL. That is what you are playing right now!
+
+Basically, what I wanted to do was take a very simple map and make it pretty and polished. It was also sort of a practice excercise for me in lighting and texturing. The end result is a pretty map that's still very low in polies (under 400).
+
+
+------Play Information-----------------------------------------------
+
+Single Player   : Yes. There are lots of grunts and assassins, you start with what you need. Try it, quite fun!
+Deathmatch	: Yes.
+LMS		: AHL version only.
+Teamplay        : Team DM is fine for HL
+Modification    : HLDM
+Map Description	: Semi-conversion of the Basement map from N64 Goldeneye
+How Many Players: 2-8 (pretty small map)
+
+
+------Map Information------------------------------------------------
+
+New Textures	: Yes.
+New Sounds	: Yes, a loop from the original GE game.
+New Models	: No.
+New Sprites	: Yes. Custom sprites for the fog/steam effects, altered by me from the HL ones.
+
+
+------Construction---------------------------------------------------
+
+Base		: Based on GE basement map.
+Editor(s) used	: Worldcraft 3.3, Zoner's Tools
+Texture editors : Wally, Photoshop 5.5, PSP 5
+Compile Machine	: Pentium II 400 with 384mb ram
+Compile time	: 10 minutes!
+Playtest time	: 3 hours.
+
+
+------Map Instructions-----------------------------------------------
+
+Try loading this map in console one-player for a fun romp with some grunts and assassins. Get some nicer grunt models on my website while you are at it under the misc section! http://www.cryotank.net/maps
+
+
+------Copyright-Permissions------------------------------------------
+
+Authors may not use this level as a base to build additional levels without my direct permission.
+
+You MAY NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!.
+
+This BSP may be distributed ONLY over the Internet.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission- which I may give, just ASK ME!

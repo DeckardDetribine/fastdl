@@ -1,0 +1,38 @@
++---------------------------------------------------------------+
+|                          DM_OVERFLOW				|
+|                         BY VICTOR-933				|
++---------------------------------------------------------------+
+| SUMMARY:							|
+|								|
+| This one's a little bit brighter than my other maps. Strange.	|
+|								|
+| Inspired heavily by the "Power Struggle" chapter from Blue	|
+| Shift, with a little bit of Blast Pit and Power Up thrown in	|
+| for good measure. As usual, all weapons are present.		|
+|								|
+|								|
+| The big bridge guards the way to the Gluon Gun, with swimming |
+| in the coolant highly discouraged. Don't be too gung-ho about |
+| it, though, because the bridge siren (safety first!) is a big |
+| tattle-tale...						|
+|								|
+| This map uses zero custom assets.				|
+|								|
++---------------------------------------------------------------+
+| INSTRUCTIONS:							|
+|								|
+| Extract this archive to your half-life/valve folder.		|
+|								|
+|								|
+| IF NECESSARY:							|
+|								|
+| Place BSP file in half-life/valve/maps			|
++---------------------------------------------------------------+
+| CREDITS:							|
+|								|
+| This map uses zero custom assets.				|
+|								|
++---------------------------------------------------------------+
+| 	      Find more of my stuff on Gamebanana!		|
+| 	    http://www.gamebanana.com/members/213517		|
++---------------------------------------------------------------+

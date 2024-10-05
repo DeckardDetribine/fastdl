@@ -1,0 +1,14 @@
+// overview description file for zeroceromon.bsp
+
+global 
+{
+	ZOOM	3.12
+	ORIGIN	-336 	-143	112
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/zeroceromon.bmp"
+	HEIGHT	-512
+}

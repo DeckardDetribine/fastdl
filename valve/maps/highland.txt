@@ -1,0 +1,56 @@
+--------------------------------------------------------------------------------------------------------------------
+                                             Tomorrow Land - HighLand 
+--------------------------------------------------------------------------------------------------------------------
+
+Install: 
+
+highland.bsp and highland.txt >>-----> valve/maps
+the rests >>-----> valve/gfx/env (if you dont have that dirictory then create it)
+
+--------------------------------------------------------------------------------------------------------------------
+
+About the map...
+
+Highland is the first map in my little hldm-fantasy serie called TomorrowLand, I just love the fantasy theme...
+This map is quite small, but if you thoose long-jump-things you can easy move over the opend areas, the rspeeds
+is quite good...around 700-800 in the highest areas...
+This map was made in about 10-15 houers(if you only count the mapping) compile = like 1 min...i have tested it alot 
+to find any buggs, and i think i have found them all...
+
+In the map you´ll find two windmills on top of them I have located the long-jump, you`ll also find two small  
+island floting in the air (this is a fantasy map remembet that)...on them I have putted som armour, don`t stand on 
+them to long or the wind will get you...
+I also have a little cave inside the big islan (the map is a big island) the easyes way to get there is to jump
+into thoose teleports that i have located on each side of the map. From the cave I have two ladders that leads 
+you up to the main surface.
+The layout is easy...
+
+Because of the open areas it would be hard for a player with no weapon so I have placed many weapons near every 
+spawn point (note: there is no spawn point near x-bow )...Magnum, RPG and X-bow are the best weapons on this map,
+even if the Shotgun is good in the cave...
+
+- - -
+
+Items: 
+
+Weapons - Many
+
+Items - Many
+
+Misc - 2 teleports, one HEV-Recharger
+
+- - -
+
+Credists: 
+
+...Not many, but thoose who has helped me knows it!
+Ionic - ComSet :D
+
+--------------------------------------------------------------------------------------------------------------------
+
+Any questions should be mailed to me: peppe@pihl.as
+- - -
+NOTE: I have a website, but I havent updated it for months...so if you want to find out more about my maps or just
+have a little chatt then visite me on irc; #mapcore or #planethalflife on Gamesnet.
+
+-------------------------------------------------------------------------------------------------------------------- 

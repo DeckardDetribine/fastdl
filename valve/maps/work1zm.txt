@@ -1,0 +1,73 @@
+********************************WARNING********************************
+This readme file is not suitable for children under the age of 2
+May contain nuts
+no additives
+extremely flammable
+If consumed seek medical advice
+If made contact with eyes wash well with warm water
+********************************WARNING********************************
+==========================================================
+Title		:Work	
+Version		:1.zm
+Release Date	:28th Nov 2004
+Filename	:work1zm.bsp, glasswork.wad
+Filesize(zipped):977KB
+Author(s)	:Andrew Plumridge
+Webpage		:http://www.commiellama.co.uk
+Email Address	:commie3000@hotmail.com
+Description	:DeathMatch, LAN or Internet
+Game		:Halflife (standard)
+Players		:up to 8, I'd say.
+Known Bugs	:None?
+
+---Construction---
+Editor Used		:Valve Hammer Editor V3.4
+Compile Machine		:Athlon XP3000, 512 ram, Geforce Ti4200	
+Base			:From scratch
+Construction Time	:ongoing for several months
+Compile Time            :not long
+			 
+---Notes---
+Place the bsp file in your Half-Life/valve/maps 
+Place the wad file in your Half-Life/valve
+
+PLZ, PLZ could anyone who plays this give me feedback about this level!
+
+---Special thanks---
+Hornetking, Roger Wilkinson and Kris Willis readme templates (its too advanced for me to make my own)
+
+
+Me, for making it
+
+
+
+Spose i might as well thank valve too.
+
+================================================================
+
+Copyright and Permissions
+
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name work1zm.bsp and glasswork.wad, and is supplied in a zip file called 
+work1zm+wad.zip that also contains this text document and 
+no other files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 2004 Andrew Plumridge
+
+===============================================================
+
+This template was constructed by Hornetking. 
+http://www.planethalflife.com/hornetking/
+hornetking@planethalflife.com
+
+===============================================================

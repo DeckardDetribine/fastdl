@@ -1,0 +1,14 @@
+Name of Map        : Warped
+File Name          : warped.zip
+Date created       : July 14, 2000
+Author             : Eboney
+Players            : 2-6
+E-mail             : eboneys@yoursister.co.uk
+Web Site           : its under construction
+ICQ                : 77681117
+
+Additional Credits : This is my first ever map and i think that it is a very good attempt.
+                     It is a fast paced match set on a few foating platforms in space with 
+                     a few teleporters around the place.So have fun and frag all who oppose
+                     Adam Smith for helping test the bot and informing
+                     you. Email me with what you think of it.

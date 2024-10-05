@@ -1,0 +1,68 @@
+* Play Information *
+
+Title 			: Castle Rush V1.0
+Filename		: castle_rush.bsp
+Author			: [RI] Wolf
+Other lvls by author	: Combat Camp V2.0, Lost Village V1.1
+Email address 		: ri-wolf@gmx.de
+Home page		: http://ri.gametown.de
+Description		: In this map you can enter two castles with
+			  differnt "look" and gameplay. Under the
+ 			  castles you can walk through the underground
+			  cellar and make your way from one castle
+			  to the other. In evry castle you can find 
+			  powergenerators. Evra Powergenerator has a
+			  little switch. In the smaller castle you
+			  can switch down the ordenary lights in the
+			  castle (not in the cellar) and the emergancy
+			  lights (green) will lit up the castle interieur.
+			  In the big castle the generator switch can be used
+			  to switch down the computers (noises down).
+			  Also at the surface you can find two shafts near
+			  each castle. Through this shafts you can jump
+			  down in the hallways of the castlecellars...
+
+Additional Credits to   : The Clanmembers of Raising Inferno for testing
+                          the map and give me comments
+			  special thx to Stephex for ideas about enhancing
+			  the playability
+
+Single Player           : no
+Cooperative Player      : no
+Deathmatch Player       : Teamplay and Deathmatch
+CTF2			: no
+Difficulty Settings     : no
+New Textures            : yes
+CD Track                : no
+
+* Construction *
+Base			: new Level from scratch
+Editor(s) used          : Worldcraft 2.1
+Compile Machine		: Pentium II 350MHz 128MBRAM
+Compile time		: around 3500 secs.
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+
+I have build this map, because the most DM-maps created till today
+are looking like laboratorys modern structures but not medieval...
+This castles are looking very medieval and i thought i may be a
+good contrast and alternative playground for multiplayersessions.
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+[RI] Wolf     
+                  Raising Inferno 1999
+

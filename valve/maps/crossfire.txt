@@ -1,0 +1,4 @@
+This map was released with the Half-Life patch 1.0.0.8
+Crossfire was made by Dario Casali of Valve Software.
+
+radium

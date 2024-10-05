@@ -1,0 +1,44 @@
+Map Info
+
+This map was created for the Snarkpit mapping competition.  The theme was concept-art based maps.  Included in my this zip file, is my reference image, 
+created by Craig Mullins wwww.goodbrush.com.
+
+---resources---
+
+Textures:  A handful of Counterstrike and TFC textures were used as a base for modification.
+           Some great wood textures were found at www.shaderlab.com
+           I used quite a few images from various websites, using a google image search.  Unfortunately, I did not 
+           document each site for reference.  If anyone sees an image they should be credited for, please contact
+           me, and I will be happy to do so.
+
+Sounds:    I downloaded and modified 2 wav files, of asian music, and monk-chants from  http://www.ibiblio.org/chinese-music/html/traditional.html
+
+Concept art:  Craig Mullins, one of my favorite artists, was the inspiration for this map.  His imagery
+              can be found at www.goodbrush.com
+
+Skymap:    Title			: Green Lake
+           Author			: SuperCrazy
+           Email Address		: nick@nickj.net
+           Web Site		        : http://crazymaps.caseynet.com
+           Description		        : Half-Life Sky Map
+
+
+---credits----
+
+Special thanks to Orpheus, and Fiddler for private critiques of this project.  Their input was a great help
+Also, thanks everyone at Snarkpit....a great bunch of people.
+
+
+-------------Installation instructions-----------
+
+
+Unzip this file to your C: drive, or whichever drive your Sierra folder lives - it will take care of resource placement.
+
+================================
+
+
+Any and all feedback is welcome.  Please direct comments, questions, or hate mail to duncpal@sbcglobal.net
+
+**this zip, and map may only be distributed with due credit, and the inclusion of this txt file**
+
+Thanks: Duncan Moore, aka - Finger

@@ -1,0 +1,43 @@
+* Play Information *
+Title 			: Gymnasium - for Half-Life
+Filename		: Gymnasium.bsp
+Author			: Glen Cooper aka "WebGord"
+Other lvls by author	:
+Email address 		: gcooper@huntinter.com
+Home page		: 
+Description		: Basically this is a small map with a central open area. The goal is 
+			  to take and hold the top platform for as long as you can.
+Additional Credits to   : Slasher (Slasher@snowcrash.org) who made the M60 Prefab
+
+Single Player           : No
+Cooperative Player      : No
+Deathmatch Player       : Yes, 4 or more players would be ideal, up to about 8 total.
+CTF2			: No
+Difficulty Settings     : No
+New Textures            : No
+CD Track                : None
+
+* Construction *
+Base			: None
+Editor(s) used          : Worldcraft 2.0
+Compile Machine		: PII 450 with 128 megs of RAM
+Compile time		: ~30 min
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+
+
+
+
+
+
+* Copyright / Permissions *
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

@@ -1,0 +1,97 @@
+
+
+================================================
+  ReBirth ( HL-DM ) Spec Sheet
+================================================
+
+-----------------------------------------------------------------------------
+------General Information--------------------------------------------
+-----------------------------------------------------------------------------
+
+Title		: ReBirth
+Filename		: rebirth.bsp
+Release Date	: 16th  July  2002
+
+Author		: Peter Manson
+Email Address	: pedro_312@hotmail.com 
+Home page	: http://www.kbhse.demon.co.uk/maps/
+
+Previous Maps	: (1)	Enders_game
+		  (2)	Rohan
+		  (3)	Rohan2
+		  (4)	First_arena
+		  (5)	Twin
+		  (6)	X-flight
+		  (7)	Fling
+		  (8)	Cube-x
+		  (9)	Odyssey
+		  (10)	Plateau
+		  (11)	Fun house
+		  (12)	TB_Finalspecimin
+		  (13)	Eden
+		  (14)	Rig
+		  (15)	BASSAI
+		  (16)	Shaolin
+		  (17)	Ruin
+		  (18)	Merlin
+
+
+----------------------------------------------------------------------------
+------Map Instructions------------------------------------------------
+----------------------------------------------------------------------------
+
+Unzip (rebirth.bsp) and this text file to your....
+ 
+ \SIERRA\Half-Life\valve\maps     directory.
+  
+
+
+----------------------------------------------------------------------------
+------Additional info---------------------------------------------------
+----------------------------------------------------------------------------
+  
+Map Description
+-------------------------
+
+In this level you spawn in an underground safe area, where no players have
+access to weapons. 
+there are 3 teleporters underground which fire you into the upper arena, whilst 
+also equipping you with the Magnum, Machine-gun, Shot-gun, Crossbow, a jump
+pack, and full H.E.V health. 
+The upper part of the level consists of buildings connected by coloured tunnels, 
+which hold ammo. There are also a few extra token weapons lying around.
+
+
+Bugs / Notes
+-----------------------------
+
+due to the mechanisms which first strip you off  weapons, then equip you, 
+there are potential bugs that may occur in this map, such as the odd player
+spawning underground with a handgun, or being shot into the arena with no
+weapons.. I have tested the map and everything seemed to work fine for me.
+but given enough players in the map, im sure this could happen occasionally......
+
+Since there's no weapons or fighting in the underground section, the engine
+has less models to draw, hence i have allowed r_speeds to be higher than
+usual in that part of the map.
+
+The weapons missing from this level are :  Hornetgun, grenades, tripmines, 
+handgun, and the egon.....
+
+
+
+
+
+------------------------------------------------------------------------------------------
+-------COPYRIGHT-PERMISSIONS-------------------------------------------
+------------------------------------------------------------------------------------------
+PLEASE don't change or modify this level in anyway without my permission.
+
+This map may be distributed ONLY on a "non profit" basis using any medium,
+provided this file is included with no changes.
+
+Magazines and other published media may use my levels provided they ask for my permission.
+
+-----------------------------------------------------------------------------------------
+Feel free to email me with any questions regarding this level.
+-----------------------------------------------------------------------------------------

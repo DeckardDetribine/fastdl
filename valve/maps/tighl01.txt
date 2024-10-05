@@ -1,0 +1,79 @@
+date: 11th of November 1998.
+Half-Life deathmatch level
+
+=================================================
+title:            Just a Start
+file:             tighl01.bsp
+author:           ]Tigger-oN[ 
+email address:    tigger@ebom.org
+URL:              http://www.ebom.org/ray
+description:      My 1st Half-life level, unfinshed
+                   and made before the release of 
+                   the game. :] This was made possible 
+                   due to the eveluation release of 
+                   Build 718 of Half-Life which 
+                   included a copy of WorldCraft 2.
+================================================
+play information
+
+single player     no
+cooperative:      no
+skills 0,1,2,3:   no
+Capture the Flag: no
+deathmatch:       yes - but i have not even had a 
+                    DM match on Half-Life yet :]
+new sounds:       no
+new graphics:     no
+new music:        no
+
+================================================
+info
+
+i had to make a lights.rad file, as Build 718 did 
+not come with it :[, at 1st i thought this was 
+going to be a bit of a hassel, but in the end it 
+was cool, and easy to do. qrad.exe does take a 
+long time, but the effects are worth it i think 
+in the end.
+
+still not sure if i like the quake2 option of 
+surface light editing values better than a 
+lights.rad file, but, hey, its Half-Life not 
+quake2 and thats just the way it is. 
+
+basically HL rocks, and i think editing HL is very 
+cool, i just cann't wait to get my hands on the 
+final version a see how what its like in a 
+DeathMatch!!
+
+================================================
+construction
+
+base:           none
+editor:         WorldCraft 2 by Valve
+other progs:    none
+know bugs:      none
+build time:     about ~36 hours (~4 days)
+                 some of this was just working 
+                 out how things work :]
+compile time:   qcsg 11sec
+                qbsp2 14sec
+                vis 616sec
+                qrad 847sec
+                 (pII 300 128ram)
+
+================================================
+Distribution and legal: 
+
+Copyright (c) 1998 ray, tigger-on, tigger@ebom.org
+All rights reserved.
+
+Portions copyrighted by Valve, Inc.
+This level may be electronically distributed only at 
+NO CHARGE to the recipient in its current state, MUST 
+include this .txt file, and may NOT be modified IN 
+ANY WAY. UNDER NO CIRCUMSTANCES IS THIS LEVEL TO BE 
+DISTRIBUTED ON CD-ROM WITHOUT PRIOR WRITTEN PERMISSION.
+
+================================================
+

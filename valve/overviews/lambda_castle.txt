@@ -1,0 +1,15 @@
+// overview description file for lambda_castle
+// Z Min 913 Z Max -65
+
+global
+{
+	ZOOM	1.56
+	ORIGIN	-680 160 424
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE	"overviews/lambda_castle.bmp"
+	HEIGHT	-65
+}

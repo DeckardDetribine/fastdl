@@ -1,0 +1,46 @@
+MAP INFO
+========
+Title      : Sorrow
+Version	   : 3.06
+Filename   : dm_sorrow.bsp
+Author     : Adam Hawkins
+Email      : adamhawkins@planethalflife.com
+Website    : www.planethalflife.com/hawkins
+
+LEVEL DESCRIPTION
+=================
+This map is my entry for the Snarpit (www.snarkpit.com) 'themed' mapping competition. I started this map a couple of years ago and originally intended it to be a Japanese water-garden, but then I played Ico and the map went in a different direction. As i've been working on the map for so long, it has gone through many iterations, starting with some shockingly poor attempts at a 'crumbled castle' look. As I grew more confident with the vertex manipulation tool, I was able to achieve what I had envisioned from the start (after the water-garden though!). Anyway, as you may have guessed, the theme of this map is that of an old run down castle. Apologies for the weapon placement - it's not my strong suit!
+
+KNOWN BUGS
+==========
+The .mdl lights don't look bright enough on the actual lamp. Again, nothing can be done about this without spoiling the atmosphere of the map, as in order to fix it, I would have to make the light entities brighter, thus killing the ambience of the underground/indoor areas.
+
+CREDITS
+=======
+Devious for playtesting the map throughout the years
+ReNo, Gwil & CampaignJunkie for feedback
+Orpheus...looking forward to reading the review :)
+Ck2k2 for helping me test
+Ico
+The Snarkpit regulars
+Spawn spot at 437 1474 219 fixed by ~X~
+
+TEXTURES & MODELS
+=================
+Tolchok
+B@tman
+Valve
+Apologies to anyone I might have missed
+
+INSTALLATION INSTRUCTIONS
+=========================
+Copy the contents of the zip file into your 'Half-Life\valve' folder. It should then be
+selectable from the multiplayer menu.
+
+COPYRIGHT / PERMISSIONS
+=======================
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+Half-Life (C) 1998-99 Sierra On-line and Valve L.L.C. All rights reserved.

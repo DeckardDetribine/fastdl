@@ -1,0 +1,76 @@
+13thflaw
+====================================================================================================
+Date                    : 26th February 2002
+Title                   : 13thflaw
+Filename                : 13thflaw.bsp
+Author                  : Violation (Martin Buff)
+Email Address           : martin@jbuff.fsnet.co.uk
+ICQ#			: 39633923
+Home Page               : http://mysite.freeserve.com/violation/home.htm
+
+Map Description         : Complete revamp of Valves frenzy, 80% of this map is new brushwork and item
+			  placement. Big shout out to ReNo for all his help and advice with this
+			  project, his additions gave it a breath of fresh air when i was getting
+			  tired of it - check out his site: http://pages.eidosnet.co.uk/~reno84
+
+Other Works by Author   : No previously released maps
+
+===================================================================================================
+
+== Play Information ==
+Single Player           : No [1 start]
+Cooperative             : No
+Deathmatch              : Yes
+
+== Construction ==
+Base                    : Frenzy
+Editor(s) used          : Worldcraft 2.1 & Worldcraft 3.3
+
+== Build Machine ==
+AMD Thunderbird 800
+128mb RAM
+
+================================ Playtesters ======================================================
+	
+	Pana - Leon - Pea - (1)Player
+
+================================= Thanks... =======================================================
+In no particular order...
+	
+	Friends
+	Family for adding an extra £100 so that i could buy this pc ;)
+	ReNo for all his help and advice
+	The small crowd that turned up randomly one night to give this a playtest (only needed one)
+	(1)Player who downloaded the beta and let me kick the crap outa him for 20 seconds
+	Pana for beating me at my own map
+	Cleg for putting my map up on his server to have a quick playtest
+	Goose for suggesting a couple of things
+	[+BiO+]Sonic for showing a strange amount of interest in this project :P
+	Guys at BW HLCCL for the initial idea
+	ReNo again for unknowingly letting me steel this readme template
+	The eggheads at Valve
+	PC Zone magazine for making THAT wc tutorial several years ago (I remember it well! - ReNo)
+
+ReNo thanks...
+
+	Violation for letting me help on the project :)
+	Scary_jeff for his helpful comments and Jumbot file, thanks again mate!
+	The Snarkpit crew for giving some advice on r_speeds and things.
+	Leperous for making such an excellent mapping site: http://www.snarkpit.co.uk
+	Friends for commenting on my additions to the level.
+
+
+== Installation Info ==
+Unzip all the files to your half-life\valve\maps directory.
+
+
+==Copyright / Permissions==
+Authors MAY NOT use this level as a base to build additional levels.
+
+This map may be distributed ONLY on a "not for profit" basis using any medium,
+provided this file is included with no changes.
+
+Magazines and other published media may use my level provided they ask for my permission and send me a copy
+of their product ;)
+
+This template is available from www.globalassault.com.

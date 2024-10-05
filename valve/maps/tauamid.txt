@@ -1,0 +1,46 @@
+Title                   : Tauamid
+
+Filename                : tauamid.bsp
+			  or tauamid2.bsp - Reality Bytes edition
+
+Author                  : Eric Grosser - his first map.
+
+Date                    : November 1 1999 
+
+Email Address           : yahooeric@yahoo.com
+
+Description             : Tauamid is a vertical map, featuring a combination of open and enclosed areas.
+
+			This map consists of rustic buildings on the surface. Under that are catwalks and cliffs hanging over a group of tunnels. These overlook and allow access to the pyramid arena at the bottom of the level. The pyramid will teleport a player right to the top of the level.
+
+			There is no real backstory here as I mainly wanted to make a fun little map. If there has to be a backstory or theme, imagine some kind of cross between Stargate and the X-Files with some xenoarcheologists finding this alien pyramid underground. They hasily build a secret research base under the adobe village. Everyone soon goes nuts before they get any research done and the killing begins. 
+
+			It's called Tauamid because I like the tau gun and it's right next to the pyramid.
+
+			Speeds seem good even on our sad computers.
+
+Deathmatch Players      : 2-8 players
+
+Weapons			: Everything but snarks and egon.
+
+Settings		: Best played with realistic falling damage. This is also a good map for low gravity games. (sv_gravity 150)
+
+Extras			: Jumbot waypoint file tauamid.jrf included with tauamid.bsp
+
+Thanks to		: Jason Lafountain and Mike Coldwell for play testing and keeping the rain off of my computer.
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "tauamid.bsp" in
+your half-life/valve/maps directory.
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level unless you include this file without modification.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+

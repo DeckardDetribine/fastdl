@@ -1,0 +1,14 @@
+// overview description file for forsaken.bsp
+
+global 
+{
+	ZOOM	1.43
+	ORIGIN	-8 	1229	-208
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/forsaken.tga"
+	HEIGHT	-208
+}

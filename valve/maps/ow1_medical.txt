@@ -1,0 +1,84 @@
+==========================================================
+Title		:Agrippa Nine Medical Station
+Version		:1.1
+Release Date	:01 September 2000
+Filename	:ow1_medical.bsp
+Filesize(zipped):561kb
+Author(s)	:Andy Madin
+Webpage		:www.obsidian-wave.co.uk & www.ghost-face.co.uk
+Email Address	:me - madin@btinternet.co.uk
+		 Giggal - giggal@btinternet.co.uk
+Description	:This level is a deathmatch map for Half-Life, it is based on an abandoned medical space station based in the Obsidian Wave universe. I have contructed it as a level for the forthcoming Obsidian-Wave Half-Life MOD. The point of releasing it now before the MOD is finished was to get feedback from the community as well as the reviewers and to show all of you talented people out there that Obsidian Wave will be a damn fine MOD if we find the help we need. Hopefully with the feedback I recieve I can tweak the level to suit everyone's needs which will make the MOD much more fun to play.
+You will notice lots of computer terminals in the game, these do nothing at present but they are planned to be very pivotal to your success when the MOD is released.
+Although this MOD is based upon the Obsidian Wave game design this level has been created entirely by me, Andrew Madin along with all CUSTOM textures.
+
+				    
+==========================================================
+---Play Information---
+Game		:Half-Life
+Level Name	:Agrippa Nine Medical Station
+Game Mode	:DM and Teamplay DM
+Players		:This is a hard thing to put down as a rule. I find a level like this is fun with more 			players but with 2 players it becomes incredibly tense and scarey at times. I would say 		2 to 8
+Known Bugs	:If you are playing the out-of-the-box version of HL you will find that the SILO D Door 		makes a continuous noise when activated and also that the water from the pipe in the 			Operating Room jerks half-way up when it is supposed to flow smoothly and slowly (as it 		does on newer HL verisons).
+
+
+---Construction---
+Editor Used		:Worldcraft 3.3
+Compile Machine		:Athlon 650 and 128Mb RAM	
+Base			:A couple of ideas from the brains of Giggal and I
+Construction Time	:I could've had it done in one week but my computer had a benny and it took 2 				instead
+			 
+---OBSIDIAN WAVE---
+www.obsidian-wave.co.uk
+Head over to see what you could be a part of.
+
+Description: This level is based upon the forthcoming modification for halflife called Obsidian wave. This level is set aboard the Agrippa Nine Medical Station abandoned nearly 10 years ago when life support experiments went wrong, many colonists were killed. The station was then stripped of all equipment and abandoned. You or your team must infiltrate and conquer the station whilst driving out any other factions who want control of this strategic base.
+
+
+The problem is we only have two members in Backfoot Productions. Giggal - The designer/boss and Me - Mapper, character designer, animator and weapon designer/animator (Fliddin' 'eck, i've got a lot to do)
+
+
+We need YOU! (Positions needed at the time of writing)
+Please do not send anything to me through email, contact either Giggal or I first and we will probably ask for you to send us some past work if the position is still available.
+
+Mapping			Just one or maybe two people to do maps based on our ideas but in your style, if 			you think you have what it takes email Giggal or I
+Coding			We need a coder, we don't have one yet. The work will include things like coding 			brand new weapons into the game, coding new HUD elements and the different play 			types
+
+Sounds			Player sounds like 'I Need backup at the Cryogenics lab', weapon sounds and an 				onboard computer voice (eg. 'Warning, hull breach detected')
+2D Artist		Take a look at this level, i'm not happy with some of the textures but my 				workload is too high for me to be doing textures too, if you think you have what 			it takes to make this level look better by making new art then contact me. The 				texture artist will also be responsible for creating new HUD graphics and new 				interface graphics.
+
+We will also be looking for hosts for the MOD.
+
+---Special thanks---
+Moby, Gomez, G'n'R, Eminem, Beastie's and a few others for providing entertainment while I work on the little details. The whole HKUK team. Giggal for giving a third party look on the map. Spacecake for the same reaosn (and for not understanding anything I say - ever). NOT Microsoft (I'll be a baldy git by the time i'm 20 if they continue to hurt my brain with buggy software). And anyone who plays my map or gives my some feedback :)
+
+
+================================================================
+
+Copyright and Permissions
+
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name ow1_medical.bsp and is supplied in a zip file called 
+ow1_medical.zip that also contains this text document and 
+no other files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 2000 Andrew Madin
+Half-Life is property of Valve Software
+Obsidian-Wave and it's game design is copyright to Andrew Giggal (c) 2000
+===============================================================
+
+This template was constructed by Hornetking. 
+http://www.planethalflife.com/hornetking/
+hornetking@planethalflife.com
+
+===============================================================

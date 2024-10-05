@@ -1,0 +1,15 @@
+// overview description file for mario_air
+// Z Min 2305 Z Max -3841
+
+global
+{
+	ZOOM	1.33
+	ORIGIN	384 256 -768
+	ROTATED	0
+}
+
+layer
+{
+	IMAGE	"overviews/mario_air.bmp"
+	HEIGHT	-3840
+}

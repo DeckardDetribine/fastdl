@@ -1,0 +1,59 @@
+January 31, 1999
+
+================================================================
+
+Title                   : Bravo Team Base
+Filename                : btbase.bsp
+Author                  : Dan1000
+Description             : This map is set in a base/desert style area. Look out for the
+		minefield near the RPG! (This is my first ever quake/halflife
+		related map). ENJOY :)
+			  
+Special Thanks to       : Valve for creating Halflife and Id for the best engine. 
+			  
+e-mail			: dan1000@mcmail.com
+Webpage                 :AGHHHH Geocities took it down!
+
+================================================================
+
+Play Information
+
+Single Player           : Yes (for testing/learning)
+Deathmatch              : Yes (2-8 players)
+Cooperative             : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+
+Construction
+
+Base                    : New level from scratch
+Editor used             : Worldcraft v2.0
+Known Bugs              : Halflife skies do not absorb bullets!!!!
+Build Time              :9-11  hours (All done in one day!)
+Compile Time : 2 1/2 hours
+================================================================
+
+Installation
+
+To play this level, extract the file "btbase.BSP" into
+your sierra\half-life\valve\maps directory and then start the game.
+Start a deathmatch server and type "map btbase" or "changelevel
+btbase" in the console. To test it out in single player mode
+start Halflife with hl.exe -console -toconsole -dev. This enables
+you to try some stuff using the cheat codes.
+
+================================================================
+
+Copyright and Permissions
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name malice.BSP and is supplied in a zip file called malice.ZIP 
+that also contains this text document and no other files.
+
+(c) Copyright 1999 Dan1000

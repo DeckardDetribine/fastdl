@@ -1,0 +1,15 @@
+// Overview description file for DM-Knot.bsp
+// Overview: Zoom 1.92, Map Origin (0.00, 0.00, 96.00), Z Min 961.00, Z Max -769.00, Rotated 1
+
+global 
+{
+	ZOOM	1.92
+	ORIGIN	0 	0	96
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/DM-Knot.bmp"
+	HEIGHT	-128
+}

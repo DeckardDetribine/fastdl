@@ -1,0 +1,7 @@
+dm_training - tetsu0 (Brett Bernier) brettpcg@gmail.com
+
+Created on 3/31/2017 for TWHL.info competition #34 - Half-Life re-imagined
+
+This is a deathmatch map inspired by HL1 training room. It uses stock assets and focuses on shotgun, mp5, and 357.
+
+Thanks for the download, I hope you enjoy the map!

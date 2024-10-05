@@ -1,0 +1,30 @@
+map : 1closer
+
+half-life deathmatch
+
+20.04.01
+____________
+
+by SYmPATRIC
+jolyon@sumosa.com.au
+
+
+file info
+____________
+
+build program: 	Worldcraft 3.3
+
+compile tools:	Zoner's Half-Life Tools 2.4.2
+
+textures: 	1 new texture, compiled in .wad format with Wally 1.53b.
+		Texture included in map, no additional files needed.
+
+
+files included in zip:	1closer.bsp
+			1closer.txt (this file)
+
+extract the files to your half-life\valve\maps directory
+
+___________
+ 
+These files may be distributed for non-profit purposes only, and are to be distributed together without modifications. For further information email the author, jolyon, at the above address.

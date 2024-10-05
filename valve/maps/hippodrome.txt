@@ -1,0 +1,67 @@
+=====================================================================
+   Hippodrome Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title           : Hippodrome (Use a Thesaurus if you don't know what this is)
+Filenames       : hippodrome.bsp
+Author          : TorQue[MoD]
+Author Email    : torque@halflifehq.com
+Home page       : http://morbidinclination.8m.com
+Description     : My first attempt at a map based mostly outside.
+Previous Maps   : GoreDen, Renegade
+
+------Credits and Thanks---------------------------------------------
+Valve for creating this game, Wavelength for their awesome tuts (http://www.planethalflife.com/wavelength/) 
+and whoever plays/distributes/reviews this map :)
+
+
+------Additional Info, Tips, and Notes-------------------------------
+This level is designed around the Gauss gun with many hidden cliffs etc. to jump to.
+I was going to only place spawn points inside the central building, making the outside a sort of hidden/hard to reach area for the Veterans, but decided against this because the outside area is the best part. There are also a lot of great sniper spots for the fans of the weapon and even a few places to camp (one of these places is a bit of a joke :) heh heh
+
+This map will be included in my upcoming (probably released by the time you read this) mod Morbid Inclination. But I need the reviews so I also decided to release it for HLDM. I think it plays better with Morbid DM but....
+
+Please send any questions or comments to me, I enjoy the feedback.
+If you notice anything that could be improved or anything you think 
+I should add please tell me.
+
+------Known Bugs & Issues--------------------------------------------
+The r_speeds do get quite high (800) in two areas. One of them was avoidable, but at the cost of connectivity, so I decided to leave it because it is a low traffic area (the cliff right outside the arena) and I have no idea why the r_speeds are so high in the second area. (behind the arena, under and on the over head walkway to the left of the jail type building)
+
+------Play Information-----------------------------------------------
+
+Deathmatch      : of course
+Single Player   : There is a start point.
+How Many Players: 6 to 12 probably more, maybe less.
+
+------Map Information------------------------------------------------
+
+New Textures    : no
+New Sounds      : no
+
+------Construction---------------------------------------------------
+
+Base            : none
+Editor(s) used  : WC Q2Beaver to compile
+Compile Machine : P3 500, 128mb ram.
+Compile time    : About 20 mins
+Build time      : Well I started it about 2 months ago but ran into r_speed issues. My guess would be about 1.5 weeks of                       actual build time. 
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive into your half-life\valve\maps directory.  
+Start Half-Life as normal, click on Multiplayer, Internet games and select a server running this map.
+Or open the console and type map_mapname (where mapname is replaced with the name of the bsp) to view it 
+in Single Player mode. 
+
+------Copyright-Permissions------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS README FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

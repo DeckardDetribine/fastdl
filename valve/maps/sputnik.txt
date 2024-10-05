@@ -1,0 +1,161 @@
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Title:			"Sputnik!"  (Sputnik with no airstrikes !)
+Date:                   July 2000     
+File name:		Sputnik.bsp
+File size:              4.7 meg  ( Huge due to embedded textures )
+Author:			Richard Haworth a.k.a."Devious" 
+			27 years old and working for a structural engineers in the NW UK.
+E-mails:		Devioush@btinternet.com (preferred )
+			Devious@rhaworth.co.uk
+                        rhaworth@cwcom.net
+Homepage:               www.rhaworth.co.uk
+ICQ                     81317697 (Auth reqd )
+
+Other lvls by author:	Insitu
+                        Devious 
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Singleplayer:		Just to check it out.
+Deathmatch:		Yes 
+Size:			small/medium
+Players:		6 - 12 players whatever takes your fancy
+Jumbot waypoint:        yes - place Sputnik.jrf in your Half-life/Jumbot/wpfiles folder.
+			It seems to work very well but read the known bugs section below.
+                        
+Story	:		Sputnik Arena - The location is on a small moon off Xen which was an
+                        ancient Zen temple which has been slightly modified to host 				intergalactic deathmatch contests ; ) 
+			A garg has been imprisoned in the dungeons and is chained up to
+                        control most of the mechanics around the level . You will hear
+                        his moans/laughs from time to time if called upon to operate items.
+
+                        I wanted to create a fun level which was different to most previous
+                        deathmatch maps. So dont take it too seriously !!
+                        
+Weapons:                All the weapons are in.The hornet gun is present but is difficult
+                        to get.
+
+Gameplay:               The map is quite small and well connected.It is a 3 level map and is  			based around a central arena which contains two bounce pads which                           you can use to get up and down and around the level.The level has a 
+			unique look but I also included the odd crate so you can remember
+			what game you are playing  ;}
+
+                        The more powerful weapons are harder to get except the RPG which can                         be collected from a platform in the central arena. *Though if you
+                        hang around in the main arena two Xen spacecraft will come and drop
+                        a bomb at random . These bombs dont always hit you so its up to 			you whether you do a runner f-sharp or not.The player who triggered 			the airstrike will get the frags for any one killed by the bombs.
+                        The gauss can be got if you bounce through the teleport high up in
+                        the middle of the central arena but you are vulnerable as you do so-
+			- Especially from the crossbow window which overlooks the central 			arena. If you do get through the teleport you will appear in a room
+                        which has a glass bottom within the crossbow room and a quick wind                          up of the gauss will make short work of any crossbow campers !
+                        ( Any campers note # - make sure you nail anybody before they get
+                        through that teleport or you are history ! )
+                        How to get the gluon gun I will leave as a bit of a secret ; ) 
+			In the blue temple room you will find the gluon gun above you.
+                        To get upto it you must summon the Garg's help by shooting 			        something(s) (HINT - things that look like they have been shot )
+			this will upset the garg ( boo hoo ! ) and he will roar throughout
+                        the whole level alerting everyone that the lift has been called to 			go up the the gluon. This creates some fun situations as nearly
+                        everyone will charge to the blue room and the player will be exposed
+                        and very vulnerable from attack as he slowly rises up to the 	
+ 			ceiling above . This makes the gluon easy to get in theory but hard 			to get in reality and is a refreshing change  : ) Usually it will
+                        end up with nobody getting the gluon . The garg will reset the lift
+                        after 90 seconds.
+			There is also a secret room which contains some nice ammo supplies			        all I will say is .. The light will guide the way 
+* Information *   
+
+Weaponry :              There is quite a few weapons/ammo around for a small map , that was 			intended as I wanted mass carnage rather than cagey pistol fights.
+			You will proberbly notice that I like my mines as well ;p
+
+R_speeds :              I wanted to create a map that looked good, so with all those 				textures,curvy architecture and the open areas I was fighting 				the polygons to keep them at my intented w_poly cap of 650 . Yet the 			map only exceeds this in a couple of certain instances where they 			can reach 750 but only for a second. In most of the inside corridors
+			the w_poly stay between 100-500 and with the low e_polys the map
+                        shouldn't be a problem except to those who still dont own 3d cards.
+                        I never had my framerate drop below 40 fps.
+
+Known Bugs:             PLEASE TAKE NOTE !! -If you tripmine the gluon lift/rug it will 			corrupt the multimanager controlling the events and normally will
+			make a looping horible noise. ( No way around - unfortunatly )
+                        The same goes for the secret room doors ;[ ( if you find them )
+                        Also you can get trapped beneath the continuous lift , but you will
+			be squished pretty quick.
+			JUMBOT:
+			If when playing with jumbots a bot goes through the teleporter to
+			the gauss (not very  often) you will proberbly experience jerky 
+			gameplay as the bot looses its bearings.I tried many different ways
+			to try and force the bot to jump back through the teleport but to no
+			avail.The reason you have to jump back through the teleport in the 			first place is so you dont get accidently pushed through the 				teleport when firing the gauss gun. If anyone can create a jumbot 			waypoint that works in this situation please e-mail it to me !! 
+			Generally though the jumbots navigate the map pretty well.
+
+* Construction *
+
+Base:			From Scratch
+Editor Used:		WorldCraft 2.1 
+Construction time:	On and off for ages     
+Compile Machine:	PentiumII, 400MHz, 128MB RAM GeForce DDR
+Complile time:          25 minutes
+
+* Map info *
+
+rmf size :  		9,829 kb    
+Solids	:		4023
+Faces	:		24165
+Point Entities :	321
+Solid Entities :	255
+Unique textures :	143
+Texture memory :	5110kb
+Revision :	        235 (phew ! )
+
+
+New Textures:           Yes - Many thanks to :
+
+			 *Evil dick & Nexus @ mapping - www.planethalflife.com/mapping
+			 *Just 3d                     - www.just3d.com
+			 *3dcafe                      - www.3dcafe.com
+			 *Axem textures               - axem2.simplenet.com
+			 *Totallyseamless             - www.totallyseamless.com
+					
+Special Thanks:		Valve for making the best game of all-time...Still Oh yes :)
+			Karl Jones for his Handy vandals almanac
+			Planet Half-Life, Radium,Wavelength,Hornetking,Lambda map complex
+			Halflife.net,The mappers federation,Mu-tilation, Halflife editing 			resource center, PHL forums, Cheers everybody.
+
+                        The testers :Stan,Glen,Ste & Ste and everyone @ work who severly 			bashes this map to bits on our lan @ lunch. (Westside !!)
+                          
+                        HLCC 1.4 -cheers graceland for getting wadinclude to work at last :)
+                        Zoners compiling tools v2.06 - the best tools for the job !!
+ 
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Installation
+
+To play this level, extract this file "Sputnik.bsp" into your sierra\half-life\valve\maps directory and then start the game.
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+* Copyright / Permissions *
+
+Copyright 2000 Richard Haworth
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+Feel free to distribute this level, but ONLY if you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!! If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!! Just keep the three files together, okay?
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+If this level is issued on a cover CD all I ask is you send me a copy !
+
+Cheers !!
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+I might covert the map to Opposing forces soon , check my homepage for download.
+
+Please E-mail me if you like the map or parts of it,It will encourage me to do better
+next time..  :)
+
+And hopefully I will get a new map out a lot sooner than this one ..
+
+Have fun !

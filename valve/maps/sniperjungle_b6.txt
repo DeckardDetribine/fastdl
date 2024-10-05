@@ -1,0 +1,22 @@
+=============================================================================================================================
+Title                   : Sniper Jungle BETA 6
+Files                   : sniperjungle_b6.bsp, sniperjungle_b6.res, "It's Those Mountains Again" sky files                                              (cm-thosemntns256_*.tga, cm-thosemntns256_*.bsp) made by Chalupamonk (chalupamonk@aol.com) ,                                  rockfall.wav, scream.wav, birds5.wav, birds7.wav, birds9.wav, forest1.wav, forest2.wav,                                       splash_large.wav                                                      
+
+Author                  : QS
+Email Address           : quantumsaint@yahoo.com
+
+
+Warning                 : You must have version 1.0.0.9 or better of Half-Life to
+                          play this map.
+
+Description		: BETA MAP, can be erased after use
+                         
+      
+                          
+                        
+Weapons Included        : RPG, 9mmAR, Shotgun, Crossbow, 357, Satchels, Tripmines, Handgrenades, Egon
+            
+=============================================================================================================================
+--LEGAL--
+This Half-Life beta map/level (Sniper Jungle, sniperjungle_b6.bsp) is (c) 2003 Stephen Smart.
+THIS MAP IS FOR BETA TESTING/USE ONLY. Please erase this copy of the map/level after testing is done.

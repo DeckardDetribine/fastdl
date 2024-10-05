@@ -1,0 +1,79 @@
+
+>>>>>>>>>>>>>>>>>>>>   Map Information   <<<<<<<<<<<<<<<<<<<<
+         
+>>>> Basic Information >>>>
+
+           Map name : Pine
+              Files : Pine.bsp
+                      Pine.txt
+        Map Version : 1.3
+             Author : ClayMan aka. Brian Clay
+      Previous Maps : I have not published any other maps as of this moment.
+              eMail : BClay@WorldInter.net
+           Homepage : WorldInter.net/~bclay (not much there as of September 12 1999)
+               Date : September 12 1999
+
+>>>> Play Information >>>>
+      Single Player : No
+               COOP : No
+         Deathmatch : Yes
+       # of Players : 4-8 more or less
+           Teamplay : Yes / Team Deathmatch
+Difficulty Settings : N/A
+       New Textures : No
+         New Sounds : No
+        New Sprites : No
+         New Models : No
+
+>>>> Map Description >>>>
+
+A research facility with a big aquarium
+
+>>>> Construction Information >>>>
+        
+        Editors used : WorldCraft 2.1
+   Construction Time : about 8 weeks (on and off with testing)
+     Compile Machine : PII 350, 128 MB
+    Compile Programs : WorldCraft with Full Compile.
+
+        Compile Time on full compile : slightly less than an hour.
+
+>>>> Known Bugs >>>>
+
+<1> The glass in the lower area can't be broken with RPGs, contact grenades, and the crowbar (at least I wasn't able to.)
+<2> In software mode the 'fire' doors that seal off the lower area after the glass is broken appear to be black.
+<3> Again in software mode part of the turret on top of the bunker flases in and out of existance occasionally.
+
+>>>>>>> Areas of intrest >>>>>>>>>>>>>>
+The lower area in the complex is an observation area so people can look out under the water. This glass wall 
+can be shot out causing the lower area to flood.
+
+>>>>>>> Spoilers>>>>>>>>>>>>>>>>>>>>>>>
+
+There are snarks in the freezer in the break room. (the freezer only opens from the outside so don't stay in too long) 
+
+The snack and soda machines are health and HEV recharge stations
+
+There is a ledge across from the bunker (with the turret) that can only be accessed by gauss jumping. 
+
+There are two gauss guns in the level. One in the sewer and one in the dark area above the long ramp 
+going to the lower part of the level that you need the long jump module to get to.
+
+The 2 rocks in the aquarium are just far enough below the water that if you crouch you will be completly under the
+water. 
+
+The glass in the observation area can be shot out from either side. It has a random amount of health generally between
+50 and 150 health, this way you never know for sure when it will break.
+
+>>>> Special Thanks >>>>
+
+Thanks to all of the editing sites that have good tutorials online esp Wavelength and 69th Vlatitude.
+Thanks to Royalef for helping me with the glass respawn health problem.
+Thanks to roscoe, royalef, 007, Solid_Snakea and func_conveyor for thier playtesting and suggestions.
+And Finally, thanks to my lovely wife for letting me finish the map without lecturing me too much ;)
+
+>>>> Legal Information >>>>
+
+Authors may not use this level as a base to build additional levels. (exception for Valve or Gearbox of course)
+You must not distribute this level unless you include this file with no modifications. If you don't co-operate, then don't distribute it in any form.
+This map may be distributed in every form, as long as distribution is free. (You may put it onto your homepage, CDs, BBS, magazines and so on, as long as you include this file with it.)

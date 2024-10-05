@@ -1,0 +1,27 @@
+=================================================================================================
+Title                   : Rock The Casbah (beta 4)
+Files                   : rtcbeta4.bsp, morocco1.wav
+Author                  : QS
+Email Address           : quantumsaint@yahoo.com
+Homepage                : http://qsfan.8k.com (this is not my site but has info/downloads on my maps)
+
+
+Warning                 : You must have version 1.0.0.9 or better of Half-Life to
+                          play this map.
+
+Description		: BETA VERSION 4
+                         
+      
+                          
+                        
+Weapons Included        : RPG, Tau, Egon, 9mmAR, Shotgun, Crossbow, 357, Satchels, Tripmines, Handgrenades, Snarks
+            
+=================================================================================================
+--LEGAL--
+This Half-Life map/level (Rock The Casbah, rtcbeta4.bsp) is (c) 2002 Stephen Smart.
+DO NOT put this level/map on any sort of commercial product or compilation unless
+you have permission from me. You MAY distribute this BSP file through any other means,
+provided you include this .txt file (unaltered) and it is free of charge.
+Servers downloading this map in-game need not worry about the text file being included.
+Do not modify this BSP in any way.
+

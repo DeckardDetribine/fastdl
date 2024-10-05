@@ -1,0 +1,24 @@
+HLDM_ODILE :  (for HALF-LIFE DEATHMATCH)
+By D4Ms (laurentdamien@hotmail.com or d4ms@ifrance.com), models, textures re-building and building improvements.
+& Tazus (tazus_fr@yahoo.fr), original idea, basic building, textures.
+
+
+This map is  a replication of an real site : http://www.chez.com/tzundel/alsace/stodile/stodile.htm
+(or write "Mont Sainte Odile" in www.google.com)
+
+Textures customs: wolfenstein, maxpayne, map de_chateu (Counter-strike)
+
+
+http://d4ms.free.fr
+http://tazusmaps.free.fr
+
+
+
+IMPORTANT NOTE : 
+THESE FILES ARE THE ONLY PROPERTY OF THEIR AUTHOR, YOU ARE NOT
+AUTHORIZED TO DISTRIBUTE THEM ON YOUR WEBSITE OR ON OTHER PUBLIC
+SUPPORTS (Cd-Rom, Dvd-Rom...) WITHOUT THE ONLY STRICT AUTORIZATION
+OF THEIR AUTHORS.
+
+
+PS: there is a Counter Strike version of this map : de_sainteodile

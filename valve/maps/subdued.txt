@@ -1,0 +1,73 @@
+Map Title           : Subdued
+Release Date        : December 10, 2001
+Filename            : subdued.bsp
+Author              : SuperCrazy
+Email Address       : nick@nickj.net
+ICQ                 : 2649935
+Web Page            : http://crazymaps.caseynet.com
+Description         : I joined the Gangsta Wars team and did some experimenting with
+                      UnrealEd, so it's been over five months since I released my last map
+                      for HLDM. I finally got focused on making my fourth HLDM map, and this
+                      is the result. This was the first map where I drew the whole level on
+                      paper prior to starting on it, and I think because of that Subdued has
+                      a better layout than any of my previous maps.
+
+Jumbot Waypoint     : I've included a JRF file so you can play Subdued with Jumbots. It was
+                      made by Scary_Jeff. Check out his site for maps and other JRFs at
+                      www.planethalflife.com/scaryjeff
+
+Previous Maps       : Alpha
+                      Penance
+                      Uproar
+
+Thanks              : Valve Software
+
+                      The people in #valveerc
+
+                      Scary_Jeff (Jumbot waypoint)
+
+                      Iikka Keränen, Mr.CleaN, NerdKing, Than & WhiteBlaizer (Textures)
+
+                      Andrew Weldon, [DRS]Orpheus, Gollum, ReNo & Thori (Playtesting)
+============================================================================================
+Play Information
+
+Single Player       : Yes
+Deathmatch          : Yes - 12 spawn points
+Recommended Players : 6-8
+============================================================================================
+Construction
+
+Base                : An empty grid
+Editor              : Worldcraft 3.3
+Compiler            : Zoner's Tools 2.5.3
+Bugs                : Half-Life's lifts suck. The lift can get stuck in the up position if
+                      it is blocked, but if you walk underneath the lift it will fix itself.
+
+New sounds          : No
+New sky map         : No
+New textures        : Yes - 22
+
+Compile machine     : AMD 1.6ghz, 256mb RAM
+HLCSG Time          : 8 seconds
+HLBSP Time          : 5 seconds
+HLVIS Time          : 17 seconds
+HLRAD Time (extra)  : 6 minutes, 59 seconds
+============================================================================================
+Permissions
+
+You may distribute this for free as long as the bsp file and this txt file are both included
+with no changes. You may not sell this map for profit, and you may not alter or add to it
+without my permission.
+============================================================================================
+Final notes
+
+Please e-mail me if you like this level. Knowing that people enjoy my work gives me a huge
+boost in getting things done. Also e-mail me if you review this map somewhere. I'd like to
+link to it from my page.
+
+Happy fragging
+
+SuperCrazy
+http://crazymaps.caseynet.com
+December 10, 2001

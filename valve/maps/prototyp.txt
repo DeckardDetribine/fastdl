@@ -1,0 +1,79 @@
+=====================================================================
+   Prototype			    		     HALF-LIFE MAP
+=====================================================================
+
+------General Information--------------------------------------------
+
+Title		: Prototype
+Filename	: prototyp.bsp
+Version		: 1.0
+Author		: Andreas "Greenthumb" Mann
+Author Email	: andreas-mann@t-online.de
+Author Homepage : Coming soon!
+Previous Maps	: None, this is my first one
+Thanks to	: -Valve for making this kickass game and providing
+		   this wonderful editor,
+		  -My friends Psycho, Virus and Flat Eric
+		   for testing the map thoroughly and,
+		  -YOU for downloading my map!!!
+
+------Info, Tips, and Notes-----------------------------------------
+
+-This is my 1. Level for Half-Life, and I think I've done quite well
+ (If I'm wrong, please correct me :P). We played the map on our LAN
+ and we've had a blast!
+-I hope the radium guys will be merciful :)
+-I suggest setting r_decals to 250(max) unless you have a REALLY
+ strong machine!
+-Feel free to post any comments (positive and negative) to my e-mail
+ address (see above)!
+-Quite an unimpressive title but I couldn't think of anything
+ better.
+-Sorry if there are any grammatical issues in this readme, 'cause
+ I'm german and just recently got 15 years old =)
+
+------Play Information-----------------------------------------------
+
+Deathmatch	: Yes
+Single Player	: No
+Map Description	: The map is a warehouse with a flooded underground
+		  area. It is optimal for 1-on-1 matches.
+Weapons		: RPG; Gauss Gun; Shotgun; MP5; Magnum; Crossbow; 
+		  some Satchels and Tripmines. The Egon would be just
+		  too powerful in this map and I _REALLY_ hate the
+		  hivehand.
+Players		: 2-3, but 1-on-1 is (really!) recommended.
+
+------Map Information------------------------------------------------
+
+New Textures	: No
+New Sounds	: What do you expect from my 1st level?!?!
+Known Bugs	: none, if you encounter any, send an e-mail!
+
+------Construction---------------------------------------------------
+
+Base		: Scratch
+Editor(s) used	: WorldCraft 2.1
+Compile Machine	: P3/450; 256MB RAM; ViperV550
+Compile time	: Don't remember
+Build time	: 'bout a month (with playtesting and learning
+		  how to use WorldCraft)
+Playtest time	: A week, maybe a bit more.
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "prototyp.bsp" in
+your half-life/valve/maps directory. Now you can select the map in
+the multiplayer menu.
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

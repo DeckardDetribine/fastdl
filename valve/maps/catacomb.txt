@@ -1,0 +1,109 @@
+Catacomb (created by mazemaster)
+
+------------------
+Installation Info:
+------------------
+Unzip all of the files to your half-life directory. The files will automatically be 
+put in the correct subdirectories.
+
+------------
+Please Note:
+------------
+This map slightly exceeds the default texture maximum of 4 mb. Some older video cards 
+may have some problems with this.
+
+------------
+Description:
+------------
+A facility on mars filled with weapons and a some secret areas.
+
+--------
+Credits:
+--------
+Textures used:
+	Author:
+		SOCK
+			techno textures
+		Valve
+			half-life.wad
+Skymap:
+	Author:
+		null
+			Ochre Hills
+
+		
+Sounds:
+	Author:
+		Bedwetting Type(?): (came with Alien Unearthing, and are not referenced 
+in Unearth.txt)
+			Amb01.wav
+			Reactor.wav
+		Star Trek:
+			backgrnd.wav
+			ds9ops.wav
+		Unknown: (if you know who made these, please let me know)
+			Fluorescent.wav
+			lv_neon.wav
+			moon1.wav
+			raspy.wav
+Sprite:
+	Author:
+		Muad'dibs
+			colflare.spr
+
+------------
+Permissions:
+------------
+You may do pretty much anything you want with this map as long as you abide by 2 rules:
+
+1: You may not sell any part of this map in any form unless you obtain permission from me.
+2: I must be listed in the credits of anything that uses any part of this map.
+
+That said, i am pretty cool about people using my work as a base and/or using parts 
+of my maps in their maps. If you have reason to want the source files to this map, 
+you can contact me explaining your reasons, and the chances are that i will give you 
+the source files you requested.
+
+------------------
+Special Thanks To:
+------------------
+JUIM
+	Hosting Playtests! 
+		http://www.hotdeathdiner.com
+
+RUST forums:
+	Suggestions for improvement on the map, and overall assistance.
+		http://forums.gamedesign.net
+
+Merl, Who Me, Zipster
+	Excellent modifications to ZHLT
+
+All the playtesters
+	...
+
+//Tech stuff
+-------------------------
+Construstion Information:
+-------------------------
+Base: 
+	None
+Level editor used:
+	Valve Hammre Editor 3.4
+
+--------------
+Compiler Info:
+--------------
+Tools used:
+	CSG: Merl's modified HLCSG.exe v1.6.1
+		http://www.chatbear.com/uploaded/1011059245-nulltex.zip
+	BSP: Merl's modified HLBSP.exe v1.6.1
+		(see above)
+	VIS: Zipster's modified HLVIS v1.6.1
+		(see above)
+	RAD: Who Me's modified HLRAD v1.6.1
+		(see above)
+		
+-------------
+Contact Info:
+-------------
+n_alger_@hotmail.com

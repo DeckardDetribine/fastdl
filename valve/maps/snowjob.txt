@@ -1,0 +1,60 @@
+TITLE : Snow Job
+FILENAME : snowjob.bsp
+AUTHOR : The Bathroom Monkey System
+DATE : November 2001
+GAME : Half-Life
+TYPE : Vanilla Deathmatch
+EMAIL ADDRESS : thebobbyllama@yahoo.com
+HOMEPAGE URL : http://post.uwstout.edu/f/feuersteinr/hl.html
+
+------------------------------------------------------
+* LEVEL DESCRIPTION *
+------------------------------------------------------
+Oh no, not another level set in an abandoned
+warehouse... Yeah, this one is, but luckily it
+barely has any crates. Besides, this level has a
+few new gimmicks - er, features. This one's
+set during the winter, and you run around in
+ankle deep snow. You even shiver when you're
+outside!
+
+The map has a fairly simple layout, and that
+can lend to a fast-paced game. There isn't a
+hornetgun or egon in the map, mainly because I
+don't like those weapons :P
+
+------------------------------------------------------
+SINGLE PLAYER : No.
+CO-OPERATIVE : No.
+DEATHMATCH : You bet.
+SUGGESTED PLAYER LOAD : 4+
+DIFFICULTY SETTINGS : Not Applicable.
+NEW TEXTURES : No.
+NEW SOUNDS : No.
+CD TRACK # : 0
+
+------------------------------------------------------
+* CONSTRUCTION *
+------------------------------------------------------
+MAP BASE : Built from scratch.
+PREFABS USED : None.
+EDITOR(S) USED : Worldcraft 3.3
+OTHER UTILITIES USED : None.
+KNOWN BUGS : None that I am aware of.
+COMPILE MACHINE : PIII 733mHz, 128mb RAM
+COMPILE TIME	 : Approx. 2 minutes.
+
+------------------------------------------------------
+* SPECIAL INSTRUCTIONS / ADDITIONAL INFORMATION *
+------------------------------------------------------
+None that I can think of.
+
+------------------------------------------------------
+* CREDITS / SPECIAL THANKS *
+------------------------------------------------------
+Valve Software, for being awesome.
+
+======================================================
+* COPYRIGHT / PERMISSIONS *
+------------------------------------------------------
+You can do whatever the hell you want with it, as long as I say you can ;)

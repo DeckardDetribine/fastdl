@@ -1,0 +1,75 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+
+------General Information--------------------------------------------
+
+Title		: The Tower
+Filename	: TheTower.bsp
+Author		: Marc aka Foddex
+Author Email	: woprog@hotmail.com
+Home page	: none
+Description	: Small open area with buildings and small mountains and some water
+Previous Maps	: Area 777
+
+------Credits and Thanks---------------------------------------------
+Valve inc. for Half-Life, man you guys rule!
+Worldcraft team
+
+------Additional Info, Tips, and Notes-------------------------------
+INFO:
+Well, like my previous map, Area777, you'll need a VERY POWERFUL pc for this map. 
+I use a PII-392 with a TNT2 Ultra 32 MB, and it works ... it works ... but that's
+all... so I think you need at least a PIII-500 with a GeForce or something ... 
+(check out the compile time and you know why)
+
+TIP: 
+again, like Area777, get into the map with 1 or 2 friends and get a crossbow
+as fast as possible and start sniping ... that is SO cool...
+
+NOTE 1:
+SAME Comment about the w_poly raising fast in this map: when you snipe around,
+there's no big action (only shooting at each other from long distances)
+so there's no big need for smoothness (although I know that is appreciated).
+In this map the w_poly raises VERY fast ... but we tested it (4 students) and
+we didn't have any problem with it ... 
+
+NOTE 2:
+While testing, we've found some places you easily get stuck in ... so whatch out
+for places that look very tight... you might get stuck
+
+------Play Information-----------------------------------------------
+Deathmatch	: yes
+Single Player	: no
+Map Description	: Open area, good for team play, but free-for-all rules also (sniping!)
+How Many Players: 2-6
+
+------Map Information------------------------------------------------
+New Textures	: no
+New Sounds	: no
+
+------Construction---------------------------------------------------
+Base		: from scratch
+Editor(s) used	: Worldcraft 2.0
+Compile Machine	: PII-350
+Compile time	: 8 hour on a dual PIII-450!!!!
+Playtest time	: 2 days
+Build time	: 2 days
+
+------Map Instructions-----------------------------------------------
+Unzip the files in this archive.  Place the map, "TheTower.bsp" 
+in your half-life/valve/maps directory.  
+
+------Copyright-Permissions------------------------------------------
+Authors MAY NOT use these levels as a base to build additional levels. 
+
+You MUST NOT distribute these levels UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+These BSP's may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put these BSP's on any CD or distribute it in
+any way without my permission.
+
+--
+Some entities fixed by ~X~

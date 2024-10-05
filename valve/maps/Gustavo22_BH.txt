@@ -1,0 +1,115 @@
+** INTRODUCTION **
+
+Title			: Burning Hate.
+Date			: 9th May 2000.
+Filename		: Gustavo22_BH.bsp
+Filesize		: 1.8mb, or thereabouts.
+Author			: Keved, my Half-Life alias is Gustavo.
+Home Page		: http://www.planethalflife.com/gustavo
+Email Address 1		: gustavo@planethalflife.com
+Email Address 2		: keved@keved.force9.co.uk
+Email Address 3		: keved@hotmail.com (only use as a last resort).
+ICQ			: 10393836 (auth required).
+
+ABOUT THE MAP/ME:
+Burning Hate is my 22nd FPS map (and 10th for Half-Life deathmatch).
+
+Previous maps...
+01. Penitentiary		(HL deathmatch, released 5-March-1999).
+02. Maximillian			(HL teamplay/deathmatch, 15-May-1999).
+03. Maximal			(TFC, 8-July-1999).
+04. Mad Bucking Fastards	(HL deathmatch, 27-July-1999).
+05. Talos			(HL deathmatch, 3-August-1999).
+06. C4				(Action HL, 16-September-1999).
+07. TNT				(HL deathmatch, 23-October-1999).
+08. Orbital			(TFC, 31-December-1999).
+09. Jaw Breaker			(HL deathmatch, 20-January-2000).
+10. Corps68			(TFC, 26-January-2000).
+11. The Bone Collector		(HL deathmatch, 2-February-2000).
+12. Jaw Operation		(OP4 deathmatch, 2-February-2000).
+13. The Jaw Action		(Action HL, 2-February-2000).
+14. Bone Action			(Action HL, 4-February-2000).
+15. Bone Operation		(OP4 deathmatch, 4-February-2000).
+16. Eliminator Jnr		(HL deathmatch/teamplay, 19-February-2000).
+17. Nostromo			(TFC, 24-February-2000).
+18. Eliminator AHL		(Action HL, 26-February-2000).
+19. Eliminator OP4		(OP4 deathmatch, 4-March-2000).
+20. Sulaco			(HL teamplay, 8-March-2000).
+21. Total Annihilation		(HL deathmatch/teamplay, 11-April-2000).
+
+Who am I? I'm 25 yrs old, English, & currently work for an Architectural Practice in NW England.
+
+CREDITS TO:
+1) Valve/Sierra/id.
+2) The Zoner compiling tools version 1.62. Burning Hate was compiled with these superb modified compiling tools, via a batch file. sean@dimensionalrift.com. Keep up the good work, Sean.
+3) The playtesters. LAN: HotRod, Stevie, Jon, Mr.Fixxer, GretZeL. Online: Kyle "[LMS]007" Keating (kyle453@hotmail.com), FireClaw (fireclaw@planethalflife.com), Cliff Leslie (comdrblood@earthlink.net), DjPromise (djpromise@surf1.de), Taco (taco@fuckyou.co.uk). Much obliged folks.
+4) Records, for salvation from radio/tv hell.
+
+
+
+** PLAY INFORMATION **
+
+SINGLE PLAYER:
+Just to familiarise yourself.
+
+MULTIPLAYER:
+Yes, for 4-8 players. 20 deathmatch spawn points are included if you want to play with more than 8.
+
+DESCRIPTION:
+Burning Hate is a small-medium sized Half-Life deathmatch map, suitable for 4-8 players, with an open and very well connected layout. Plenty of vertical variation is provided by means of walkways and a sniper/rpg loft encircling the centre of the map. Lots of weapons are available for big explosive shootouts. Burning Hate also features an airstrike, but not of the "blanket-coverage" type often seen in HL DM maps. Upon activating the central mainframe, a succession of 8 random exterior locations are bombed by jetfighters. Anyone within the blast radius of the explosions contributes their all to the gibfest, in many small icky pieces.
+
+INFORMATION:
+The airstrike in Burning Hate is one which has rarely been seen in HL DM maps, if at all. Every 60 seconds, the mainframe computer (located in the centre of the map, on the lowest tier) can be activated to call in 8 *random* airstrikes that hit somewhere in the exterior sections. The activating player earns 1 frag. From when the mainframe is activated, jetfighters immediately fly over & drop their payload, so as soon as you hear them fly over, you have just a few seconds to duck quickly under cover. Even if you don't make it into a building in time, chances are you won't be hit anyway as they only affect around 10% of the map each strike. So what's the point? I wanted more of a continual panic effect, with very frequent airstrikes that do not give a "blanket-coverage" as in maps like Crossfire. People will often keep on duelling regardless in BH, and won't have a "well, that's the airstrike over for another 5 minutes, let's resume fighting" syndrome. Anyway, if you're unlucky and an airstrike hits ground near to you, no matter how much armour you happen to be wearing, you won't survive the blast. :)
+
+A quick note on weapons...there are lots of them. I very much prefer to see people carrying around an extra weapon or two in reserve and have a choice of which to use, rather than revolver & crowbar fights on-mass.
+
+Frame rates...despite the open layout & compact connectivity of the entire map, running speed is pretty respectable (wpoly is generally ~400, maxing out at 750). Even my shonky old P2-300 w/Voodoo2 didn't fall below 30 fps. My current Athlon 650 w/256mb & 32mb G400 Max had no problems with 50fps minimum, generally >70fps. All bar one playtester reported they had no fps problems whatsoever. It's safe to say that 3D accelerated users should have no problems running Burning Hate. Software mode users must ask themselves why they've gone to the trouble of finding this map and are still playing FPS games without a 3D card! Still, any software mode users should be ok too. I tested in software mode on my P2-300 4mb Ati card, and found no problems. 8OÞ
+
+Hope you like Burning Hate. I'd appreciate feedback too...to my email address at the top of this text file. It's a major commitment putting in the time to design these damn maps, so I fully welcome any & all constructive encouragement / ideas / criticisms / praises. Job offers welcome too!!
+
+
+
+** INSTRUCTIONS **
+
+Extract the file manually into the following.
+
+Gustavo22_BH.bsp into ...\\valve\maps
+
+And of course keep this text file. 8¬)
+
+
+
+** CONSTRUCTION **
+
+Base                    : Created from scratch.
+Editor(s) used          : Worldcraft v2.1
+Custom textures		: Yes, a few used without permission from Quake 3 Arena (credit to id, they have some fantastic texture artists). Apologies for ripping.
+Custom sounds		: No.
+Known Bugs              : I've stretched some textures, so decals may be out-of-shape/size in places. For info, all light fixtures are func_illusionary's. Don't be surprised by being able to jump through light fixtures.
+Build Time              : Around 20 hours spread over 2 weeks.
+Compile Time		: 5 minutes.
+Build & compile machine	: Athlon 650mhz, Asus K7M motherboard, 256mb PC100 ram, 32mb Matrox G400 Max, Windows98, etc.
+Compile settings	: (via a batch file) Nothing special, apart from Zoner's hlrad using the switches -chop 128 -scale 1.25 -gamma 0.45, and Zoner's hlcsg adding my custom wads into the bsp.
+
+MAP INFO:
+Rmf size		: 2570kb
+Solids			: 1150
+Faces			: 6802
+Point Entities		: 315
+Solid Entities		: 189
+Successive revisions	: 43
+
+
+
+** PERMISSIONS **
+
+Do NOT put this zip, or any of the files contained within, on any sort of commercial product or compilation unless you have permission from myself beforehand. You MAY distribute this zip file through any other means, providing it is unaltered and is free of charge. Do NOT modify this BSP in any way, either for commercial or non-commercial purposes.
+
+Email me if you'd like to have a look at the (2.57mb) rmf file for Burning Hate. Zips down to ~125kb.
+
+You have yerself a nice day, y'hear?
+
+Oh btw, if you see me on a server, I *CANNOT* speak Spanish/Portuguese/Smack talk/whatever...just so I ain't assumed to be a Colombian drug baron like I have been a few times before (or corderoy wearing Uruguayian goat shepherd, that happened once). 8¬)
+
+--
+Gustavo.

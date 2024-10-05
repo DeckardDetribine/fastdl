@@ -1,0 +1,66 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title           :Snark Lab
+Author          :"Vankor" (Neil Winslow)
+Author Email    :Vankor@juno.com
+Date            : 6-29-1999
+Home page       :none
+Description     :A Snark test base, the scientists have been experimenting with the xeno lifeforms, and have tried using the trusty snark as a security measure to stop intruders. Hallways connecting rooms have been designed to fit the snarks attack pattern, and to lead the unwelcome away from important technological tools and resources.
+Previous Maps   :Discordia, Scurry
+
+------Credits and Thanks---------------------------------------------
+Many thanks to Wavelength and The Half-Life Editing Resource center for being such great and helpful sites, my friends and brother for playtesting, Valve for making Half-Life (despite the annoying bugs still in it!), and Radium for being a great review site.
+
+
+------Additional Info, Tips, and Notes-------------------------------
+	This is my third level, and while it may not have the originality of Scurry, I do think it's my best level yet. When I first began making the level I had something completely different in mind, but then my imagination kicked in, and "Snarklab" began it's creation.
+The  whole level itself is not terribly big, but there should be enough room for a fair amount  of people. Every weapon is featured on the level, but the mainstay by far is... you guessed  it, snarks. There are blue chamber pods on the level, which can be used as recharge  stations. Originally I wanted a sort of conveyor to make it look like snarks are being   transported from place to place, but unfortunately I couldn't get anything to work so I    decided to scrap the idea, rather than make some chintsy looking thing. Some of the architecture in a couple rooms is "inspired" by the architecture in the single player game (which I should get off my ass and finish!!). Got somethin' to say!(even though no one reads these...) E-Mail me!!!!
+
+------Play Information-----------------------------------------------
+
+Deathmatch      :yes
+Single Player   :no
+Map Description :A tad 2-dimensional in it's layout, but that's mostly to give the snarks an  easy time chasing the players to their doom. The snarks are released by a switch in the top  rung of the central silo room, flooding all other rooms with a wave of snarky wonder. 
+
+
+How Many Players:4-10? maybe more, I can never tell because I can never get enough people to  playtest
+
+------Map Information------------------------------------------------
+
+New Textures    :none
+New Sounds      :none
+
+------Construction---------------------------------------------------
+
+Base            :from scratch
+Editor(s) used  :worldcraft 2.1
+Compile Machine :AMD K6-2 420, 128 meg ram
+Compile time    :2 weeks build, 2000 seconds compile(strangely, shorter on expert than                                                                                     normal!)
+Playtest time   :8-10 hours
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "YOURMAP.bsp" in
+your half-life/valve/maps directory.  If there are any .wad files in
+this zip, place them in the half-life/valve directory.
+
+------Copyright-Permissions------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+--
+One player start fixed by Xawari.

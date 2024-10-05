@@ -1,0 +1,98 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		:Double_Trouble
+Filename	:double_trouble.zip
+Author		:Jon Rickenbacker aka Orpheus
+Home page	:
+Email           :orpheus@cox-internet.com
+ICQ             :34917705
+Description	:new Halflife DM map using custom textures.
+Previous Maps	:no_patience, deja_vu_2, op4_false_accretion, false_accretion, thrasher, deja_vu
+                :team maps with others- apex_v2,apex,club_drs,unity_9
+
+------Personal Thoughts----------------------------------------------
+Making a map that contains two very distinct themes that oppose one another presented a unique challenge and opertunity.
+I am glad I had the chance to do this project.
+
+------Credits and Thanks---------------------------------------------
+
+Leperous at the snarkpit for his inspiration for this competition.
+all the gang at the snarkpit forums (http://www.snarkpit.com/forums.php/), (you know whom you be :-)
+wadfather at planethalflife.com/wadfather
+worldcraft/hammer - the best editor ever
+HLCC - the best compiler front end EVER
+Wally - without whom no customs textures.
+Zoners tools - hmm wow about sums it up nice.
+Valve software - for which there would be no map.
+http://www.shaderlab.com/slrl/?p=textures
+Thans industrial textures
+peter manson for his texture
+yak_fighter for his teleporter idea
+the team at AvP for some nice textures
+the team at RtCW for some equally nice textures
+
+
+if for some reason i forgot to mention anyone i am truly sorry, so many helpped with the production of this map i just couldn't remember them all.
+
+------Play Information-----------------------------------------------
+
+Deathmatch	:yes
+Single Player	:no, but has a sp player start (use it yo look around)
+Map Description	:1/2 space station, 1/2 castle
+How Many Players:4 to 6
+
+------Map Information------------------------------------------------
+
+New Textures	:yes 90 customs 39 stock
+New Sounds	:yes
+Solids          :1,821 with 10,994 faces
+Weapons         :357-1,AR-2,crossbow-1,gernade-2,guass-1,satchel-3,shotgun-2,snark-1,tripmine-2
+Ammo            :357-2,AR-6,ARgernade-4,buckshot-5,crossbow-2,guassclip-4
+Items           :Playerstarts-10,batteries-5,healthkits-5,Longjump-1,suit chargers-1,health chargers-1
+
+------Construction---------------------------------------------------
+
+Base		:from scratch
+Editor(s) used	:hammer 3.4
+Compile Machine	:Athlon T-Bird 1.4 ghz 512-133 ram
+Compile time	:HLCSG - 94.80 seconds elapsed [1m 34s]
+                 HLBSP - 27.05 seconds elapsed
+                 HLVIS - 2763.27 seconds elapsed [46m 3s]
+                 HLRAD - 4765.25 seconds elapsed [1h 19m 25s]
+                 
+
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "double_trouble.bsp" in
+your half-life\valve\maps directory. 
+place the "sweet_dreams.wav" into the Half-Life\valve\sound\music directory, 
+you probably wont have a folder named "music" so make one.
+
+------Additional Info------------------------------------------------
+
+This template is "NO LONGER" available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+(with all the custom textures used i feel it best not to, sorry.)
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+
+october 10,2002
+Orpheus
+
+
+

@@ -1,0 +1,32 @@
+Title:Lab11: LavaLab
+Version:1.0
+Release Date:November 20th, 2008
+Get It At:Lab11: LavaLab
+Readme:lab11_lavalab.html -- the file you are reading now.
+Author:Peter Jones
+Contact:Contact Pete
+Website:Pete's Place :: Mapping
+
+Play Information
+Game:Half-Life
+Game Mode:DeathMatch
+Level Name:Lab11: LavaLab
+Players:4-12
+Known Bugs:
+•When the Magma Collector goes into action, I wanted the scoop to fill with lava. Although everything is there in the level and being triggered, for some reason it doesn't seem to be working as planned. Since it is a minor detail I stopped trying to get it working.
+•There were several places where, if you were sliding down the rock walls, you would get stuck. I recompiled the level using different settings (-cliptype precise) and it seems to have fixed the majority of these, but it is possible you may still find a sticking point somewhere. I know of a couple of places where you do get stuck but can get free by crouching...
+•The health and armour chargers can be triggered through the wall. While careful level design can prevent this from happening, this is really where these chargers wanted to be. This is actually a bug in the Valve code; I have fixed it in my own "petesdm" minimod (specifically because of this level) but until I release that (possibly sooner rather than later, in preliminary form anyway) you're stuck with this problem. (My code fix can be found here if you wish to incorporate it into a mod of your own!)
+•Please let me know if you find anything more!
+Base:New level from scratch, although the concept was originally developed as my first HLDM level, LavaLab.
+New Graphics:Several, not created by me; see Other Credits for full details.
+Installation:Place the .bsp files in your valve\maps directory.
+
+Build and Compile Information (Reference)
+Build Time:Started April 4, 2007; in progress for roughly 19 months, on and off.
+Editor:Valve Hammer Editor 3.4
+Additional:Wally 1.51B [to assemble the WAD file]
+Final compile was with ZHLT v3.4 Final.
+
+Revision History
+Version 1.0 -- October 31, 2008
+I am releasing this after extensive testing and numerous recompiles. As it stands, any further problems which may exist with it are essentially unfixable, so I probably won't even attempt to change this further. However, any comments which can be incorporated into the next spin-off level will be!

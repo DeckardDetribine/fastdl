@@ -1,0 +1,44 @@
+****General Information*************
+Title			: Duel Arena
+Filename		: pldm_duel01.bsp
+Author			: Piotr Lipinski
+Email 			: pioter10@poczta.wp.pl
+Game Mode		: Deathmatch
+# of Players (size)	: 2 - 3 (tested only on 2 at LAN)
+
+
+****Play Information****************
+Deathmatch	: Yes
+Single Player	: Yes, for test/debugging only
+
+****Map Information*****************
+
+New Textures	: 2 exported from halflife.wad, edited and compiled into bsp file
+New Sounds	: None
+
+****Construction********************
+
+Base		: From scratch
+Editor(s) used	: WorldCraft 3.3, Photoshop 4.0, Wally 1.53b
+Compile Machine	: AMD K6 366, 96 MB ram
+Compile time	: fiew minutes.
+
+****Additional Info******************
+Extract the contents of the .zip archive into your Half-Life\valve\maps directory.
+There are spots where r_speeds reaches a bit high, that's why this map is designed rather
+for LAN. It's not perfect, but forgive me.
+
+****Special Thanks*******************
+Thanks to Valve for bringing us Half-Life.
+Thanks to Zoner for compiling tools.
+Thanks to Half-Life ERC for their tutorials.
+Thanks to Telefragged for Wally.
+
+++++Copyright-Permissions++++++++++++++++++++++++++++++++++
+This unmodified file must accompany the BSP in any form of distribution. 
+These files may be distributed freely.
+Please drop me an email and tell me if you like or hate this map!!
+
+Good luck !
+
+pioter10@poczta.wp.pl

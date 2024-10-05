@@ -1,0 +1,72 @@
+COPYRIGHT
+----------------------------------------
+map name: Cliff_Complex.bsp
+released: October 6th 2003
+----------------------------------------
+Install information:
+Extract file "Cliff_Complex.bsp" to your
+Valve/maps folder.  Extract files "*.tga"
+to your Valve/gfx/env folder.  If such a
+folder does not exist, create it.
+----------------------------------------
+This map is part of a collection of maps
+"Complex".  This is the first released,
+and the second in the series.  The first
+is Dark Complex.
+----------------------------------------
+Many of textures in the map can be found
+at Wadfather,
+(www.planethalflife.com/wadfather)
+including the skybox. ("Stormy" found on
+page 11 of Environment Maps)
+----------------------------------------
+Use of this file is for gaming purposes
+only.  This file may only be transfered
+via internet download.  This file may
+not be uploaded to a personal website
+without my prior permission.
+
+You are not authorised to decompile this
+map.
+----------------------------------------
+Feedback is appreciated.
+----------------------------------------
+You may use this map as a base map for
+your own creations provided it is
+mentioned in the text file.
+----------------------------------------
+Special thanks:
+Orpheus
+Cash Car Star
+ReNo
+----------------------------------------
+BETA testers:
+DocRock
+Juim
+Cash Car Star
+----------------------------------------
+Contact information:
+Nick "Wild Card" Roome
+email: topgun832@hotmail.com
+MSN: topgun832@hotmail.com
+www.snarkpit.com
+----------------------------------------
+Compile information:
+This is the 8th (and final) compile.
+
+Machine:
+Pentium II 400Mhz
+128mb SDRAM
+GeForce 4 64mb DDR
+6.4gig Hard Drive
+
+Errors:
+None
+----------------------------------------
+_          _   ______
+\\        //  / _____\
+ \\  __  //   | |
+  \\/  \//    | |_____
+   \_/\_/     \______/
+----------------------------------------
+COPYRIGHT

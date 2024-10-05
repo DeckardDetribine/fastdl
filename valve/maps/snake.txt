@@ -1,0 +1,72 @@
+--------------------------------------------------------------------------------------------------------------------
+                    			           S N A K E
+                                                    by: mr.P 
+--------------------------------------------------------------------------------------------------------------------
+
+Install: 
+
+snake.bsp and snake.txt >>-----> valve/maps
+
+--------------------------------------------------------------------------------------------------------------------
+
+About the map...
+
+There is nothing to say, i like the light and some of the brushwork. 
+The map layout is based for teamplay or deathmatch and the entitys are placed to keep you on the run.
+Some parts may look like the flf map made by me and a friend (kermit_), I've conterted some parts and added
+some other...don't confuse this map with one of my older maps also called snake for the mod Natural Selection, 
+no parts or textures from that mod was used in this one...
+
+The rspeeds are quite low overall, with tops of 650-690 in one corner
+It has a quite high face count, like 13,000, similar to my other map Tear...
+This map took me about 30 hours to make during a 4 day period. 
+
+- - -
+
+Items & Entities:
+
+Weapons - Gauss, Rpg, Shotgun, Mp5AR, Magnum, Satchels, Tripmines and Snarks
+
+Ammo - Yes
+
+Entities - Health, Battery and Longjumps
+
+Brush Entities - Health recharger, HEV recharger, Two Teleports and two elevators
+
+--------------------------------------------------------------------------------------------------------------------
+
+Credits:
+
+Textures, omg nice! - by: Yves Allaire aka "evil lair" (hfx@planetquake.com)
+
+Playtesters and reviewer - Mikee (and his dog, Scottie), Mustang (all the crew members at Globalassault, GREAT SITE!) 
+
+- - -
+
+Links:
+
+Evil lair's site (skill) - http://planetquake.com/hfx
+
+The DestinyMod (the best mod ever!!!!) - http://www.planethalflife.com/destiny/
+
+Lambda-Complex - http://www.lambda-complex.com/
+
+Wadfather (textures and skymaps) - http://www.planethalflife.com/wadfather/
+
+Globalassault(map reviews) - http://www.globalassault.com/
+
+Planethalflife (hl stuff) - http://www.planethalflife.com/ 
+
+--------------------------------------------------------------------------------------------------------------------
+
+Creators note:
+
+Any questions should be mailed to me: peppe@pihl.as, if you like the textures then mail evil lair and encore!
+
+
+I have a website, but I havent updated it for months...so if you want to find out more about my 
+maps or justhave a little chatt then visite me on irc; #destinymod on Gamesnet or #leveldesign at quakenet. 
+
+If you still wanna see my homepage: http://www.geocities.com/sorry_m8/
+
+--------------------------------------------------------------------------------------------------------------------

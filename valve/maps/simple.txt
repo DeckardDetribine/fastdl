@@ -1,0 +1,56 @@
+
+Title 			: Simple
+Filename		: Simple.bsp
+Authors			: Eyeque, Beauntoo and Onnatop
+Other lvls by author	: None curently
+Email address 		: Eyeque@wa.freei.net
+Home page		: None
+Description		: Fifties style indor faclility
+Additional Credits to   : As Follows.
+
+Revolver@gpm98.freeserve.co.uk
+Multimedia Computer Prefab
+the CD-Rom actually works!  
+:Modifyed by Eyeque, changed paper texture on printer
+
+Jason Hobbs
+psycho717 sndg@airnet.net
+Sound System Prefab
+:Modifyed By Eyeque for Use in The Data Control Operations Room.
+
+Single Player           : No
+Cooperative Player      : No
+Deathmatch Player       : Yes, tested with 6 players
+CTF2			: no
+Difficulty Settings     : no
+New Textures            : no
+CD Track                : no
+
+* Construction *
+Base			: Scratch
+Editor(s) used          : Worldcraft
+Compile Machine		: Celeron 300a at 400
+Compile time		: 5 hours
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+
+This is our first map there are more to come, considering the Review Criteria of Radium, I dont excpect much from this map just testing the HL waters out.
+
+Since I haven't Maped since the Doom2 days you might be able to notice the Doomish qualitys of the tight halls and less than open spaces.
+
+Beauntoo was just learning lighting, so the lighting is abit novice.
+
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+Please don't distribute this level unless you include thsi file with no modifycations.
+If you don't wish to co-operate, then please dont distribute it!. Thanks.
+
+This BSP may be distributed over the Internet and/or BBS systems.
+You are authorized to put this BSP on a CD or distribute it in
+any way with my prior permission.

@@ -1,0 +1,265 @@
++-------------------------------------------------------------------+
+|   Some information before the main feature                        |
++-------------------------------------------------------------------+
+
+**********************WARNING TO ALL COMBATATANTS**********************
+If you leave the Sce your weapons (as they aren't real) will be removed
+**********************WARNING TO ALL COMBATATANTS**********************
+
+Walter's world was funny. Very, very funny.
+Someone, anyone, preferably Valve but I'm not picky, give me a job. please.
+
+Someone recently asked me the question 'So, do you think the world's changed at all in the new millennium'.
+As I sit here in an all-in-one tinfoil jump suit, orbiting the Earth in my space house, eating a ham salad pill, I'd have to say that thing's haven't changed a bit.
+
+++=================================================================++
+||   Half-Life Map Spec Sheet                                      ||
+++=================================================================++
+
+I've always wanted to do a map along the lines of rats, infested or turkeyburgers, and here it is! This is an accurate version of my trainers and the world they live in. Enjoy!
+
+=====================================================================
+
++--------------------------------------------------------------------+
+|-----Known bugs-----------------------------------------------------|
++--------------------------------------------------------------------+
+Yeah but I ain't telling you what because I'm pretty sure you won't notice. Not really a bug anyway and i'm 90% sure you won't even see it in normal play.
+
+Also in the tunnel (with the pipes in) the textures look misaligned, but it's problem with worldcraft, not the map and I don't know how to fix it, but it's not that noticable anyway.
+=====================================================================
+
+
++-------------------------------------------------------------------+
+|------General Information------------------------------------------|
++-------------------------------------------------------------------+
+
+
+Title		:Black Mesa training complex: Gentlemen, To Walters World one of the funniest Half-life related sites I know
+Filename	:Jakestrainers.bsp (do you get it ? my last map was called jakeshouse.bsp and this is a tra.. oh never mind
+Author		:Jake
+Author Email	:Sheep_of_evil@yahoo.com	
+Home page	:www.planethalflife.com/hornetking
+Description	:Map review site
+Previous Maps	:Checkpoint charlie (cpc.bsp, 39%), Half-life: 3 Arenas (cpd.bsp, 87%), Banjo factory (cpe.bsp, 88%), My house: This map is dedicated to Chris Tate (Jakeshouse.bsp, 7/10), it's Christmas (Xmatch.bsp probably, no review).
+=====================================================================
+
+
++-------------------------------------------------------------------+
+|-----Story Line----------------------------------------------------| 
++-------------------------------------------------------------------+
+On many an evening did the scientists of the Black mesa complex get sloshed on cheap, Industrial alcohol's. They would then conga through their merry way through the complex randomly. As the night progresses, more and more scientists would join in, many shouting or waving their arms in an excited manner, but all of them dancing completely without rhythm. More often than not , this drunken rabble would snake it's way into the lab of Professor Kauffman's team, partly because it's where they wanted to be, partly through luck, but mostly because of the lack of stairs  and the fact that the lab was flame retardant. 
+Once there they would put on silly costumes and activate the Simulated Combat Environment Kauffman was working on (an alarming percentage of them would be dressed as women by this point). Here they could vent their frustration by taking random pot shots at each other long into the night in the full knowledge that nobody would get hurt. Well, as long as one of the drunken party had remembered to set-up the safety equipment and emergency-medi-port system to extract those in need of terminal medical assistance....
+
+Remember kids, Black mesa scientists are trained to drink Cheap industrial alcohol, you are not. don't try this at home.
+=====================================================================
+
+
++-------------------------------------------------------------------+
+|-----Credits and Thanks--------------------------------------------|
++-------------------------------------------------------------------+
+(these people are the guys who worked on ALL my maps)
+
+Original concept:						 Jake
+
+Design:								 Jake
+
+Production:							 Jake
+
+Producer:							 Jake 
+
+Testers:					Jake [GDM]SheepOfEvil 
+ 						 Gaz    [GDM]FireClaw
+					       Steve       EasyTarget
+					       Chris      EggsOfSatan
+					     Richard      PublicEnemy
+					      Hornet             King
+Editor:								 Jake
+
+Assistant editor:						 Jake
+
+
+Thanks to all those sites on the internet with help and tips on world-
+craft and thanks to  Valve for giving it away with such a good game.
+
+Thanks to Hornetking (www.planethalflife.com/hornetkng) for reviewing my previous maps (and liking them)
+Complex, ditto       (www.planethalflife.com/complex)
+Lvl, because I love the concept, whoever thought it up, congratulations (www.planethalflife.com/lvl)
+
+Thanks to Walters world for being very funny (RIP)
+
+Thanks to valve for digging the fps shooter out of a very deep hole (Is it just me or did Quake I/II single player really stink of rotten dog carcass ?)
+
+Thanks to Id, a company who are finally playing to their strengths  (multiplayer and engines)
+
+Thanks to Unreal tournament for burying Quake 3 deep, deep in the cold, cold ground with it's faster code, more options and more variation, just more everything
+
+Thanks to everyone at Outcast central (www.outcastcentral.com, ask for vapor)
+
+Thanks to Jumbot, I've only just got it but I don't know how I'd live without it. Does mean my testing has been going slower than usual though...
+
+Thank you lord for all the trees and flowers
+
+Thanks to Everyone who has ever worked on anything I enjoyed
+
+Thanks to Everyone who is nice to people, it's the way the world should be
+
+Thanks to Garbage because that's what I'm listening to atm
+
+Thanks to Vapor, Marika, Wibble, Chetter Hummin, Granny, Dave, Jag, happy Camper, Mpwk, Tibs, Riak, Normy, thingy, Easy target, Eep, KingDick, Geo, Scream  
+
+Thanks to Gaz, Richard, Chris, Alex Teal, Duke, Jamie, Caroline Weale, Sasha, Sahima, Jonathan, Paul, Chris, Liz, Chris, Heather, Cathryn, Sally, Emma, Terri-anne, Lisa, Sarah, Doc, Mike, Alex, Mr child, Adam, the other Adam, Andy, Craig, Liz, Stewart, Lucy, Rob, Danny, Sara, Clare, Nathan, Ashley, Emily, Slow Norris, Simon Gregory, Mr Harrison, Mr Auty, Elizabeth, Phil, Matt, charlotte, Joy, Danny, Tom, Laurie, Gary, Steve, Steve, Berries Butties, The Queen, Mrs O'brien, Adam and Joe (show), Steve Lyne
+Thanks to everyone else who isn't listed (I can only apologise but this is being written at about 2'o clock in the morning)
+
+Thanks to Particle systems for creating one of my favourite games ever, I-war ! (I've played the single player game more than half-life single player)
+
+Thanks to everyone who voted for me
+
+
+
+=====================================================================
+
+
++-------------------------------------------------------------------+
+|-----Additional Info, Tips, and Notes------------------------------|
++-------------------------------------------------------------------+
+If you've played one of my maps before you'll know the drill, basic weapon at each starting point (unless it's near alot of different weapons), lots of fun weapons like grenades, and trips, careful placement of the more powerful weapons which are generally in difficult to get to places (like the rpg) or exposed positions (gauss). There's a few bits of the map which are illusionary entities, but I don't think you'll notice them as it's things like light fittings. Should stop you getting snagged unnecessarily. Multi-layered arenas which weave in and out of each other so that, at one point you may be at a vantage point overlooking a firefight, round the next corner you're down in the bottom of another room trying not to get picked off from above whilst you shotgun the face of your friends. If you're one of those people who pretty much rely on one gun only, well, you're buggered here unless you wanna camp. Thing is health and ammo are always in different places and never near any good hiding places....
+
+Oh and I always piss around with the Egon too.
+======================================================================
+
++-------------------------------------------------------------------+
+|-----Play Information----------------------------------------------|
++-------------------------------------------------------------------+
+Deathmatch: Deathmatch sounds so violent doesn't' it ? I prefer misunderstanding match. and yes
+Single Player: If you love to walk around a map with nothing to do then yes. But you've got to set up a misunderstanding match to get it on. I recommend jumbot if you haven't got any friends/net access
+Map Description: Part of the Black Mesa Training complex
+How Many Players: 4+
+Guns and Ammo: All except and the hornet gun. And just like My house: This map is dedicated to Chris Tate it IS possible to get the Egon, despite what I've been telling people.
+Oh, The crossbow didn't make it this time ?
+R_speeds: R_speeds almost never go over 600, mostly staying around 350-400
+=====================================================================
+
++-------------------------------------------------------------------+
+|-----Map Information-----------------------------------------------|
++-------------------------------------------------------------------+
+Hey kids, it's map information and you know what that means. It's Anal detail time !!
+
+Department of silly statistics:-
+
+New Textures	:No
+New Sounds	:No 2
+Solids: 904
+Faces: 5581
+Point Entities: 126
+Solid Entities: 89
+Number of errors whilst compiling (discounting leaks), during development: 3
+Number of warm cups of tea: 0
+Number of crashes: 4 
+Number of Monkeys producing the map: Infinite
+Number of map versions before final build : 14
+Amount of Hard drive space now taken by half-life folder 986mb +Wc folder 204mb
+Number of dogs harmed in this production: 0
+Number of people murdered for fun: 26
+Length of time spent on map(ish) from beginning to end: My computer tells me 31/12/99 to 11/01/00
+Amount of Ideas thrown out the window due to my lack of knowledge: 4
+Amount of Ideas that don't work: more than 4
+Number of maps started over the Christmas period: 4
+Amount of these maps over 50% finished (including this one): 2
+Amount of players recommend for each, 2, 4+, 12-32, 2-8
+Amount of coke consumed during the production of this map: 1 litre
+Amount of Chicken salad sandwiches consumed: 5
+Amount of Keyboards destroyed making readme file: 2
+Amount of worlds energy supplied by Nuclear power: 7.1%
+Amount of Hd space taken by all the *.Bsp and Wc files (Just for this map): 231Mb (hmm, should really do some cleaning)
+Amount of times the map has been ready, then I've spotted a small error during the final walkaround: 2
+Amount of times I've thought 'I'll have a look at Messiah in a minute' during the build time: 3
+Number of times I've told Tat (of Tat's splathouse) that my other map currently in prod is almost ready: 5
+Approx. percentage completion of said map: 95%
+Amount of things which still need doing: 1 final weapon placement
+Number of days before this map was started that that map was started: 14
+reason why that map hasn't made it to final production yet: Got bored of it
+Amount of money spent to bring you this production: £1,200 for computer, £300 for upgrade, £34.99 for Half-life, £4.99 for copy of Pcg which showed me how to use Wc for the 1st time, £2.99*2 for copies of pcz with same thing, countless hours online going through sites finding info on entities (say £40), heating, food, water etc supplied by parents.
+Average % gained by all my maps, taking 7/10 as 75%: 72.25%
+
+and finally, highest time reachable in seconds before solitaire stops counting: 8191
+
+
+Compile machine: PII 450
+		 128 Mb ram
+                 6.4 Gb hd
+                 voodoo 3 3000 
+                 Sound blaster 256
+
+---- qcsg ----
+   30 seconds elapsed
+
+---- qbsp2 ----
+   32 seconds elapsed
+
+----- Radiosity ----
+  320 seconds elapsed
+
+---- vis ----
+630.0 seconds elapsed
+
+=====================================================================
+
++-------------------------------------------------------------------+
+|-----Construction--------------------------------------------------|
++-------------------------------------------------------------------+
+Base		:No
+Editor(s) used	:Worldcraft
+Compile Machine	:Washing (hover)
+Compile time	:30(ish) minutes
+Build time      :I don't know
+Playtest time	:I don't care
+=====================================================================
+
++-------------------------------------------------------------------+
+|-----Map Instructions----------------------------------------------|
++-------------------------------------------------------------------+
+Run around and shoot anything that moves and isn't you.                     
+=====================================================================
+
++-------------------------------------------------------------------+
+|-----Copyright-Permissions-----------------------------------------|
++-------------------------------------------------------------------+
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+Authors MAY NOT use this level as a base to build additional levels.
+ 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+Sheep_of_evil@yahoo.com
+=====================================================================
+I couldn't think of anything funny to say here...
+
+GO EVIL 
+
+Here is a list of people who worked on this text file
+
+Original concept:						 Jake
+
+Design:								 Jake
+
+Production:							 Jake
+
+Producer:							 Jake 
+
+Play testers:					Jake [GDM]SheepOfEvil 
+ 						 Gaz    [GDM]FireClaw
+					       Steve       EasyTarget
+					       Chris      EggsOfSatan
+					     Richard      PublicEnemy
+					      Hornet             King
+Editor:								 Jake
+
+Assistant editor:						 Jake

@@ -1,0 +1,109 @@
+
+
+==============================================================================================================
+
+
+DM_DEADLAB_ENHANCED
+
+Map by: Kilate 
+Textures by: Spock Jedi
+
+http://www.orkut.com/Community.aspx?cmm=8075283
+
+
+
+==============================================================================================================
+
+ENGLISH INFO:
+
+AUTHORS
+_______
+
+Map by: Kilate 
+Textures by: Spock Jedi
+
+
+MAP INFO
+__________________________
+Game                : Half-Life (http://www.sierrastudios.com/games/half-life/)
+Name                : DM_DEADLAB_ENHANCED
+Type                : DeathMatch
+Players             : 15
+Programs            : Valve Hammer Editor 3.5
+
+INSTALLATION
+__________
+Unzip the .rar file and move the "valve" folder file to your half-life directory (hl.exe folder)
+The installation does not affect the original game files.
+
+THANKS
+______________
+Level Design Community
+http://www.orkut.com/Community.aspx?cmm=8075283
+
+CONTACT
+_______
+
+SPOCKJEDI@GMAIL.COM
+leonardo.kilate@gmail.com
+
+
+COPYRIGHT
+_________
+
+DM_DEADLAB_ENHANCED is copyright. You may distribute this file freely with NO
+modifications and NO file omissions.
+YOU ARE NOT ALLOWED TO USE THE TEXTURES OF THIS MAP IN ANOTHER MAP. PLEASE, DON'T TRY IT! 
+
+==============================================================================================================
+
+INFO EM PORTUGUÊS
+
+AUTORES
+_______
+
+Texturas por: Spock Jedi
+Mapa por: Kilate
+
+SOBRE O MAPA
+__________________________
+Jogo                : Half-Life 
+Nome do Mapa        : DM_DEADLAB_ENHANCED
+Tipo                : DeathMatch
+Numero de Jogadores : Até 15
+Editores usados     : Valve Hammer Editor 3.5
+
+
+INSTALACAO
+__________
+Descompactar o arquivo .rar e substituir a pasta "valve" original (localizada na mesma pasta do HL.EXE) pela que veio no .zip.
+A instalação não afeta os arquivos orginais do jogo.
+
+
+AGRADECIMENTOS
+______________
+
+Galera da comu de Level Design: 
+http://www.orkut.com/Community.aspx?cmm=8075283
+
+CONTATO
+_______
+
+SPOCKJEDI@GMAIL.COM
+leonardo.kilate@gmail.com
+
+
+COPYRIGHT
+_________
+
+De_deadlab_enhanced tem copyright. O mapa pode ser distribuído desde que não haja modificação nem omissão de arquivo.
+É PROIBIDO USAR AS TEXTURAS EM OUTRO MAPA. POR FAVOR, NÃO TENTE ISSO.
+
+ADVERTÊNCIA
+___________
+
+Essa é uma obra de ficção. Qualquer semelhança com fatos, lugares ou pessoas na vida real É MERA COINCIDÊNCIA.
+
+==============================================================================================================
+
+

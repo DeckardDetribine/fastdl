@@ -1,0 +1,19 @@
+Author: Windawz
+Game: Half-Life Deathmatch
+Spawnpoints: 8
+
+_____________
+Installation
+
+Copy the .bsp file into your "...\valve\maps" folder.
+
+_____________
+Description
+
+A small base established by Earth Military Forces on an unexplored planet and, very soon, hastily abandoned for unknown reasons.
+
+________
+Credits
+
+Trempler, BrianOblivion/NathanDrake, Mariteaux - Testing, Suggestions.
+_____________________

@@ -1,0 +1,58 @@
+================================================================================
+Title                   : By Night
+Filename                : BYNIGHT.BSP
+Version                 : 1.0
+                                      
+Author                  : Jarl Lindeneg
+Email Address           : Jarl@image.dk
+
+Other levels by author  : Station 4
+
+Description             : A nice city by night
+			  I tried to create a map, where no one can feel save, 
+			  you realy gotta keep on your toes, as you can not cover
+			  all the angles.
+			  This map is ideale for snipes, due to the large areas,
+			  but a shotgun maniac can realy kick some b.t in the small
+			  houses.
+
+Thanks to               : Hans for testing and a crazy night
+
+================================================================================
+
+* Play Information *
+
+Game                    : Half-Life
+Single Player           : No (1 single player start)
+Deathmatch              : Yes, 6 spawn points. Suitable for 2-8 players.
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Monsters            : No
+New Demos               : No
+New Models              : No
+
+* Construction *
+
+Base                    : From scratch
+Editor(s) used          : Worldcraft 2.0
+Known Bugs              : Sometimes the guns don't fire right away!
+Build Time              : I created this map overnight at a friend, it took 
+			  about 20 hours, and 8 hours to compile.
+Installation		: Unzip bynight.zip into your sierra/half-life/valve/maps dir.
+			  Start Half-Life with hl.exe start a multiplayer LAN server 
+			  and choose bynight in the map list.
+
+
+* Copyright / Permissions *
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD 
+or any other electronic medium that is sold for money without my explicit
+permission! My e-mail adress is available at the top of the page.
+
+Authors MAY NOT use this level, or any of the beta versions of this level,
+as a base to build additional levels.
+
+You MAY distribute this BSP through any electronic network (internet, 
+FIDO, local BBS, provided you include this file and leave the archive 
+intact.

@@ -1,0 +1,6 @@
+DM_HYSTERIA for Half-Life
+by Urby
+
+Made for the Half-Life Re-imagined competition.
+
+Installation: It puts the files in the /valve folder.

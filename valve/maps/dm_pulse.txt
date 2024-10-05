@@ -1,0 +1,41 @@
+MAP INFO
+========
+Title      : Pulse
+Version	   : 1.00
+Filename   : dm_pulse.bsp
+Author     : Adam Hawkins
+Email      : adamhawkins@planethalflife.com
+Website    : www.planethalflife.com/hawkins
+
+LEVEL DESCRIPTION
+=================
+This map is my second entry for the Snarpit (www.snarkpit.com) 'themed' mapping competition. The theme I chose for this map was a limit of colours (3 solid colours used throughout), with any detail being made solely from brushwork. It makes for a different and interesting appearance and i'm quite pleased with the outcome. Because of this however, it can be a little hard to navigate round at times. I was partly influenced by the video for Mad Capsule Market's song Pulse which I have named the map after.
+
+KNOWN BUGS
+==========
+There's only three colours in the map...I know! It was deliberately built this way ;)
+
+CREDITS
+=======
+Devious
+ReNo for past assistance
+Orpheus...looking forward to reading the review :)
+Ck2k2 for helping me test
+The Snarkpit regulars
+
+TEXTURES
+========
+Myself ;)
+
+INSTALLATION INSTRUCTIONS
+=========================
+Copy the contents of the zip file into your 'Half-Life\valve' folder. It should then be
+selectable from the multiplayer menu.
+
+COPYRIGHT / PERMISSIONS
+=======================
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+Half-Life (C) 1998-99 Sierra On-line and Valve L.L.C. All rights reserved.

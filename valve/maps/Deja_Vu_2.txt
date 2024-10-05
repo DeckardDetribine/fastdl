@@ -1,0 +1,87 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		 : Deja_Vu_2
+Filename	 : deja_vu_2.bsp
+Author	 : [DRS]Orpheus
+Email        : orpheus@cswnet.com
+Home page	 : www.drs.purespace.de
+Description	 : canal zone military base
+Previous Maps: Deja_Vu  Thrasher  False_Accretion
+
+------Credits and Thanks---------------------------------------------
+this could get lengthy :-)
+to all my fellow clan mates for their support and confidence in me during
+this adventure.
+to my son Jarrod for his excellent idea for the Gauss trap
+to [DRS]Misery for his tactless corrective critisism
+to [DRS]Zeddicus for his great ideas
+to [DRS]Doomdog and [DRS]Reaper for their time playtesting
+to [DRS]Yak_Fighter for his auto sentry prefab
+to Andy_UK for his major contribution of the Ledge prefab 
+to [DRS]Lazerus for his perspective of mapping
+to [DRS]Ken_UK for his verbal contributions and suggestions
+to GoFReT for his verbal contributions and suggestions
+to Jeroen Loffeld for his verbal contributions and suggestions
+to Reedbeta for his verbal contributions and suggestions
+to Biomechanoid for his verbal contributions and suggestions.
+to fargus for his verbal contributions and suggestions.
+to everyone at http://nin64.com/prefabland/forums
+to everyone at Valve Software
+and last but never least to my wife Brenda of 19 years for her many hours
+or support and ideas about mapping.
+
+------Play Information-----------------------------------------------
+
+Deathmatch	    : yes
+Single Player   : nope but tis one playerstart position
+Map Description : almost 2 years ago i started mapping and with only 2 weeks 
+experience i made my first submittable map (i thought anyways).
+with so little experience i opted to do the entryway doom 2 map deja_vu
+but sadly i failed. so as time went on i decided that i never really did the 
+first version real justice considering how much i truly loved doom 2, so with 
+some prompting from my fellow mappers i decided to totally remake deja_vu with
+the extended experience i have obtained in the last 2 years and here i hope is 
+the version you all have been impatiently waiting for.
+this map has just enough of doom 2 to be entertaining but is vastly different 
+from version 1. i hope you enjoy it just as much as i did creating it.
+How Many Players: 8 to 12  but has 18 multi-playerstarts
+
+------Map Information------------------------------------------------
+
+New Textures:nope
+New Sounds:nada
+
+------Construction---------------------------------------------------
+
+Base		      : from scratch
+Editor(s) used	: wc 2.1
+Compile Machine	: k62 400 with 96 ram and a 16 meg voodoo banshee 
+Compile time	: 11,000 plus seconds total
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "Deja_Vu_2.bsp" in
+your half-life/valve/maps directory.  If there are any .wad files in
+this zip, place them in the half-life/valve directory.
+
+------Additional Info------------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+

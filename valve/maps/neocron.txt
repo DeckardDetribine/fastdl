@@ -1,0 +1,55 @@
+=====================================================================
+   Half-Life Map Specification Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: neocron
+Date		: 30th November 2002
+Filename	: neocron.bsp
+Author		: sUk72
+Email Address	: suk72@netzero.net
+Home page	: nup
+Description	: loosley based on an upcomming game?
+Previous Maps	: too hazed to remember
+
+Credits/Thanks	: mg clan,angelfire,xr clan,Golem for making the loc file =]
+                  and individuals that are way too many to name here.
+                 
+
+                
+
+Special Notes   : i wish i could have added more detail,but the hl engine
+                  kept crapping on me.plus i only worked on it when medicated
+                  so i lost patience =/
+
+------Play Information-----------------------------------------------
+
+Game Version    : Half-Life DM
+Deathmatch	: Yes - over 20 starts provided
+Single Player	: No but one start is provided(i think)
+Map Description	: loosley based on an upcomming game?
+                  was supposed to be for a mod with this name but it folded
+
+------Map Information------------------------------------------------
+
+New Textures	: yap
+New Sounds	: None
+
+
+------Construction---------------------------------------------------
+
+Base		: neocron(screenshots..never played it)
+Editor(s) used	: hammer
+Build Time      : Three weeks (on and off)
+Known Bugs      : warps dont have sounds cause the engine crapped on me when 
+                i added anything else
+Compile Machine	: 1900xp,512 333 ddr,asus a7v33
+Compile times	:didnt check
+
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "neocron.bsp" in
+your half-life/valve/maps directory.
+
+

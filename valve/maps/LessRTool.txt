@@ -1,0 +1,57 @@
+================================================================
+Title                   : I am a Lesser Tool
+Date                    : August 2001
+Filename                : LessRTool.bsp
+Author                  : Matthew Manno
+Email Address           : manno78@yahoo.com
+Home Page               : http://www.bestweb.net/~manno
+
+Description             : It's been described as "a small industrial complex
+			  splashed with color here and there to keep the
+			  interest of the players eye" -JUIM Valve ERC Forums
+
+Thanks to               : My Family (my mom, Teresa, Anthony, Mike,
+			  Anna, Mark, Maria, Monica)
+
+================================================================
+* Play Information *
+
+Number of Players	: 2-6
+Single Player           : No
+Deathmatch              : YES 
+Difficulty Settings     : No
+Team Play		: Sure if you want (made for deathmatch though)
+
+================================================================
+Make sure you put the .bsp file into the following directory:
+... \Sierra\Half-Life\valve\maps
+================================================================
+* Construction *
+
+Base                    : From scratch
+Editor(s) used          : Worldcraft 3.3
+Known Bugs              : No known bugs
+Compile machine         : P3 700 with 256MB RAM
+
+===============================================================
+* Author's Comments *
+
+I hope you enjoy playing this map as much as I enjoy conceiving,
+and building it. If you like it please give me a heads up at
+
+manno78@yahoo.com
+
+Matthew Manno
+===============================================================
+
+* Copyright / Permissions *
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission. 
+(I just left this in here because I like to here from people who
+play my maps)

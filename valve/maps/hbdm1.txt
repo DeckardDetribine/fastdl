@@ -1,0 +1,36 @@
+HBDM1:
+
+	New Half-Life Multiplayer level by HellBringer
+
+	Single Player: No
+
+	Multiplayer: Yes
+
+	Number of players: 2 to 8
+
+	New Textures: No
+
+	New Models: No
+
+	New Sounds: No
+
+	Inspiration: Loosely based around themes from "Datacore" from Valve.
+
+	Notes / Design: Being my first complete DM map since DOOM II, this map was aimed at accomplishing three things:
+
+	1) Make a complete map using the default tools that came with Half-Life.
+
+	2) Get back into the habit of making levels (and as a break from all of my Wavelength Tutorials - www.planethalflife.com/wavelength).
+
+	3) Put out a quality, simple, fun map (like Datacore) for a small to medium group of players; with relatively low r_speeds for good gameplay on ANY Half-Life system.
+
+	Hope you enjoy the map, happy mapping and happy fragging!
+	
+--HellBringer
+Levels Dept. Head, Wavelength Editing Site
+(www.planethalflife.com/wavelength)
+noelwade@hotmail.com
+
+I hate putting this sort of stuff at the bottom of the file; but since I despise "Shovelware", here's my attempt at making some sort of legalistic statement about distributing this level:
+  
+NOTE:  The map data in the BSP file that should come with this text file is copyright 1999 by Noel Wade (all rights reserved), except in cases where it involves material that is copyrighted by Valve, L.L.C.  If you redistribute the ZIP file that this text was part of (or the BSP file that this text file came with, or this text), you MUST include BOTH this text file AND the BSP file in their original, unmodified form.  You may NOT use the BSP file or this text file as part of ANY "for-profit" product WITHOUT first contacting Noel Wade and securing written permission from him.

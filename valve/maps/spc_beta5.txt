@@ -1,0 +1,191 @@
+SNARKPIT CREW MAP   --   www.snarkpit.com
+By:  Alien_Sniper	(N/A)
+     Dietz		(N/A)
+     Grimlock		(grimlock@somethingdied.com)
+     Mazemaster		(n_alger_@hotmail.com)
+     Orpheus		(orpheus@ejoop.com)
+     ReNo     		(reno@elva-mod.co.uk)
+     Yak_Fighter 	(Yak_Fighter@hotmail.com)
+
+
+
+
+I've taken over this map since Orpheus decided to quit HL.  As this map 
+has basically been abandoned by everyone, me included, I have decided to 
+make the changes I deem necessary and attempt to compile and finish this map.
+
+If you object to my changes, I still have Orpheus's last compile and can 
+revert back if need be.  I will be keeping various betas and will make a 
+detailed changelog so you can see what I've done for each section.  
+
+Any and all comments are welcome.  I can easily change things now that I can 
+compile it, but be reasonable as many of the map limits are close to maxed 
+out (especially clipnodes).  Tell me something like redo a section and I'll 
+tell you to go to hell.
+
+
+
+MAX_MAP_MIPTEX:		overcome in beta 1 by adding -texdata memory
+MAX_MAP_PLANES:  	overcome in beta 1 by using XP_Cagey's tools
+MAX_MAP_CLIPNODES:  	overcome in beta 2 by clipping off many sections
+MAX_MAP_MODELS:  	overcome in beta 3 by entity optimization  
+MAX_MAP_FACES:  	overcome in beta 4 by fixing a leak
+MAX_PATCHES:		overcome in beta 4 by using HLRAD with -sparse command
+MAX_MAP_LIGHTING:	overcome in beta 4 by adding -lightdata memory
+
+
+Any and all comments are welcome.  I can easily change things now that I can compile it, but be reasonable as many of the map limits are close to maxed out (especially clipnodes).  Tell me something like redo a section and I'll tell you to go to hell.
+
+CHANGELOG
+
+BETA 5
+-a_s- removed yellow lights in main room.  this is a test to see how the lighting looks and is in no way permanent
+-yak- fixed a brush through floor error in main room
+-yak- deleted some lights in first main room cause they sucked
+-yak- deleted some lights in rock room as it's just too bright in there
+-grim- fixed a pitch black air duct area, dunno how that one happened
+-grim- there were six light entities where there should have been two
+-dietz- clipped off a few more areas
+-dietz- went a little overboard with null textures causing a noticeable HOM.  now fixed
+-dietz- deleted a pointless func_illusionary that for some reason could be seen in the sky from Grimlock's area
+-dietz- slowed down fan a little bit to closer match sound
+-dietz- deleted a light and corner detail because it caused a nasty clipping error ingame
+
+
+-all- reduced light_env intensity by 60%, we shall see how this looks
+
+BETA 4
+
+I had two issues, a max_map_faces error and a leak.  I started first by retexturing as 
+much as I could with the null texture.  If it turned out that it couldn't fix the error,
+it would still reduce r_speeds a little bit.  Turns out that I had a leak in A_S's section
+caused by me chopping up the ceiling in the outdoor hallways to fit an angled light in there.
+There was no void showing, but I guess it was one of those tiny gaps between angled brushes.
+I just added null textured brushes over the top of the section and fixed the problem.
+
+
+
+
+BETA 3 -this is going to be purely an entity optimization beta unless I come across anything else (at least 24 brush entities need to go)
+-a_s- moved two name signs into wall and removed func_ill
+-a_s- moved two lights into ceiling and removed func_ill
+-yak- moved two lights into ceiling and removed func_ill in connection room
+-yak- merged 7 func_walls into 1 in connection room
+-yak- merged 4 func_ills into 1 in connection room
+-yak- moved two lights into ceiling in first main room and removed func_ill
+-yak- merged 2 func_wall lights in overlook into 1 func_ill
+-yak- merged 2 func_wall lights in sniperhall into 1 func_wall
+-yak- moved 3 lights in 2nd main room into ceiling and removed func_ill
+-yak- merged 2 func_ills into 1 in hallways
+-yak- merged 2 func_ills into 1 in 2nd main room
+-yak- merged 6 func_walls into 2 in 2nd main room
+-yak- merged 2 func_ills into 1 in 2nd main room
+-yak- merged 4 func_ills into 1 in back room
+-yak- merged another 4 func_ills into 1 in back room
+-yak- merged 2 func_walls into 1 func_ill in back hallways
+-yak- moved 2 lights into ceiling in 2nd main room and removed func_ill
+-yak- merged 4 func_ills into 1 at blue teleporter
+-dietz- merged 3 func_walls into 1 in lower hallway
+-dietz- merged 2 func_walls into 1 in red teleporter
+-dietz- merged 2 func_walls into 1 at sniper deck
+-dietz- merged 4 func_ills into 1 at sniper deck
+-dietz- merged 4 func_walls into 1 at sniper deck
+-dietz- moved sign into the wall and removed func_ill at sniper deck
+-dietz- merged 4 func_walls into 1 at upper hallway
+-dietz- merged 4 func_ills into 1 at upper hallway
+-dietz- merged 4 func_walls into 1 at upper hallway
+-dietz- merged 3 func_ills into 1 at upper hallway
+-dietz- merged 3 func_ills into 1 in waterway
+-reno- merged 2 func_ills into 1 in first main room
+-reno- merged 4 func_walls into 1 in second main room
+-reno- lowered the volume of the wren and cricket sounds
+-reno- moved two signs into the wall and removed func_ill in third room
+
+-MAX_MAP_MODELS-
+    I reduced the solid entities in the map from 424 to 350 and fixed this error.  Compile gave a leak and MAX_MAP_FACES...
+
+
+BETA 2
+-all- added as many clip brushes as I could find
+-all- made all the signs func_illusionaries to rectify an old complaint and reduce r_speeds
+-all- replaced an op4 texture with a hl.wad texture to get rid of missing texture errors
+
+-orph- made some texture corrections to recify old complaints
+-orph- changed the stairs to reduce faces
+-orph- changed the floor to reduce faces and clipnodes
+-orph- moved the name sign into the wall
+-orph- removed a step on the ramp to the elevator
+-orph- texture fixes on the elevator ladders (and people used to bitch at me for making perfectly aligned ladder prefabs...)
+-orph- brush adjustments in elevator section
+-orph- resized two walls just because I can
+-orph- oh holy crap, Orph, you need to remake that warning light prefab.  I'll just clip the thing off instead.
+-orph- removed some completely unnecessary 1 unit gaps between wall brushes and lights that I'll assume added clipnodes
+-yak- deleted two pipes that were unnecessary details
+-yak- fixed an overlapping brush
+-yak- better clips around yellow teleporter
+-yak- better clips around blue teleporter
+-yak- simplified the corner of the tunnel
+-yak- texture fix in first main room
+-yak- removed lip in floor of first main room
+-yak- fixed misshapen wall in second main room
+-yak- removed wasteful detail brushes in back room
+-grim- moved the pump station sign into the wall to remove clipnodes and wasteful faces
+-grim- made a texture correction to rectify old complaint in egon room
+-grim- fixed an overlapping brush in egon room
+-grim- texture fixes in egon room
+-grim- lowered the volume of some deafening cricket chirps
+-grim- texture fixes in engine room
+-grim- fixed a wall that consisted of an untextured door frame and a brush blocking what used to be an empty doorway
+-grim- moved the name sign into that spot 
+-grim- moved high voltage sign into wall to fix clipnode, face, and movement issues
+-grim- fixed a window that was func_illusionary allowing players to get essentially outside the level
+-grim- texture fixes in hallway to pipe trap
+-grim- fixed some gaps in the ceiling near the pipe trap
+-grim- fixed a floor gap in pipe trap
+-dietz- fixed a clipping issue with the bridge
+-dietz- fixed a texture error
+-dietz- fixed another texture error
+-dietz- changed a group of brushes in RPG room to a func_wall
+-dietz- increased the speed of a fan x4 to closer match the sound being played 
+-dietz- clipped off red teleporter
+
+-The Great Leak Hunt-
+-dietz- found three 8 unit wide brushes that had no business being where they were
+    HAHA!  Fixed the leak on the very first try.  What're the odds on that?
+
+-MAX_MAP_CLIPNODES- 
+    Fixed, now I get a max_map_models error as there's more than 400 solid brush entities in the map.  Moving on to beta3
+
+
+BETA 1
+-orph- re-added the stairs he removed to eliminate a huge dead-end :D
+-orph- texture alignments in the skylights
+-orph- deleted some bush textured things in the big sign area as they looked strange and were unnecessary
+-orph- changed the outside of the area to fix a bug that had brushes disappearing in the sky
+-orph- found and corrected a number of slight brush errors that were a few units off
+-orph- removed the passageway between the elevator and the sniping point because of view distance and r_speed problems 
+-orph- created a new hall that connects the elevator and sniping point but removes the above errors
+-orph- lowered a window a little bit so we could see the pretty sign from the second floor
+-orph- redid the clip brushes around the ceiling
+-yak- fixed an insignificant texture error in a doorway
+-yak- removed unnecessary lights in hallway overlooking Grimlock's outside area
+-yak- moved a detail door to a different location
+-yak- changed some stupid arcitecture in the first main room
+-yak- changed a small part of the ceiling in the first main room
+-yak- added a ladder in the first main room
+-yak- changed the floor of the 'rockroof' room
+-yak- texture fix in the connection room
+-yak- added a sign to the connection room
+-yak- texture fix in the back room
+-yak- removed some lights in back room
+-yak- added a sign to the back room
+-yak- added teleporter sprites
+-reno- fixed a sign in middle room so it wouldn't flicker
+-a_s- fixed a sign in square room so it wouldn't flicker
+-grim- fixed a sign in bowl so it wouldn't flicker
+-grim- fixed a sign in machine room so it wouldn't flicker
+-dietz- removed a clip brush that interfered with swimming, extended the floor in front of ammo room to compensate
+-dietz- removed a clip brush that interfered with walking on the second level
+-dietz- added clip brushes in all the small areas that players cannot reach
+-dietz- he said at one point that the ammo room was supposed to be a teleporter, and I aim to please.  The teleporter looks like the other two and they are set up to go yellow -> blue -> red -> yellow
+-dietz- added teleporter sprite

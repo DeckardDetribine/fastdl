@@ -1,0 +1,55 @@
+================================================================
+Title                   : Headcase's Hideout
+Date                    : 30th May 1999 
+Filename                : Hideout.bsp
+Author                  : Andrew "Headcase" Chadwick
+Email Address           : andrew@aynsleyterrace.freeserve.co.uk
+Home Page               : Not yet....
+Description             :    This is a fairly militaristic map designed for small to medium battles. The layout is
+			  based around a few small buildings, with a sewer system running along one side of the map.
+			  This is the first map I have ever published, so if you like what you see or find a bug,
+ 			  E-MAIL ME!!!!
+			     I designed this map to cater for a number of playing styles - Close quarter attacks,
+			  Machine gun blasting, explosives, Sniping - all are equally effective.
+			     I tried to keep the r_speeds low. They are around 600 (!) in one outdoor spot (I 
+		 	  apologise to people with slower PCs) but this is the slowest point in the level. You're
+			  going to have to take my word that this doesn't spoil the gameplay as there really is only
+			  about 2 square metres of ground with this slow speed. Honest... (perhaps the guys at
+			  radium will back me up on this....)
+			     It's also worth mentioning that the metal door that gives the "Access Denied" sound is
+			  purely decorative - so don't mail me asking how to open it..... :)
+			     Enjoy! 
+			  
+Additional Credits to   : i) My crack team of Beta testers - Matthew "Captain Chaos" Errington, Tim "Buckshot" 
+			     Chadwick and Simon "Nutter" Chadwick.
+                          ii) Valve and ID Software
+			  iii)  Radium ... excellent mapping site (www.planethalflife.com/radium)
+			 
+
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Deathmatch              : 2 - 8 (ish)
+Difficulty Settings     : No
+
+* Construction *
+
+Base                    : From scratch
+Editor(s) used          : Worldcraft 2.0
+Known Bugs              : None
+
+Build Time              : About a week, on and off. 
+
+Compile machine         : K6-2 350MHz, 128Mb RAM
+QBSP Time               : 20 seconds
+QVIS Time               : 2 minutes
+QRAD Time (extra)       : 8 minutes
+
+* Permissions *
+
+You may NOT sell this level for money or use it as a base for additional levels.
+It may be distributed only with this file and without any modifications. 
+This map may only be distributed on the internet and/or BBS systems. Any other forms of distribution require my
+EXPRESS PERMISSION.

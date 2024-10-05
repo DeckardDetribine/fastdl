@@ -1,0 +1,81 @@
+==========================================================
+Title		:sparta
+Version		:1.0
+Release Date	:3/19/01
+Filename	:sparta.bsp
+Filesize(zipped):1.85mb
+Author(s)	:Schrade (Brandon Renfrow)
+Webpage		:www.planethalflife.com/schrade
+Email Address	:schrade@planethalflife.com
+Description	:Death Match
+                 
+==========================================================
+---Previous maps---
+(DM)Focus
+(DM)Static       
+(DM)Floodwave     
+(DM)Blinga
+
+(FLF)arctic_assault
+(FLF)cityscape  
+(FLF)DesertFire     
+			    
+==========================================================
+---Play Information---
+Game		:Half-life
+Level Name	:sparta
+Game Mode	:death match
+Players		:8-14 
+Known Bugs	:bounce pads may not trigger if you run straight over them. "I couldn't find away around this"
+		 also there a problem of teleporting into each other.
+
+
+---Construction---
+Editor Used		:World Craft 3.3
+Compile Machine		:thunderbird 900mhz, 128mb ram
+Base			:scratch
+Construction Time	:4 weeks
+			 
+---Notes---
+This level has been made to very wide open and big, hence you should except high polys, such as in bounce.
+I feel this brings a type of new game play and I hope you like it.
+
+Also you will notice that you can fall into in the cave to the ground and be teleported to another part of the map, this is on purpose
+and I've never seen it don this way I did.
+
+E-mail me with any comments on the level, praise or criticism.
+Any feedback is much appreciated.
+
+
+---Special thanks---
+Panic and riotsoftware(Diggy, Hosed, Malengine, Buster, and others)
+
+
+================================================================
+
+Copyright and Permissions
+
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name MAPNAME.bsp and is supplied in a zip file called 
+MAPNAME.zip that also contains this text document and 
+no other files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 2001 Brandon Renfrow
+
+===============================================================
+
+This template was constructed by Hornetking. 
+http://www.planethalflife.com/hornetking/
+hornetking@planethalflife.com
+
+===============================================================

@@ -1,0 +1,54 @@
+
+//floors x1  were at 6.0
+pk_floor1a    detail/jx_temple01    8.0    8.0
+pk_floor1c    detail/jx_temple01    8.0    8.0
+pk_floor1d    detail/jx_temple01    8.0    8.0
+pk_floor1e    detail/jx_temple01    8.0    8.0
+pk_floor1f    detail/jx_temple01    8.0    8.0
+pk_floor1g    detail/jx_temple01    8.0    8.0
+pk_floor1i    detail/jx_temple01    8.0    8.0
+pk_floor1a    detail/jx_temple01    8.0    8.0
+pk_floor1a    detail/jx_temple01    8.0    8.0
+
+//triangles and trim
+pk_conc1b    detail/jx_temple02    14.0    14.0
+pk_conc2b    detail/jx_temple02    14.0    14.0
+pk_conc2c    detail/jx_temple02    14.0    14.0
+
+//brick wall was 14
+pk_wall1    detail/jx_temple03    15.0    15.0
+
+//trims
+pk_floor2a    detail/jx_temple02    10.0    10.0
+pk_trim4    detail/jx_temple04    10.0    10.0
+pk_trim2a    detail/jx_temple01    8.0    8.0
+pk_trim2b    detail/jx_temple05    8.0    8.0
+pk_trim3    detail/jx_temple05    8.0    8.0
+pk_sndtrim1    detail/jx_temple05    8.0    8.0
+pk_trim1    detail/jx_temple05    8.0    8.0
+
+//designs x1
+pk_detail2a    detail/jx_temple05    9.0    9.0
+pk_detail2b    detail/jx_temple05    9.0    9.0
+temp_pkedit1    detail/jx_temple05    9.0    9.0
+temp_pkedit2    detail/jx_temple05    9.0    9.0
+
+//walls in big room x2
+pk_wall2a    detail/jx_temple05    9.0    9.0
+pk_wall2b    detail/jx_temple05    9.0    9.0
+pk_wall3b    detail/jx_temple05    9.0    9.0
+
+//ceiling x2
+pk_dirt1a    detail/jx_temple06    10.0    10.0
+
+//treedirt
+fc_dirt    detail/jx_temple04    10.0    10.0
+
+//sand
+pk_softsand1    detail/jx_temple07    9.0    9.0
+
+// Misc other
+pk_concrete1b    detail/jx_temple05    10.0    10.0
+largepot    detail/jx_temple05    9.0    9.0
+templepot2    detail/jx_temple05    9.0    9.0
+pk_floor4c    detail/jx_temple03    14.0    14.0

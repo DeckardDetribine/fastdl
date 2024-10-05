@@ -1,0 +1,38 @@
+Downplay
+a Half-Life deathmatch experience by DocRock
+
+This map is for Half-Life 1 Deathmatch
+
+bsp name:	downplay.bsp
+author email:	docrock10@hotmail.com
+release date:	July 8, 2017
+
+utilities used:	valve hammer 3.5.2
+		zoner's 64 bit compile tools
+		wally
+		ms paint
+ 		goldwave
+	
+wadincluded:	downplay.wad
+		gtwalqpallets.wad
+
+PC Specs:		Windows 7 Professional
+		Intel(R) Core(TM) i7-3930K
+		3.2 Ghz 
+		16gb memory 64 bit
+		
+Compile Time:	2 minutes
+
+map dedicated to:	babykitkat (always)
+
+beta testers:	babykitkat
+		
+installation:	downplay.bsp to valve/maps
+		downplay.txt to valve/maps
+		downplay.res to valve/maps
+		sounds to valve/sound/downplay
+		
+Thanks:
+gtwalq		pallets and wad prefab
+
+Sounds fixed by ~X~

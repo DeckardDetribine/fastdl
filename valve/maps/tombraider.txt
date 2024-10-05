@@ -1,0 +1,67 @@
+--------------------------------------------------------------------------------------------------------------------
+                    			           Tomb Raider
+                                                    by: mr.P 
+--------------------------------------------------------------------------------------------------------------------
+
+Install: 
+
+tombraider.bsp and tombraider.txt >>-----> valve/maps
+
+--------------------------------------------------------------------------------------------------------------------
+
+About the map...
+
+There is nothing to say, i like the light and some of the brushwork. 
+The map layout is based for teamplay or deathmatch and the entitys are placed to keep you on the run.
+This map is also a half convertion from my destiny map tp_tomb wich also is based around teamplay...
+
+The rspeeds are quite low over all, with tops on 750 in one corner
+It has 6276 faces wich is quite low (if you look at Tear, about 12000 faces)
+
+Anyway...look for secrets and traps, the best way to find em is to open the bsp in sp mode and fly around
+with noclip.
+
+- - -
+
+Entitys & Misc:
+
+Weapons - Gauss, Rpg, Shotgun, Mp5AR, Magnum, Satchels, Tripmines and Snarks
+
+Ammo - Yes
+
+Entitys - Health, Battery and Longjump
+
+Brush Entitys - Health recharger, HEV recharger, Two Teleports and Traps
+
+--------------------------------------------------------------------------------------------------------------------
+
+Credits:
+
+The DestinyMod team - the best team ever!
+
+Textures - (Egyptian Walls, Floors, Trim, Special Effects) by sock
+
+Playtesters and reviewer - Mikee(good reviewer:)), Mustang(all the crew members at Globalassault, GREAT SITE!) 
+
+- - -
+
+Links:
+
+The DestinyMod - http://www.planethalflife.com/destiny/
+
+Wadfather(for the egyptian textures) - http://www.planethalflife.com/wadfather/
+
+Globalassault(map reviews) - http://www.globalassault.com/
+
+--------------------------------------------------------------------------------------------------------------------
+
+Any questions should be mailed to me: peppe@pihl.as
+
+- - -
+
+NOTE: I have a website, but I havent updated it for months...so if you want to find out more about my maps or just
+have a little chatt then visite me on irc; #destinymod on Gamesnet. 
+
+If you still wanna se my homepage: http://www.geocities.com/sorry_m8/
+
+--------------------------------------------------------------------------------------------------------------------

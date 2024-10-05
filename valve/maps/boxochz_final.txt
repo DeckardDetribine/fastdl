@@ -1,0 +1,7 @@
+Error: server failed to transmit file 'sound/cheez/turretfire01.wav'
+Error: server failed to transmit file 'sound/cheez/gears.wav'
+Error: server failed to transmit file 'sound/cheez/e1m4.wav'
+Error: server failed to transmit file 'sound/cheez/e1m1.wav'
+Error: server failed to transmit file 'sound/cheez/inter.wav'
+Error: server failed to transmit file 'sound/cheez/turretfire02.wav'
+Error: server failed to transmit file 'sound/cheez/ddtblu.wav'

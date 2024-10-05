@@ -1,0 +1,63 @@
+================================================================
+ PLAY INFORMATION
+================================================================
+
+Title			: Glimmer
+Filename		: Glimmer.bsp
+Game			: Half-Life
+Type/Mod		: Half-life Deathmatch
+Author			: Cash Car Star
+Other Levels by Author	: de_jellybelly, es_trojan, si_satur9, as_52hours1, flf_corinth
+			  ex_poseidon(in progress), grievance(in progress)
+Email Address		: cashcarstar41@hotmail.com
+Homepage		: http://www.rpi.edu/~griggb/ccs
+Additional Credits To	: Painter and the crew at Wadfather for the textures
+			  http://www.planethalflife.com/wadfather
+			  http://www.valve-erc.com for the random event generator
+
+================================================================
+ DESCRIPTION
+================================================================
+
+Small little "fun" map (fun means stupid) created simply to map something different.
+
+================================================================
+ CONSTRUCTION
+================================================================
+
+Base			: none
+Editor(s) Used		: Quark 6.3
+Build Time		: about 2 weeks
+Compile Machine		: IBM Thinkpad 20
+Compile Time		: 4h 16m (there were some really large light-emitting tex's)
+
+================================================================
+ ADDITIONAL INFORMATION
+================================================================
+
+Updates since beta version:
+	*Fixed heights to prevent some fall damage
+	*Weapon & ammo placement tweaked (no more x-bow or egon)
+	*Random effect generator used to change teleport location
+	*Ambient sounds added
+
+This map is final! I've wasted enough time with it as is.
+
+================================================================
+ COPYRIGHT / PERMISSIONS
+================================================================
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!
+
+This BSP may be distributed freely over the Internet and BB's provided
+there is no commercial intent. This BSP may be distributed in other 
+ways only with my permission, e-mail me: cashcarstar41@hotmail.com
+
+________________________________________________________________
+
+Please provide informative feedback to cashcarstar41@hotmail.com
+It can only make future maps better! (that's a good thing)

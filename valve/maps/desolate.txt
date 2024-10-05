@@ -1,0 +1,55 @@
+OK I finally finished this thing.............
+This level has no real theme just an abandoned kind of feel to it.
+
+For those of you who have seen my recent work, DeathLab and Spider, you are goin
+to notice a HUGE change in my style. Hope you like it.
+
+All weapons are here yeah..... Including 2 357, 2 MP5 and 2 shotguns.
+There should be no problem finding a weapon here.
+All big guns are in places that are annoying/dangerous/compromising (spelling?) to get to.
+Why is the guass in the acid room, well there is a hiding, well sorta, place that only the guass
+can get you there.  Plus you can jump around with it, soooo.
+You cna shoot thru the railing so watch it, not the grate floor though :).
+YES you can make the jump to the gluon gun I promise...........
+
+The r_speeds are a bit higher than I like but I didn't want to take away any of the detail.
+
+PLEASE EMAIL ME WITH COMMENTS AND QUESTIONS.
+
+BUGS:
+Well......
+The catapolts leave players behing sometimes in software mode... Not sure why unless it is frame rate.
+But I have ladders so that you do not have to us the catapolts if you don't want too. Go get a 3dfx card.
+
+That is about it take care and have fun.
+
+
+---General Information---
+Title 			: Desolate
+Filename			: desolate.zip
+Author			: Jeff Meyer
+Other lvls by author	: Spider, DeathLab and a few others...
+Email address 		: jmeyer@austin.rr.com
+
+Credits/Thanks
+1. My family for puttin up with me again on this level :-).
+2. Da Man of level making, my buddy, Steve Lyne, Scary-one, for all his help and timely emails :-0 LOL. oh and the shirt/candy for my sons 
+  the candy was goooooood :-)
+3. Radiums wonderful site, www.planethalflife.com/radium, and hard work. Autolycus for puttin up with my STUPID questions, halflife.gamedesign.net
+   thanks guys.......
+4. To everyone who took the time to email me and let me know what they thought of my levels it is greatly appreciated :-), plez keep it up.
+   The guys who joined in on my server to help test the level......
+
+
+---Copyright-Permissions--------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+

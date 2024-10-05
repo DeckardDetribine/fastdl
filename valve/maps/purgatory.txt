@@ -1,0 +1,84 @@
+==========================================
+Map Information
+==========================================
+Map Name:	Purgatory
+Bsp Name:	purgatory.bsp
+Designer:	Brian "Fletch" Thomas
+E-mail:		bthomas1@ukans.edu
+Webpage:	http://www.eecs.ukans.edu/~thomasb/
+Textures by:	Mikey "Mikezilla" Neumann
+E-mail:		drkwngduk7@aol.com
+==========================================
+Compile Info
+==========================================
+Editor Used:	Worldcraft 3.3
+Compiler:	Zoners 2.3.2
+Other:		Wally, HL Model Viewer
+CSG Time:	27 Seconds
+BSP Time:	20 Seconds
+VIS Time:	28 Minutes 26 Seconds
+RAD Time:	12 Minutes 6 Seconds
+Machine:	P3 700 w/ 128MB RAM
+==========================================
+Gameplay
+==========================================
+Purgatory is set in a surrealist setting.
+It's not Black Mesa. It's not Xen. It's
+not really anything but twisted steel and
+concrete. I had a fun time departing from
+realism on this map. The crowning jewel is
+the stone hand reaching from the abyss. It
+took me about an hour to model that in WC
+and I'm damned proud of it. The rest of
+the level took about 2 months to fully map
+out and test. It was originally a map for
+Holy Wars, but has been ported to DM since
+it works this way as well.
+
+I recommend playing the map with the fall
+damage set to 10 hp regardless of height.
+Some of the drops and jumps will give you
+a stun, so its best not to lose 30 hp all
+the time. For fun, I also recommend that
+you play the map with slightly lower
+gravity to mach the trippy feel (500 works
+well, but normal graity works fine too).
+==========================================
+Note About the Jumpads
+==========================================
+The jumpads work through sheer force since
+HL doesn't have jumpad entities. If you
+walk into any of them, they work. If you
+run through them you'll go farther. If you
+change direction mid air you tend to drop.
+If you fall into them, they don't always
+shoot you far enough.
+
+To increase your jump speed/height, press
+JUMP while you're starting to go up.
+==========================================
+Big Ups
+==========================================
+I gotta thank Mikezilla for some of the
+cool non-HL textures. I'm still a HL
+purist and think that the textures work
+fine if you just use them uniquely. But
+his textures are great compliments to the
+HL ones.
+
+I also gotta thank: Nusco, Scary_1, Dietz,
+Apocalypso, Mojo, Euro*Brew, Iggy, and
+all those I forgot about who helped out
+at any point.
+
+Also, props to PHL for keeping DM alive
+with the LOTW.
+==========================================
+Disclaimer
+==========================================
+Don't steal my map. Don't take credit for
+it. Don't use it as the base for your map.
+Feel free to distribute and review it with
+this txt file included with it. I don't 
+steal your stuff. Don't steal mine, or
+I'll break your legs.

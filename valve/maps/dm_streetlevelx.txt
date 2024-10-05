@@ -1,0 +1,83 @@
+DM_StreetlevelX
+
+by TheCoolGman
+updated by Xawari
+
+-----------------------
+Info
+
+Streetlevel is a deathmatch map for Half-Life.
+It's a medium sized city based map good for about
+10 - 15 people. It takes place in a more or less
+ghetto area, there is no real story but the year
+is not current and somewhere around 1999 - 2000.
+
+-----------------------
+Fun Facts
+
+This map took about a month to make:
+2/21/11 - 3/27/11(beta phase)
+
+There was going to be a unique secret room with 8 bit
+music. Sadly it would not fit and there had to remove
+it.
+
+There are 2 secrets, and yes that is me in the cubicle.
+
+Another cut area were the sewers. I had already designed
+them half way through the maps progress. The problem was
+it took up to much resources and didn't alter gameplay.
+
+The name of the map is from this song:
+
+"Streetlevel" by Xela
+
+Updated by Xawari in 2018.
+With all those func_walls around, this map was barely
+playable, but had a lot of potential. Since the source
+was provided, I decided to fix some technical issues
+so the map has now almost no FPS drops. There are other
+fixes, like textures and architecture. And some additions :)
+
+----------------------
+Credits
+
+This map uses many images and songs. I do not own the rights
+to most of them and have not asked for them either.
+
+-----------------------
+Wads used:
+
+"Blacktouch"   http://www.gamebanana.com/textures/2907
+"Mountainpass" http://www.gamebanana.com/textures/2865
+"Station"      http://www.gamebanana.com/textures/2866
+"TFC" "TFC2"   These wads are from Valve.
+"Cstrike" "CS_Assualt" These wads are from the CS team and Valve.
+
+-----------------------
+Songs Used
+
+"Party Groove" - 5 Elementz (Near Hotel)
+"Eternal Light" - Microwave Prince (At the clothing store)
+"Ass n' Titties" - DJ Assualt (At the Strip Club)
+"Eclectic People" - Meat Beat Manifesto (At the Arcade)
+"In Your Arms" - BetaMaster (Secret, to hear this you must shoot something...)
+
+-----------------------
+Images
+
+"Half Life Poster"
+http://adamayo.deviantart.com/art/Half-Life-poster-130441521
+
+"Pepsi Logo"
+http://blowatlife.blogspot.com/2009/02/pepsi-logo-response.html
+
+----------------------
+Thanks to
+
+Chuck "Kind of TFC" Bronson
+Joe "Joebama" Baslock
+Jignod The Mutt
+
+---------------------
+Sorry if I left anyone out!

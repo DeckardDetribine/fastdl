@@ -1,0 +1,27 @@
+Title             : G0b-speed
+Filename          : G0b-speed.bsp
+Author            : G0b
+Type              : DeathMatch
+E-mail            : theman@g0b.f2s.com
+Website           : http://www.g0b.f2s.com
+
+- My second map! It's fun! It's speedy! If you're a weakling you'd better get the hell out of here! Again, it's a rather small map, but because i have placed a reasonable amount of healthkits in the map, it's possible to add maybe a few more... Let's say up to seven. But you must realise, you'd have carnage on your hands. 
+- Unlike my first map (G0b-forsaken) the r_speeds only go over 600 in one area, and then it's still only about 630. You'd have to do your best to find it though, one pixel off and it's 580 again. A definite speed improvement over my first map, hence the name. 
+
+
+Aditional credits : The big load of students from the HKU's KMT faculty for playtesting and tips.
+Bugs              : None that I have noticed
+Custom textures   : 2
+Players           : 2/5
+
+Base              : None... Made from scratch
+Editor            : Worldcraft 3.3
+Compile machine   : Pentium III 667Mhz, Nvidea Riva TNT2 32Mb, 128Mb Ram
+
+Please, if you like this map - or even if you hate it - send me feedback. :) 
+
+Copyright and permissions
+
+- This level may be distributed via the internet as long as it's name is G0b-forsaken.bsp and is supplied in a zip file named G0b-forsaken.zip which also contains this document and no other files.
+- If a magazine wants to distribute this level - in it's unmodified form - on a CD, it must first be given permission by the author to whom a copy of the CD must be sent also.
+- Other authors may not use is level as a base for other levels.

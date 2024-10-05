@@ -1,0 +1,49 @@
+Title		: Mazeworks 1on1
+Filename	: mazeworks.bsp
+Author	: Patrik Opacic
+Email 	: pkingo1@hotmail.com
+Description	: DM map set in a maze.
+Previous Maps	: Various Quake, Half-life and DOOM maps.
+
+------Play Information-----------------------------------------------
+
+Deathmatch		: Yes (1on1)
+Single Player	: No
+
+------Map Information------------------------------------------------
+
+New Textures	: Yes
+New Sounds		: Yes
+
+------Construction---------------------------------------------------
+
+Base		      : From scratch
+Editor(s) used	: WorldCraft 3.3
+Compile Machine	: PII 400
+Compile time	: 20 minutes
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "mazeworks.bsp" in
+your half-life/valve/maps directory.
+Unzip thunder_clap.wav into:
+half-life/valve/sound/ambience/ 
+Unzip mazeworks.wad into:
+half-life/valve/
+
+------Additional Info------------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

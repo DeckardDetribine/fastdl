@@ -1,0 +1,72 @@
+================================================================
+Title                   : uile
+Date Finished 		: November 2001 (was not touched for a year and a half)
+Filename                : uile.bsp
+Author                  : Tuvalua mordocai
+Email Address           : bluemog@hotmail.com
+Description             : Small, FFA map. Although I consider Half-Life to be the best
+			  single-player experience ever created, I've always been disappointed
+			  with the standard deathmatch mode. After playing Quake2/3, I thought
+			  about building a Half-Life level in which "movement" skills would be
+			  more important then aiming and weapon-switching skills. The big
+			  architectural themes of uile are curves and structure placement that
+			  encourage jumping, gauss jumping and circle strafing. I've tried to
+			  build a level that's fun to "run" around in rather than just fun to
+			  frag in.
+Previous maps	        : none
+Additional Credits to   : A. Valve for making the greatest first-person perspective single-player
+                             experience, ever. Sierra for supporting Valve and giving them the
+                             necessary money.
+                          B. The Half-Life Editing Resource Center for so much information (not
+			     to mention the excellent newbie's guide which got me started).
+			  C. Fumigator, for his help in finding a solution to my untraceable
+                             leak problem.
+			  D. Zoner for his excellent compile tools. theAntiELVIS for HLCC,
+			     MERZone Software for Q2 BeaVeR and Ryan "NEMESIS" Gregg for Batch
+			     Compiler: three very well-made and intuitive compilation controllers.
+			     Christopher Buecheler of Texture Studio for such a great collection
+			     of textures.
+			  E. J. for compiling the final beta version.
+			  F. ID Software for a great engine, and for continuing the Quake *saga*
+			  G. Friends who told me what they thought "worked" and wanted to see in
+			     the map. The people on Rust Forums who spend their time helping
+			     others.
+			  H. Handy Vandal's Half-Life  Almanac and 69th Vlatitude for a couple of
+			     very helpful tutorials.
+			  
+================================================================
+* Play Information *
+
+Single Player           : Only one info_player_start / single-player spawn
+Deathmatch              : 2-4 players recommended. There are 7 info_player_deathmatch 's
+CO-OP			: No
+
+================================================================
+* Construction *
+
+Base                    : From scratch
+Editor(s) used          : Worldcraft 2.1 and Wally (for textures)
+New graphics		: Yes, three textures from the excellent TEXTURE STUDIO and one I made
+			  from two valve textures.
+Known Bugs              : Many of the textures are not their original sizes so applying decals
+			  might give strange effects. r-speeds are quite high, so people with
+			  slow machines, you've been warned. And, for those who care.
+Build Time              : 100+ hours
+Design machine		: PII 300 with 64 MB of SDRAM 
+Compile machine		: PII 450 with 512 MB of SDRAM
+
+================================================================
+* Copyright/Permissions *
+
+ The Texture studio textures used in the map are copyrighted by Christopher Buecheler.
+ Authors MAY NOT alter or add to this level without my permission or use this level as a base to
+build additional levels.
+  You MAY distribute this level through an electronic network, as long as you INCLUDE THIS FILE
+with NO MODIFICATIONS. You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+================================================================
+* May I make a request? *
+
+ Please [e-]mail me your comments. Whether good or bad, any are welcome (although I would prefer
+it if they were honest).

@@ -1,0 +1,60 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		:Hacienda
+Filename	:hacienda.bsp
+Author		:Firewater Fischer
+Home page	:	
+Description	:The map is set at night time in a summer home surrounded by cliffs.
+		 Equal mix of indoor and outdoor killing in an otherwise pleasant                  environment.  All weapons are present except the Egon.   
+
+Note: Do not go on the roof if you have a slow machine; r_speeds can reach 1100 or more because you can see the whole map.  I wanted to leave the option to get up there, however, because I'm sure several people will try.
+
+Previous Maps	:This is my first release.
+
+------Credits and Thanks---------------------------------------------
+Valve ERC for helping me learn important stuff;
+Some textures came from free online archives
+
+------Play Information-----------------------------------------------
+
+Deathmatch	:yes	
+Single Player	:no
+Map Description	:Large house surrounded by cliff walls and a few other structures.
+How Many Players:2-10
+
+------Map Information------------------------------------------------
+
+New Textures	:Yes, included in bsp
+New Sounds	:Yes, included in zip
+
+------Construction---------------------------------------------------
+
+Base		:none
+Editor(s) used	:WC 3.3
+Compiler	:Toolbox w/ Zoner's Tools 2.5.3
+Compile Machine :P3 Celeron (ugh) 766, 256mb, Win98 
+Compile time	:80 min
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive to the half-life\valve folder,  or manually place the map, "hacienda.bsp" in your half-life\valve\maps directory and all sounds included into the half-life\valve\sound\ambience directory.  
+
+------Additional Info------------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

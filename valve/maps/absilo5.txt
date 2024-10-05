@@ -1,0 +1,73 @@
+            /\\      /-\
+           /  \\    /  /
+          /   //    \_/   //
+         /   //         ///
+        /    ||       / //
+       /     ||     /  //
+      /   |  |L___/   //
+     /   /|          //
+     \  //|    _     \\
+      \// |   //\     \\
+          |   ||  \    \\
+          |   ||    \   \\
+          |   ||      \  \\
+          |   ||        \ \\
+          |  //           \\\
+          | //              \\
+          |//  Total Kill inc.\
+          |/  http://linkwars.ping.be/tki
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+Released: 17-9-2000 , Version 1.05
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+Title                   : Abandonned Silo
+Files                   : absilo5.bsp
+Author                  : Thomas S Hansen
+Email Address           : bbr_tki@hotmail.com
+
+Description		: Multi level silo for 2 or more players,
+                          with water in the bottom, and a dark area
+                          in the top. (Try low gravity, hint, hint)
+
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+-=Additional Credits=-
+
+Playtesters: Mark, Remco & Myself.
+             
+IdSoftware for the Quake 1 & Quake 2 engine.
+(Q3 just didn't work for me though.)
+Thanks to Valve Software for implementing the Quake engine.
+
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+-=Game Info=-
+Engine               : Half-Life
+Single Player        : Not recommended
+Cooperative          : N/A
+DeathMatch           : Yes (32 DM spots)
+Suggested players    : 2-10
+Difficulty Settings  : N/A
+
+Compile Platform     : P2_350mmx, 64MB
+Editor used          : World Craft 3.3
+Known bugs           : Maybe, Maybe not.
+New sounds/textures  : Using default texture set.
+Clipping usage       : Minor.
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+-=Additional Notes=-
+I built this one in less than 2 days, and had to compile it
+without VIS, and only with normal light compilation.
+(dont ask why, another version will be released later.)
+
+
+The TKi level list:
+BBR: Arena16c.bsp : Alien Arena.
+BBR: 2aren11.bsp  : 2'nd Arena.
+BBR: absilo5.bsp  : The Abandonned silo.
+
+
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+-=Legal=-
+Don't use it as a base for your levels unless i know about it,
+Don't sell the level without my permission, or giving me a part of the
+profit, Don't delete this Textfile!
+But beside that, distribute the origonal zip as much as you like.

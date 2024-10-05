@@ -1,0 +1,58 @@
+
+================================================================
+
+Title                   : TLGBase For Half-Life
+Date                    : January  18,1998 
+Filename                : tlgbase.bsp
+Author                  : Chris Cullen (Incubus)
+Email Address           : chriscullen@hotmail.com
+Home Page               : http://www.qgl.org/tlg/
+Description             : Deathmatch only 2-8 Players
+ 
+This is my first Half-Life level to Date
+Check Out nG! Online For More Of Incubus's Maps http://www.qgl.org/tlg/
+ 
+Additional Credits to   : ]-[ITMAN
+                        : Jaymz
+                        : Vengence
+
+================================================================
+
+* Play Information *
+
+Single Player           : nope! unless u want to look around.
+Deathmatch              : Yes, 2 to 8 players 
+Difficulty Settings     : No
+
+
+================================================================
+
+* Installation *
+
+Unzip the tlgbase.bsp file into your <Half-Life Directory>\valve\maps directory.
+Start the game with the command "+map tlgbase.bsp"
+Or just edit the \valve\mapcycle.txt add "tlgbase" 
+Then start a server and select
+the tlgbase level.
+
+================================================================
+
+* Construction *
+
+Base                    : Level Design Incubus
+                        : Ideas jaymz                        
+
+Editor(s) used          : Worldcraft 2.0 ,Painshop Pro 5
+                        : Crystal 3D Impact Pro            
+Known Bugs              : Hsv Charger Can be used on other side of wall
+Build Time              : 1 Month
+Compile machine         : AMD K6 3D Pro 300mz 64MB SDRAM
+QBSP Time               : 18 Seconds
+QVIS Time               : 20 minutes on full
+QRAD Time (extra)       : 18 minutes 
+Map Size                : 125654 Square Feet
+
+================================================================
+
+Please email me with comments etc.
+if you like this level at chriscullen@hotmail.com

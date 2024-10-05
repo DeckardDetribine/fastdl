@@ -1,0 +1,135 @@
+================================================
+   Half-Life Map Spec Sheet
+================================================
+
+
+------General Information--------------------------------------------
+
+Title		: dm_taragon
+Release Date	: January 7th 2003
+Filename	: dm_taragon.bsp
+Author		: Joe (ZenMaster) Cassella
+Email Address	: zenmaster@cfl.rr.com
+		  zenmaster@ccwebnet.com
+Home page	: www.clanalien.com/zenmaster
+Previous Maps	: alienship
+		  aliens
+		  yutani2
+		  LV-231
+		  Medlab
+		  ozteam_betrayed
+
+------Map Information------------------------------------------------
+
+Map type	: HL Deathmatch, 4 to 16 players  
+Spawn points	: 25
+New Textures	: Yes
+New Sounds	: Yes
+Missing Weapons	: Hornet Gun
+Secrets		: None
+Bugs		: None
+
+------Construction---------------------------------------------------
+
+Base		       : From scratch. 
+Programs used	       : WorldCraft 3.3 (NOT Hammer)
+		         Merl's Custom Build of Zoner's Tools
+			 Batch Compiler
+			 Wally 
+			 MS Paint
+			 Goldweave
+Compile Machine	       : AMD Athlon 1700 Mhz, 512k Ram
+Construction time      : 8 weeks 
+Compile time	       : 3.5 hours
+
+
+Credits:
+
+Mad Props and thanks to Valve, Sierra, Rebellion, Lithtech, Monolith, The Makers of Oz, Zoner, Merl, the Valve-ERC, the guys at Gracelessland and Wally, Underground_King at The Lower Level, JUIM and the Hot Death Diner, Scurvy (my bro) at Scurvy's House of Oz, Jay Stafford, and probably some others I forgot.
+
+---------Description and Map Details------------------------
+
+Abandoned starship, the USS Taragon, in deep space. Inspired by the ALIENS movies and games.
+
+This map was made for JUIM's Christmas Mapping Contest 2002.  One of the requirements was to include a reference to the Hot Death Diner in the map, hence the radio in the mess hall playing "Rock Around the Clock", which is the Diner's theme song.
+
+Lighting is generally subdued for effect, but it should not be dark.  If you find the map overly dark, consider adjusting you gamma settings.  Monitors differ greatly in their brightness, and you may have one that is much darker than my test machines.  Try playing with no room lights and volume up for the best effect :)
+
+There is one secret hallway (shoot out the vents) but no traps in this one.
+
+As with all my maps to date, this map is completely 100% original in design.  
+
+-----------------Design Notes:--------------------
+
+Extensive use of Merl's custom build of Zoner's tools was employed to reduce r_speeds and increase fps as much as possible.  Merl's "null" texture is a gift to any serious mapper, and I commend him for his efforts.  Thanks Merl! Check the Valve-ERC for the latest updates to Merl's tools.
+
+That said, in this map r_speeds may touch 1000 in one or two isolated places, but are much lower on average throughout the map.  Today's computers should have no trouble running the map even when full of players.
+
+There are some new sounds included in the zip file. The zip places all new sounds in the valve\sound\zenmaster folder, which is created if it is not present.  Future maps by me will also place new sounds in this same folder, so that, if one or more sounds are used in several maps, the user will not have to download them again from a server.
+
+A comprehensive .res file is included for server admins and players wishing to see the complete list of custom resources and their proper paths.
+
+Enjoy the map, and send feedback or questions if you want.  
+
+-Zen
+
+Contact me at zenmaster@cfl.rr.com or zenmaster@ccwebnet.com 
+For Oz info visit Scurvy's House of Oz at www.clanalien.com/Scurvy
+The Lower Level at www.thelowerlevel.com
+And the official Oz site at www.planethalflife.com/oz
+
+------Map Instructions-----------------------------------------------
+
+You must extract the entire zip archive to your Half-life directory.  All folders will be created if necessary, and all files will go where they need to go, automagically.
+
+------Custom Sounds-----------------------------
+
+All these need to be in the valve\sound\zenmaster folder
+
+zen_eerie1.wav
+zen_cryo_start.wav
+zen_cryo_mid2.wav
+zen_cryo_end.wav
+zen_computer_9.wav
+zen_comp5.wav
+zen_diner2.wav
+
+---------Compile Details---------
+
+Object names  Objects/Maxobjs  Memory / Maxmem  Fullness
+------------  ---------------  ---------------  --------
+models            368/400        23552/25600    (92.0%)
+planes          17238/32767     344760/655340   (52.6%)
+vertexes        16966/65535     203592/786420   (25.9%)
+nodes            8318/32767     199632/786408   (25.4%)
+texinfos         7221/32767     288840/1310680  (22.0%)
+faces           10758/65535     215160/1310700  (16.4%)
+clipnodes       18035/32767     144280/262136   (55.0%)
+leaves           5526/8192      154728/229376   (67.5%)
+marksurfaces    15336/65535      30672/131070   (23.4%)
+surfedges       49693/512000    198772/2048000  ( 9.7%)
+edges           27590/256000    110360/1024000  (10.8%)
+texdata          [variable]    3829576/4194304  (91.3%)
+lightdata        [variable]    1405326/4194304  (33.5%)
+visdata          [variable]     103056/2097152  ( 4.9%)
+entdata          [variable]      93487/524288   (17.8%)
+190 textures referenced
+=== Total BSP file data space used: 7345793 bytes ===
+12915.04 seconds elapsed [3h 35m 15s]
+
+
+
+------Copyright-Permissions------------------------------------------
+
+This map file is copyright 2002 Joe Cassella and all rights are reserved.
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+----------------------------------------------------------------------------------

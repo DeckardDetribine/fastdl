@@ -1,0 +1,4 @@
+Map by Grav
+
+Place cuccoos.bsp in your valve/maps folder. Place chick.mdl in your valve/models folder.
+Place op4_cuccoos.wav in the valve/sound/ambience folder.

@@ -1,0 +1,49 @@
+* Play Information *
+Title:          Blast Furnace
+Filename:       furnace.bsp
+Author:	        Bruce Buckman
+Email address:	bruce_buckman@idg.co.nz
+Home page:	http://escape.pcworld.co.nz
+Description:	Blast Furnace is a small to medium sized level for 2 two 4 players. 
+				 
+Additional Credits to:	Valve for the game and Valve/Ben Morris for WorldCraft.
+
+Single Player:	        No
+Cooperative Player:	No
+Deathmatch Player:	Yes (2-16 players)
+Difficulty Settings:	No
+New Textures:	        No
+
+* Construction *
+Base:	A conversion of Bruno's Fun Palace, A Quake 2 map I did yonks ago.
+Editor(s) used:	Worldcraft 2.0
+
+======================================================
+		ADDITIONAL INFO
+======================================================
+Bruno's Fun Palace was a Q2 map I made when Q2 was first around. This conversion is my second Half Life map and hopefully is an improvement over my first map, Death Compound (dpound.bsp). In converting this map I've kept the original spaces, but added one new room (the health/HEV charger room) and several minor spaces (the grating walkways are new) to expand the internal space and make better use of the vertical. The original also had a teleport which I've removed since it wasn't really necessary to gameplay. I've added extra detailing (the pipes, for example) and I've also replaced the original point-based lighting with almost exclusively texture-based lighting. As a result Blast Furnace is much darker than Bruno's Fun Place was, with plenty of shadows to use to your advantage.
+
+Weaponwise, the king of this map is (at least for me) the MP5 with grenades. The overall confined nature of the map makes the use of long-range/low rate of fire weapons like the RPG and Crossbow less effective. I've included all weapons except the Egon, which would have been too lethal in this map. There is only one MP5, and two loads of grenades but freshly spawned players should be able to pick up a shotgun pretty easily (which is a decent weapon anyhow). Trip mines and satchel charges are also useful (drop a bunch of satchels, find a nice spot in the shadows [not too close, of course] and wait for someone to come running by). You can also have fun with frag grenades and snarks.
+
+There are two "traps" in the map. The first, from which the map takes its name, is the furnace that sits opposite the bottom of the lift well. The main purpose of the furnace is as an aesthetic element in the room. But you can catch unwary players by lying in wait and shooting the button when they go to call the lift. The resulting blast is staggered -- players standing close to the furnace door will get almost instant death depending on their health/armour levels. But if the player has already moved on to the lift, and is thus further away from the furnace door, the effect is much less. Again, depending on health/armour levels, they can survive. You won't use it often, but it's fun to roast someone now and again.
+
+The second trap is in the HEV/Health charger room. There is an "in case of fire" button outside this room which when pressed (or shot) sounds an alarm and seals the three doors into the room. Shortly afterwards poisonous case (representing an inert case used to suppress a fire in this tech room) is pumped in. You have to have good health and armour levels to survive the gas, and you can, or course use what ever charge is left in the two chargers in the room. The other way to survive this trap is to get out of the room before the doors close. Once the alarm sounds you've got about 2 seconds to make it to the door nearest the chargers. This escape route is deliberate. In our testing, the favourite tactic of attackers is to shoot the button and then wait for the trapped player to come out this door on to the platform opposite the button.
+
+I've deliberately made both traps (especially the gas room) survivable because the fun of killing someone with a trap tends to wear thin fairly quickly. You don't get a kill credit, and other players get pissed off for being caught in  the same situation over and over. This way, both victim and attacker get a chance at a kill, although the odds are tipped in the attacker's favour. 
+
+Finally, sound cues play a big part in letting you know what is going on. From shadows/hiding places you can hear when people go for most vital weapons within your earshot. For example, anyone going for the RPG makes a distinctive combination of water/ladder climbing/running on grill noises. Likewise, someone going for the MP5 will give themselves away by the sound of the lift hitting bottom and the sound of running on the metal grill.
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems. You are NOT authorized to put this BSP on any CD or distribute it in any way without my permission.
+
+(c) Copyright 1999 Bruce Buckman
+
+--
+Modified by xawari
+(removed some bogus keyvalues).

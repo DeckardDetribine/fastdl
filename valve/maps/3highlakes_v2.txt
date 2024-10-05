@@ -1,0 +1,106 @@
+** INTRODUCTION **
+
+Title			: 3 high Lakes v2
+Date			: May 31, 2000
+Filename		: 3highlakes.bsp
+Filesize		: 2.5mb
+Author			: Vìpèr
+
+CHANGES:
+This was a special request.  It's my 3 High Lakes map minus the waterfalls and a lot less
+water.  I guess r_speeds (poly count) was good enough, but all the water gave some video
+cards fits and slowed things down.  This should be better.  Also, I removed both blue guns
+(egon weapons), since they are just too powerful.  
+
+
+ABOUT THE MAP:
+It is a pretty straight-forward deathmatch map.  This is my first attempt at making a map.
+No moving parts such as doors/elevators/conveyor belts/etc...  No buttons to push.  If I
+make another map I will use some `smoke and mirrors', increase the size, and increase the
+complexity of it.
+
+This was a learning experience.  I found some real short-comings in WorldCraft v2.1 and
+thought it would be easier.  I now truly appreciate some of the great maps I've played,
+knowing just a little of what is involved.
+
+
+KNOWN PROBLEMS:
+ - I could not get some mountain textures to look right, so I finally gave up on that part
+   of it.
+ - As I understand it, the game engine uses your CPU to draw the polygons and there are some
+   occasional white dots in some mountain walls due to the angular shapes I made caused by
+   the FPU (Floating Point Unit) rounding off numbers.
+ - The r_speeds average around 550-650 in most places, so internet play on phone modems with
+   slow systems may lag a bit.  As far as LAN play, or DSL/ADSL/Cable/etc. internet play,
+   hopefully this map should rock...
+
+
+CREDITS TO:
+1) Valve/Sierra/id
+2) The Zoner compiling tools
+3) Half-Life Editing Resource Center @ http://halflife.gamedesign.net
+4) Wavelength's Half-Life site @ http://www.planethalflife.com/wavelength
+5) LAN based playtesters: Jake, Uncle-p, Bessemer
+
+
+** PLAY INFORMATION **
+
+SINGLE PLAYER:
+You can run through it to get familiar with the layout, etc.
+
+MULTIPLAYER:
+6-16 players would probably work out fine.
+
+DESCRIPTION:
+Centered around 3 lakes set high up in the mountains, during a drought.
+
+PLAYING:
+With:
+ - 18 DM respawn points.
+ - Atleast 2 of each kind of weapon, except for the egon weapon.
+ - Plenty of weapons, ammo, heath, and HEV recharges scattered throughout.
+ - Several ways to access just about any point in the map.
+ - All chain-link fences are climbable.
+ - Access to all but the highest mountain tops.
+ - The 3 trees are climbable (only from 1 side) and you can hide in them.
+
+ Pitfalls...
+ - Falling off the to outside of any mountain brings certain death.
+
+
+
+** INSTRUCTIONS **
+
+Put 3highlakes.bsp in your \Sierra\Half-Life\Valve\maps subdir.
+
+
+** CONSTRUCTION **
+
+Base                    : Created from scratch
+Editor(s) used          : Worldcraft v2.1
+Custom textures		: No
+Custom sounds		: No
+Build Time              : 2 months, on & off.
+Compile Time		: Around 90 minutes on my PII 466mhz w/128mb RAM.
+
+MAP INFO:
+Solids			: 1031
+Faces			: 6222
+Point Entities		: 107
+Solid Entities		: 224
+
+
+** PERMISSIONS **
+
+Do anything you want with this map, especially deletion if you don't like it.
+
+
+** LAST NOTES **
+I hope you like and play this map.  There was no central theme to this map, except for some
+fun blood-letting.
+
+The internet abounds with sorry-ass critics intent on bringing everyone else down with their
+rantings (personal opinions).  I am not asking for a critique, and won't receive one.  I
+am not leaving an e-mail address.
+
+Vìpèr

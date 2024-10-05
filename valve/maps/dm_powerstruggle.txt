@@ -1,0 +1,19 @@
+DM_POWERSTRUGGLE
+
+A map for Half-Life 1 Deathmatch
+
+by Victor-933
+
+
+
+INSTALLATION:
+
+Extract files to your Half-Life directory.
+WAV files go in /valve/sound/dm_powerstruggle
+BSP file goes in /valve/maps
+
+
+CREDITS:
+
+Sounds: Doom 3, Victor-933
+Textures: Shaderlabs 'Majestic' pack, Nightwatch, Victor-933

@@ -1,0 +1,48 @@
+---------------------------------------------------------------------------
+Title                   : Come Out And Play!
+Filename                : coap.bsp
+Author                  : Steven 'EraserX' Delrue
+Email Address           : Steven.Delrue@rug.ac.be
+Website                 : http://ingenuity.terrafusion.com
+Additional Credits to   : Valve, Lithium-software
+			  Judgiolino, Ladama and El Shrimpo for testing
+---------------------------------------------------------------------------
+
+* Play Information *
+
+ Game                   : Half-Life
+ Single player          : nadda
+ Deathmatch             : Oh yes, 
+
+
+* Construction *
+
+ Build Time      : 3 weeks
+ Compile Time    : 4 hours
+ Compile Machine : p3-500, 128 ram 
+ Editor(s) used  : QOOLE 99  (yeah, screw WorldCraft >:)
+ Known Bugs      : None, but it might run a bit choppy on slower comps without 3D-card
+
+
+* Description *
+
+ My first HL-level.  Some kinda abandonned storage facility.  A bit too big for 
+ 1on1, but a 4+ FFA should do.  All the weapons are there, except the hornet.
+ There is a sniper/camping-spot for the Crossbow-dudes.
+ There are also some really small hallways, i think you  should be able to set up 
+ some nice traps with trips 'n satchels there.
+
+
+* Copyright / Permissions *
+
+ You may freely distribute this level on the internet as long as you keep this TXT-file unchanged.
+ You are NOT authorized to put this level on any CD without my permission. 
+
+
+* How to play *
+
+ Place the BSP-file in c:\half-life\valve\maps and start a DM-game
+ The map should be in the level-list
+
+have fun!
+And let me know what you think of this level, I live on feedback :)

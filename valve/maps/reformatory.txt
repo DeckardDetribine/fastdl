@@ -1,0 +1,102 @@
+March 3, 2000
+
+================================================================
+
+Title                   : The Reformatory
+Filename                : reformatory.bsp
+Author                  : J. Skye Carroll a.k.a. Prometheus
+Address           	: jacksonskye@hotmail.com
+Description             : Half-Life DM level for a 2-6 player LAN 
+Webpage                 : http://home.earthlink.net/~jacksonskye/index.html
+Other maps		: The Chamber (chamber.bsp)
+			  Silicon (silicon.bsp)
+
+================================================================
+
+Play Information
+
+Single Player           : no
+Deathmatch              : yes
+Teamplay		: sure
+Cooperative             : no
+Difficulty Settings     : no
+New Sounds              : no
+New Graphics            : no
+New Music               : no
+Demos Replaced          : none
+
+================================================================
+
+Construction
+
+Base                    : none, new level
+Editor used             : Worldcraft v2.1
+Known Bugs              : none
+Build Time              : built in a few days, fiddled with off
+			  and on over another 6 weeks
+
+================================================================
+
+Installation
+
+To play this level, extract the file "reformatory.bsp" into
+your sierra\half-life\valve\maps directory and then start the game.
+Start a deathmatch server and type "map reformatory" or "changelevel
+reformatory" in the console.
+
+================================================================
+
+Other Info
+
+This is my 3rd released map for Half-Life. It's somewhat of a
+departure from my previous two maps which were aimed at being 
+suitable for server rotation maps. This one is geared towards 
+smaller faster paced games, namely LANs. Orignally when I was 
+designing the map I did not intend on having the roofs accessable, 
+I had assumed that the r_speeds up there would be too unbearable.
+But much to my liking, after a little bit of play testing I found
+that for the most part the r_speeds were passable (especially for
+a LAN game) and it added another dimension to the gameplay that 
+helped the level seem much bigger.
+
+The style of this map is based much more on the "Valve" look,
+I figured i should give it a shot since a lot of people really
+like the more military/compound type feeling maps. The map is 
+small enough that it makes for a slower paced (but quite fun,
+right BC?) one-on-one, but it's also large enough for a fast
+paced six person free-for-all. More than six and the weapons
+would begin to run a little too thin.
+
+================================================================
+
+Special Thanks To
+
+The Department of Engineering. http://doe.lowlife.com/halflife/
+THE site for mapping, mappers, playtesting and anything else map
+related.
+
+The members of the [r.O.d] clan for the excellent feedback and 
+playtesting, especially Shaggy. Check them out at http://rod.transpect.net
+
+The [WTF?] clan. The best group of mappers assembled under one clan.
+Check them out at http://halflife.lowlife.com/WTF/index1.html
+
+MGB, who's heading up The Fist Full of Steel mod, for interest
+in my maps. Check out FFS at http://www.halflife.net/ffs/index.html
+
+================================================================
+
+
+* Copyright and Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+If you would like to distribute it in some other form please contact
+me for my permission before doing so. Thank you.
+
+(c) Copyright 2000 Jackson Skye Carroll--Promethean Design Group

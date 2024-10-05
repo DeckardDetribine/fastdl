@@ -1,0 +1,119 @@
+* Play Information *
+
+Title 			: Heavy Pole
+Filename		: heavypole.bsp
+Date                    : 14th January 2000 
+Author			: Wolf
+Other levls by author	: Combat Camp, Lost Village, Castle Rush,
+			  Steelwork, Lost Village 2, cctf3, cctf6
+			  Pain 1on1, Vacant Town
+
+Email address 		: wolf@planethalflife.com / wolf-so@gmx.de 
+
+Home page		: http://www.planethalflife.com/wolfs 
+			  http://on.to/so
+
+Description		: Heavy Pole is a big map for up to 16 players.
+			  I think less than 4 player will not have very much
+			  fun on this big map. Four players are enough anyway
+			  to have really fun, because the map has overall a 
+			  excellent conectivity to reach every area in the map
+			  imidiatly from more than one way. this map as
+			  four big areas; a big area with one house with an 
+			  elevator inside, one big room with a wide window and
+			  shotgun and 9mmAR inside, a little sewer-system in the
+			  center of the map and another big area with one building
+			  and two massive towers. Some fans are added around the
+			  map, to give some structures more "live".
+			  I construceted many ladders at containers or walls,
+			  to give players more ability to reach upper areas.
+			  For some areas you need the gauss-cannon to reach them.
+			  The place, where you can pick up the gauss-cannon, has
+			  a little alarm-system. When somebody crouches to the
+  			  gauss, an alarmsound and a female voice-message will
+			  sound up. Also the lights on one of the towers will start
+ 			  rotating for a visual alarm-effect. Also i have added some 
+			  buttons to activate doors to hidden places. I have
+			  put all my knowledge about the HL-enginge into this 
+			  map to hold up the gamespeed. The base-construction is
+			  overall not anti-lag styled, but i have reduced wpoly
+			  as hard i could. The result is a map, with many open
+			  areas like in boot_camp or gasworks with the
+			  speed-parameters of maps like outcry...
+			  
+Additional Credits to   : spacial thanks to Jameson (lvj@gmx.de) for
+			  beta-testing this map and many players of
+			  [MoV] - Masters of Violance - (www.mov-clan.de)
+                          for Internet and LAN-Testing :). Without the help
+			  of this people, Heavy Pole has never reached the high
+			  qualitiy :) 
+			  I hope all players around the net can presage, what
+			  a hard work and lot of time was spent in this one.
+			  Evrey mapper around, knows what i am talking bout ;)  
+
+Single Player           : no
+Cooperative Player      : no
+Deathmatch Player       : DM and Teamplay (4 players up to 16)
+Difficulty Settings     : no
+New Textures            : no
+CD Track                : no
+
+* Construction *
+Base			: new Level from scratch
+Editor(s) used          : Worldcraft 2.1
+Construction Time	: 105 hours constructing and testing... (and no payment *lol*)
+Compile Machine		: Celeron 466MHz 128MB
+Compile time		: qsg:	   42 sec.
+			  qbsp2:   28 sec.
+			  qrad:  2232 sec.
+			  vis:   1118 sec.
+			  =========================
+			  overall: around 3420 sec.
+
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+
+Itmes placed:	
+
+	Weapons:		Ammo:			Items:
+	==================	==================	===========================
+	357: 		3x	357:		4x	battery:		 9x
+	9mmAR: 		4x	9mmAR:		8x	heatlhkit:		10x
+	Crossbow:	2x	ARgrenades:	4x
+	Egon:		1x	buckshot	8x	healthcharger:		 3x
+	Gauss		1x	Crossbow	2x	recharge:		 2x
+	Handgrenade	2x	gaussclip	1x	info_player_deathmatch:	16x
+	RPG		2x	rpgclip		5x	info_player_start:	 1x
+	Satchel		5x	
+	Shotgun		5x	
+	Snark		2x
+	Tripmine	2x
+
+
+
+Bottomline:
+		Try to find some secrets and have fun...
+		
+		mail to me for comments about this map are welcome. feel free
+		to send me anything you want to say about this work. 
+		I need your feedback, becaus i build this and all of my maps 
+		for YOU and all players around the net :) 
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+
+cy@ Wolf     Wolf´s District 1999     http://www.planethalflife.com/wolfs
+

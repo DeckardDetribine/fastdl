@@ -1,0 +1,51 @@
+January 22, 2001
+April 2 2001 v2.0 (compile with wadinclude)
+================================================================
+
+Title                   : castle_wars
+Filename                : castle_wars.bsp
+Author                  : Lukasz '$p!n#z@' Lakomski
+E-mail           	: spin_oza@poczta.onet.pl
+Description             : Halflife DM level for 4-20 players .         Special Thanks to       : id for Quake 1,2,3 Valve for creating 
+                          Halflife 
+			  Sean 'Zoner' Cavanaugh for compile tools
+			  people from map exange forum
+================================================================
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes
+Cooperative             : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : tfc.wad tfc2.wad phl.wad and dustbowl sky
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+
+Construction
+
+
+Editor used             : I always work with two : worldcraft3.3 and QuArk beta rel6_1-pre-3
+Compile Machine		: celeron 300A(450 Mhz) 192 RAM riva 128(Diamond Viper 330) win 98
+
+Compile Tools           : Zoner's Halflife Tools v 2.5.1
+	
+Compile time		hlcsg : [2m 11s]-wadinclude phl.wad -wadinclude                                 tfc.wad -wadinclude tfc2.wad
+			hlbsp : 47.11 s
+			hlvis : [5m 21s] -full
+			hlrad : [32m 43s]-bounce 16 -extra - smooth 60 -gamma 0.55 -chop 64
+ 
+Known Bugs              : I don't know
+Build Time              : about 4 weeks - 
+
+================================================================
+
+If you enjoy playing this level, please send me an e-mail :-)
+
+
+
+
+(c) Copyright 2001 Lukasz Lakomski

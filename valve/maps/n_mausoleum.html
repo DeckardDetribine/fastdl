@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/strict.dtd">
+<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Half-Life DeathMatch :: Necropolis: Mausoleum</title>
+<meta name="author" content="Peter Jones" />
+<style type="text/css">
+<!--
+body { font-family: verdana,sans-serif; font-size: 14px; color: #006; background: #eef; }
+div { margin: 20px; padding: 0px; border: 2px solid #006; }
+
+h1 { margin: 0px; color: #eef; background: #006; padding: 2px 20px; font-size: 24px; }
+h2 { background: #ccd; padding-left: 20px; font-size: 22px; }
+h3 { background: #dde; padding-left: 20px; font-size: 18px; }
+h4 { background: #dde; padding-left: 20px; font-size: 16px; }
+h1,h2,h3,h4 { border-top: 1px solid #006; border-bottom: 1px solid #006; }
+h3 { width: 75%; border-right: 1px solid #006; }
+h4 { width: 60%; border-right: 1px solid #006; }
+
+p { margin: 20px; }
+pre { margin: 0px 40px; font-size: 12px; }
+
+.level { font-weight: bold; color: #600; }
+.spaced li { margin: 16px 20px; }
+.data li { margin: 3px 20px; cursor: help; width: 150px; }
+.extra,acronym { cursor: help; border-bottom: 1px dotted; }
+.newpage { page-break-before: always; }
+
+li { margin: 0px 10px; }
+dt { clear: both; width: 130px; text-align: right; font-weight: bold; float: left; border-bottom: 1px solid #eef;  }
+dd { margin-left: 140px; margin-right: 20px; margin-bottom: 1px; }
+code { font-size: 0.9em; }
+
+dl ul { margin: 0px; }
+-->
+</style>
+</head>
+
+<body>
+
+<div>
+<h1>Level Details</h1>
+
+<dl>
+<dt>Title:</dt><dd><span class="level">Necropolis: Mausoleum</span></dd>
+<dt>Version:</dt><dd>1.1</dd>
+<dt>Release Date:</dt><dd>August 28th, 2006</dd>
+<dt>Get It At:</dt><dd><a href="http://www.petesplace.id.au/mapping/levels.php#n_mausoleum">Necropolis: Mausoleum</a></dd>
+<dt>Readme:</dt><dd>mausoleum.html -- the file you are reading now.</dd>
+</dl>
+
+<dl>
+<dt>Author:</dt><dd>Peter Jones</dd>
+<dt>Contact:</dt><dd><a href="http://www.petesplace.id.au/contact_pete.php?subj=Mausoleum">Contact Pete</a></dd>
+<dt>Website:</dt><dd><a href="http://www.petesplace.id.au/mapping/">Pete's Place :: Mapping</a></dd>
+</dl>
+</div>
+
+<div>
+<h1>Play Information</h1>
+
+<dl>
+<dt>Game:</dt><dd>Half-Life</dd>
+<dt>Game Mode:</dt><dd>DeathMatch</dd>
+<dt>Level Name:</dt><dd><span class="level">Necropolis: Mausoleum</span></dd>
+<dt>Players:</dt>
+  <dd>2-8</dd>
+<dt>Known Bugs:</dt>
+  <dd>None; please <a href="http://www.petesplace.id.au/contact_pete.php?subj=Mausoleum_bugs">let me know</a> if you find any!</dd>
+</dl>
+
+<dl>
+<dt>Base:</dt><dd>New level from scratch.</dd>
+<dt>New Graphics:</dt><dd>Many, not created by me; see <a href="#credits">Other Credits</a> for full details.</dd>
+</dl>
+
+<dl>
+<dt>Installation:</dt>
+  <dd>
+    <ul>
+      <li>Place the .bsp files in your valve\maps directory.</li>
+      <li>Copy the .tga and .bmp files into your valve\gfx\env directory (create it if you don't already have one)</li>
+      <li>If you extract the zip file, with subdirectories enabled, into your Half-Life\valve directory, everything should go to the right place.</li>
+      <li>Also, see the <a href="#sounds">sound discussion</a> below!</a>
+      </ul>
+    </dd>
+</dl>
+</div>
+
+<div>
+<h1>Build and Compile Information (Reference)</h1>
+
+<dl>
+<dt>Build Time:</dt><dd>Started May 22, 2005</dd>
+<dt>Editor:</dt><dd>Valve Hammer Editor 3.4</dd>
+<dt>Additional:</dt>
+  <dd>Wally 1.51B [<em>to assemble the WAD file</em>]</dd>
+  <dd>XP-Cagey's P13 release of Merl's 1.7 build of Zoner's HL Compile Tools (<strong>ZHLT_1.7P13</strong>)</dd>
+</dl>
+
+<h2>Final Compile Parameters</h2>
+<ul>
+  <li><code><strong>hlcsg.exe</strong> -wadautodetect -wadinclude n_mausoleum.wad n_mausoleum</code></li>
+  <li><code><strong>hlbsp.exe</strong> n_mausoleum</code></li>
+  <li><code><strong>hlvis.exe</strong> -full n_mausoleum</code></li>
+  <li><code><strong>hlrad.exe</strong> -sparse -extra -dscale 1 -bounce 2 n_mausoleum</code></li>
+  <li><code><strong>opt_plns.exe</strong> n_mausoleum</code></li>
+  </ul>
+
+<h2>Compile Time (on 3GHz P4)</h2>
+<ul>
+  <li>n_mausoleum: <strong>1h 9m 40s</strong></li>
+  </ul>
+</div>
+
+<div><h1>Other</h1>
+
+<h2>Setting the scene</h2>
+
+<dl>
+<dt>Necropolis:</dt><dd><strong>n.</strong>, A cemetery, especially a large and elaborate one belonging to an ancient city.  Literally a <em>city of the dead</em>.</dd>
+<dt>Mausoleum:</dt><dd><strong>n.</strong>, A large stately tomb or a building housing such a tomb ... from Mausolus, Persian satrap of Caria whose tomb was considered one of the Seven Wonders of the World.  A <em>monument to the dead</em>.</dd>
+</dl>
+
+<p>In a remote region of the Tibetan plateau, nestled amongst the mountains of the Kailash Range, this ancient necropolis was discovered recently by a lone, lost climber.  The only survivor of a team of six, he was found, half-drowned and delirious, on the shores of holy Lake Manasarowar, three weeks after the search had been called off.  Lying in a hospital bed, he babbled about a pyramid in the clouds for quite some time before anybody wondered whether there might be something more than fantasy to his story, which only grew more coherent as he recovered his strength and wits.</p>
+
+<p>There were gaps in his memory, but he managed to provide enough detail to determine the right general area to look.  A team of archaeologists and anthropologists was gathered together, and on the 14th of January they set out to investigate.</p>
+
+<p>They never came back.</p>
+
+<p>One month after they were officially declared missing, a second team -- a military team -- was assembled.  As a member of that team, you are a well-trained killing machine.  However, nothing in your training, or in your experience, could prepare you for what you would find in that remote eyrie in Tibet.</p>
+
+<p>The experts say the pyramid is a blend of Incan and Egyptian cultures -- strange enough at the best of times, and it certainly doesn't belong in Tibet!  They could not explain its existence.  Nor could they explain the strange madness which gradually twisted the minds of your men as they camped within the walls of the mausoleum, the madness which led to raised tempers, flaring rage, and finally all-out war as you and your comrades began to kill each other.  Yet even death was no escape.  The phoenix, the cursed phoenix, which demanded its blood sacrifice and repaid in kind, saw to that...</p>
+
+<p>It was like being caught in a sick, violent game, manipulated at the whim of some giddy player, killing and being killed for someone's enjoyment...</p>
+
+<p>It was a nightmare.  It was a deathmatch!</p>
+
+<h3>Necropolis: Mausoleum</h3>
+
+<p>This ancient temple -- weathered and eroded by the ravages of time -- is buried beneath a huge drift of the sand which has been blowing across the high walls for countless centuries.  (<em>What?  "Thirty" is countless!  Even if you took your socks off, you could only get to twenty, give or take...</em>)</p>
+
+<p>At least two groups of explorers -- "looters" is such a harsh word -- have been here before you.  The first group dug a narrow tunnel through the sand, part-way around the wall, but were unable to penetrate the interior of the temple; the second group extended the tunnel -- obviously with access to better technology or greater manpower -- to gain access to the interior of the North gatehouse.</p>
+
+<h3>Gameplay</h3>
+
+<p>Late afternoon, nearly sunset.</p>
+
+<p>It's DeathMatch: just kill anything with a pulse, and have fun!</p>
+
+<h2>Features</h2>
+
+<p>In keeping with the nominal storyline -- you're part of a military team, remember -- all players spawn with a shotgun, and partial (60%) kevlar body armour.</p>
+
+<p>The only weapon not included in <span class="level">Mausoleum</span> is the Gauss Cannon, AKA the "Jump Gun".  Quite apart from my own inability to hit a barn door with the darn thing, I didn't want to include it in this level because it made handling the outer walls problematic at best.  (One thing I really dislike in levels is the invisible barrier (particularly noticeable in UT2004 Onslaught maps, for instance) which holds the player inside the map for no logical reason other than because "it's the edge of the map"!  Call it a pet peeve if you will, but it meant there was no room for the Gauss Cannon in <span class="level">Mausoleum</span>.)</p>
+
+<p>There are no health or armour recharges in this level, as such, but if you make the appropriate sacrifices, the gods of the temple may smile upon you...</p>
+
+<h2>Feedback</h2>
+
+<p>I would appreciate feedback from anybody who likes (or dislikes) this level.  If you have something to say about this level, or an error to report, please <a href="http://www.petesplace.id.au/contact_pete.php?subj=Mausoleum">contact me</a>.  Without feedback, how can I hope to improve?  :-)</p>
+
+<h2>Playtesting</h2>
+
+<p>This level has been extensively playtested by the following people, many of whom have made comments contributing to the finished product:</p>
+
+<ul class="data">
+<li>Ben Davies</li>
+<li title="the author, aka 'Phoenix'">Peter Jones</li>
+<li>Karen McKavanagh</li>
+<li>Kim Stallard</li>
+<li>Dawn Stuart</li>
+<li>Grant Wheatley</li>
+</ul>
+
+<p>Surprisingly, <span class="level">Mausoleum</span> actually seems reasonably playable with only two people; any more than three or four can quickly become highly chaotic.  Which is a good thing! :-)</p>
+
+<h2><a name="comments">Comments</a></h2>
+
+<h3>Revision History</h3>
+
+<h4>Version 1.1 -- August 28, 2006</h4>
+
+<p>After the initial release of this level, a number of comments came back which suggested further necessary changes:</p>
+
+<ul>
+<li>Most important was the fact that I'd completely forgotten to add any ambient sounds to the level; this was soon rectified.</li>
+<li>A few minor texture mismatches were pointed out; I made a few minor changes to increase consistency, and also tweaked a few other textures where it seemed appropriate.</li>
+</ul>
+
+<p>A particularly nasty bug which <i>occasionally</i> caused a player to get killed by the lifts in the towers was brought to my attention.  I attempted numerous fixes for this problem, all of which had some varying degree of success but never entirely eliminated the bug.  I am confident that my latest attempt to solve the problem has actually done so -- but without rigorous testing it is impossible to be sure (it generally only seemed to happen when four or more people were in the level.)  If you encounter this problem, I can only suggest that you <a href="http://www.petesplace.id.au/contact_pete.php?subj=Mausoleum_bugs">let me know</a> -- and that you get off the lift before it actually stops at the top (which is where the problem is most likely to occur...)<p>
+
+<p>I added the phoenix logos (and their functionality; they are more than just pretty pictures!)  I also added a couple of related enhancements to gameplay which are hinted at in the nominal storyline.</p>
+
+<p>Then, I had to make the walls of the towers thicker.  When viewed from a distance, certain moving objects (the lifts, the doors at the top, and sometimes even other players) could sometimes be seen right through the wall.  I actually held off doing this for quite some time because I suspected it would be a fiddly task; I was not wrong!  Of course, making the walls thicker changed the dynamics of sniping from the top room of the tower; the walls there had to be redesigned, and while I was at it I redesigned the ceiling too, to counter one of my own pet peeves with the level...<p>
+
+<p>Finally, with everything else fixed and finished, I set about eliminating the last few "<em>Leaf Saw Into Leaf</em>" errors from the compile process; they didn't seem to be causing any in-game problems, but I wanted to be certain it was 100% (after having it in development for 15 months, I wanted it to be as close to perfect as I could get it!)  Of course, the "<em>Leaf Saw Into Leaf</em>" errors are difficult to track down, so I wrote a script to make it easier; that, and six compiles later as I chased them around the level, seemed to do the trick!</p>
+
+<h4>Version 1.0 -- March 5, 2006</h4>
+
+<p>This is the initial release, seven months to the day after we had our initial "Grand Opening Night".  Much has changed since then -- and I also took some time out along the way to write my <a href="http://www.petesplace.id.au/array_wars/">first novel</a>. :-)</p>
+
+<h4>Development</h4>
+
+<p>As initially conceived, this level was substantially larger.  However, by the time I actually finished building what I wanted to build, I was pushing at numerous limits of the Half-Life engine and the compile tools.  At various points in the development of the initial version of this level, I got (and resolved) each of the following errors:</p>
+
+<ul>
+<li>Exceeded MAX_ENGINE_ENTITIES</li>
+<li>Exceeded MAX_MAP_CLIPNODES</li>
+<li>Exceeded MAX_MAP_FACES</li>
+<li>Exceeded MAX_MAP_LEAFS</li>
+<li>Exceeded MAX_MAP_TEXINFO</li>
+<li>Exceeded MAX_PATCHES</li>
+</ul>
+
+<p>Additionally, the playing area was just too large for effective play.  Once again, I had gotten carried away and taken it too far.</p>
+
+<p>The solution I came up with was to split the level into three.  Two, <span class="level">Mausoleum</span> and <span class="level">Crypt</span>, would split the level into above-ground and below-ground respectively, the complex having been buried in sand and ravaged by time; the third, <span class="level">Temple</span>, would be the complete, functional complex, set 3000 years ago at the height of its glory.</p>
+
+<p>The original was split into three separate files on the 23rd of January, 2006.</p>
+
+<p><span class="level">Mausoleum</span> is the first of these three to be released.  After the split, the tunnel through the sand was completed, the stargate was "weathered", the below-ground sections were removed, and the weapon layout was substantially revised.  (At this point, it is looking highly unlikely that the other two sections of this level will be released any time soon.  Perhaps I'll revisit them at a later date, but for now there's not much point.  Without a complete design overhaul, there's no way they can measure up to <span class="level">Mausoleum</span>.  Besides, I already have another couple of projects awaiting my attention...)</p>
+
+<h4><a name="sounds">Sand Sounds</a></h4>
+
+<p><b>Why does all that sand not sound like sand?</b></p>
+
+<p>I'm glad you asked!</p>
+
+<p>As you walk through a level, the Half-Life engine generates the sound of your footsteps by comparing the name of the texture you are walking on with a list in the mod's <code>sound/materials.txt</code> file to determine which of ten preset sounds should be used.  For standard HLDM, this is the <code>valve/sound/materials.txt</code> file (which, in all likelihood, will be stored inside the <code>PAK0.PAK</code> file, unless you have specifically extracted it.)  If the texture does not appear in the <code>sound/materials.txt</code> file, the engine uses the default 'Concrete' footstep.</p>
+
+<p>Needless to say, the sand texture I have used throughout the <span class="level">Mausoleum</span> map ('E-SAND1B') is not one of the textures listed in your <code>valve/sound/materials.txt</code> file.</p>
+
+<p>For my personal use, I have set up a '<code>petesdm</code>' Mini-Mod which contains all of my deathmatch maps.  The main reason I set this up was to get this map sounding the way it should.  My <code>petesdm/sound/materials.txt</code> has had the following lines added to it:<br />
+<pre>// Textures for Mausoleum
+D E-SAND1B
+W E-WOOD02
+W E-WOOD04
+W E-WOODMGRID1B</pre></p>
+
+<p>Since I have in mind some additions to the '<code>petesdm</code>' Mod, it does not seem worth releasing it at this stage.  Of course, if I get enough requests I'll make it available.  For now, though, if you want the sand in <span class="level">Mausoleum</span> to sound like sand (and the wood to sound like wood) you can add the above lines to your own <code>valve/sound/materials.txt</code> file.  (You may have to extract it from your <code>PAK0.PAK</code> file first. There are numerous programs around which allow you to do this; I believe I used <a href="http://www.telefragged.com/wally/">Wally</a>.</p>
+
+<h3>Known Bugs</h3>
+
+<ul class="spaced">
+<li>Not a bug as such, but I really blew the budget with this one.  Again.  (So much for promises! ;-))  Some (most) areas are just way too complex for the software display driver to handle.  All I can recommend is that you run this level under the OpenGL or Direct3D driver, or not at all.  I am sorry if this inconveniences anyone, but I really cannot see a fix for it without completely redesigning the level.  (This is the way the level wanted to be built!)  I promise my next set of levels will be a little more playable for all -- but then, I've said something like that before!</li>
+</ul>
+
+<h2><a name="credits"></a>Other Credits</h2>
+
+<p>Thanks go to the following:</p>
+
+<ul class="spaced">
+<li><a href="http://www.valvesoftware.com/">Valve Software</a>, for producing this great game, and giving us the means of creating our own levels.</li>
+<li>The Playtesters (listed above) for their feedback and suggestions which helped make this level better than it would have been without them.  Also for their &quot;gentle nudging&quot;, which helped me stay focused on finishing!</li>
+<li>Ben Davies, whose "arena" concept provided the nascent starting point for what was eventually to become the three levels which make up <span class="level">Necropolis</span>, and who provided so many helpful thoughts and ideas along the way.  I may have built these levels, but Ben is very much the co-designer.</li>
+<li>Rebecca Seger, whose input helped shape the obelisks and the glowing green hieroglyphics.</li>
+<li>The "Egyptian" texture set used throughout this level (with some very minor modifications by myself) was created by <a href="http://simland.planetquake.gamespy.com/">Sock</a>.  While the original concept helped in my choosing this set of textures, the textures themselves suggested many of the design details of these maps.  The texture set was downloaded from <a href="http://wadfather.planethalflife.gamespy.com/new/">The Wadfather</a>.</li>
+<li>The "sierra" environment map (ie, the 'sky' graphics) was created by <a href="mailto:muad@planetunreal.com">MuadDib</a> (and tweaked <em>ever-so-slightly</em> by myself.)  It seemed a perfect match for the feel I was trying to evoke.  The environment map was downloaded from <a href="http://wadfather.planethalflife.gamespy.com/new/">The Wadfather</a>.</li>
+<li>The <i>Phoenix</i> sigil which is embedded in the walls in key locations of this level came from <a href="http://www.deviantart.com/view/4014812/">Phoenix Wings</a> by <a href="http://roguephoenix.deviantart.com/">roguephoenix</a>.  When I first started hunting for a stylised phoenix to add to the level I wasn't entirely sure what I was looking for, but this image lent itself well to my purposes.  Thankyou, <strong>roguephoenix</strong>, for giving your permission for the use of this image!</li>
+</ul>
+
+<h2><a href="http://www.petesplace.id.au/mapping/levels.php">Other Levels</a></h2>
+
+<h3>Half Life: Deathmatch</h3>
+
+<ul>
+<li>LavaLab</li>
+<li>LavaLab: Erupt (variant of LavaLab)</li>
+<li>Lab17: Storage</li>
+<li>Lab17: Flood (variant of Lab17: Storage)</li>
+<li>Lab17: Slimelab</li>
+<li>Lab17: Quake (variant of Lab17: Slimelab)</li>
+</ul>
+
+<h2>Copyright and Permissions</h2>
+
+<p>This level is copyrighted 2006 by Peter Jones.</p>
+
+<p>You MAY distribute this level through any electronic network (internet, FIDO, local BBS, etc) provided you include <em>this</em> HTML file, and keep the ZIP archive intact.</p>
+
+<p>You MAY include this level in the map rotation of a &quot;free&quot; internet HLDM server, but if you do so I'd <em>really</em> appreciate an email to let me know you're using it!  You MAY NOT include it on your server if you are charging for access to play on the server!</p>
+
+<p>This level MAY NOT be included with any compilation packs UNLESS you ask me first and I grant permission.</p>
+
+<p>You MAY NOT make a profit from this level without direct signed permission from me.</p>
+
+<p>You MAY NOT modify this level (or any of the files in this distribution) in any way, nor may you use it as a base or template for your own level.</p>
+
+<p>In other words: give it to your buddies, play it as much as you like, but give credit where credit is due, and if you are going to make money from this level, I want some too!</p>
+</div>
+
+</body>
+</html>

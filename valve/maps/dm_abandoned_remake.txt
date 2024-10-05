@@ -1,0 +1,39 @@
+ORIGINAL .TXT FILE:
+--------------------------------------------------------------------------------------
+					DM_Abandoned
+				   By Liam "Trapt" Loriente
+
+--------------------------------------------------------------------------------------
+
+Title:				Abandoned.
+Author:				Trapt
+Filename:			dm_abandoned.zip
+BSP's:				dm_abandoned.bsp
+Used Editor:			Valve Hammer Editor 3.5
+Other used programs:	 	ZHLT
+
+New textures:			Yes
+New sounds:			No
+
+--------------------------------------------------------------------------------------
+
+Copyrights:
+
+Don't steal this blah blah blah and stuff.
+
+--------------------------------------------------------------------------------------
+
+Thanks:
+
+The Regs of TWHL for playtesting this with me a while ago...
+
+--------------------------------------------------------------------------------------
+
+Comments from Author:
+
+Hooray! Here is the HL1 Deathmatch version of one my best maps - Abandoned. Slightly
+fixed up from my old n00by days of when I made this: It is even better than the
+original. This is the one piece of work I am truly happy with. I feel it is polished.
+
+
+--------------------------------------------------------------------------------------

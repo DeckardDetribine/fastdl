@@ -1,0 +1,57 @@
+****General Information*************
+Title		: Lambda Castle (beta version)
+Filename	: lambda_castle-beta.bsp
+Author		: Piotr "PiotErr" Lipinski
+Email 		: pioter10@poczta.wp.pl
+Game Mode	: Deathmatch
+# of Players	: 2 - 6 (maybe less)
+
+
+****Play Information****************
+Deathmatch	: Yes
+Single Player	: For test/debugging only
+
+****Map Information*****************
+New Textures	: Yes, compiled into bsp file
+New Sounds	: None
+
+****Construction********************
+Base		: From scratch
+Editor(s) used	: WorldCraft 3.3, PaintShop Pro, Wally 1.53b Sprite Viewer 1.05 Beta
+		  PakSkape 0.11
+Build Machine	: AMD K6 366, 96 MB ram
+Compile Machine	: P III 800, 256 MB ram
+Compile time	: few minutes
+Extract the contents of the .zip archive into your Half-Life\valve\maps directory.
+
+****Additional Info******************
+Story of this map is quite long. I made it in more then 2 month. I changed
+textures many times, and I had some strange problems with them. But finally,
+everything should be in order.
+
+****Special Thanks*******************
+The very special thanks to Wadfather (www.wadfather.game-Edit.com) for all new textures,
+but specialy to Kevin 'Rorshach' Johnstone (k.johnstone@discreetmonsters.com)
+		www.3dpalette.com/~rorshach [current] - www.quakefiles.com/rorshach [old]
+		about 5 textures from his packs: "broken soul" and "the core"
+	     to Iikka "Fingers" Keranen (or Ker&auml;nen if you like em dots better)
+		fingers@mail.planetquake.com www.digital-eel.com/surface/
+		about 25 textures from his pack ik2
+	and to Mighty Pete for conversion to wad format
+Thanks to Valve for bringing us Half-Life.
+Thanks to Zoner for compiling tools.
+Thanks to Half-Life ERC for their tutorials.
+Thanks to Telefragged for Wally.
+Thanks to Mach III Enterprises for SpriteView.
+Thanks to Peter 'Riv' Engström for PakSkape.
+Thanks to all people from VERC exchange forum.
+
+++++Copyright-Permissions++++++++++++++++++++++++++++++++++
+This unmodified file must accompany the BSP in any form of distribution. 
+I don't mind if you want to put this on a magazine cover CD, but contact
+with the textures designers listed above for his permisson.
+Please drop me an email and tell me if you like or hate this map!!
+
+Don't get fragged !
+
+pioter10@poczta.wp.pl

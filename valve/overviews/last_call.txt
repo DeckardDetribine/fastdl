@@ -1,0 +1,15 @@
+// overview description file for last_call
+// Z Min 475 Z Max -540
+
+global
+{
+	ZOOM	1.57
+	ORIGIN	-304 24 802.5
+	ROTATED	0
+}
+
+layer
+{
+	IMAGE	"overviews/last_call.bmp"
+	HEIGHT	-540
+}

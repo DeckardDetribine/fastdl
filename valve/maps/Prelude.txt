@@ -1,0 +1,46 @@
+================================================================
+Title                   : 
+Filename                : Prelude [Package: Prelude.zip -- Prelude.bsp Prelude.txt]
+Author                  : Snodder(I'm from Germany so don't kill me
+                         if there are grammar faults)
+Email Address           : 043316406-0001@t-online.de(Comments please)
+Description             :It's an old Quake2 map,which i think is also good for
+			 Half-Life Deathmatch.It has bad r_speeds so it's better
+			 to play it on a LAN than in the Internet.
+			  
+			  
+Thanks to               : Beta Testing - Sascha Bendixen(saddam)
+					 Nico Moder(exitus)
+					 Christian Sohrt(Chrissi)
+					 Jan Erik Beyer(Schwanzlutscher) 
+					 
+					 
+					 
+					 
+					 
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Sure!!
+Teamplay                : If you like?
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Monsters            : No
+New Demos               : No
+New Models              : No
+
+* Construction *
+
+Base                    : An old  Quake2 Level
+Editor(s) used          : Worldcraft 2.0
+Known Bugs              : None Found.
+Build Time              : Maybe 3 days or more
+Comments                : Solid deathmatch map that plays good with 2-4 players but also with 6!	  
+Installation		: Unzip Prelude.zip into your sierra/half-life/valve/maps directory and
+                          join a game with prelude.bsp!  Or if youd like to run around in it, 
+                          run "hl.exe -console +map prelude.bsp".HAVE FUN!!
+             

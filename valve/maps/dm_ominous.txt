@@ -1,0 +1,49 @@
+Map Information
+===============
+	Ominious 
+	Half-Life Deathmatch
+	dm_ominious.bsp
+	Recommended Players: 10-12
+
+Author Information
+==================
+	Author: Brady Keehn
+	E-Mail: crackerjack@hlgaming.com
+	URL:    http://cjmaps.hlgaming.com
+
+Map Description
+===============
+	Created for the SnarkPit's Concept Art contest.
+
+Thanks to
+=========
+	Orpheus
+	Adam "WhoMe" Foster, Textures
+	Kornflakes, Textures
+	Shader Lab, Textures
+	CardO, for the concept art
+	Leperous
+	Wild Card, Gollum, and ReNo
+
+Technical Info
+==============
+	Editor:Valve Hammer Editor 3.5
+	Build Time: 3 weeks
+	Compile Time:
+		CSG: 27s
+		BSP: 11s
+		VIS: 6m 0s
+		RAD: 2h 58m (-extra, -chop 32, -sparse)
+	Compile Tools: Zoner's 2.5.3 1.6.1 custom build
+	Compile Machine: Pentium XP 1300, 
+		 
+Instructions
+============
+Unzip the contents of the .zip file into your Half-Life directory. All files will be automatically placed from there.
+
+
+=====
+dm_ominious (c) 2003 Brady Keehn *Thanks to Andrew Weldon for the layout of the credits*
+=====
+
+		 

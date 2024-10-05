@@ -1,0 +1,155 @@
+                                ATTICRATS_RO.BSP
+
+
+
+Compiled:      11-11-01
+Title:         atticrats_ro
+file name:     atticrats
+Author:        Grimlock (Richard Outman)
+Email Adress:  grimlock@somethingdied.com
+Editor used:   WorldCraft 3.3 and zoners
+
+===========-Map discription:===================================  
+
+This is a rats scale map based in an attic.  I placed glowsticks (the kind we all played with as kids on holloween) all 
+around the map for a glowing flourescent feel.  I didn't go with the lighted textures such as the flourescent textures 
+in HL instead I tried to make all the lighting make sence in the map.  I placed glow in the dark stickers, a glowing acid 
+substance in one area, holes in a tunnle area with beams of light entering and of course the grimlock arts room which is 
+lite by flames.  The pink flooring in the walls is fiberglass insulation incase anyone out there has never seen whats inside 
+the walls of wood based homes.  
+
+============cool features:==============================
+
+--KILL OSAMA, LOL.  I placed a book (some say it looks like a tape, lol) that you can shoot the face of osama and gibs fly.  
+Also I placed a button right next to it that plays a funny little skit that I'm sure you'll be checking out more than once. 
+
+--Cool drip effect's in two areas in the map  
+
+--Jump in the acid can to get the egon gun , you'll hear a nice suprise, lol
+
+--There are two "secret" warp points in the map, you'll find them if you look closly around
+
+--I places alot of art work in the map including a pic of my bass guitar.  The artists are very talented, check it out
+
+--The egon gun is behind the 3-d GRIMLOCK, the flames do damage so you'll have to move fast, grabing the gun upsets the 
+grim-demonds(triggers wav file) so others may hear you in the room grabing it!!
+
+--I placed shootable cycler models(the skeletons in the GRIMLOCK room).  Shoot em to watch them move and for a little fun 
+target practice
+
+--Some custom textures made by myself and Dr Atlantis including some basic book end text.
+
+--Shoot the light switch to turn on the light for 40 seconds.  Why not leave it on and and shot it to turn it off for 40 
+seceond?  Well, take a look at the glowstick glow, I wanted to preserve it also its an attic so naturally it is dark.
+
+--Shot the radio for a laugh, lol, literally
+
+--take alook around, see if you can find anything else(maybe I'm forgeting something)
+
+
+==================Other releases==========================
+
+starcraft1-ro.bsp  just a quick release of part of what was going to be a tfc map (one of two comand centers, it was based 
+on the game "starcraft" by blizzard) it is still an interesting map
+
+And of course more to come, 
+
+a very complicated trek map, many interactive elements
+
+More rat scale maps posably
+
+and more.........(work in process)
+
+
+==================Need to know Info========================
+  
+
+IMPORTANT:  There is a sprite file used in this map "flames.spr" that needs to be places in the valve\sprites folder.  
+If you run it on a server people will automatically download it
+
+In creation of the jump pads I wanted to make sure no one would take damage when falling onto them so I included a 
+Func_Water (water) which no matter how hard yo fall on cancels out the damage.  Basically you need to know this 
+because aperiently servers override creater settings which causes the water to slow people down as they try to use the jump 
+pads.  To correct this overide set your water friction to zero, the pads work great after that.
+  
+That seems to be the only thing to say about them except the pads work best when gravity is set to 800.
+
+This is a dark map in alot of areas, its part of the enviroment I was trying to create so you may need to up your 
+gamma correction so you can see brightly or ajust the brightness on your monitor.
+  
+There is some funny stuff in there that hopefully no one takes offence to, if you do then what can I say.........
+don't play the level otherwise enjoy and have fun, after all, thats what it's all about right?
+
+===============Map play modes===================================
+
+single player start----yes, but no monsters, I placed one to take good clean screen shots
+coop-------------------doesn't seem to work in HL at least the info_coop doesn't
+Mulitiplayer-----------This is a multiplayer death match map
+
+
+=================About me======================================
+
+ I work best with no idea at all, not even my own, LOL.  Does that make sence?  No idea right? lol.  I'm the creative 
+type, Gatta have an outlet what can I say, 3-d creation sounded pretty damn cool!!!  I actually like it more than 
+playing the actual game LOL.  Now if only there were a way to make some money doing this stuff.....
+
+
+
+*************What is "GlobalDataCenters.com" all about ?************************************
+
+
+GlobalDataCenters.com is my brothers IT consulting company, with the job market droping down the craper and slow 
+buisness for everyone I wanted to help him get his name out and get some more buisness going hopefully.  Check
+out his web site at http://www.globaldatacenters.com.
+
+
+
+-------Special thanks in this creation--------------------------------------
+
+ 
+
+First of all I would like to thank anyone that actually read all the way down to this point and didn't just skim
+to the sliding of the bsp to the valve\maps folder.  
+
+Dr. Atlantis (Timothy J. Outman Jr.) for his creative input and wad texture conversion and creation of the book 
+textures (especially Osama) and running the map on three dedicated servers when released  (216.139.48.45:27015,
+216.139.48.40:27015, 216.139.48.201:27015).
+
+Onesneakymouse for work on other maps
+
+The Reaper (Thomas Outman) for his beta testing of the map
+
+http://halflife.gamedesign.net for all the great info (highly recomended to any map maker)
+
+Valve ERC (good map making info here)
+
+And of course thanks go out to anyone who enjoys playing this map
+
+hotdeathdiner.com for taking a interest in posting the map on there site so quikly
+
+and if you really like this map you can send donations to grimlock@somethingdied.com....just kidding, enjoy 
+the map everyone, I'll be releasing more in the near future.
+
+
+-------copyright permissions----------------------------------------------------------
+
+
+This map may be distributed ONLY on a "not for profit" basis using any medium
+                  
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+

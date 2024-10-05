@@ -1,0 +1,73 @@
+================================================================================
+* HALF-LIFE LEVEL INFORMATION *
+--------------------------------------------------------------------------------
+TITLE                   : XenDM
+FILENAME                : XenDM.zip
+AUTHOR                  : Rolf Hulsbergen
+DATE                    : 23.05.2000
+TYPE                    : DeathMatch
+EMAIL ADDRESS           : R.P.Hulsbergen@Student.tudelft.nl
+HOMEPAGE URL            : http://www.mapfinger.com/members/Wolv/
+.zip CONTENTS           : XenDM.bsp : The compiled map. Place in /Valve/Maps
+                          XenDM.jrf : The Jumbot waypoint file. You can delete 
+                                      this File if you don't use the Jumbot.
+                          XenDM.txt : This file
+
+--------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+--------------------------------------------------------------------------------
+This is a medium sized, fully Xen style map.
+It is build with speed in mind, so should be well suited for internet play.
+
+--------------------------------------------------------------------------------
+SINGLE PLAYER           : 1 Player Start   Point(s)
+CO-OPERATIVE            : 0 Player Start   Point(s)
+DEATHMATCH              : 14 Player Respawn Point(s)
+SUGGESTED PLAYER LOAD   : 4 to 12
+
+NEW TEXTURES            : 2 modified textures for the altar
+NEW SOUNDS              : No
+CD TRACK #              : 0
+
+--------------------------------------------------------------------------------
+* CONSTRUCTION *
+--------------------------------------------------------------------------------
+MAP BASE                : New Map
+PREFABS USED            : Xen_altar by Evilchild
+EDITOR(S) USED          : QuArK 6.00 Beta 1
+
+--------------------------------------------------------------------------------
+* SPECIAL INSTRUCTIONS / ADDITIONAL INFORMATION *
+--------------------------------------------------------------------------------
+You can climb the structure in the healing room.
+You can recharge your suit at the altar by praying (looking down).
+You can use a camera in the cave below the altar.
+The thing above the MP5 is higly unstable.
+
+--------------------------------------------------------------------------------
+* CREDITS *
+--------------------------------------------------------------------------------
+Valve Software          : For making a KICK ASS game
+EvilChild               : For the cool prefab (Why are there so few Xen prefabs?)
+Furmigator              : For solving my healpool sound problem
+All the playtesters     : For allowing someone who never played a DM game online 
+                          to make this level
+The gamesdesign forum   : For providing loads of information
+
+================================================================================
+* COPYRIGHT / PERMISSIONS *
+--------------------------------------------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+Half-Life (C) 1998-99 Sierra On-line and Valve L.L.C. All rights reserved.
+
+=======================================================================[.txtGen]
+

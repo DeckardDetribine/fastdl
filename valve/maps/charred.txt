@@ -1,0 +1,89 @@
+================================================================================
+* HALF-LIFE LEVEL INFORMATION *
+--------------------------------------------------------------------------------
+TITLE                   : Charred Chaos
+FILENAME                : charred.zip
+AUTHOR                  : Dave Johnston
+DATE                    : 19.05.2000
+TYPE                    : DeathMatch
+EMAIL ADDRESS           : dv@btinternet.com
+HOMEPAGE URL            : http://www.planethalflife.com/davej/
+.zip CONTENTS           : charred.bsp
+                          charred.txt
+
+--------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+--------------------------------------------------------------------------------
+Just a DM map, suitable for about 4 - 8 players, taken ages to release :)
+
+--------------------------------------------------------------------------------
+SINGLE PLAYER           : 0 Player Start   Point(s)
+CO-OPERATIVE            : 0 Player Start   Point(s)
+DEATHMATCH              : 16 Player Respawn Point(s)
+SUGGESTED PLAYER LOAD   : 4 to 8
+
+DIFFICULTY SETTINGS     : 
+NEW TEXTURES            : No
+NEW SOUNDS              : No
+CD TRACK #              : 0
+
+--------------------------------------------------------------------------------
+* CONSTRUCTION *
+--------------------------------------------------------------------------------
+MAP BASE                : New Map
+PREFABS USED            : None
+EDITOR(S) USED          : Worldcraft
+OTHER UTILITIES USED    : Zoners HL Tools 2.0
+
+KNOWN BUGS              : None
+
+COMPILE MACHINE         : Celeron 366, 128MB, 350MB Swapfile
+
+QCSG  TIME              : 93.16 seconds
+QBSP2 TIME              : 39.55 seconds
+VIS TIME                : 399.97 seconds
+QRAD TIME               : 1067.64 seconds
+
+--------------------------------------------------------------------------------
+* OTHER LEVELS BY THE AUTHOR *
+--------------------------------------------------------------------------------
+: ETC - A singleplayer saga for HL Veterans
+: Dust - Official CounterStrike map
+: Cobble - Official CounterStrike map
+: War Torn Retirement Home - Past CounterStrike map
+
+More map details are available on my webpage http://www.planethalflife.com/davej/
+
+--------------------------------------------------------------------------------
+* SPECIAL INSTRUCTIONS / ADDITIONAL INFORMATION *
+--------------------------------------------------------------------------------
+Copy the .bsp into the half-life\valve\maps\ directory.
+
+--------------------------------------------------------------------------------
+* CREDITS *
+--------------------------------------------------------------------------------
+Valve Software          : For making one of the worst games of 1998
+PHL                     : For hosting my page like a child
+All my loyal fans       : For not sending me smarties
+Those who helped in test: For finding me more bugs! YOU FOOLS!
+
+(joking btw (as if you hadn't guessed) - thanks loads to all the above =)
+
+
+================================================================================
+* COPYRIGHT / PERMISSIONS *
+--------------------------------------------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+Half-Life (C) 1998-99 Sierra On-line and Valve L.L.C. All rights reserved.
+
+[END OF DATA]==========================================================[.txtGen]
+

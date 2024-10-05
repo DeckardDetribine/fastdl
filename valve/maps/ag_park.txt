@@ -1,0 +1,16 @@
+
+
+-- these opposing force maps have been converted to playable ag mod format by santagauss.--
+
+
+to install the maps:
+---place the maps in sierra/half-life/valve/maps dir
+---you must also COPY the "opfor.wad" file from your gearbox dir and paste it into your valve dir.
+
+
+--- also included in the zip is the .loc file for each map.  these are only needed if you are planning on running an AG server.  and shuld be placed in the ag/locs dir.
+
+
+you can contact santagauss at santagauss@yourmom.com or visit his website http://www.geocities.com/santagauss/
+
+

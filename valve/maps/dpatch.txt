@@ -1,0 +1,79 @@
+================================================================
+
+Title                   : The Deathpatch (V 1.01)
+Filename                : dpatch.bsp
+Author                  : Wayne "Xenomorph" Blacklock
+Address                 : Xenomorph@BTinternet.com
+Description             : A semi industrial facility.
+                          
+  
+Special Thanks to       : Thanks to Tom "Tawsi" Walker for 
+                          intermittant support and 
+                          doubting I could ever actually 
+                          finish a map.                 
+                          Thanks to everyone else I know.
+                          Oh yeah, a plug: Motocross Madness fans
+                          should visit:
+                          http://www.sparks27.freeserve.co.uk
+                          
+Webpage                 : Under Consideration. 
+                          Though this is a (very very) long shot, anyone
+                          from QEHS High School, Hexham,   
+                          UK should visit:
+                          http://www.rmplc.co.uk\sites\qe400
+                          Were having a reunion in 1999 and welcome
+                          past pupils.
+================================================================
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes
+Cooperative             : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+
+Construction
+
+Base                    : New level from scratch
+Editor used             : Worldcraft v2.0 - v2.1
+Known Bugs              : Nothing as yet.
+Build Time              : I don't really know. 
+                                          
+================================================================
+
+Installation
+
+To play this level, extract this file "dpatch.bsp" into
+your sierra\half-life\valve\maps directory - or whatever - and then start the 
+game.
+
+Start a deathmatch server and type "map dpatch" or "changelevel
+dpatch" in the console. To test it out in single player mode
+start Half-Life with hl.exe -console, hit the console button and
+type "map dpatch".
+
+================================================================
+
+Copyright and Permissions
+
+This file must be kept intact and with the bsp. If this is used on any
+servers or in any other form of distribution (e.g. coverdisk) I would appreciate
+being informed.
+
+================================================================
+
+Other
+
+This is the first map I have released. I tried to create a map that would be fun, and have a few quirks and a bit of originality. For one I dont think the ice thing has been done before in this way. I tried to put thought into weapons placement. And i omitted the egon, after seeing it dominate so many servers. Just incase people don't realise to get the RPG you have to move some crates around in the water. The guass is fairly easy to find as is the crossbow. I tried to take care with construction and I hope this is reflected in poly counts. Though this is my first release map so I am expecting criticism, which is fine. Please I invite any and all feedback. Thankyou for reading.
+
+Addendum: This version is revised, I have changed some weapons and lights. Not much more.
+
+- Wayne "Xenomorph" Blacklock
+  Xenomorph@BTinternet.com
+  April 16, 1999 

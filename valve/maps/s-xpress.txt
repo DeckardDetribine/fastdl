@@ -1,0 +1,91 @@
+March 6, 1999
+
+================================================================
+
+Title                   : Suicide Express
+Filename                : s-xpress.BSP
+Author                  : cyNic
+e-mail			: cynic@bigfoot.de
+
+Description             : Am I the only one who like trains? Well,
+			  if not, you might become happy with this 
+			  large map. It features two trains, running 
+			  different tracks. There are wide open spaces 
+			  for our snipers, small corridors for the 
+			  fragfest-friends and dark corners where the 
+			  anxious ones can hide...and don't forget to 
+		          USE the trains (especially to get the real 
+			  cool stuff). 
+
+Special Thanks to       : Valve for creating Halflife (greatest game
+			  ever!),
+			  Jan Graeber aka 'Mr.Eddy' for beta-testing,
+			  Jon Mcllwaine for the bloody 'reviews' of 
+			  my maps,
+			  all the cool guys at Radium (it rocks) and
+			  finally all the people who helped me with 
+			  their knowledge at Wavelength!
+			  
+================================================================
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes (6-32 players, 16 playerstarts)
+Cooperative             : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+
+Construction
+
+Base                    : New level from scratch
+Editor used             : Worldcraft v2.0
+Known Bugs              : Not a 'bug', but something that could suck
+			  is the low sky. When climbing on higher
+			  buildings, you might touch the sky with your
+			  head. Not very cool, but it had to be done
+			  for a better performance, 'cause the
+			  r_speeds are very critical at some places in
+			  the outdoor-area anyhow.
+
+Build Time              : 6 weeks
+
+================================================================
+
+Designer's Notes
+
+As mentioned above, the r_speeds are very high (about 1200) in some 
+places. In the outdoor-area my P-166/V1 went into some trouble. The
+underground-area is fine, so people with low end-systems will probably
+spend most of their time deep in the dungeons ;).
+With a PII/V2 or higher there are no problems.
+People, playing in software mode will see the sky and maybe the trains 
+disappearing to the 4th dimension in critical areas. 
+No tears please, you've been warned ;)
+
+================================================================
+
+Installation
+
+To play this level, extract the file "s-xpress.BSP" into
+your sierra\half-life\valve\maps directory and then start the game.
+Start a deathmatch server and type "map s-xpress" or "changelevel
+s-xpress" in the console. To test it out in single player mode
+start Halflife with hl.exe -console -toconsole -dev. This enables
+you to try some stuff using the cheat codes.
+
+================================================================
+
+Copyright and Permissions
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name s-xpress.BSP and is supplied in a zip file called s-xpress.ZIP 
+that also contains this text document and no other files.
+
+(c) Copyright 1999 cyNic

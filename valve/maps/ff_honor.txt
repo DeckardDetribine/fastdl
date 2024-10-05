@@ -1,0 +1,61 @@
+__________________________________________________________________
+
+ff_honor by [FF]Anomaly
+__________________________________________________________________
+
+Map Name:		ff_honor.bsp
+Author:			[FF]Anomaly
+Author Email:		piouhgd@earthlink.net
+Homepage:		http://www.ffclan.info
+__________________________________________________________________
+Map Description:
+
+Single-Player:		No
+Co-op:			No
+Deathmatch:		Yes
+
+Suggested Players:	6-20
+New Textures:		No
+New Sounds:		No
+New Models:		No
+Secret Areas:		Lots
+
+Description:		HLDM honor hall for the FF Clan.
+__________________________________________________________________
+
+Construction:
+
+Base map:		None
+Prefabs:		None
+Textures:		tp-egyptian by sock@planetquake.com
+			(embedded)
+Known Bugs:		None
+Compile Machine:	Dell Pentium 4 2.4GHz 128mb Ram
+Compile Time:		~10 minutes
+__________________________________________________________________
+
+Copyright Information
+
+ff_honor.bsp		Copyright March 13, 2005
+
+Authors may not use this map as a base for their maps.
+
+You may distribute this map as long as all files remain intact and
+in unmodified form. Permission is granted for internet/BBS
+distribution.
+
+You may NOT distribute this map on any CD or with any commercial
+package without the express written consent of [FF]Anomaly.
+__________________________________________________________________
+
+Props & Shout-outs:
+
+Special thanks to my fellow clan members!
+
+Thanks to DocRock for his great maps and unwittingly loaning me
+his .txt format.
+
+Feedback is welcome!
+
+Thanks for playing it.
+			-[FF]Anomaly

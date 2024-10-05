@@ -1,0 +1,80 @@
+=================================================================================================
+Title                   : Tension
+Files                   : tension_qs.bsp, tension_qs.jrf
+Author                  : QS
+Email Address           : quantumsaint@yahoo.com
+Homepage                : http://members.xoom.com/the_page/hl
+
+
+Description		: This is a remake of one of the SP levels that was in the original HL
+                          adventure. Playing through the set for third time I decided that it
+                          would make a nice small LAN map that could be played with 2 to 4
+                          players. I then took a few screens and proceded to piece it together.
+
+                          I took a few liberties during the recreation such as adding a few 
+                          details of my own and making the below ground tunnels wider and 
+                          taller to give players more freedom to move during a DM game. I 
+                          added the extra area underground to give the tunnels a little
+                          more of a purpose besides just being pipes underground. Its more
+                          like a sewage drain area.
+                          
+                          I also left the tank out to keep the r_speeds low as well as moving
+                          the tunnel exit that was behind the tank over to the area behind the
+                          boxes in the tent/cover. This seems to add better conectivity from
+                          the garage area to the open encampment area.
+                         
+
+Weapons Included        : RPG, Shotgun, 9mmAR, Crossbow, 357, Handgrenades, Satchels, Tripmines
+            
+                                   
+=================================================================================================
+--ADDITIONAL CREDITS--
+
+Playtesters: David (my bro), Darrell, Merit, David, Benny, Scott
+
+Big thanks to Valve for making a excellent game thats just as fun to map for as play.
+Big thanks to TheFatal for the Jumbot.
+
+=================================================================================================
+--PLAY INFORMATION--
+Game			: Half-Life
+Level Name      	: Tension
+Files    		: tension_qs.bsp, tension_qs.jrf
+Single Player           : No	
+Cooperative 		: No 
+DeathMatch              : Yes
+MAP    # of PLAYERS     : 2-4
+             				
+Difficulty Settings     : No
+
+Platform(s) used               : P200mmx 128MB mem Voodoo3 and AMD K6 300 64MB mem Voodoo2
+Editor(s) used                 : WC, ZHLT, Q2 Beaver, Wally
+Known bugs                     : Slight catches when going through the tunnel openings. Some 
+                                 of the red pipe textures would not line up correctly and I
+                                 got a little tired of trying so I left them (hardly noticible). 
+
+New sounds/textures/entities   : No
+=================================================================================================
+=================================================================================================
+--LOADING INFORMATION--
+Download, unzip, and put the .BSP file in your c:\sierra\half-life\valve\maps
+directory (your drive letter may be different). Its that easy...Done 
+
+--Additional Notes--
+
+This map took about 2 weeks to piece together from screenshots taken of the original Valve map
+from the set known as Surface Tension in the original SP adventure. It has had about 20 hours of
+playtesting and has been revised about 10 times over the last 6 months.
+
+R_speeds get a little higher than what I was shooting for but are low enough that LAN games run
+fine. Playing on the internet is possible also as long as the number of players is very low. No
+more than 4.
+
+=================================================================================================
+--LEGAL--
+This Half-Life map/level (Tension, tension_qs.bsp) is (c) 2000 Stephen Smart and Valve Software.
+DO NOT put this level/map on any sort of commercial product or compilation unless
+you have permission from me. You MAY distribute this BSP file through any other means,
+provided you include this .txt file (unaltered) and it is free of charge. Do not modify
+this BSP in any way.
+

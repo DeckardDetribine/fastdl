@@ -1,0 +1,43 @@
+/////////////////////
+//Basic Information//
+////////////////////
+Title: EyeToTheSky
+Filename: dm_eyetothesky.bsp
+Author: Srikanth "RustBucket" Nori
+E-mail: rustbucket@rustbucket.hlgaming.com
+Map size: Small
+WebSite: http://rustbucket.hlgaming.com
+/////////////////////
+//Play Information://
+////////////////////
+Deathmatch: Yes
+Single Player: No (1 start)
+Map description: 
+This level is designed around an observatory. It's a small map good for 1-on-1 fights. I would recommend a maximum of 4 players. This map is my first public release. A waypoint file has been included for the Jumbot. I find that games in this map are fast-paced, and fun.
+
+////////////
+//Credits://
+///////////
+Textures from ShaderLab
+From the SnarkPit(www.snarkpit.com) Orpheus, Gollum and Yak_Fighter for their comments.
+I don't think I've forgotten anyone. If I have, thanks go out to you too.
+
+
+////////////////////
+//Map Information://
+///////////////////
+New Textures: Yes
+New Sounds: No
+Weapons: Gunpowder weapons, Satchel charges, Grenades and Tripmines.
+
+/////////////////////
+//Map Instructions://
+////////////////////
+Unzip the files dm_eyetothesky.bsp and EyeToTheSky_readme.txt into your half-life/valve/maps folder. Unzip dm_eyetothesky.jrf to your jumbot/wpfiles folder. Then play it as necessary in Jumbot or HLDM.
+
+///////////////////
+//Copyright stuff//
+//////////////////
+If you want to use this map for anything other than your own personal use, You must contact me for permission about it. 
+
+YOU ARE NOT ALLOWED TO USE THIS AS A BASE FOR ANY OTHER WORK. Feel free to distribute this , ONLY IF YOU DO NOT ALTER IT IN ANY WAY. Also YOU MUST INCLUDE THIS FILE, unchanged, WITH THE DISTRIBUTION.  Again I just ask you to tell me about it.

@@ -1,0 +1,83 @@
+================================================
+   Half-Life Map Spec Sheet
+================================================
+
+
+------General Information--------------------------------------------
+
+Title		: Plateau
+Release Date	: 3rd April 2001
+Filename		: plateau.bsp
+Author		: Peter Manson
+Email Address	: peter@mickeymurphy.freeserve.co.uk
+Home page	: http://www.kbhse.demon.co.uk/maps/
+Description	: Village located on a plateau -
+Previous Maps	: (1) Enders_game
+		  (2) Rohan
+		  (3) Rohan2
+		  (4) First_arena
+		  (5) Twin
+                                      (6) X-flight
+		  (7) Fling
+		  (8) Cube-x
+		  (9) Odyssey
+
+------Map Information------------------------------------------------
+
+New Textures	: Yes - Load's ;)
+Missing Weapons	: none  
+Secrets		: a few, nothing too hard to find
+Prefabs		: none
+File Size		: 5,912 KB (unzipped)
+Known bugs	: There is a rope which acts as a ladder-but makes a noise
+		   like a metal ladder when you climb it.
+		  There was no way around this.
+
+------Construction---------------------------------------------------
+
+Base		       : From scratch.
+Programmes used	       : WorldCraft 2.1
+		         zoners  v.242	
+		         HLCC   v.131
+Compile Machine	       : Pentium 2,  384 ram
+Construction time	       : 11 days
+Compile time	       :  about 3 hours
+
+
+------Map Instructions-----------------------------------------------
+
+Unzip this file and place "plateau.bsp"  into 
+your half-life/valve/maps directory.
+
+
+----------------------------------------------------------------------------
+------Additional info--------------------------------------------------
+
+nothing  really  =)
+E-mail me if you have any questions regarding this map.
+By the way, this is my tenth map, -Woo hoO
+
+------People who deserve a Thank-you-------------------------------
+
+
+Karl Jones:  ( for his great tutorial almanac)
+    http://www.karljones.com/halflife/almanac.asp
+
+I would also like to thank all the people out there who run, and maintain mapping sites.
+I don't think most people realise how much time and effort is put into keeping these
+site's up to date.
+
+
+-------COPYRIGHT-PERMISSIONS------------------------------------------
+------------------------------------------------------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------

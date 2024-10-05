@@ -1,0 +1,69 @@
+==========================================================
+Title		: Tractorpull
+Version		: 1.0 
+Release Date	: November 20, 2000
+Filename	              : tractorpull.bsp
+Filesize(zipped)       : 127 KB
+Author(s)	              : Old
+Webpage		: http://www.angelfire.com/sk2/oldcreations/                   (under construction)
+Email Address	: old__skool@hotmail.com
+Description	: HLDM 
+                 
+				    
+==========================================================
+---Play Information---
+Game		: Half - Life 
+Level Name	: Tractorpull
+Game Mode	: HLDM
+Players		: 2 - 6
+Known Bugs	: No game play flaws were found, but one minor lighting flaw was noticed
+
+
+---Construction---
+Editor Used		: World Craft 3.33
+Compile Machine		: Gateway Desktop Computer equiped with a pentium 2 - 400 megahertz, 128 megs of RAM  	                               10 gig hard drive, and a NVIDIA Riva TNT video card
+ 
+Base			: The map was actually inspired by death match arena's found on console games such as Turok: rage                                              wars. As far as texturing went, I mainly kept things to quake-like industrial textures.
+ 
+Construction Time	              : Not very long, considering the size of the map. I estimate around 3-5 hours of total work. 
+			 
+---Notes---
+ 
+ Well, right off, I was gunning for a fast paced death-match level that contained action elements of games like Unreal Tournament or Turok: Rage Wars. The map was also meant for small groups of people. In fact, some of the most enjoyable seniors through out my play testing, were one-on-one brawls with a friend and myself. I made ammo distribution relatively simple through out the map to make game play easier and more light-hearted. Texturing was not a big deal when I was making the map. I just used simple texture layering skills I have known for some time now. Lighting was another simple matter, but I feel it turned out nicely (only one light source was used: light environments AKA the sky). Finally, this is actually my very first released map. I hope it fairs well with the public, and makes gamers happy.  
+
+
+---Special thanks---
+
+Rob6264 - Thanks for the times I needed your help!
+UP - Thank you for the play test! 
+Hornet King UK - Thanks for taking the time to review my map!
+
+
+================================================================
+
+Copyright and Permissions
+
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name MAPNAME.bsp and is supplied in a zip file called 
+MAPNAME.zip that also contains this text document and 
+no other files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 2000 Jason Schmidle "Old" 
+
+===============================================================
+
+This template was constructed by Hornetking. 
+http://www.planethalflife.com/hornetking/
+hornetking@planethalflife.com
+
+===============================================================

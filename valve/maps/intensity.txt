@@ -1,0 +1,70 @@
+==========================================================
+Title		:Intensity
+Release Date	:20/07/01
+Filename	:intensity.bsp
+Filesize(zipped):544 kb
+Author(s)	:Dragonfire
+Webpage		:http://home.iprimus.com.au/dragonfire
+Email Address	:dragonfire138@hotmail.com
+Description	:DM
+                 
+				    
+==========================================================
+---Play Information---
+Game		:Half-Life
+Level Name	:Intensity
+Game Mode	:Halflife Deathmatch
+Players		:4-12
+Known Bugs	:The two guns in one area do not function properly.
+
+---Construction---
+Editor Used		:World Craft 3.3
+Compile Machine		:Celeron 566, 192mb ram, S3 Savage4 32mb video card.	
+Base			:Indoor/Outdoor
+Construction Time	:Not sure, a while
+			 
+---Notes---
+This is my third released Half-Life Deathmatch map. I have only created HLDM maps so 
+far but would like to try my hand at Counter-Strike mapping.
+
+E-mail me with any comments on the level, praise or criticism.
+Any feedback is much appreciated.
+
+---Other Released Maps---
+1.Temor Sangrento (HLDM)
+2.Kill Frenzy (HLDM) 
+
+
+---Special thanks---
+I'd like to thank: 
+    -all of the review sites that review this map,
+    -gustavo, apocalypso and other kickass mappers for their inspiration.
+    
+================================================================
+
+Copyright and Permissions
+
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name intensity.bsp and is supplied in a zip file called 
+intensity.zip that also contains this text document and 
+no other files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 2001 dragonfire
+
+===============================================================
+
+This template was constructed by Hornetking. 
+http://www.planethalflife.com/hornetking/
+hornetking@planethalflife.com
+
+===============================================================

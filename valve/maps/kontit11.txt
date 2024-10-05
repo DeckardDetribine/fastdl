@@ -1,0 +1,46 @@
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+ Title         : kontit
+ Version       : 1.1
+ Date          : 20.6.2000 
+ Filename      : redshadow11.bsp
+ Author        : Jussi Kivilinna
+ Email Address : ax@fiiu.org
+ Home Page     : http://ax.fiiu.org/
+ Description   : Half-Life Deathmatch level 
+
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+   [Play Information]
+ Single Player       : No
+ Deathmatch          : Yes
+ Difficulty Settings : No
+ 
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+Put the .bsp file into the following directory:
+
+... \Half-Life\valve\maps
+
+Run your hl.exe with "-toconsole +deathmatch 1" and 
+type in "map kontit11" to the console. 
+
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+   [Construction]
+Editor(s) used  : Worldcraft 3.3
+Known Bugs      : -
+
+Build Time      : ~3 days.
+
+Compile machine : Celeron 450, 64Mb, Voodoo3 3k  
+
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+   [Permissions]
+You are NOT allowed to sell this level with commercial profit in mind,
+without getting my permission first.
+
+If you want to include this map in a non-commercial map-pack or so, 
+you are allowed to, but you have to let me know first.
+
+Feel free to swap it amongst your net friends.
+
+You MAY NOT alter or add to this level without my permission.
+
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±

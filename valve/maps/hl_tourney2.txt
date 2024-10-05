@@ -1,0 +1,75 @@
+================================================================================
+* LEVEL INFORMATION *
+--------------------------------------------------------------------------------
+TITLE                   : Half-Life Tourney 2
+FILENAME                : hl_tourney2
+.zip CONTENTS           : hl_tourney2.bsp
+                          hl_tourney2.txt
+			  hlt2.wav
+		          (property of id Software :P)
+			  [xer3_ sky]
+AUTHOR                  : Svante "xerent" Ekholm
+e-Mail                  : xerent@home.se
+HOMEPAGE                : -
+DATE                    : 14/1/2002
+GAME PLAY TYPE          : DeathMatch
+--------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+--------------------------------------------------------------------------------
+Average DM map
+--------------------------------------------------------------------------------
+SINGLE PLAYER           : No Player Respawn Points
+CO-OPERATIVE            : N0 Player Respawn Points
+DEATHMATCH              : 16 Player Respawn Points
+SUGGESTED PLAYER LOAD   : 4 to 10
+DIFFICULTY SETTINGS ?   : N/A
+NEW TEXTURES ?          : Yes
+NEW SOUNDS ?            : Yes
+CD TRACK #              : 0
+--------------------------------------------------------------------------------
+* CONSTRUCTION *
+--------------------------------------------------------------------------------
+BASE MAP USED ?         : No, New Map
+PREFABS USED ?          : None
+EDITORS USED            : Worldcraft 3.3
+UTILITIES USED          : ZHLT, Wally, Paint Shop Pro
+KNOWN BUGS              : Bounce pads doesnt work when you
+			  jump on them, just walk.
+                          
+COMPILE MACHINE         : AMD Athlon tbird 1100mhz
+                          512Mb RAM
+                          GeForce 2 MX 64Mb
+
+COMPILE TIME		: 20 minutes
+--------------------------------------------------------------------------------
+* OTHER LEVELS BY THE AUTHOR *
+--------------------------------------------------------------------------------
+hl_tourney1
+de_fate
+de_fate2k
+dod_thunder
+dod_flash
+dod_beachhead
+dod_2trenches
+
+--------------------------------------------------------------------------------
+* CREDITS *
+--------------------------------------------------------------------------------
+
+Textures by Shebob (optimized by xerent)
+
+--------------------------------------------------------------------------------
+* COPYRIGHT/PERMISSIONS *
+--------------------------------------------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+This LEVEL may be distributed ONLY over the Internet and/or BBS systems
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+The HLT2.WAV is copyrighted by id Software.
+
+~X~: fixed skyname and entities.

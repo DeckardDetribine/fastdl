@@ -1,0 +1,17 @@
+Multiplayer map for Half-Life and X-Half-Life Deathmatch
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Map Name:      qb_ring.bsp
+Filesize:      1.58 MB
+
+New textures   no
+New sprites    no
+New models     no
+New sounds     no
+New sky        no
+
+Author:        Roslan | [Beta]-Xep | SuddenHit (Xep)
+Author email:  forroslan@mail.ru
+Homepage:      http://www.newcode.narod.ru/
+               http://www.studio-sk.com/
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

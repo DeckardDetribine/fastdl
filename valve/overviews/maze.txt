@@ -1,0 +1,15 @@
+// overview description file for maze
+// Z Min 785 Z Max 17
+
+global
+{
+	ZOOM	2.63
+	ORIGIN	1600 1600 392
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE	"overviews/maze.bmp"
+	HEIGHT	16
+}

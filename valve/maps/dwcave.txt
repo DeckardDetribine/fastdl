@@ -1,0 +1,61 @@
+=====================================================================
+   The Cave
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: The Cave. (Original or what?)
+Filename	: dwcave.bsp
+Author		: Dan Watts (daniel@six6six.demon.co.uk)
+Description	: A small cave setting, intended for LAN play
+Previous Maps	: Hey, my first! Be gentle.
+
+------Credits and Thanks---------------------------------------------
+
+Badger for complaining incessantly about it, Karl and Big Al for testing, Valve for showing some originality in the FPS market and the people at Radium 226 and wavelength for their indirect but large influence (And also radium for making this dandy .txt template!).
+
+------Play Information-----------------------------------------------
+
+Deathmatch	: Uh-hu
+Single Player	: Err, yeah, but only if you're really, really bored.
+Map Description	: A small cave type complex
+How Many Players: 2 or 3. Not had much opportunity to test it with more, but it'll probably suck. This is intended for small LAN's after all.
+
+------Map Information------------------------------------------------
+
+New Textures	: Nope
+New Sounds	: Nah
+
+------Construction---------------------------------------------------
+
+Base		: From scratch
+Editor(s) used	: Worldcraft 2.0
+Compile Machine	: K6-2 450 /w 64 Mb
+Compile time	: Yonks. About half an hour.
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "dwcave.bsp" in
+your half-life/valve/maps directory.
+
+------Additional Info------------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+OK, in places this level does have some shockingly high r_speeds, so on slower computers it may be verging on unplayablity. I definately wouldn't play this level in software, but then I wouldn't play anything in software these days, especially not HL.
+
+This level has not been tested over the internet, because I have a very bad connection down here in the sticks, and I don't want to be landed with a massive 'phone bill.
+
+ANY feedback of any kind is gratefully, even tearfully, recieved. Please?
+
+------Copyright-Permissions------------------------------------------
+
+Authors may not use this level as a base to build additional levels. Unless you really want to, in which case mail me first huh?
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS! If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!
+
+This BSP may be distributed only over the Internet and/or BBS systems.
+You are not authorized to put this BSP on any CD or distribute it in
+any way without my permission.

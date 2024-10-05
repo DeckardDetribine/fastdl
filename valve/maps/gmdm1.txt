@@ -1,0 +1,25 @@
+How to install gmdm1
+===============
+
+This will sound patronising to most people, but I wanted to make sure even those with minimal computer knowledge could install the map correctly.  I assume that WinZip is being used.  Roll on the early-learning guide to ZIP archives!
+
+NOTE: Your computer may be set up to hide file extensions, which will change the appearance of the filename.  For example, "gmdm1.zip" will just look like "gmdm1".
+
+
+
+1.  Extract the file "gmdm1.zip" into your "...valve\maps" directory.  To do this:
+
+Right-click on the file "gmdm1.zip".  Select "Extract to..."
+
+In the first text-entry box, type the correct directory name.  For example, if your Half-Life directory is "C:\games\Half-Life" then enter "C:\games\Half-Life\valve\maps".
+
+Make sure the "use folder names" box is checked.
+
+Press the "Extract" button.
+
+
+2.  Open your "...\Half-Life\valve\maps" directory (the same one you extracted the "gmdm1.zip" file to) and delete the file called "Install gmdm1.txt" (that's this file).  You might also want to delete the original "gmdm1.zip" file, since you won't need it unless you plan to distribute the map.
+
+
+3.  Open the folder "gmdm1 info".  Open the file "gmdm1.htm".  Look at this file for instructions on setting up the map and other information.
+

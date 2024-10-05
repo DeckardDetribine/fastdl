@@ -1,0 +1,80 @@
+sh_2bases (1.2)
+
+by TheCoolGman
+
+-----------------------
+Info
+
+2bases is a simple Black Mesa like map for Scientist Hunt,
+Opposing Force, and Team Fortress Classic. It's a small map
+fit for 6 players or more and takes place at two pumpstations
+in some remote area far out in the desert.
+
+-----------------------
+Fun Facts
+
+This map took about four days.
+
+1.0 - Two days
+1.1 - One day
+1.2 - Four days(OP4CTF issues took up most of the time)
+
+Originally was going to be more inventive with the killing
+contraptions, such as crushers.
+
+This map was going to be more like 2Fort, and was inspired
+by sciblood. I hated that map but wanted to do something
+similar.
+
+-----------------------
+Author's Notes
+
+This is the final release. This started off as a little idea
+for a Scientist Hunt map that I started to create in late May.
+Now it's an OP4 and TFC map as well! So now I've gotten to 
+this point I think I'm pretty happy with this release. 
+So please enjoy!
+-----------------------
+
+Changes 1.0 - 1.1
+
+[ADD]Spectator booth is now playable
+[ADD]Secrets
+[VIS]The map is now more detailed(Cliffs, etc)
+
+-
+
+Changes 1.1 - 1.2
+
+[ADD]New room, the basement/flag room
+[ADD]OP4 and TFC support
+[ADD]Dfish secret is now repeatable by demand
+[FIX]Can now run out the the spectator booth window properly
+[FIX]Pipes not placed correctly, beveled out
+[VIS]Another graphical update, mainly the cliffs 
+and the bases themselves.
+
+-----------------------
+
+Credits
+
+Some textures taken/edited from TFC and Half-Life
+
+-----------------------
+
+Thanks to the following testers and Scientist Killers:
+
+Joebama
+Chuck Bronson
+IngSoc
+Jignod the Mutt
+and anyone else I forgot(Sorry!)
+
+-----------------------
+Contact
+
+Mod DB: http://www.moddb.com/members/thecoolgman
+
+MSN: thecoolgman2011@hotmail.com
+
+Steam: http://steamcommunity.com/id/thecoolgman

@@ -1,0 +1,12 @@
+dm_stalkfire_f1
+Map created with Jackhammer
+
+Mapcreator: Trempler
+Contactinfo: christopher.lembrecht@gmail.com
+
+Compilesettings:
+
+csg: -texdata 90000 -cliptype simple
+bsp: -texdata 90000 -noinsidefill 
+vis: -texdata 90000 -full
+rad: -texdata 90000 -fade 1 -minlight 1 -smooth 200 -smooth2 200 -bounce 12 -blur 1.5 -texlightgap 15.0 -extra 

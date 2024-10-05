@@ -1,0 +1,7 @@
+Map et modèles créés par Dams (laurentdamien@hotmail.com)
+http://d4ms.free.fr
+
+Textures de COUNTER-STRIKE et du jeu original MAXPAYNE.
+Sons du mod ACTION pour Half-Life.
+
+Ce zip contient la map en version jouable (.BSP) et les sources (.RMF)

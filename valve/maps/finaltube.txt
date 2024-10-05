@@ -1,0 +1,95 @@
+* Play Information *
+
+Title 			: Final Tube
+Filename		: finaltube.bsp
+Date                    : 26th November 2000 
+Author			: [SO]Wolf
+Other levls by author	: Combat Camp, Lost Village, Castle Rush,
+			  Steelwork, Lost Village 2, cctf3, cctf6
+			  Pain 1on1, Vacant Town, Heavy Pole
+
+Email address 		: wolf@planethalflife.com / wolf@ironfistmod.com
+
+Home page		: http://www.planethalflife.com/wolfs 
+			  http://www.so-clan.de
+
+Description		: This is maybe my last public Half-Life map.
+			  It is an heavy reconstruction of my early planned
+			  sewers map. It looks totally different now and has
+			  only some Tubes left from the old map. It should
+			  be heavy fun to play that baby and i spent some hard
+			  weeks in the optimization of gameplay and structure
+			  I think this map is something unique and has some elements
+  			  from early Quake days in a few spots.
+
+			  
+Additional Credits to   : spacial thanks to [SO]Fritzman (fritzman@so-clan.de),
+			  who spent much hours with me in the map to test gameplay.
+			  And special thanks to Zoner, who made this kind of map
+			  opossible with this techniques.
+
+Single Player           : no
+Cooperative Player      : no
+Deathmatch Player       : DM and Teamplay (4 players up to 16)
+Difficulty Settings     : no
+New Textures            : no
+CD Track                : no
+
+* Construction *
+Base			: new Level from scratch
+Editor(s) used          : Worldcraft 3.3
+Construction Time	: around 160 hours constructing and testing...
+Compile Machine		: Duron @ 728MHz 192MB
+Compile time		: qsg:	   42 sec.
+			  qbsp2:   28 sec.
+			  qrad:  8700 sec.
+			  vis:     76 sec.
+			  =========================
+			  overall: around 8800 sec.
+
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+
+Itmes placed:	
+
+	Weapons:		Ammo:			Items:
+	==================	==================	===========================
+	357: 		4	357:		5	battery:		 9
+	9mmAR: 		4	9mmAR:		9	heatlhkit:		12
+	Crossbow:	2	ARgrenades:	3	longjump:		 2
+	Egon:		1	buckshot	6	healthcharger:		 3
+	Gauss		1	Crossbow	4	recharge:		 1
+	Handgrenade	2	gaussclip	1	info_player_deathmatch:	24
+	RPG		1	rpgclip		3	info_player_start:	 5
+	Satchel		3	
+	Shotgun		5	
+	Snark		3
+	Tripmine	3
+
+
+
+Bottomline:
+		Try to find some "secrets" and have fun...
+		Mails with comments about this map are welcome. feel free
+		to send me anything you want to say about this work. 
+		I need your feedback, because i build this and all of my maps 
+		for YOU and all players around the net. 
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+
+cy@ Wolf     
+
+Wolf´s District 2000     http://www.planethalflife.com/wolfs
+

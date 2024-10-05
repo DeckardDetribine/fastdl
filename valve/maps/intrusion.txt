@@ -1,0 +1,74 @@
+==========================================================
+Title		:Intrusion
+Release Date	:12/12/01
+Filename	:intrusion.zip
+Filesize(zipped):3,161 kb
+Author(s)	:Dean "Dragonfire" Wickham
+Webpage		:http://www.dragonfire.ipfox.com
+Email Address	:dragonfire138@iprimus.com.au
+Description	:A HLDM map with an old Lodon street style theme.
+                 
+				    
+==========================================================
+---Play Information---
+Game		:Half-Life
+Level Name	:Intrusion
+Game Mode	:Halflife Deathmatch
+Players		:2-8
+
+---Construction---
+Editor Used		:World Craft 3.3
+Compile Machine		:Celeron 566, 256mb ram, 64mb GeForce 2 MX400 video card.	
+Base			:An old city area
+			 
+---Notes---
+This map was originally made for counter-strike but I have converted it to go with both 
+counter-strike and HLDM. You can get the CS version on my website.
+The map comes with custom textures, sky map and a sound. Just extract teh zip to you valve 
+directory and it will install the files to the appropritate directories.
+
+E-mail me with any comments on the level, praise or criticism.
+Any feedback is much appreciated.
+
+---Other Released Maps---
+1.Temor Sangrento (HLDM)
+2.Kill Frenzy (HLDM) 
+3.Intensity (HLDM)
+4.Skateboard Madness (CS)
+5.Skateboard Madness V2 (CS)
+6.Intrusion (CS)
+
+
+---Special thanks---
+I'd like to thank: 
+    -all of the review sites that review this map,
+    -gustavo, apocalypso and other kickass mappers for their inspiration.
+    
+================================================================
+
+Copyright and Permissions
+
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name intrusion.bsp and is supplied in a zip file called 
+intrusion.zip that also contains this text document and 
+the other files that are required to run this map and no other files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 2001 dragonfire
+
+===============================================================
+
+This template was constructed by Hornetking. 
+http://www.planethalflife.com/hornetking/
+hornetking@planethalflife.com
+
+===============================================================

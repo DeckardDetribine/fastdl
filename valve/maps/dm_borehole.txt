@@ -1,0 +1,58 @@
++---------------------------------------------------------------+
+|                          DM_BOREHOLE				|
+|                         BY  VICTOR-933			|
++---------------------------------------------------------------+
+| SUMMARY:							|
+|								|
+| The Great Dane Mining Company's operations on the Red Planet	|
+| have turned a considerable profit for many years, thanks to	|
+| Mars' large deposits of rare metals. In their haste to	|
+| maximize cash flow, however, Great Dane pushed engineers to	|
+| deploy an experimental drilling method without adequately	|
+| surveying the	geology of the region. Reckless drilling has	|
+| destabilized the entire area, and as long-frozen fault lines	|
+| have begun to move once more, panic has set in among the	|
+| miners who are convinced -- perhaps rightly so -- that their	|
+| benevolent employer would rather bury them alive on Mars than |
+| spare the expenses to evacuate them all.			|
+|								|
+| Besides, too many of them know the truth behind the impending	|
+| disaster in Complex 29, and dead men tell no tales...		|
+|								|
++---------------------------------------------------------------+
+| INSTRUCTIONS:							|
+|								|
+| Extract this archive to your half-life/valve folder.		|
+|								|
+|								|
+| IF NECESSARY:							|
+|								|
+| Place WAV files in half-life/valve/sound/dm_borehole		|
+| Place BSP file in half-life/valve/maps			|
+| Place SPR files in half-life/valve/sprites/dm_borehole	|
+|								|
++---------------------------------------------------------------+
+| DEV NOTES:							|
+|								|
+| Peak R_Speeds are around 1250.				|
+|								|
++---------------------------------------------------------------+
+| CREDITS:							|
+|								|
+| TEXTURES:							|
+| 	HHH316 (hhh316.deviantart.com)				|
+| 	DemolitionDan (demolitiondan.deviantart.com)		|
+|	Victor-933						|
+|								|
+| SOUNDS:							|
+|	Doom 3							|
+|	(Hacked together and altered by Victor-933)		|
+|								|
+| SPRITES:							|
+|	CAVEIN_FIX.SPR from Gunman Chronicles (Rewolf Inc.)	|
+|	All other sprites by Victor-933				|
+|								|
++---------------------------------------------------------------+
+| 	      Find more of my stuff on Gamebanana!		|
+| 	    http://www.gamebanana.com/members/213517		|
++---------------------------------------------------------------+

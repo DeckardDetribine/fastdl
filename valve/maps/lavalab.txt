@@ -1,0 +1,163 @@
+Level Details
+Title: LavaLab
+Version: 1.21
+Release Date: May 22, 2005
+Get It At: LavaLab
+Readme: lavalab.html -- the file you are reading now.
+Variants: LavaLab (lavalab.bsp; 23 spawn points)
+LavaLab: Erupt (lavalab_erupt.bsp; 14 spawn points) (see 'Why are there two BSP files?')
+Author: Peter Jones
+Contact: Contact Pete
+Website: Pete's Place :: Mapping
+
+Play Information
+Game: Half-Life
+Game Mode: DeathMatch
+Level Name: LavaLab
+Players: 2-10 (but see 'Why are there two BSP files?')
+Known Bugs: A couple; see 'Comments'.
+Base: New level from scratch.
+New Graphics: None.
+Installation: Place the .bsp files in your valve\maps directory.
+
+Build and Compile Information (Reference)
+Build Time: Under construction (on and off) for at least two months.
+Editor: Valve Hammer Editor 3.4
+Additional: Zoner's HL Compile Tools 2.5.3_1.7P13
+
+Final Compile Parameters
+hlcsg.exe lavalab
+hlbsp.exe lavalab
+hlvis.exe -full lavalab
+hlrad.exe -extra -dscale 1 -bounce 1 lavalab
+opt_plns.exe lavalab
+Compile Time (on 3GHz P4)
+
+lavalab: 35m 15s
+lavalab_erupt: 5m 1s
+Other
+Description:
+
+Night.
+
+This is a research lab nestled precariously in the caldera of an active volcano. Above the close-study platform, enclosed in a cube of concrete, are three levels: storage, recreation, control. The only means of access for scientists travelling to and from the lab is the weekly helicopter drop to the helipad on the roof.
+
+Budget cutbacks resulted in a few shortcuts during construction, and the last volcanic murmur caused some critical damage in the control room.
+
+Story:
+
+What story? It's DeathMatch: just kill anything that moves, and have fun!
+
+Features:
+
+The weapons that get the most usage appear to be the AR 9mm and the shotgun; ammunition for both, and AR grenades, are plentiful. There are also several crossbows scattered around the place, and a couple of sniping positions with good views of the roof (but poor coverage of the teleport pads which get you up to them! Don't sit still for too long!) At least one of these sniping positions could be considered a "secret", as could the location of the Egon Backpack Gun.
+
+Some locations can only be reached via a teleport pad.
+
+Why are there two BSP files?
+
+Just because.
+
+A week or two before I put the finishing touches on LavaLab, a couple of us started playing an unfinished version. Play was quite fast even with two people, and with three it became rather chaotic. Nothing wrong with a little chaos, right? Then, when we started playtesting the "finished" version, everybody agreed that it was better, but the play dynamic had completely changed and it became a much slower-paced gaming experience, more tactical than berserker. It no longer seemed particularly suited to two player games.
+
+Because I often play HLDM in very small groups (and therefore, any level I build in the immediate future must be playable with only two players) I decided to do a little tweaking of 'visgroups' in Hammer, enabling me to generate both "small" and "large" versions of LavaLab -- although those are not, perhaps, the most accurate descriptions because the actual playing area does not change by much.
+
+Then, because of continual problems with high r_speeds (see Comments) I decided to generate a third variant which got rid of all the problematic glass -- essentially as a test to see if my theories were correct. (Only some of them were!) I include this variant for those who want a faster game -- although it still suffers from rather high r_speeds, unfortunately. Easiest explanation: volcanic eruption has entombed the lab and trapped everybody inside. ("Cabin fever" makes a great explanation for deathmatch...)
+
+Those of you who have been keeping count will be wondering why there are only two BSP files, since I apparently made three versions. Quite simply, I came to the conclusion that lavalab_erupt was quite a bit better than lavalab_small, and so I have simply dropped lavalab_small, both from this distribution and from the source file itself. It was, dare I say, the weakest link.
+
+I used to be indecisive...
+
+LavaLab ('Large') (lavalab.bsp) is the finished product. It is probably suitable for 3-10 players, and is likely to appeal to the closet sniper in us all.
+LavaLab: 'Erupt' (lavalab_erupt.bsp) is a smaller, faster paced, more claustrophobic version, probably more suitable for 2-6 players, and is likely to appeal to your inner berserker. All external areas are gone, sealed off when the volcano erupted and encased the entire lab in molten rock. No sniping (well, not much sniping.) Just raw, visceral action.
+Try them both. Let me know what you think.
+
+Feedback:
+
+I would appreciate feedback from anybody who likes (or dislikes) this level. Especially since this is my first level, I have no idea whether I am getting it right or not! So, if you have something to say about this level, or an error to report, please contact me.
+
+Without feedback, how can I hope to improve? :-)
+
+Playtesting:
+
+This level has been extensively playtested by the following people, all of whom have made comments contributing to the finished product:
+
+Shane Barnard
+Ben Davies
+Peter Jones
+Kim Stallard
+Grant Wheatley
+It seems to be slightly slow with only two people -- connectivity between all areas is quite good, but it is just a little large. Three or four seems to work out pretty well. I suspect it would support as many as eight or ten players before becoming too crowded; we have not, unfortunately, tested it with more than four at a time.
+
+Comments:
+
+The original design criteria that fueled the creation of this level was, quite simply, "breakable glass walkways" (suggested by Ben Davies.) Since this was my very first attempt to build a level with the 'Hammer' level editor, the initial concept went through several major revisions as I started learning what was and was not possible with the editor. A couple of the attempts that got ditched along the way may yet be revived; I now know what I was doing wrong!
+
+The first completed incarnation of LavaLab suffered from severe "blackout" problems when running under the software video driver. In the process of minimising such problems, I have trimmed back much of the glass which was originally used: walkways and complex windows alike. I realise now that this level suffers from essentially the same problem as being enclosed in a "skybox" or "worldbox", something which every level building tutorial I've seen specifically recommends against. Now that I think I understand more of what the compiling process is doing I know why this is a problem -- if this hadn't been my first level, I would never have attempted to make such a design work...
+
+(I also realise that it wasn't necessarily the glass, per se, that was the big problem; it was simply one contributing factor of many.)
+
+Revision History
+
+Version 1.21 -- May 22, 2005
+
+Just when I thought this level was as finished as it was going to get, I read a review (at The SnarkPit) of somebody else's first level -- and one of the errors which got mentioned made me realise that LavaLab probably suffered from the same silly error. Sure enough, I tested it, and the health charger could be used through the wall it was mounted on.
+
+Now it can't!
+
+Version 1.2 -- April 5, 2005
+
+This is primarily being re-released to celebrate the full release of SlimeLab. I have finally saved the source out as two separate files and performed a few minor tweaks, but there was very little that actually needed changing in these two levels, even after a year of play...
+
+Version 1.11 -- March 15, 2004
+
+Texture fix only.
+
+Version 1.1 -- February 27, 2004
+
+Primarily a bug fix release, but tweaked a few other details too.
+
+Dropped the 'small' variant; being in the middle of the three, we hardly ever played it, and whenever we did, it just did not seem as good as either of the other variants.
+Tweaked ladders and handrails so that they behave in a more realistic manner, with regard to weapon fire. Bullets, grenades, etc. will now pass through ladders and handrails. Mostly.
+Added several ambient sounds: computers humming, water dripping, crickets and birds making suitably annoying noises...
+Fixed a glitch which created an "invisible ledge" where you should fall but didn't. Now you do!
+Version 1.0 -- January 28, 2004
+
+Initial release; included three variants: 'large', 'small', 'erupt'.
+
+Known Bugs
+
+There are places (some of which have me completely baffled) where the so-called "r_speeds" value climbs above 800 (even above 1000!) I know this is A Bad Thing, but the cause of the high "r_speeds" is also, in part, the design criterion of the level; I cannot do much more about it without ripping the heart out of the level. I had to draw the line somewhere (and I figured I was due some leeway since this is my first level...) Unfortunately I do not have access to a "slow" machine, so I do not know how much this will affect playability. It runs fine on a 1.8GHz Celeron.
+"Blackouts" occur (under the software video driver) when the "r_speeds" value gets too high and the engine has to drop some textured surfaces. I seem to have eliminated blackouts in both variants, but if you find a spot where it still happens, please let me know.
+When the doors open they have a spoken message, eg "Security access granted", etc. This message only seems to play a certain number of times -- the fire door message only occurs twice, for instance -- and then it stops playing. I do not know if this is a limitation of the engine, or something I am doing wrong.
+The teleports are silent because I feel the level works better with silent teleports. That's not a bug, it's a feature!
+Other Credits:
+
+Thanks go to the following:
+
+Valve Software, for producing this great game, and giving us the means of creating our own levels.
+The Playtesters (listed above) for their feedback and suggestions which helped make this level better than it would have been without them. Also for their "gentle nudging", which helped me stay focused on finishing!
+TWHL: "Half-Life Worldcraft / Hammer Mapping Tutorials and Resources" which provided much of the information I used to get over the Hammer learning curve and make this level.
+Hyperion Glint for the toilet stall prefab. I was looking for a prefab to save myself a little time, and this stall seemed to fit perfectly with the existing 'Level 2' colour scheme. I found it at the Prefab Lab (under 'Structures'.)
+Mark 'MotherGoose' Wilkinson for his informative article, The Art of Ladder Making, which enlightened me with regard to my own ladders' flaws. I knew how my ladders were behaving, but until I read this article, I did not realise there was a better way!
+Other Levels:
+
+None (yet). LavaLab is my first Half-Life level. (As noted above, however, there are two variants of this level, LavaLab and LavaLab: Erupt, available separately from here.) Of course, if you like LavaLab, keep an eye on my website because I am likely to be making more. (In fact, I am already developing the concept of my next level...)
+
+I built a couple of Doom SP levels, way back when, but they were never released to the general public.
+
+Copyright and Permissions
+
+Both variants of this level are copyrighted 2004 by Peter Jones.
+
+You MAY distribute this level through any electronic network (internet, FIDO, local BBS, etc) provided you include this HTML file, and keep the ZIP archive intact.
+
+You MAY include this level in the map rotation of a "free" internet HLDM server, but if you do so I'd really appreciate an email to let me know you're using it! You MAY NOT include it on your server if you are charging for access to play on the server!
+
+This level MAY NOT be included with any compilation packs UNLESS you ask me first and I grant permission.
+
+You MAY NOT make a profit from this level without direct signed permission from me.
+
+You MAY NOT modify this level (or any of the files in this distribution) in any way, nor may you use it as a base or template for your own level.
+
+In other words: give it to your buddies, play it as much as you like, but give credit where credit is due, and if you are going to make money from this level, I want some too!

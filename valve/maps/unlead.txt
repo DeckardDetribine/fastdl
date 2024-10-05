@@ -1,0 +1,37 @@
+==========================================================
+Title		:Unlead
+Version		:2.0
+Release Date	:29/7/99
+Filename	:unlead.bsp
+Author(s)	:Riccardo Margheri
+Email Address	:leoci@tin.it
+Description	:Deathmatch
+
+
+==========================================================
+---Play Information---
+Game		:Half-Life
+Level Name	:Unlead
+Single Player	:No
+Cooperative	:No
+Deathmatch	:Yes
+Difficulty Settings:No
+New Sounds	:No
+New Graphics	:No
+Known Bugs	:None known
+
+
+---Construction---
+Editor Used		:Worldcraft V2.0
+Base			:Built from scratch
+Construction Time	:half life!
+Compile Time		:3.5 hrs
+Level size              :1.34MB
+Zip file size		:520KB
+
+---Notes---
+This is my first level.
+I think it's good enough, and there are some good things inside.
+
+P.S. Please send any comments to Riccardo Margheri  leoci@tin.it
+

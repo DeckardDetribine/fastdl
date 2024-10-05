@@ -1,0 +1,95 @@
+"Imagination is more important than knowledge" - Albert Einstein
+
+http://www.planethalflife.com/aerotic/
+
+LUNAR SPACE DEPOT
+
+6/10/00
+=========================================================
+
+Title				: LUNAR SPACE DEPOT
+Filenames			: lsdepot.bsp, lsdepot.txt
+Description       	: Multi Play Arena
+Author			: Paul A. Bullman
+E-mail			: pab05f@mizzou.edu
+
+
+=======================================================
+
+* Installation *
+
+Make sure the map file(lsdepot.bsp) is located in the valve/maps directory.
+There are no additional files needed.
+
+======================================================
+
+* Play Information *
+
+Single Player          :No
+Cooperative            :No
+Deathmatch             :Yes (2 and up - ideal for 2 to 6)
+New textures           :No
+New Models             :No
+New Sounds             :No
+  
+* Construction *
+
+Editor		     :Worldcraft 3.3
+Base                   :Scratch
+Creation time          :Over 4 Days
+Prefabs		     :None
+
+=======================================================
+
+* Author/Map Information *
+
+I am currently working on two bachelor's degrees. One of which is Business Management, the other being Psychology at the
+University of Missouri.
+
+If you like what you see, and have an *interesting job offer*(full time, paid, relocation, etc) pass it along. I am not actively
+seeking a position anywhere, but I will certainly entertain any offers.
+
+This map was designed while working on a "yet to be announced project". I needed a brief break from that project, so I chose
+to do a different genre on my current favorite game, Half-Life.
+
+The scene of this map is an alien planet. The base is built up from a ruined station(hence the older, rusty textures in the middle and bottom).
+
+As far as R_Speeds are concerned, the from beta to final I lowered them quite a bit in a few areas. Unfortunately, I was
+forced to remove some really cool details(i would rather cut detail, than good gameplay). Parts of the map hit around
+560 or so, but nothing a decent PC of todays standards can't handle. The project I am currently working on has poly counts
+around 800 -1200 w/o curves so it was a challenge to get below 600 with this map;-). 
+
+For those of you who haven't downloaded Worldcraft 3.3 what are you waiting for? The new opengl renderer is handy. I've used
+all sorts of editors in the past(stoneless, qoole, qeradiant, older worldcrafts, etc) and this is my favorite half-life editor now.
+
+Enjoy!
+
+=======================================================
+
+* Other Stuff *
+These people helped out in some way or another:
+Pete Weatherby - http://www.planetquake.com/shadowdane (some great maps here!)
+David Hof - http://www.jshell.org
+Joshua A. Bevan - http://www.shistudios.com
+Rastereizer
+
+
+Music Listened To While The Map Was Being Created:
+CCR
+Dave Matthews Band
+The Doors
+Simon and Garfunkle
+
+Entities fixed by ~X~
+=======================================================
+
+* Permissions *
+
+You may not sell this without my expressed written permission. Any violations will be dealt with
+to the furthest extent of the law.
+
+For completely free uses, You may copy the *.zip to any media instrument as
+long as the original files remain intact(lsdepot.txt, lsdepot.bsp).
+
+If you have any questions or comments please direct them to pab05f@mizzou.edu.
+

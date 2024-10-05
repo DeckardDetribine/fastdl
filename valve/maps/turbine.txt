@@ -1,0 +1,64 @@
+* Play Information *
+Title 			: Dam Turbine
+Filename		: turbine.bsp
+Author			: Joel 'DeathMongrel' Caesar
+Other lvls by author	: Terraform I for Q2
+Email address 		: jcaesar@mediaone.net
+Home page		: http://www.digitalos.com
+Description		: Fight each other on the top of a dam,
+                          below it, inside it.  Wreak havoc in
+                          the turbine room and firebomb the
+                          control room.
+
+                          Plenty of snipe points.. bunch of
+                          shadows.. and no real dead ends..
+                          What else can I say?  It's a dam.
+ 
+Additional Credits to   : 
+
+Single Player           : No
+Cooperative Player      : No
+Deathmatch Player       : 6-12+
+CTF2			: No
+Difficulty Settings     : No
+New Textures            : No
+CD Track                : 2
+
+* Construction *
+Base			: None
+Editor(s) used          : Worldcraft 2.0 beta
+Compile Machine		: 500MHz 300A, 256MB RAM, 31GB HD ;)
+Compile time		: About 1.5-2 hours
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+R_speeds average to 400-450 for most areas, few areas/positions
+hit a peak of approximately 700 or so.  Clients at 300MHz or
+higher with 3D accel. should have no problems.  Servers with
+8 players (including the client on the server) seem to be fine
+on systems 350MHz or higher.
+
+Special Thanks to Czar Vargo, Dank_09, Hunahpu, and Scud for the
+playtesting!
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels.
+If you like sections of the level and wish to use parts of them in
+other maps (like TFC, etc.) please contact me, and we can talk about
+it. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems,
+which do not charge extra for access to this file (other than standard
+ISP connection charges).
+
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+

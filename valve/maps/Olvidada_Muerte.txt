@@ -1,0 +1,13 @@
+copy the Half-Life folder into your C:\sierra folder 
+
+
+
+================================================================
+Title                   : Olvidada_Muerte (forgotten death)
+Filename                : Olvidada_Muerte.bsp
+Author                  : cyrus258 
+icq #			: 32410694 
+Other maps i made	: bandcamp, Hypothermia 
+maps in the works	: peyote (need time for tweaking), two others unamed (both about 90% done, again needs time)
+
+sky and textures are from tfc, with a couple custom textures =]

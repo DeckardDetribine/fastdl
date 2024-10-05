@@ -1,0 +1,17 @@
+================================================================
+Title                   : STALKBUNKER
+Release Date            : 17-12-2002
+Filename                : Stalkbunker.bsp
+Author                  : Hench
+
+Web site                : www.move.to/henchmen
+			   
+Description             : Dedicated to the good old Valve Maps  / have fun !!
+
+
+Installation
+------------
+
+Unzip the file Stalkbunker.bsp into your ...\sierra\halflife\valve\maps directory
+
+

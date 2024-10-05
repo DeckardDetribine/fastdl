@@ -1,0 +1,33 @@
+Nebula
+======
+Skybox by Justin Fisher 
+
+
+This Skybox comes from "Gunmetal" by Mad Genius Software, and has been converted 
+for Quake III Arena. Textures copyright 1998, Justin Fisher. 
+
+You may include these textures with your levels, provided that they are credited to 
+Justin Fisher (the textures, not the levels :). However, the textures may not be 
+used in commercial products or for commercial purposes without permission. You may 
+distribute these textures as level building assets, but must include this file.
+
+
+ABOUT:
+Overhead sun (well, more like extra-bright star) and nearby nebula spanning almost 
+180 degrees of the view. Well suited to space maps.
+
+Panels are 256x256, and you may notice that three of the panels use the same image 
+(they depict only stars). In Q3A however, I don't know of a way to get it to use 
+the same image on multiple sides, so there are 3 identical panels used here.
+In other words, the RAM cost of this sky could be greatly reduced if there is a way
+to tell the engine to use the same texture for three of the panels, but currently 
+I'm doing it the crude way :-)
+
+Enjoy your new world.
+ - Justin
+
+
+E-mail: JAF60@student.canterbury.ac.nz
+Homepage: http://www.geocities.com/soho/lofts/1121
+
+Skyboxes: http://quake.stuff.gen.nz

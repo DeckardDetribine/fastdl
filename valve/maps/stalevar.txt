@@ -1,0 +1,59 @@
+===========================================================
+stalevar by: Leo
+===========================================================
+Map Name	: stalevar_bsp
+Author		: Leo
+Site		: http://hldm.org
+
+Testers:
+		[UMI7EPATOP] HuKuTa (ET^Nik)
+		seva2000
+		Dr.Cheater
+		[UMI7EPATOP] Pontiy (ET^Pontiy)
+		DrRoy
+		Kiler
+		Nitro
+============================================================
+LEVEL DESCRIPTION:
+
+Single Player:	No
+Co-Op:		No
+Deathmatch:	Yes
+		
+============================================================
+Ã¿– INFORMATION:
+
+ Base             : None
+ Editor(s) used   : Valve Hammer Editor 3.4
+ Other Programms  : ZHLT by Vluzacn, Wally 1.55b, GIMP 2.8.2
+ Known Bugs       : No
+ Build Time       : 3 months
+ Compile Machine  : Pentium 4x2 3GHz / 2048 Mb
+ Compile Time     : 1h 30m
+ Average R_Speeds : 950 wpoly
+
+============================================================
+INSTALL:
+Copy files to your /valve/ directory
+
+
+==========================
+COPYRIGHT STUFF
+
+Authors MAY use this level as a base to build additional levels as long 
+as you give me credit in your read me as using this map as a base to 
+build your level.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet.
+
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+Please visit HLDM.org for any bug reports or questions.
+
+(c) Copyright 2015 Leo
+HTTP://HLDM.ORG

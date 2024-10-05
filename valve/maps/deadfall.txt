@@ -1,0 +1,66 @@
+==========================================================
+date: Tuesday January 23, 2001
+HLDM Level for PHL Mapping Contest
+==========================================================
+title:            Dead Fall
+file:             deadfall.bsp
+author:           Panic 
+email address:    kste1149@earthlink.net 
+homepage:         http://panic.hlcenter.com
+description:      4-12 FFA
+		
+Another one of those damn storage facility located in the mountains of Black Mesa.  
+
+==========================================================
+play information:
+
+single player     no
+cooperative:      no
+skills 0,1,2,3:   no
+deathmatch:       FFA (4-12 ppl)
+new sounds:       no
+new graphics:     yes	1337 PHL logo!
+new music:        no
+
+
+how to start      start a multiplayer game and 
+                  select deadfall from your 
+                  map list.
+                  
+==========================================================
+construction:
+
+base:           none
+tools:          WorldCraft 3.3 by Valve, Zoner's Compiling Tools by Sean Cavanaugh, & HLCC
+known bugs:     None that I know of, except rspeeds are higher in one spot than I wanted it to be.
+build time:     About a week and a half.
+
+==========================================================
+Thanks:  	    Surreal
+		    Torque[MOD]
+		    Schrade
+		    edge_of_fire
+		    repent
+		    PHL and Valve for giving us the chance to do something like this.	    	   
+
+Thanks to any others......Couldn't have done it without you guys.  Well I could have, but it wouldn't have been as good  :)
+
+Visit: 	    http://www.mapcore.com/~schrade/ (Great mapper, and damn good friend)
+	 	    http://www.planethalflife.com/edgeoffire/ (Great beta tester, and friend)
+	    	    http://www.drs.purespace.de/ (Coolest clan)
+		    http://www.planethalflife.com/modmapper (Good mapping friend, and leader of the mod Journeyman and Morbid Inclination)
+
+==========================================================
+Distribution and legal: 
+
+Copyright (c) 2001 Panic, kste1149@earthlink.net
+All rights reserved.
+
+Portions copyrighted by Valve, Inc.
+This level may be electronically distributed only at 
+NO CHARGE to the recipient in its current state, MUST 
+include this .txt file, and may NOT be modified IN 
+ANY WAY. UNDER NO CIRCUMSTANCES IS THIS LEVEL TO BE 
+DISTRIBUTED ON CD-ROM WITHOUT PRIOR WRITTEN PERMISSION.
+
+==========================================================

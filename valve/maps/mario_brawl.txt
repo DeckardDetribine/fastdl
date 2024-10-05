@@ -1,0 +1,137 @@
+=======================================================
+mario_brawl: a Half-Life Deathmatch Map Experience by DocRock
+=======================================================
+=======================================================
+
+Map Name:                       	mario_brawl.bsp
+Filesize:                       	16.6 mb
+Author:                         	DocRock
+Author email:                   	docrock10@cox.net
+Homepage:		http://docrocksmaps.homestead.com/docmaps.html                    
+wadincluded in map:          	newmario.wad
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:                 	No
+Co-Op:                         	No
+Deathmatch:                     	Yes
+Suggested Players:             	5-15
+New Textures:                   	Yes 
+New Sounds:                     	Yes
+New Models:                     	No
+No. of Secrets:		hmm?
+No. of Rats:		4
+Spawnpoints:		32
+
+Map description:		Made the for the TWHL 'Remake a Game' Contest
+
+Based upon the original stand-up video game Mario Bros
+
+Game:		Mario Bros.
+Platform:		Stand-Up Arcade
+Level Name:	Round 1 (each level had its own round number)
+
+See .jpg attached file for what I based this map on.
+
+=======================================================
+CONSTRUCTION:
+
+base map:                       		None
+prefabs:                        		None
+editor used:                    	 	Hammer 3.5 beta
+utilities used:                 		Zoner's Half-Life compile tools, Paintshop Pro 7, 										Wally, sound recorder	
+known bugs:                     		None
+compile machine:                		Intel Pentium 4   2.53 GHZ
+compile time:                   		15 minutes
+
+=======================================================
+INSTALLATION:
+
+
+1. 	Run Winzip and unzip mario_brawl.zip.
+
+2. 	Open the mario_brawl folder and place the mario_brawl.bsp, 							mario_brawl.res, and mario_brawl in your valve/maps folder.  
+
+3.	Place the wav files in: valve/sound/mario10.
+
+4.	Place the sprite files in: valve/sprites.
+
+=======================================================
+OTHER LEVELS BY DOCROCK:
+
+Half-Life 1		Half-Life 2		Half-Life 1 DM Source
+
+mario_world
+mario_sky
+kitkat_jewel		dm_dm			dms_transism	
+hardtek			dm_altepa		dms_cliffside
+eternal			dm_snowblind		dms_nightmare
+farmland3		dm_farmland		dms_nightmare2
+mario_air			termination		dms_mario_air
+mario_killbox		dm_mesabase		
+sandspyre			dm_nightmare			
+kitkat_space		dm_nightmare2
+greyscale
+kitkat_express
+kitkat_factory
+hardcore
+kitkat_beach
+kitkat_klub
+...and many more
+
+=======================================================
+SPECIAL THANKS:
+
+babykitkat -
+My sweet love, this map is for you, as are all of my maps.  You saved my life, 
+and now make my life happier and happier by the day.  Thank you bebe for everything.
+I love you.
+
+Thanks to TWHL for giving people opportunites to make maps for contests.
+
+BETA WHO HELPED TEST THIS MAP:
+babykitkat
+qUiCkSiLvEr
+Silly
+*jud@s*
+>>CreepItAll<<
+Sandra
+[USA] Shadow Santa
+Boogy Man
+Darth Sailor
+and others
+
+=======================================================
+DOC'S NEXT MAP....COMING SOON:
+
+In the works:
+
+kitkat_arena
+
+for TFC2
+mario_ctf
+
+
+=======================================================
+COPYRIGHT STUFF
+mario_brawl             © March 2008  by DocRock
+
+Authors MAY NOT use this level as a base to build additional levels unless you get
+permission from me.
+
+Authors MAY NOT use the .wad in this map unless you get permission from the
+artist.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet.
+
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+PLEASE PLEASE PLEASE email me with any comments about this map or any 
+of my other maps because I love feedback good or bad...and I will do my 
+best to answer any and all emails regarding my maps.

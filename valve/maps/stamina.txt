@@ -1,0 +1,63 @@
+==========================================================
+Title		:Stamina
+
+Release Date	:8/8/01
+Filename	:Stamina.zip
+Filesize(zipped):1.55mb
+Author(s)	:Larry P. (Chronon)
+Webpage		:www.halflifeobsession.com  
+Email Address	:phatnl5@home.com
+Description	:Half-Life deathmatch
+                 
+				    
+==========================================================
+---Play Information---
+Game		:Half-Life
+Level Name	:Stamina
+Game Mode	:deathmatch
+Players		:4-10
+Known Bugs	:none known
+
+
+---Construction---
+Editor Used		:wc 2.1
+Compile Machine		:gateway 256 ram pIII550	
+Base			:no
+Construction Time	:a couple of weeks off and on
+			 
+
+
+E-mail me with any comments on the level, praise or criticism.
+Any feedback is much appreciated.
+
+
+---Special thanks---
+I was inspired by tig_ub tig_qui and other Panic and tigger maps I also like the scary maps all of them.
+
+
+================================================================
+
+Copyright and Permissions
+
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name MAPNAME.bsp and is supplied in a zip file called 
+MAPNAME.zip that also contains this text document and 
+no other files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 2001 Larry Puckett
+
+===============================================================
+
+This template was constructed by Hornetking. 
+http://www.planethalflife.com/hornetking/
+hornetking@planethalflife.com

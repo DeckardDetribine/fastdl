@@ -1,0 +1,52 @@
+DM_CAVERNOUS
+BY  VICTOR-933
+
+SUMMARY:
+
+A futuristic cave map in the same style as DM_Fracture, DM_Borehole and DM_Crystalline. All weapons are present. Recommend max 10-12 players.
+
+
+
+STORY:
+
+The ground heaved and erupted. Long-frozen faults began to move, the product of reckless drilling in Mars Base Section 23. The Great Dane Mining Company, in typical fashion, opted to abandon the hundreds of miners there to their fate, hoping that the dead would be unable to hold them accountable for their many, many transgressions. Luck was not with Great Dane that day, however, and nearly half the miners managed to escape to nearby Section 25, as Section 23 imploded behind them. There they spread the truth of what had happened in The Borehole, and the simmering resentment of the lower echelon employees quickly exploded into fury...
+
+
+
+INSTRUCTIONS:
+
+Extract this archive to your half-life/valve folder.
+
+IF NECESSARY:
+
+Place WAV files in half-life/valve/sound/dm_cavernous
+Place SPR files in half-life/valve/sprites/dm_cavernous
+Place BSP file in half-life/valve/maps
+
+
+
+DEV NOTES:
+
+r_speeds average between 600-1100 but do not reach 1200. Peak wpoly is around 1180
+
+
+
+CREDITS:
+
+TEXTURES:
+	HHH316 (hhh316.deviantart.com) - rock wall
+	DemolitionDan (demolitiondan.deviantart.com) - gravel
+	Victor-933 - all others
+
+SOUNDS:
+	Doom 3
+	Half-Life 2
+	(Hacked together and altered by Victor-933)
+
+
+
+Find more of my stuff on Gamebanana!
+http://www.gamebanana.com/members/213517
+
+Check my Tumblr for more WIP shots and release announcements!
+https://victor-933.tumblr.com

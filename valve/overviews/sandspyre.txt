@@ -1,0 +1,14 @@
+// overview description file for sandspyre.bsp 
+
+global 
+{ 
+ZOOM 3.48
+ORIGIN -348.00 416.00 -1161.00 
+ROTATED 1
+} 
+
+layer 
+{ 
+IMAGE "overviews/sandspyre.bmp" 
+HEIGHT -3585.00 
+} 

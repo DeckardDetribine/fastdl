@@ -1,0 +1,66 @@
+=========================
+  HL Map Spec Sheet
+=========================
+
+---General Information---
+
+Title:                     Bot Test
+Filename:                  bottest.bsp
+Author:                    Carsten Schwartz (Smike)
+Other lvls by author:      claustro and twoforts
+Email address:             cosn@icl.dk 
+Home page:                 http://www.geocities.com/TimesSquare/Arcade/9022/index.html
+Additional Credits to:     Colleges who play tested the thing and gave me new ideas...
+
+---Play Information------
+
+Map Description:
+
+This started out as a map for testing the bots that has
+been released for Half-Life. I made a simple version of
+the biggest room in the map and tried it out with Jumbot and
+Rhobot. Then I added some more rooms and features....
+
+Single Player: 
+
+None, but you can start a simple player game and walk a
+little around, shoot some barneys. These where put in 
+for testing purposes.
+
+Deathmatch: Yes
+
+Teamplay:   Yes
+
+Recommended # of Players:  6+
+
+---Map Information-------
+
+New Textures:              None
+New Sounds:                None
+Solids:                     750 
+Faces:                     4519 
+Entities:                   167 
+
+---Construction----------
+
+Base:
+Editor(s) used:            WorldCraft 2.1(Later3.3)
+Compile Machine:           Pentium II 266 (Windows 2000 professional, 192MB RAM)
+Compile time:              approx. 15-20 minutes.
+
+---Additional Info-------
+
+Jumbot navigational added with in this archive
+
+---Copyright-Permissions--------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+

@@ -1,0 +1,39 @@
+Title                   : exspace 3
+Date                    : 5-06-01
+Filename                : exspace3.bsp
+Author                  : redux
+Email Address           : quake3arena@aol.com
+Description             : Half-Life Deathmatch
+Other Maps              : redemptiontfc, blitzkrieg1, december,
+                        : cavein1, hybrid3, exspace2b, 
+			: hybrid, hybrid2, hybrid3, redemption2
+
+================================================================
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes
+Difficulty Settings     : No
+New Sounds              : Yes
+New Graphics            : No
+New Music               : No
+
+================================================================
+
+Construction
+
+Base                     : Scratch
+Editor(s) used           : WorldCraft 3.3
+Compiler used:           : HLCC
+Known Bugs               : stated in .txt
+Build Time               : A few weeks.
+Compile machine          : 500 mhz AMD Athlon, 128 mb ram
+
+==================================================================
+
+Email with comments or questions.
+quake3arena@aol.com
+
+Distribute in any way possible, I don't care, just as long as you 
+give me credit and you do not decompile this map and make it your own.

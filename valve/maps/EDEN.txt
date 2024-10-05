@@ -1,0 +1,81 @@
+================================================
+   Half-Life Map Spec Sheet
+================================================
+
+
+------General Information--------------------------------------------
+
+Title		: EDEN
+Release Date	: 23nd May 2001
+Filename		: EDEN.bsp
+Author		: Peter Manson
+Email Address	: peter@mickeymurphy.freeserve.co.uk
+Home page	: http://www.kbhse.demon.co.uk/maps/
+Description	: village located in mountains (Death-Match)
+Previous Maps	: (1) Enders_game
+		  (2) Rohan
+		  (3) Rohan2
+		  (4) First_arena
+		  (5) Twin
+                                      (6) X-flight
+		  (7) Fling
+		  (8) Cube-x
+		  (9) Odyssey
+		  (10) Plateau
+		  (11) Fun house
+		  (12) TB_Finalspecimin
+------Map Information------------------------------------------------
+
+New Textures	: Yes , too many
+Missing Weapons	: hornet,
+Secrets		: a few,
+Prefabs		: house's modified from plateau
+File Size		: 6.875 KB (unzipped)
+Known bugs	: none
+
+------Construction---------------------------------------------------
+
+Base		       : From scratch.
+Programmes used	       : WorldCraft 2.1
+		         zoners  v.242	
+		         HLCC   v.131
+Compile Machine	       : Pentium 2,  384 ram
+Construction time	       : 2 weeks 
+Compile time	       : about 2 hours
+
+
+------Map Instructions-----------------------------------------------
+
+Unzip this file and place "EDEN.bsp"  into 
+your half-life/valve/maps directory.
+
+
+----------------------------------------------------------------------------
+------Additional info--------------------------------------------------
+
+This map has a large filesize due to the imbedded textures, - sorry
+If you find any  bug's or have any comments about the level then e-mail me.
+
+------People who deserve a Thank-you-------------------------------
+
+
+Karl Jones:  ( for his tutorial almanac)
+    http://www.karljones.com/halflife/almanac.asp
+
+All the people who run, and maintain mapping sites.
+
+"InCiNeRaToR" - for playtesting the map, and helping to look for bugs.
+
+-------COPYRIGHT-PERMISSIONS------------------------------------------
+------------------------------------------------------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorised to put this BSP on any CD or distribute it in
+any way without my permission.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------

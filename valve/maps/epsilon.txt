@@ -1,0 +1,32 @@
+================================================================
+Date                    : 24.06.2001
+Title                   : Epsilon Complex DM
+Filename                : epsilon.bsp
+Author                  : Henry "Lacos" Jarske
+Email Address           : lacos@tdcom.net
+Home Page               : http://www.tdcom.net/lacos/
+
+Map Description         : A med-sized HLDM map to give sort of
+                          a preview of my upcoming single player
+                          episode for HL.
+                           
+Other Works by Author   : as_witness, cs_cityblock, hi_evidence
+
+================================================================
+
+== Play Information ==
+
+Single Player           : 1 start point
+Cooperative             : Not implemented
+Deathmatch              : 16 start points
+
+== Construction ==
+Base                    : None
+Editor(s) used          : WorldCraft 3.3
+                          
+== Installation Info ==
+Unzip into the half-life\valve\maps directory. 
+
+== Copyright / Permissions ==
+Authors MAY NOT use this level as a base to build additional levels.
+This map may be distributed ONLY on a "not for profit" basis using any medium.

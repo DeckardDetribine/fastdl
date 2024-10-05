@@ -1,0 +1,58 @@
+================================================================
+Title                   : homo hominem lupus est
+Version                 : 1.0 (GlobalAssault Edition)
+Release Date            : July 1st,2001 
+Filename                : apohldm14.bsp
+
+Author                  : Florian 'Apocalypso' Halbritter : apo@planethalflife.com
+                          
+Web Page                : http://www.planethalflife.com/apo
+                          
+Other levels by author  : APOHLDM1 - Rage Central 
+                          APOHLDM2 - The Epsilon Base	
+                          APOHLDM3 - No place to hide
+                          APOHLDM4 - Face your Fate
+                          APOHLDM5 - En Garde
+                          APOHLDM6 - Riposte
+                          APOHLDM7 - Touche (not released so far)      
+                          APOHLDM8 - The Alpha Complex
+                          APOHLDM9 - Diabolic
+                          APOHLDM10 - Temple of Stars
+                          APOHLDM11 - Towers of Orion
+                          APOHLDM12 - Midnight Madness
+                          APOHLDM13 - Tension (the original version)
+                          APO13NOW! - Tension (Apocalypse Now!!!-Edition)
+                          AS_GHETTO - Escape from da Ghetto (Counter-Strike)
+                          AS_PALACE - The Palace (Counter-Strike)
+                          +a lot of maps for several mods
+                          (go to www.planethalflife.com/apo to download them)
+
+================================================================
+--- Play Information ---
+Game                    : Half Life
+Level Name              : homo hominem lupus est
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Known bugs              : -
+                          
+
+--- Construction ---
+Editor(s) used          : WorldCraft 3.3
+Construction Time       : err... weeks... months... years... dunno
+
+
+Installation
+------------
+
+Unzip the file apohldm14.bsp into your ...\sierra\halflife\valve\maps directory
+
+
+Copyright / Permissions
+-----------------------
+This level and all files included in the apohldm14.zip-archive are copyrighted by Florian Halbritter,2000.
+You MAY NOT distribute this map on commercial CD-ROMs or in any other commercial way without my permission. 
+You also MAY NOT do any changes to the map or to the archive without my permission.

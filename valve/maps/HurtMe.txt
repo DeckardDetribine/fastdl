@@ -1,0 +1,58 @@
+13/02/00
+=======================================================
+Title			: Hurt me Plenty
+Description		: deathmatch map for Half Life
+Filename		: HurtMe.BSP
+Author			: Erik Nijland aka [KKC]KwakkaSaki
+E-mail Address		: webmaster@rockfire.tmfweb.nl
+Homepage                : http://kkc.gamepoint.net
+
+Thanks to		: ID Software for inventing deathmatch
+			: Valve for creating Half-Life
+			: Armin Rigo for creating QuArK
+			  (http://www.planetquake.com/quark)
+
+=======================================================
+
+* Description *
+
+A very small deathmatch map (not as small as my last one) for 2-4 players.
+Every weapon except the egon is included, some of the weapon are
+hard to find (and get). I will give you some tips.
+
+To get the RPG you will need to get the longjump or gauss, with the
+gauss you can easily jump high enough to reach the RPG, which is in top
+of a building in the largest outdoor area. If you prefer to use the longjump
+jump on the wooden crates nearby the RPG.
+You have to jump and when your feet are loose from the ground press duck,
+this way you can jump higher. And on top of the crates you'll find the longjump
+some snarks and even crossbow ammo. With the longjump you can jump easily to the
+RPG.
+
+If you want the crossbow you will have to gauss-jump to the top of the billboard
+in the small outdoor area.
+
+If you think it's still impossible to get the weapons you have to play the Hazard
+Course again. Or just commit suicide and prey you respawn next to the RPG or crossbow.
+
+By the way, does anyone reads those files ?
+
+=======================================================
+
+If you have any comments, suggestions and/ or questions 
+about this map you can E-Mail me.
+
+=======================================================
+
+* Installation *
+
+Extract the bsp file to your Sierra\Half-Life\valve\maps folder.
+
+=======================================================
+
+* Permissions *
+
+This software is for free distribution only. No authorization for
+electronic/digital media sales will be given. Anyone caught ripping
+stuff from my maps will be vaporized. Half-Life is a registered
+trademark of Valve Software.

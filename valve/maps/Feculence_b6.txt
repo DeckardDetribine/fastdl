@@ -1,0 +1,52 @@
+
+MAP INFO
+========
+Title      : Feculence
+Version	   : 0.6b
+Filename   : Feculence_b6.bsp
+Author     : Tracer Bullet (Obadiah Reid)
+Email      : Obadiah@pacificu.edu
+
+LEVEL DESCRIPTION
+=================
+This is a pretty standard DM map centered around a nuclear waste facility
+situated on a mountaintop. The twist is lots of moving parts, lasers, glowing
+goo, and machinery. I paid special attention to game flow 
+and keeping r_speeds to reasonable levels, so let me know what you think!
+
+KNOWN BUGS
+==========
+May be slightly unstable due to a large number of env_shooters. 
+I have encountered the edict limit on one occasion to date.
+
+There is an odd bug in the main goo-pool. 
+
+CREDITS
+=======
+All the old regulars of the SnarkPit (www.snarkpit.com) 
+for helping me develop my skills. In particular:
+- Kornflakes     - As the first person to do a critique on my very first map.
+- Reno           - For general inspiration, great tutorials, and a frequent helpful word.
+- Orpheous       - For sustained, honest and highly valuable map critiques. 
+- Adam Hawkins   - For this readme format. (I was too lazy to create my own)
+
+TEXTURES
+========
+Cassius - Bad-ass rock texture
+Sock - Everything else from his great collection of tech textures.
+
+INSTALLATION INSTRUCTIONS
+=========================
+Copy the contents of the zip file into your 'Half-Life' folder. It should then be
+selectable from the multiplayer menu.
+
+COPYRIGHT / PERMISSIONS
+=======================
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+Half-Life (C) 1998-99 Sierra On-line and Valve L.L.C. All rights reserved.
+
+--
+Fixed by Xawari, but still crashes sometimes.

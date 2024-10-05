@@ -1,0 +1,70 @@
+17th Aug 2001
+
+================================================================
+
+Title                   : Chum
+Filename                : chum.zip
+Author                  : Relic25
+Address           	: relic25@ec.rr.com
+Description             : HL DM map, 2-6 players recommended. 
+
+================================================================
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes
+Cooperative             : No
+Difficulty Settings     : No
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+
+Construction
+
+Base                    : loosely based on my former map, deep6.
+Editor used             : Worldcraft v3.3 
+Bugs                    : None that should matter
+
+================================================================
+
+Installation
+
+To play this level, extract the contents of the "chum.zip" into
+your sierra\half-life\valve directory and then start the game.
+Start a deathmatch server and type "map chum" or "changelevel
+chum" in the console.
+
+================================================================
+
+Notes
+
+This map was designed specifically for play on our LAN at work,
+using the Oz Half-life modification (the proximity mines are a
+hoot).  Our weakest machine is a 500mhz PIII with a GeForce256.
+Lesser machines may not fare as well, as there are a high number
+of visible textures, transparencies, animated textures, and in a
+couple of spots, w-polys around 800.  3DFX users will have the
+most trouble due to the transparencies.  I can tell you that it
+runs perfectly well for us, and is a blast to play.  So, it's
+worth a look, even if you think your system might not be up to
+spec.
+
+================================================================
+
+Copyright and Permissions
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) with no strings attached.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, I wish the the publisher /
+manufacturer the best of luck.
+
+Anyone is welcome to the source file for this map to use for
+any purpose.  Simply contact me at relic25@ec.rr.com for a
+copy.

@@ -1,0 +1,100 @@
+================================================
+   Half-Life Map Spec Sheet
+================================================
+
+
+------General Information--------------------------------------------
+
+Title		: Shaolin
+Release Date	: 25th june 2001
+Filename		: shaolin.bsp
+Author		: Peter Manson
+Email Address	: peter@mickeymurphy.freeserve.co.uk
+Home page	: http://www.kbhse.demon.co.uk/maps/
+Description	: conversion from a bushido map
+Previous Maps	: (1) Enders_game
+		  (2) Rohan
+		  (3) Rohan2
+		  (4) First_arena
+		  (5) Twin
+                                      (6) X-flight
+		  (7) Fling
+		  (8) Cube-x
+		  (9) Odyssey
+		  (10) Plateau
+		  (11) Fun house
+		  (12) TB_Finalspecimin
+		  (13) Eden
+		  (14) Rig
+		  (15) BASSAI
+------Map Information------------------------------------------------
+
+New Textures	: Yes 
+Missing Weapons	: none
+Secrets		: no
+Prefabs		: none
+File Size		: 8.5 mg (unzipped)
+Known bugs	: none
+
+------Construction---------------------------------------------------
+
+Base		       : base of the level BASSAI was used
+Programmes used	       : WorldCraft 2.1
+		         zoners  v.242	
+		         HLCC   v.131
+Compile Machine	       : Pentium 2,  384 ram
+Construction time	       : about 2 weeks 
+Compile time	       : a LONG time, more than 3 hours
+
+
+------Map Instructions-----------------------------------------------
+
+Unzip this file and place "Shaolin.bsp"  into 
+your half-life/valve/maps directory.
+
+The sky pictures should be unzipped to your \Half-Life\valve\gfx\env directory.
+incase you dont get the sky with the map, it is called       earth_
+
+
+----------------------------------------------------------------------------
+------Additional info--------------------------------------------------
+
+The base of a map made for the bushido Modification was used to make this level,
+
+http://www.planethalf-life.com/bushido/
+
+I have added several new areas to the map to make it playable as a death-match.
+
+NOTE: some of the textures used in this level (about 6 - 7 ) are the property of the
+bushido modification, and for this reason I ask that No One extracts these textures form Shaolin.bsp. 
+
+Thanks
+
+
+
+
+
+------People who deserve a Thank-you-------------------------------
+
+
+All the people who run, and maintain mapping sites.
+
+
+
+
+
+-------COPYRIGHT-PERMISSIONS------------------------------------------
+------------------------------------------------------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels. 
+
+Authors MAY NOT extract textures used in this level. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorised to put this BSP on any CD or distribute it in
+any way without my permission.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------

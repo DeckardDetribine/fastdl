@@ -1,0 +1,63 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title           : Sanitation
+Filename        : Sanitation
+Author          : MORDor
+Author Email    : mordor@wineasy.se
+Home page       : www.planethalflife.com/mordor
+Description     : A DM map with a all own made textures
+Previous Maps   : FeelTheQuake
+
+------Credits and Thanks---------------------------------------------
+I wana thank the 2 Swedish clans CWD and ASA for betatesting my map.
+Special thanks goes to DonkeyPecker from the CWD clan.
+
+
+------Additional Info, Tips, and Notes-------------------------------
+There are 2 secrets on the map.
+
+
+
+------Play Information-----------------------------------------------
+
+Deathmatch      : yes
+Single Player   : no but there is a SP start in the map.
+Map Description : hmm it's a water purification fasility
+How Many Players: 4 to 8 ??
+
+------Map Information------------------------------------------------
+
+New Textures    : yes, my own made
+New Sounds      : no
+
+------Construction---------------------------------------------------
+
+Base            : huh?
+Editor(s) used  : WC
+Compile Machine : compilehelper q2beaver
+Compile time    : 20 min or something
+Playtest time   : not needed to test that long.
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "Sanitation.bsp" in
+your half-life/valve/maps directory.  If there are any .wad files in
+this zip, place them in the half-life/valve directory.
+
+------Copyright-Permissions------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

@@ -1,0 +1,41 @@
+--- DEMO, MAP, or MODEL General Information ------
+Date                     :April 20 2001
+Author                   :Mark Ferrante (Cutter)
+Title                    :down_under
+Zip Filename             :down_under.zip
+BSP/DEM/MDL Filename     :down_under.bsp
+Other works by author    :Oh_Mayan from Planet Half-Life map pack (10 best from contest)
+Email address            :ferrantemca @ earthlink.net
+Home page /  Website     :
+Additional Credits to    :
+
+--- MAP Play Information ------------------
+Map Description          :This map is set in an underground research facility. Recent breakthroughs  
+                         :have allowed the creation of suitcase size teleporting devices. They are  
+                         :located thoughout the facility for your fragging covenience. Word of warning,                      
+                         :watch out for the patroling security drone. There are also several hidden         
+                         :teleport jump pionts allowing you to take advantage of those less informed. 
+                         :The researchers are currently expirmenting with powerful non-nuclear missile
+                         :variants which will explode if the wrong button is pushed, be sure you are 
+                         :clear of blast area. Enough hints, good luck and be the last one standing.
+
+--- MAP File Information ------------------
+New Textures             :none
+New Sounds               :none
+To run this map unzip down_under.bsp to C:\SIERRA\Half-Life\valve\maps
+Then copy tfc.wad and tfc2.wad and place in C:\SIERRA\Half-Life\valve
+
+--- MAP Construction Information ----------
+Base                     :
+Editor(s) used           :worldcraft 3.3
+Compile Machine          :350 mhz pentium 2
+Compile time             :4200 seconds
+
+
+You MUST NOT distribute this file UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This file may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this file on any CD or distribute it in
+any way without my permission.

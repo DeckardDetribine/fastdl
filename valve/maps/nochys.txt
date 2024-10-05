@@ -1,0 +1,67 @@
+
+15/07-99
+=======================================================
+Title:			: "No One Can Hear You Scream"
+Description:		: DM map for Half Life
+Filename:		: nochys.bsp 
+Author			: Jon Lauridsen, Copenhagen, Denmark
+E-mail Address		: gaggle@traceroute.dk
+Homepage                : http://www.image.dk/~light/
+
+=======================================================
+
+* Installation *
+
+Extract the bsp file to your Half-Life\valve\maps folder.
+Start a multiplayer game and type "map nochys" from the console.
+   
+=======================================================
+
+* Play Information *
+
+Single Player/Coop     :Well...it'll be boring as hell
+Deathmatch             :Oh yeah
+Players                :6 and above
+TFC                    :No
+New textures           :Yup (credits given later)
+New Models             :No
+New Sounds             :No
+
+=======================================================
+
+* Description *
+
+No One Can Hear You Scream is a pure deathmatch level. All the rooms have multiple connections and it's easy to get from one place to another. The Egun is present, but is protected by a trap that acutally works. Nothing fancy, just don't get caught in there. THe doors *will* close very soon. You have to move, and move quickly if ya wnna live.
+The ammo and weapons have been well dispersed, though it's not over abudant. The ring-tunnels are a way of transporting to the yellow room in a...sneaky way. (they do actually play a part when things get rough on the map. It improves the connectivity that people seems to just pop up suddenly. And besides that, one tunnel makes it possible to get to the Long Jump Module. (hint hint ;)
+
+I've worked hard to keep the r_speeds down, it even plays good in software mode. (what a hay is up with making a map that doesn't run in software anyways? Always think of the 'little' people you guys) In an attempt to work make the level pretty, and not raise r_speeds, I've tweaked and retweaked the lighting. Each area of the map should have a distinct type of lighting. And the pretty colors maaan...the colors. :)
+
+Ahhhhnd, on a final note. I've been told by some that this map is dark. Too dark. I did brighten things up a bit, but I like a dark and moody level. Not every part of the level is dark, it's just one or two places. But go on, live with it. Not all levels takes place in a brightly lit construction hall. :)
+And if anyone's interested, this is what I consider my first real level. (you can look for a Quake2 level called Thunderdome II I did waaaay back. But this one is much better)
+
+=======================================================
+  
+* Construction *
+
+Base                   :All the way from the buttom
+Build time             :Started the map almost a year ago! On/off type of thing
+Compiler               :300 MHz Celeron/Voodoo 2 SLI. Takes a couple of hours.
+
+Please forward *ANY* comments to me about this map, 
+and report any bugs to the E-mail address above.
+
+=======================================================
+
+* Credits *
+
+Thanks goes out to...my pet moose....oh...okay. Thanks go out to the people behind the textures I've used. This is mainly the incredibly good texture-pack by the Texture Studio (http://www.planethalflife.com/studio/)
+
+And, my....playtesters. Poor schmucks, some didn't even know they were playtesting my level. :) They all know who they are, and...well...it'll annoy them when I don't mention them by name. :D
+
+=======================================================
+
+* Permissions *
+
+This software is for free distribution only. If you want to sell this map then you must give me a big marble monkey! Oooorrrr....you can contact me and I'll decide what you can and cannot do with it. But in any event, you MUST keep the .zip file intact, containing the files nochys.bsp and nochys.txt in it.
+Anyone caught ripping stuff from my maps will be vaporized, exploded and thrown into space.
+Half-Life is a registered trademark of Valve Software.

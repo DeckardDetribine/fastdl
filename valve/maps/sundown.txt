@@ -1,0 +1,57 @@
+6/20/99
+=======================================================
+Title			: "Sundown"
+Description		: DM map for Half Life
+Filename		: sundown.bsp 
+Author			: Dave Waters, Long Beach, CA 
+E-mail Address		: baseman@msn.com or waters@planethalflife.com
+Homepage                : http://www.planethalflife.com/3dconstruction   
+
+=======================================================
+
+* Installation *
+
+Extract the bsp file to your Sierra\Half-Life\valve\maps folder.
+   
+=======================================================
+
+* Play Information *
+
+Single Player/Coop     :No
+Deathmatch             :Yes(2-4)
+TFC                    :No
+New textures           :No
+New Models             :No
+New Sounds             :No
+New Code               :No
+
+=======================================================
+  
+* Description *
+
+Set in the late afternoon as the name suggests, Sundown is
+very playable 1 on 1 and peaks at 4 player FFA. With plenty
+of weapons and ammo, you won't spend your time searching, and
+there's a rooftop airstrike to discourage pesky campers...er..
+..snipers. 
+ 
+======================================================
+  
+* Construction *
+
+Base                   :Scratch
+Build time             :1 week 
+Compiler               :P2-350 / Diamond-TNT 
+
+Please forward any comments to me about this map, 
+and report any bugs to the E-mail address above.
+
+=======================================================
+
+* Permissions *
+
+This software is for free distribution only. No authorization for 
+electronic/digital media sales will be given. Anyone caught ripping
+stuff from my maps will be vaporized. Half-Life is a registered
+trademark of Valve Software. 
+

@@ -1,0 +1,79 @@
+================================================================
+		::: PLAY INFORMATION :::
+================================================================
+Title 			: Facility
+Date                    : 2/2/99
+Filename		: facility.bsp
+Author			: Captain Gram
+Other lvls by author	: Stack
+Email address 		: gramster@mediaone.net
+Home page		: http://bz2.com
+Description		: Conversion of "Facility" from Goldeneye 64
+Additional Credits to   : Ninja Monkey (the r_speed god!)
+                          Rare
+                          Valve/Sierra
+Single Player           : Yes (to explore the map)
+Cooperative Player      : No
+Deathmatch Player       : Yes
+Number of Players       : I suggest 4-15
+Difficulty Settings     : No
+New Textures            : No
+CD Track                : N/A
+
+
+================================================================
+		::: INSTALLATION :::
+================================================================
+
+This is the easy part... Just unnzip the files into your Half-Life/Valve/maps
+directory. If you didn't get this in a .zip, just make sure that FACILITY.bsp
+ends up in the Half-Life/Valve/maps directory for the map to work.
+
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+
+My second Half-Life level that I have released so far, this is a conversion of
+the mighty Facility level from Goldeneye 64. Some rooms are larger then the N64
+version, this is due to the fact that the max number of players is no longer 4!
+And the weapon layout has been changed a bit as well. Oh and you won't find any
+of the sci-fi weapons in HL included. I decided to limit it to Half-Lifes more
+realistic weapons. Otherwise I think you'll find pretty much everything intact
+from the N64 version as I painstakingly converted it inch by inch. For those of
+you who enjoyed my previous conversion of Stack, I hope you find this map to be
+of the same, if not higher quality. In the future I would like to make some
+single player Goldeneye levels, and you can expect a single player Facility in
+the future!
+Final note... I LIVE for feedback!! Please e-mail me with your opinions good OR
+bad!!
+
+
+================================================================
+		::: CONSTRUCTION :::
+================================================================
+Base			: Conversion of Facility, from the game Goldeneye 64,
+                          but I built it from scratch!
+Build Time              : 1 week
+Playtesting Time        : 4 hours
+Compile machine         : 333MHZ celeron, 128mb ram
+QCSG Time		: 53     seconds elapsed
+QBSP Time               : 81     seconds elapsed
+QRAD Time	        : 3084   seconds elapsed
+VIS  Time               : 3685.0 seconds elapsed
+TOTAL			: 1 Hours and 55 Minutes (ish)
+Editor(s) used          : Worldcraft
+Known Bugs              : none!
+
+
+================================================================
+		::: COPYRIGHTS :::
+================================================================
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. 
+
+If you want to put this map on a magazine CD, please do, but let me know so I
+can go buy a copy!

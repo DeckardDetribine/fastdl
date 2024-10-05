@@ -1,0 +1,56 @@
+This is my third ever 3d level.
+this personally my favorite of my levels. it is compact and should run
+fast.
+
+My first was dmjcentral, file dmjcntrl.
+My second was dmjescape, file dmjescap.
+
+
+
+================================================================
+Title                   : DMJFrazzled
+Date                    : 1-15-99
+Filename                : dmjfrazz.bsp
+Author                  : Jeff Meyer 
+Email Address           : jmeyer@austin.rr.com
+
+Description             : Idea from Valve's Frenzy.
+		
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Deathmatch              : Yes
+Difficulty Settings     : No
+
+================================================================
+File goes into the maps dir under Half-life\valve
+
+================================================================
+
+* Construction *
+
+Base                    : New
+Editor(s) used          : Worldcraft 2.0.
+Known Bugs              : None that I know of, please tell me if you find any.
+
+Build Time              : ?????
+
+Compile machine         : 300A celeron o/c to 450. 64 ram 4gig hd
+
+QCS  Time		: 22 seconds elapsed
+QBSP Time               : 21 seconds elapsed
+QVIS Time               : 412.0 seconds elapsed
+QRAD Time (extra)       : 487 seconds elapsed
+
+TOTAL			: 15.7 Minutes
+
+
+* Permissions *
+Don't take credit for it that is about all.
+
+Please email me if you like or dislike this or any of my levels. I do not like putting out bad levels so please let me know.
+Thanks and have fun.
+
+Jeff (Jammer is server name on cable modem)

@@ -1,0 +1,64 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		:  MAYHEM
+Filename	:  MAYHEM.bsp
+Author		:  Scott Patten (Loc)
+Author Email	:  locdogg@home.com
+Home page	:  N/A
+Previous Maps	:  Spaceport (unreleased)
+
+------Credits and Thanks---------------------------------------------
+
+I'd like to thank Valve for creating an awesome game and including 
+Worldcraft on the Half-Life disc.  Secondly, I'd like to thank all of
+my friends that helped playtest this map.  Finally, I'd like to thank
+Radium for a great map review site.
+
+------Additional Info, Tips, and Notes-------------------------------
+
+The only area in the map that I could not fix was with the cable car.
+If a player gets crushed by it, the car will go in the opposite 
+direction and sometimes go through the big blast door due to throwing
+the multisource timing off.  This is not a big deal because the car 
+will work fine after the multisource resets.  
+
+------Play Information-----------------------------------------------
+
+Deathmatch	:  Yes
+Single Player	:  No
+Map Description	:  Small team map (can be just as fun as DM)
+How Many Players:  2 vs. 2 or 4 players with DM
+
+------Map Information------------------------------------------------
+
+New Textures	:  No
+New Sounds	:  No
+
+------Construction---------------------------------------------------
+
+Base		:  My Cranium
+Editor(s) used	:  Worldcraft 2.0
+Compile Machine	:  Pentium II 400Mhz
+Compile time	:  30 mins
+Playtest time	:  4 hrs
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "MAYHEM.bsp" in
+your half-life/valve/maps directory. 
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+

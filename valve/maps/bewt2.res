@@ -1,0 +1,11 @@
+//halflife.wad
+//decals.wad
+//gfx/env/duskup.tga
+//gfx/env/duskdn.tga
+//gfx/env/dusklf.tga
+//gfx/env/duskrt.tga
+//gfx/env/duskft.tga
+//gfx/env/duskbk.tga
+//sprites/enter1.spr
+//sound/bewty/867.wav
+maps/bewt2.res

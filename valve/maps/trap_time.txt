@@ -1,0 +1,84 @@
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Title:			Trap_time
+Date:                   Jan. 22 2001    
+File name:		trap_time.bsp
+File size:              1310kb
+Author:			Jack W. Shreves (a.k.a. Mr.Yuk, Jeebuss) 
+			30 Yrs. Old....
+E-mails:		jwshreves@yahoo.com (preferred)
+                        hicapclip@yahoo.com
+                        
+
+
+Other levels by author:	None released publically...(I'm stingy with my love.....)
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Singleplayer:		Just to check it out.
+Deathmatch:		Yes 
+Size:			Med-Large
+Players:		6-10+(the more the fraggier)
+
+
+                        
+Weapons:                All weapons included in level, will spawn into a 9mmAR or Shotgun.
+                        One spawn into a 357, one spawn nothing (near rpg and snark though!)
+
+Traps:                  All are activated by big yellow buttons that are touch sensitive.
+                        
+Ammo:			Spaced evenly through the map,if you include the weapons.....
+
+R_speeds :              The map peaks at at 609, would have been lower, but I forgot to 
+                        check the room with the water trap in r_drawflat.....doh!
+
+Known Bugs:             Tank in lower level will get confused if more than one player is 
+                        within 320 units of it.
+                        If you hit the nuke, then jump to the level below it, look left as
+                        you jump and you'll see part of the floor in a lower hallway.(Didn't 
+                        catch that until after I compiled and got my final textures....)
+                        Can hear water fall in outside area by brick building.
+                        Some traps may be a little cheesy, but WTF, they work.
+
+Gripes(personal):       Some misaligned textures, were ok in WC, but when compiled any with
+                        a -sign in front were combined with others of same, made for 
+                        a lot of  hair-pulling as I recompiled about 20 times to finally 
+                        get most of them.(Some still in outside area, and generator room,
+                        e-mail me if you know  a fix.)
+* Construction *
+
+Base:			From Scratch
+Editor Used:		WorldCraft 3.3
+Construction time:	4 weeks on and off    
+Compile Machine:	PentiumIII, 1000MHz, 256MB RAM ATI All in Wonder Pro 128
+Test Machine:           PentiumII 233Mhz 192MB RAM Voodoo3 2000
+Complile time:          5 minutes (hehe!!!)
+Play Tested:            About as long as it took to build.(Tested as map progressed)
+* Map info *
+                        Always enjoyed maps that had traps in them,decided to go overboard
+                        and make a map that was as lethal as the players. Most traps are 
+                        just to wear down your health to make it that much easier to kill.
+                        Decent connectivity.
+                        
+
+Textures:               Half-life.wad, liquids.wad, xeno.wad, deacls.wad, PHL.wad
+			 
+Special Thanks:		To my wife Kat for putting up with my HL obsession.
+                        To Zoners tools for making such great compile tools.
+                        To WorldCraft for making such a great and easy level editor.
+                        To Planet Half-life for having such a great site.
+                        To Brad Simpson for providing such a willing target...;)
+                        To RocketCrowbar for making the best MOD, try this map in 
+                        Rocket v1.7, it maybe a glitch, but the rocket_tank leaves a trail 
+                        of snarks behind it.
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Installation
+
+To play this level, extract this file, trap_time.bsp into your sierra\half-life\valve\maps
+ directory and then start the game.
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------

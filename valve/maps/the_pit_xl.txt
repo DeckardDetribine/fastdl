@@ -1,0 +1,119 @@
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Title:			"The pit XL"
+Date:                   September 2004     
+File name:		the_pit_xl.bsp
+File size:              743kb
+Author:			Richard Haworth a.k.a."Devious" 
+			31 years old and working for a structural engineers in the NW UK.
+E-mails:		rich@devious.me.uk
+                        
+Homepage:               www.devious.me.uk
+
+
+Other lvls by author:	Insitu
+                        Devious 
+                        Sputnik 
+                        Sputnik!
+			The Pit
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Singleplayer:		Just to check it out.
+Deathmatch:		Yes 
+Size:			small
+Players:		Good for 1on1 , hectic with 4 hmmmmmm ;)
+
+Jumbot waypoint:        yes - place the_pit.jrf in your Half-life/Jumbot/wpfiles folder.
+			It seems to work very well but fails to make jump to crossbow.
+                        
+Story	:		No story really ... A kind of medievil arena with a deep pit in the
+                        middle in which lurks something .... a bit dodgy. Dont go there!
+			
+                        I wanted to create a tiny 1 on 1 level but it also plays good with 
+                        up to 4 people.
+                        
+Weapons:                Lots!
+
+Ammo:			Lots!
+
+R_speeds :              The map peaks at at 650 on one spot but on a map this size with
+			very few people there wont be any problems.
+
+Known Bugs:             None that I know .
+
+* Construction *
+
+Base:			From Scratch
+Editor Used:		WorldCraft 3.3
+Construction time:	2 weeks on and off    
+Compile Machine:	PentiumII, 400MHz, 128MB RAM GeForce DDR
+Complile time:          3 minutes
+
+* Map info *
+
+rmf size :  		996 kb    
+Solids	:		438
+Faces	:		2437
+Point Entities :	100
+Solid Entities :	50
+Unique textures :	36
+Texture memory :	1190kb
+Revision :	        136
+
+
+New Textures:           Yes 
+			 
+Special Thanks:		Valve for making the best game of all-time...Still Oh yes :)
+			Karl Jones for his Handy vandals almanac
+			Planet Half-Life, Radium,Wavelength,Hornetking,Lambda map complex
+			Halflife.net,The mappers federation,Mu-tilation, Halflife editing 
+			resource center, PHL forums, Cheers everybody.
+                        The testers :Stan,Glen,Russ,Ste & Ste and everyone @ work who severly
+			bashes this map to bits on our lan @ lunch.
+                        HLCC 1.4 -cheers graceland for getting wadinclude to work at last :)
+                        Zoners compiling tools v2.31 - the best tools for the job !!
+ 
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Installation
+
+To play this level, extract this file "the_pit.bsp" into your sierra\half-life\valve\maps
+ directory and then start the game.
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+* Copyright / Permissions *
+
+Copyright 2000 Richard Haworth
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+Feel free to distribute this level, but ONLY if you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!! If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!! Just keep the three files together, okay?
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+If this level is issued on a cover CD all I ask is you send me a copy !
+
+Cheers !!
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+I might covert the map to Opposing forces soon , check my homepage for download.
+
+Please E-mail me if you like the map or parts of it,It will encourage me to do better
+next time..  :)
+
+And hopefully I will get a new map out a lot sooner than this one ..
+
+Have fun !
+
+********************************************************************************************
+In memory of my Grandad .. 
+********************************************************************************************

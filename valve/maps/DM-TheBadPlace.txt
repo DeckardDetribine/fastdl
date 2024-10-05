@@ -1,0 +1,16 @@
+Game:	Half-life
+Style:	DM
+Title:	The Bad Place (Quake cover)
+Autor:	Scrama (http://scrama.livejournal.com/profile http://scrama.narod.ru)
+
+Description:	At one time it was the entrance to the mines of
+		unknown colonizers, but volcanic action drawns
+		it with lava, and ventilation is full of poison
+		gases now. Only desperados comes here for battle,
+		where the burning pools lits their faces and
+		creates ugly shadows. And somewhere upnear the
+		sky is blue and pure...
+
+Custom stuff:	sky, textures, detail textures, teleportation
+		sound (choose one of two: Q3 or Painkiller),
+		teleport's sprite.

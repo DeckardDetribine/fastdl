@@ -1,0 +1,69 @@
+================================================================================
+* LEVEL INFORMATION *
+--------------------------------------------------------------------------------
+TITLE                   : dabo
+FILENAME                : dabo.zip
+AUTHOR                  : TwiTch of [M.O.D]
+e-Mail                  : twitchf@hotmail.com
+HOMEPAGE                : www.fragdom.com / www.mw-net.co.uk/half-life / www.fragmental.net
+DATE                    : 12/30/2001
+GAME PLAY TYPE          : DeathMatch / Teamplay / all AG modes
+                        : Link to AG mod: www.planethalflife.com/agmod/news.htm
+--------------------------------------------------------------------------------
+* Description *
+--------------------------------------------------------------------------------
+
+This map was definetly made with the xbow in mind. Its a village of sorts 
+with basically 3 areas for fragging. Be careful getting the LJ cuz it may come with a price.
+Will put you in harms way possibly.
+
+
+--------------------------------------------------------------------------------
+SUGGESTED PLAYER LOAD   : 6 - 12
+DIFFICULTY SETTINGS ?   : N/A
+NEW TEXTURES ?          : Yes
+NEW SOUNDS ?            : No
+CD TRACK #              : 0
+--------------------------------------------------------------------------------
+* CONSTRUCTION *
+--------------------------------------------------------------------------------
+BASE MAP USED ?         : none - made from scratch
+EDITORS USED            : Worldcraft 3.3 
+UTILITIES USED          : Wally 1.55 Beta,Adobe PhotoShop 6.0 ,Batch Compiler / Zoners ,
+KNOWN BUGS              : None that I know about. email me if you find one.
+                          
+COMPILE MACHINE         : AthlonXP 1.8
+                          512 meg DDR RAM
+
+Compile Time            : 15 minutes
+
+--------------------------------------------------------------------------------
+* SPECIAL INSTRUCTIONS OR INFORMATION * * INSTALLATION INSTRUCTIONS *
+--------------------------------------------------------------------------------
+unzip dabo.bsp into your halflife/valve/maps folder
+unzip dabo.res into your halflife/valve/maps folder
+unzip all the .tga files into your halflife/valve/gfx/env folder
+*note: if you don't have an env folder in the gfx directory then just make one*
+
+
+For AG servers and clients:
+Unzip dabo.bsp into your halflife/ag/maps directory
+unzip dabo.res into your halflife/ag/maps folder
+unzip all the .tga files into your halflife/ag/gfx/env folder
+*note: if you don't have an env folder in the gfx directory then just make one*
+
+---------------------------------------------------
+*some textures were taken from online archives*
+*Can't remember where I got the custom sky either*
+
+--------------------------------------------------------------------------------
+* CREDITS *
+--------------------------------------------------------------------------------
+My wife Robyn           : a.k.a [M.O.D]S@ssy. She puts up with me and that says enough. I am dedicationg this map to her. Not to mention I love her! 
+[M.O.D] clan            : For helping to beta test the map and for being the best clan in the HL community
+DuHast                  : For always being there to help me out and for his friendship.
+Others                  : I forgot or didn't remember...Sorry! Contact me and I will be sure to give you credit somehow
+--------------------------------------------------------------------------------
+* COPYRIGHT/PERMISSIONS *
+--------------------------------------------------------------------------------
+Do whatever you want with this but please let me know about it first. email me twitchf@hotmail.com or icq me #86234871

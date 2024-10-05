@@ -1,0 +1,17 @@
+"Molten Gold": HL deathmatch by [Kasperg] YUGO     2006
+
+
+Extract the bsp file  into your valve/maps folder
+
+This map takes place in a pseudo-egyptian temple which is somehow bleeding gold. The ancients
+could not explain this strange phenomenon, and neither can the mapper!
+The map is based on the "Sandscroll" singleplayer maps, although some textures have been
+improved for the ocassion. Vertical gameplay is very present in this map, and the layout
+allows a good gameflow. However, not everything is OK in this map. Some things got out of 
+hand and there's a place in which r_speeds reach unspeakable numbers. Well, it's 2006, so your
+computers shouldn't have any problems, I hope!
+
+
+The rest of my maps can be found here:
+------------------------------------------
+http://twhl.co.za/mapvault.php?author=1210

@@ -1,0 +1,79 @@
+*** jb *** tokamak.bsp Half-Life map *** 09.03.99 21:29 ***
+
+Title                   : 	Tokamak(*)
+Filename                : 	tokamak.bsp
+Author                  : 	Jo Bieg "Avalanche" (GER)
+Email Address           :	blend@inver.de
+Home Page               : 	-
+
+Special Thanks to 	: 	Valve, Radium, halflife.de (tolle Site!), Wavelength 
+				(esp. Hellbringer for the entity guide)	
+
+*** MAP INFORMATION ***
+
+Single Player           : 	No 
+Deathmatch              : 	up to 10 players or so... (maybe teamplay)
+Difficulty Settings     : 	No
+
+(*)
+"Tokamak" is the name of some kind of fusion-reactor of Princeton University in New Jersey.
+During a controlled nuclear fusion in 1993, they produced temperatures equivalent to the core- 
+temperature of the sun. 
+I didn't intend to rebuild THIS facility (as you can see). It's just supposed to be a hidden 
+base in the black mesa. (somehow like that...)
+
+*** CONSTRUCTION ***
+
+I used "gasworks" as concept for my map (simple outdoor area with access to a base below).
+The reactor was part of an older map I built (It isn't complete), I just imported and connected it.
+
+Detail:
+First I wanted to place a lot more guard-towers and other detailed stuff. But when I 
+finished the map and started to optimize for speed I had to delete all the detailed objects.
+
+Weapon placement 1.:
+As I wanted to keep the map realistic I started with arranging weapons realistically. 
+That is: Not placing an RPG on a roof or some guns and ammunition on the floor of a big room 
+BUT: Damn, you can't waste all the good spots. (there were just not enough weapons in the map). 
+
+Weapon placemnt 2.:
+No gluon, No hornet ???
+Yes, I don't like them.
+
+Testing:
+I had no chance to see how the level works in multiplayer, so PLEASE be lenient towards me.
+
+
+Known Bugs          	: - some texturing might not be exact (ladders)
+			  - no way out if you fall into the elevator shaft
+			  - must be the game: the doorsound is screwed up in multiplayer 
+			  - must be the game: you can jump longer in singleplayer than in multiplayer
+			    (try to jump from the building with the elevator to the 1st container
+			    it works in singleplayer ,though it's hard)
+			  - take a look at the "B" at the switch.(What's wrong?)  ;)  
+
+Build Time              : started november 1998 
+			  finished april 1999
+Editor used             : Worldcraft v2.0
+
+Compile machine         : PII 233 with 64 megs of SDRAM 
+QBSP			: normal
+QVIS 	                : full
+QRAD  		        : normal
+Compile time		: 30923 s (8,5 h) 
+
+*** FURTHER PROJECTS *** 
+
+This is my first level I made for Halflife and probably my last one, too.
+Because it takes a lot of time I think i'll quit making levels for any 3D-shootin game.
+But, it's just passion and maybe when there's nothing else to do, when the weather is bad 
+and I feel this extraordinary desire for creative actitvity I'll build another tiny little level 
+(more Deathmatch orientated), but that will be the last one for shure.
+
+*** Permissions *** 
+
+This level is copyrighted by Jo Bieg 1999.
+
+You MAY distribute this level through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.

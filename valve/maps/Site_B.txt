@@ -1,0 +1,232 @@
+01/03/1999
+============================================================
+
+                           ======
+                           SITE B
+                           ======
+
+==========
+BACKGROUND
+==========
+
+Black Mesa was just the beginning. 
+
+
+A network of interdimensional portals, will bring a new 
+future for mankind.  No longer confined to a planet of 
+dwindling natural resources and increasing polution, 
+portal technology will provide limitless rewards.
+
+Our sphere of influence will envelop every dimension, 
+every species.  Should anyone, or anything, disagree 
+with our plan, well... I'm sure they can be... persuaded.
+
+
+Site B is the first of our next generation portal 
+generators.  Based on Gekler's theory of Ion acceleration, 
+Gyroscopic streams of sub-atomic particles are used to 
+bombard a single barinium core.
+
+The resulting Ion flux will generate enough energy to rip
+through the interdimensional barrier, creating a stable
+rift between two worlds, under our control of course.
+
+
+At least, thats the theory.
+
+
+As anyone familiar with Geklers work will remember, the 
+rather... Imaginative assumptions he made when developing
+his theory have presented us with a few... small problems.
+
+The interdimensional barrier is proving to be more 
+stubborn than we had expected.  Indeed we have yet to 
+create a stable interdimensional portal, although we 
+have had more success with smaller, localised portals 
+contained within the complex.
+
+Unfortunately, that is not the biggest problem.  It seems
+the Ion flux generates more energy than antisipated. 
+More energy than we can use.  From time to time, this 
+build-up must be dissipated in order to maintain 
+stability.  Currently, the only known way of doing this 
+is to allow the core to overload, and release the energy
+as a wave of ionic radiation.  
+
+This can have a somewhat... negative effect on a persons 
+health, so the complex must be evacuated once the process
+has been started.  Should anyone remain inside, well... 
+I suppose they will be leaving our dimension a little 
+sooner than expected.
+
+
+But these are minor problems, which we are confident 
+will be resolved in time, after all, given enough 
+insentive, we can be a very resourcefull species...
+
+
+============================================================
+
+This deathmatch map is based in the aformentioned Site B
+complex, and wouldn't you know it, the only elevator out
+is broken so you are trapped inside(what a surprise!).
+
+============================================================
+=====================
+DESIGN CONSIDERATIONS
+=====================
+
+- I wanted to create a map which would:
+
+	* Provide an enjoyable deathmatch for a full 
+          complement of players.
+
+	* Provide an interesting and appealing setting,
+          allowing a variety of tactics.
+
+	* Knock "Enraged" off the number 1 spot at
+	  Radiums Top 10 ( no offense Scary-one :) )
+
+
+- Having been inside two different power stations (one 
+  coal, one nuclear), it is very noticable that they both
+  shared the similarity of containing very large, 
+  cavernous rooms.
+
+  This is the look I was going for with this map.  
+  A kind of hi tech power generating installation 
+  type thingy.
+
+- I was very aware of monitoring R Speeds when constructing
+  this level, and I think you should find this map will run
+  nice and fast on most platforms. The R Speeds stay around
+  150 - 350 in the magority of the map.
+
+- There are a number of small teleporters which link parts
+  of the map together to aid connectivity, and to keep 
+  withing the theme of the map.
+
+- In the control room, you will find a button which will
+  trigger an overload of the main reactor.  This will 
+  sound a 1 minute warning, before the core reaches 
+  critical and the Ion wave fires.  The only safe place 
+  in the level is the basement area, which is sealed off
+  just before the wave.  This is the same principal as 
+  the airstrike in Crossfire.
+
+  The Overload takes 3 minutes to reset, at which point it
+  can be called again.
+
+  Just as in Crossfire, if more than one person makes it 
+  to the safe area, I don't want people to just be able 
+  to hide in there until after the blast.  To ensure this,
+  the basement is very open and contains some powerfull 
+  weaponry(Gauss, crossbow, & rpg).
+
+  Camping should be minimised by the placement of these
+  weapons, as each is vulnerable to at least one other.
+
+- There are two ways to activate the lift:
+
+ 	*If the lift is already here:  Simply pass in 
+         front of the lift button as you step onto the 
+         lift.  You will hear a beep as the lift is 
+         activated.
+
+        *If the lift is not here:  Pass in front of the 
+         button to call the lift(again, a sound will 
+         indicate this), then once the lift arrives, 
+         pass in front of the button again as you step 
+         onto it.
+
+  It only takes a few seconds to get the hang of this.  
+  We playtested the map with a variety of button/trigger
+  styles, and this was definitely the best.
+
+- A lot of effort was put into the details of this level,
+  and as far as I know, there are no misaligned textures.
+
+- There +IS+ an Egon on this level, but because it is 
+  such a powerfull weapon, particularly over long 
+  distances(of which this map contains many), it is in
+  a secret area.  Be imaginative and I'm sure you will
+  find it.
+
+- There is no hornet gun. 
+  I don't like the hornet gun.  
+  So there!
+
+- Don't overlook the usefulness of satchels in this level.
+  The elevator and air vent can provide some very devious
+  frags.
+
+- A gauss blast will penetrate most walls in this level.
+
+
+============================================================
+================
+File Information
+================
+
+Title:            Site B
+BSP File:         Site_B.bsp
+Author:           Mark Hewitt a.k.a [TRI]The_Cheese
+Email Address:    the_cheese@dial.pipex.com
+Level Size:       Large
+Previous Maps:    Nightshift
+
+============================================================
+================
+PLAY INFORMATION
+================
+
+Single Player:    No
+Deathmatch:       Yes
+TeamPlay:         Why not
+New Textures:     No
+New Sounds:       No
+
+============================================================
+============
+CONSTRUCTION
+============
+Base:             New level from scratch
+Editor Used:      Worldcraft 2.0
+Machine Used:     PII300
+Build Time:       Around 3 weeks
+Compile Time:     ~2 hours 30 mins
+Known Bugs:       None known
+
+This map has been tested in Software, Direct 3D, and OpenGL
+
+============================================================
+======================
+ADDITIONAL INFORMATION
+======================
+
+*HUGE* THANKS to Dax a.k.a [TRI]Nose_Hair for letting
+me ambush his PC for test compiles, and for suggesting
+the glass blast doors(just wait until you see someone
+trapped outside!).
+
+Thanks to Spaceweasel for the encouraging review of
+my first map, Nightshift, and the rest of the Radium
+bunch for providing the site.
+
+Thanks to Ben Morris for Worldcraft.
+
+If you play this map(and even enjoy it)I would certainly
+appreciate an email.
+============================================================
+=========
+LEGAL BIT
+=========
+Copyright / Permissions
+
+Copyright (c) 1999 Mark Hewitt All rights reserved.
+This level (Site B) may be electronically distributed 
+only at no charge to the recipient, and may not be 
+modified in any way.  This text file(Site_B.txt) must 
+be included with the level. This level may not be 
+included in any commercial compilations without the 
+express permission of the author.

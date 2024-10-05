@@ -1,0 +1,103 @@
+** INTRODUCTION **
+
+Title			: TNT (for Half-Life deathmatch).
+Date			: 24th October 1999
+Filename		: Gustavo7_TNT.bsp
+Filesize		: 4.15mb, or thereabouts.
+Author			: Keved, my Half-Life alias is Gustavo. Of the [SLH] UK clan (Satan's Little Helpers).
+Email Address		: gustavo@halflife.net, keved@keved.force9.co.uk, keved@hotmail.com. In that order of preferance.
+ICQ			: 10393836 (auth required).
+Home Page		: http://www.keved.force9.co.uk
+Map reviews		: http://www.totality.org.uk (I'm a reviewer there).
+
+ABOUT THE MAP/ME:
+TNT is my seventh FPS map (and fifth for Half-Life deathmatch).
+
+Previous maps...
+Penitentiary (Half-Life deathmatch, released 5-March-1999).
+Maximillian (Half-Life teamplay primarily/also deathmatch, released 15-May-1999).
+Maximal (Team Fortress Classic territorial domination, released 8-July-1999).
+Mad Bucking Fastards (Half-Life deathmatch, released 27-July-1999).
+Talos (Half-Life deathmatch, released 3-August-1999).
+C4 (Action Half-Life, released 16-September-1999).
+
+Who am I? I'm 24 yrs old, English, & currently work for an Architectural Practice in NW England. Started playing/mapping FPS this year (1999), so am not a Quake/TF/Quake2/etc multiplayer veteran.
+
+CREDITS TO:
+1) Valve/Sierra/id.
+2) The Zoner compiling tools verson 1.41. TNT was compiled with these superb modified compiling tools, via a batch file. sean@dimensionalrift.com. Keep up the good work, Sean.
+3) Unreal & Kingpin. TNT contains several textures from those two games.
+4) Hello's to all in [SLH].
+5) Records, for salvation from radio/tv hell.
+
+
+
+** PLAY INFORMATION **
+
+SINGLE PLAYER:
+Just to familiarise yourself.
+
+MULTIPLAYER:
+Aye, deathmatch. Ideally 8-24 players.
+
+DESCRIPTION:
+TNT is a direct conversion of an Action Half-Life map I made entitled C4. All that has changed is the weapon/ammo entities, with the layout/texturing/lighting remaining identical. So, the theme obviously stays the same...to quote from my C4 text file;
+
+"Those unfamiliar with the ActionQ2/HL concept, ActionQ2/HL maps are set where a movie shoot-out could take place, with the most common theme used being amongst buildings in a city. C4 differs in this respect by not being set in such a location, but more of a setting for the explosive finale at the end of a movie, in an industrial setting. The facility in question in C4 is one that makes explosive substances (ie C4)."
+
+And there you go.
+
+PLAYING:
+Running speed; wpoly does admittedly get a little too high at times for my liking (~750 max)...hardly critical, but software mode users can expect their PC's to struggle with a few areas. This is a side-effect of having a very open and free connectivity in the map...there are several routes from one place to another, and by the same token several areas of TNT are drawn by the engine from wherever you stand. The wpoly is nothing outlandish though, and with my previous maps I've thought the r_speeds where too high, only for people to say they run fine on lower spec PC's.
+
+TNT could easily be seen to be a tad on the dark side. Apologies to those who would have preferred a lighter gamma setting for the entire map, but I wanted to keep the same thick atmospheric setting that was in C4. You do know how to adjust your own gamma setting though, right? 8OÞ
+
+Hope you like TNT. I'd appreciate feedback too...to my email address/icq number at the top of this text file. It's a major commitment putting in the time to design these damn maps, so I fully welcome any & all constructive encouragement / ideas / criticisms / praises.
+
+
+
+** WHAT'S NEXT **
+
+(1) "Helixx". TFC CTF with a Xeno setting. Helixx is my biggest map yet weighing in with a 5mb bsp file, with the editable rmf file being 8.5mb. NO kidding. It takes a WEEK to fully compile...150+ hours of solid 100% CPU usage (Intel PII 300mhz w/224mb), give or take half a day! Again, I'm NOT kidding. Currently at the playtesting stage. Available end-Oct '99.
+
+(2) "Bastion". TFC CTF. Available end-Nov '99. Current stage: layout is complete...ready for texturing/lighting/TFC entities.
+
+
+
+** INSTRUCTIONS **
+
+Make sure you put the Gustavo7_TNT.bsp file into the following directory:
+
+...\\valve\maps
+
+And of course keep this text file. 8¬)
+
+
+
+** CONSTRUCTION **
+
+Base                    : Based on Gustavo6_C4.bsp.
+Editor(s) used          : Worldcraft v2.1
+Known Bugs              : Just that I've stretched lots of textures, so decals may be out-of-shape/size. Also, the textures on the 'furnaces' are sometimes misaligned whilst playing. They're all aligned fine in Worldcraft, but the compiling process seems to cause the alignment in-game to have a mind of its own. Hardly gameplay ruining though.
+Build Time              : 1hr to convert the weapons/ammo, a few more to playtest. Another half an hour to refine the placements after the playtest.
+Compiled on             : Intel PentiumII 300mhz, 224mb ram, 8mb ATi at Work, 12mb Voodoo 2.
+Compile Times...
+HLCSG			: 231 seconds.
+HLBSP2			: 106 seconds.
+VIS			: ~2000 seconds.
+HLRAD			: ~4500 seconds.
+
+
+
+** PERMISSIONS **
+
+You MAY NOT sell this map for money without my permission. You MAY NOT alter this map or use it as a base for a new map without my permission.
+
+If a magazine wants it on its CD - that's fine - *BUT* you *MUST* send me a copy of the mag and credit myself with it's construction, AND INCLUDE THIS TEXT FILE. If you review this map for a website/magazine, I'd appreciate an email/whatever so I can read the review...not essential, but just to be appreciative of the time I've put into this map. An email only takes a minute.
+
+You have yerself a nice day, y'hear?
+
+Oh btw, if you see me on a server, I *CANNOT* speak Spanish/Portuguese/Smack talk/whatever...just so I ain't assumed to be a Colombian drug baron like I have been a few times before (or corderoy wearing Uruguayian goat shepherd, that happened once. The clever fukr who said that was hunted down repeatedly like a dog). 8¬)
+
+--
+Gustavo.

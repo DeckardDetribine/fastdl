@@ -1,0 +1,15 @@
+// overview description file for interception.bsp
+
+global 
+{
+        ZOOM	1.49
+        ORIGIN	363	-155	-232
+        ROTATED 0
+}
+
+layer 
+{
+        IMAGE "overviews/interception.bmp"
+        HEIGHT -937
+}
+

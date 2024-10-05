@@ -1,0 +1,86 @@
+December 9, 2000   "Canyon"
+
+A deathmatch map for Half-Life
+
+*********************************************
+
+Designer/Mapper: 	Davros (a.k.a. Jason Fricke)
+
+web site: 		www.davrosmaps.com
+email:                  davroslives@home.com
+
+*********************************************
+HALFLIFE(r) is a registered trademark 
+*********************************************
+
+Filesize (zipped):  400k
+Filesize (unzipped):  1007K
+
+Files included in this .zip file:
+
+	canyon.bsp
+	canyonreadme.txt
+
+*********************************************
+
+INTRO & INFO
+-------------
+
+This is a fun outdoor map set in a canyon with some great distant views.
+Follow the path up the cliffs for some jumps and a cave that is perfect for sniping.
+If you turn the valve wheel on the pump station, a surprise will follow!
+
+-Davros
+
+*********************************************	
+
+Installation & How to run the game
+-----------------------------------
+
+1)Extract the files to your half-life/valve/maps directory.
+
+2)Select the game from the multiplayer menu in Half-Life
+
+*********************************************		                                 
+
+Level information 
+------------------
+
+Single Player Map       : No
+
+Deathmatch/Co-op        : Yes
+
+Number of Players       : 2 - 8
+
+New Textures            : Yes
+ 
+New Models/Code	    	: No
+				
+New Sounds		: No
+
+Tools used              : Worldcraft 3.3, Zoners HL Tools 2.4.2, Wally 1.51B, Adobe Photoshop 5.5
+
+Compile Machine		: P3 667mhz, 256mb SDRAM, Geforce, and stuff
+
+Base			: From scratch
+
+Construction Time	: 3 weeks, not counting an interruption from my apartment burning down!
+
+Problems		: No major problems that I can think of
+			  
+Distribution  	 	: Distribute this map ONLY if you include this readme in the zip file!
+			
+
+*********************************************
+
+E-mail me with any comments on the level, praise or criticism. Any feedback is much appreciated.
+
+*********************************************
+
+Special Thanks
+---------------
+
+Cliff textures by Evile Dick, available at http://wadfather.game-edit.com (ed_terrain.wad)
+
+My friends deserve the greatest thanks for helping with ideas and testing during
+construction of the map:  Thanks Lister, Babykitkat, Juim, Geo Kon, Mikee, Doc Rock

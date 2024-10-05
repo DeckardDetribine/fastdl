@@ -1,0 +1,111 @@
+     ///\\\       |||    |||  |||    |||    ///|||\\\    |||\\\   |||  |||   ///\\\  
+    ///  \\\      |||    |||  |||    |||   ///     \\\   ||| \\\  |||  |||  ///
+   ///    \\\     |||   /|||  |||   /|||  ///       \\\  ||| ///  |||  |||  \\\\\\
+  ///||||||\\\    |||  //|||  |||  //|||  \\\       ///  |||///   |||  |||   \\\\\\ 
+ ///        \\\   ||| ///|||  ||| ///|||   \\\     ///   |||      \\\  ///      ///
+///	     \\\  |||/// |||  |||/// |||    \\\|||///    |||       \\\///   \\\///
+____________________________________________________________________________________________
+					    by JACKAR
+					  ruskyj@post.cz
+
+
+
+
+					-----English-----
+
+
+
+
+-----------
+DESCRIPTION
+-----------
+
+Game:			Hl-deatmatch
+New files:		Yes, textures included in bsp
+Instalation:		Just extract rar to /valve/maps directory
+
+Small map for 3-6 players, best situited for 4 players. Watch your back and always reload...
+
+					
+
+
+---------
+SOME INFO
+---------
+
+
+Solids:		350		
+Faces:		2142
+Textures:	23
+Tex. memory:	1.8 Mb 
+	
+Relased:	16.11.2002		
+Worked on:      20 hours 
+Compile time:	Half an hour
+
+Build machine:	700 Mhz Duron   384 Mb SDRAM
+Compile machine:700 Mhz Duron   384 Mb SDRAM
+
+
+----------
+OTHER INFO
+----------
+
+Annopus, lying at the peak of the cliff, was build by old Egyptians, because they trusted, that this cliff is an centre of cosmic energy from planet Axion. Every year they sacrificed their lifes for all four elements. But one day, a big storm came and everything changed. Old Cha`tua`mi said, that it was message from Axion. However, some persons from future appeared somehow. They had strange artifacts, that were killing our people like croakroaches. We captured some of their equpment, but we still doesn`t know, how to handle with it. But we found, that watching their deathmatch is big fun. So our leader Cha`tua`su, som of Cha`tua`mi has opened the competition. If you win, you will go back. If not, you will be forgoten...
+
+
+
+First I wanted to make just one room, just from scratch. But than i added hallways and I found it can be interesting map. Every map I`ve ever seen was in 90 degree architecture. This isn`t. Is it advantage, or disadvantage ? You must say that...
+I used textures from unreal tournament, `cos Halflife doesn`t have good egyptian textures :). Just floor is tech-like, but i think it doesn`t matter :P 
+
+So i have only one sentence to say: Hold your trigger and strafe ! 
+
+Enjoy :) 
+
+
+----------
+MAPOGRAPHY
+----------
+
+Warehouse
+Cencom_Duel
+Overcross
+Annopus
+
+
+------------------
+LEGAL STUFF ETC...
+------------------
+
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+This map may be distributed ONLY on a "not for profit" basis using any medium,
+provided this file is included with no changes.
+
+Magazines and other published media may use my level provided they ask for my permission.
+
+If you want to include this map in your mod, please mail me.
+
+
+
+------
+THANKS
+------
+
+
+To RCS  ( rcs.valve-erc.com ) for their free compile srevices, to Valve for making such a great editor (VHE) (engine sucks :) ) and for people, who send me improvement noteses for beta. 
+
+
+
+----------
+ANTITHANKS  
+----------
+
+
+To Slovak Telekomunikations, i wish you blow up, you monopole fuckers !!!. Than for all people who betrayed me and finaly for phaze - it blowed up my new graphic card, grrr.
+
+
+
+
+	

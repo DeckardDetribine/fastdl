@@ -1,0 +1,40 @@
+* Play Information *
+Title 			: Rigor Mortis (Latin for "Stiffness of Death")
+Filename		: rigor.bsp
+Author			: Brad "Geese" Geesaman
+Other lvls by author	: None as of yet
+Email address 		: geese@ezonline.com
+Description		: Rigor is a small map, (4-12) players, that incorporates aspects from Crossfire and X-Fire into a nighttime theme.  It has two "killzones" that make for quick, Free-for-all gameplay.  The map was designed for speed in every area possible.  However, a few spots can peak at 850.  Everywhere else they are under 500.  Enjoy!
+
+Additional Credits to   : Dave Cresci and Russell Brown for their input and playtesting.
+
+Single Player           : No
+Cooperative Player      : No
+Deathmatch Player       : Yes, 4-12 players
+CTF2			: No
+Difficulty Settings     : No
+New Textures            : No
+CD Track                : No
+
+* Construction *
+Base			: Scratch
+Editor(s) used          : Worldcraft 2.0
+Compile Machine		: P2 400, 128megs RAM
+Compile time		: about a half hour
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+

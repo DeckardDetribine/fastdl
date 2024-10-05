@@ -1,0 +1,12 @@
+maps/dm_throwback.bsp
+maps/dm_throwback.res
+sound/dm_throwback/drip1.wav
+sound/dm_throwback/medplat1.wav
+sound/dm_throwback/r_tele1.wav
+sound/dm_throwback/r_tele2.wav
+sound/dm_throwback/r_tele3.wav
+sound/dm_throwback/r_tele4.wav
+sound/dm_throwback/secretopen.wav
+sound/dm_throwback/secretclose.wav
+sound/dm_throwback/suck1.wav
+sound/dm_throwback/wind2.wav

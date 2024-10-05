@@ -1,0 +1,79 @@
+><><><><><><><><><><><><><><><><><><><><><><><><><
+                                              DmCore V 1.5
+><><><><><><><><><><><><><><><><><><><><><><><><><
+
+Release date: october 27 2004, Gothenburg, Sweden
+Half-life Deathmatch (HLDM)
+
+====================================================
+title:			DmCore v1.5
+name:			DmCore.bsp
+author:			Filip Coulianos aka MisterBister
+email address:		f_misterbister@hotmail.com
+URL:			here and there
+description:		A deatmatch map!?
+
+====================================================
+Play information
+
+deathmatch:		4-10
+team deathmatch:		if you like teamDM, then yes =)
+new sounds:		no
+new graphics:		yes
+new music:		no
+                  
+====================================================
+construction:
+
+base:			none
+editor:			Worldcraft 3.3
+other progs:		Photoshop 8, notepad
+known bugs:		None.
+build time:			About a month
+
+====================================================
+Other notes:
+This map is the result of hard work and great friends with alot of
+great ideas and very constructive criticism.
+
+Thanks to:
+Fox1			For letting me use his very nice textures.
+Evil Lair			For makring such great textures for me to use in the map.
+Wolf/sky			For being a great friend with lots of creative ideas.
+My girlfriend		For having huge patience and for understanding my computer interests.
+My mom and dad		For giving me good food ;).
+Ratface			For good support.
+Xlator			For great friendship.
+Coldblooded		For all the great hours of Dawn of war i played with you, remember when we kicked 			4 computers on "harder". Friggin great game ^_^. 
+The guys at wadfahter	For making really great textures, many of which i have used in this map.
+Lonedog			For paying the pizza bill every now and then. (I promise to pay you back 					sometime, really I will ;) )
+Ace			For being a great supporter.
+Xerent			For nothing!!! (Hahaha).
+Hellquist			For being a Cool and odd person ( no offence there m8 =) ).
+Vetebulle			For good friendship.
+Icystrike aka kuken		Also for good friendship.
+Xioxis			For great support.
+Notuern			Also for great support.
+Mustasch			For making FUCKING GREAT ÜBERNICE HARDROCK MUSIC!!
+Alice in chains		Also for making FUCKING GREAT MUSIC!
+Zyndrome			For being a cool guy.
+Radeon			For all the fun hours of starwars galaxies I've had with you.
+Blazeeer			For making me feel that I have to make better maps than you (which I don't).
+Olleman			For great support.
+Snigeln			For having patience with me and all my stupid computer questions and also 				for being a really great friend.
+Zandor			For being a very, very, great friend.
+Prometeus		For being a really great friend and support and lots of creative ideas 					back in the old days :).
+Grizzly			For giving me the idea of making the "pipe" on this map ;).
+Tracer Bullet		For giving me useful critics and for taking alot of effort to show me his opinion.
+ReNo			For taking your time to highlight varius issues about the map and present it to me.
+Plupp			For being a cool guy and for avoiding singing the drunk 
+
+
+Special thanks to:
+
+The rest of the people at Leveldesign.nu and Snarkpit.com for all the positive responses to this map and for all the constructive criticism and all the support ,all the great friendship and, and, and, and... Well you get it guys, thanks to you all.
+
+AND the greatest thanks to YOU for downloading this map and taking your time to read this document!
+
+© 2004 Filip Coulianos aka MisterBister
+====================================================

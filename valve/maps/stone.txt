@@ -1,0 +1,28 @@
+STONE (Remake) by Ununoctium
+===========================
+August 2017 - v2.0.1
+---------------------
+GameBanana: Ununoctium
+TWHL: ununoctium
+ekaradon621@gmail.com
+
+
+HOW TO INSTALL / CÓMO INSTALAR
+==============================
+
+ENGLISH
+-------
+Place "stone.bsp" and "stone.res" inside Half-Life's "maps" folder 
+(by default if you're using Steam version: Steam\steamapps\common\Half-Life\valve\maps)
+
+Place the contents of the "gfx/env" folder inside Half-Life's "gfx/env" folders 
+(by default if you're using Steam version: Steam\steamapps\common\Half-Life\valve\gfx\env)
+
+ESPAÑOL
+-------
+
+Colocá "stone.bsp" y "stone.res" dentro de la carpeta "maps" de tu Half-Life
+(por defecto si usas la versión de Steam: Steam\steamapps\common\Half-Life\valve\maps)
+
+Colocá los contenidos de las carpetas "gfx/env" dentro de la carpetas "gfx/env" de tu Half-Life
+(por defecto si usas la versión de Steam: Steam\steamapps\common\Half-Life\valve\gfx\env)

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/strict.dtd">
+<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Half-Life DeathMatch :: Lab11: LavaLab</title>
+<meta name="author" content="Peter Jones" />
+<style type="text/css">
+<!--
+body { font-family: verdana,sans-serif; font-size: 14px; color: #006; background: #eef; }
+div { margin: 20px; padding: 0px; border: 2px solid #006; }
+
+h1 { margin: 0px; color: #eef; background: #006; padding: 2px 20px; font-size: 24px; }
+h2 { background: #ccd; padding-left: 20px; font-size: 22px; }
+h3 { background: #dde; padding-left: 20px; font-size: 18px; }
+h4 { background: #dde; padding-left: 20px; font-size: 16px; }
+h1,h2,h3,h4 { border-top: 1px solid #006; border-bottom: 1px solid #006; }
+h3 { width: 75%; border-right: 1px solid #006; }
+h4 { width: 60%; border-right: 1px solid #006; }
+
+p { margin: 20px; }
+pre { margin: 0px 40px; font-size: 12px; }
+
+.level { font-weight: bold; color: #600; }
+.spaced li { margin: 16px 20px; }
+.data li { margin: 3px 20px; cursor: help; width: 150px; }
+.extra,acronym { cursor: help; border-bottom: 1px dotted; }
+.newpage { page-break-before: always; }
+
+li { margin: 0px 10px; }
+dt { clear: both; width: 130px; text-align: right; font-weight: bold; float: left; border-bottom: 1px solid #eef;  }
+dd { margin-left: 140px; margin-right: 20px; margin-bottom: 1px; }
+code { font-size: 0.9em; }
+
+dl ul { margin: 0px; }
+-->
+</style>
+</head>
+
+<body>
+
+<div>
+<h1>Level Details</h1>
+
+<dl>
+<dt>Title:</dt><dd><span class="level">Lab11: LavaLab</span></dd>
+<dt>Version:</dt><dd>1.0</dd>
+<dt>Release Date:</dt><dd>November 20th, 2008</dd>
+<dt>Get It At:</dt><dd><a href="http://www.petesplace.id.au/mapping/levels.php#lab11_lavalab">Lab11: LavaLab</a></dd>
+<dt>Readme:</dt><dd>lab11_lavalab.html -- the file you are reading now.</dd>
+</dl>
+
+<dl>
+<dt>Author:</dt><dd>Peter Jones</dd>
+<dt>Contact:</dt><dd><a href="http://www.petesplace.id.au/contact_pete.php?subj=Lab11_LavaLab">Contact Pete</a></dd>
+<dt>Website:</dt><dd><a href="http://www.petesplace.id.au/mapping/">Pete's Place :: Mapping</a></dd>
+</dl>
+</div>
+
+<div>
+<h1>Play Information</h1>
+
+<dl>
+<dt>Game:</dt><dd>Half-Life</dd>
+<dt>Game Mode:</dt><dd>DeathMatch</dd>
+<dt>Level Name:</dt><dd><span class="level">Lab11: LavaLab</span></dd>
+<dt>Players:</dt>
+  <dd>4-12</dd>
+<dt>Known Bugs:</dt>
+  <dd>
+    <ul>
+      <li>When the Magma Collector goes into action, I wanted the scoop to fill with lava.  Although everything is there in the level and being triggered, for some reason it doesn't seem to be working as planned.  Since it is a minor detail I stopped trying to get it working.</li>
+      <li>There <em>were</em> several places where, if you were sliding down the rock walls, you would get stuck.  I recompiled the level using different settings (<em>-cliptype precise</em>) and it seems to have fixed the majority of these, but it is possible you may still find a sticking point somewhere.  I know of a couple of places where you do get stuck but can get free by crouching...</li>
+      <li>The health and armour chargers can be triggered through the wall.  While careful level design can prevent this from happening, this is really where these chargers wanted to be.  This is actually a bug in the Valve code; I have fixed it in my own &quot;petesdm&quot; minimod (specifically because of this level) but until I release <em>that</em> (possibly sooner rather than later, in preliminary form anyway) you're stuck with this problem.  (My code fix can be found <a href="http://www.petesplace.id.au/coding/no_use_through_walls.php">here</a> if you wish to incorporate it into a mod of your own!)</li>
+      <li>Please <a href="http://www.petesplace.id.au/contact_pete.php?subj=Lab11_LavaLab_bugs">let me know</a> if you find anything more!</li>
+      </ul>
+    </dd>
+</dl>
+
+<dl>
+<dt>Base:</dt><dd>New level from scratch, although the concept was originally developed as my first HLDM level, <a href="http://www.petesplace.id.au/mapping/levels.php#lavalab">LavaLab</a>.</dd>
+<dt>New Graphics:</dt><dd>Several, not created by me; see <a href="#credits">Other Credits</a> for full details.</dd>
+</dl>
+
+<dl>
+<dt>Installation:</dt>
+  <dd>Place the .bsp files in your valve\maps directory.</dd>
+</dl>
+</div>
+
+<div>
+<h1>Build and Compile Information (Reference)</h1>
+
+<dl>
+<dt>Build Time:</dt><dd>Started April 4, 2007; in progress for roughly 19 months, on and off.</dd>
+<dt>Editor:</dt><dd>Valve Hammer Editor 3.4</dd>
+<dt>Additional:</dt>
+  <dd>Wally 1.51B [<em>to assemble the WAD file</em>]</dd>
+  <dd>Final compile was with <strong>ZHLT v3.4 Final</strong>.</dd>
+</dl>
+
+<h2>Final Compile Parameters</h2>
+<ul>
+  <li><code><strong>hlcsg.exe</strong> -wadautodetect -wadinclude lab11_lavalab.wad -cliptype precise -low -chart lab11_lavalab</code></li>
+  <li><code><strong>hlbsp.exe</strong>  -low -chart lab11_lavalab</code></li>
+  <li><code><strong>hlvis.exe</strong> -full -low -chart lab11_lavalab</code></li>
+  <li><code><strong>hlrad.exe</strong> -extra -dscale 1 -bounce 1 -sparse -bounce 2 -low -chart lab11_lavalab</code></li>
+  </ul>
+
+<h2>Compile Time (on 3.2GHz Xeon with 3Gb RAM)</h2>
+<ul>
+  <li>lab11_lavalab: <strong>16h 19m 40s</strong></li>
+  </ul>
+</div>
+
+<div><h1>Other</h1>
+
+<h2>LavaLab Redux</h2>
+
+<p><em>Night.  This is a research lab nestled precariously in the caldera of an active volcano.  Above the close-study platform, enclosed in a cube of concrete, are three levels: storage, recreation, control.</em>  If this sounds familiar (or even if it doesn't) it's because it is the description of my very first HLDM level, <a href="http://www.petesplace.id.au/mapping/levels.php#lavalab">LavaLab</a>.  Back in 2004 when I built my first level, I was constrained by my inexperience -- I had a lot to learn back then -- and by my attempts to keep the <em>r_speeds</em> of the level below 1000.  After I finished tweaking the design of my latest level, <a href="http://www.petesplace.id.au/mapping/levels.php#n_mausoleum">Necropolis: Mausoleum</a>, in August 2006, I spent a while tinkering with other ideas -- none of which really got very far -- but it wasn't until we were playing <em>LavaLab</em> one afternoon that the idea of recreating the concept from scratch occurred to me.</p>
+
+<p>I have learned a lot about what is possible under the HLDM engine since the good ol' days, and I have long since abandoned the rather archaic ideal of limiting <em>r_speeds</em> (on the possibly mistaken belief that most machines these days should be able to happily run any level that the HLDM engine can handle.)  Revisiting the original concept gave me the chance to try out a couple of other ideas I had wanted to include, but never managed to get working -- although, ironically, by the time I'd built my new volcanic caldera, I found myself struggling with engine limitations and unable to include the very idea (&quot;glass walkways&quot;) that had inspired the design of the original level!  I guess my <em>next</em> level will have to get the glass walkways...</p>
+
+<h2>Lab11: LavaLab</h2>
+
+<h3>The Anomaly</h3>
+
+<p>In early March of 2010, a small survey team sent to investigate some strange satellite readings discovered something strange in the centre of a remote volcanic crater. Preliminary scientific exploration of what soon came to be referred to as &quot;Anomaly A-1&quot; by team leader Robert Kilpatrick -- he tossed a rock at it -- led to the realisation that it was a short-range portal.  Further experimentation -- more rocks -- revealed it to be somewhat unstable.  Nevertheless, this was the greatest scientific discovery since fire, and its exploitation was inevitable.</p>
+
+<h3>Lab11</h3>
+
+<p>The bulk of the Lab11 complex was built into the walls of the caldera over the next two years.  During that time many observations were made, and while much was learned it was determined that for proper understanding of the phenomenon, closer access would be required.  Designing and building the LavaLab itself took another three years.  Intended to be self-powering and capable of searching for atomic changes to the lava which flowed so steadily past <strong>Anomaly A-1</strong>, the Lab was an engineering masterpiece.  At its heart, the custom-designed super-computer ran everything from the lighting and environmental controls to the lava-sampling cycle.  While it contained facilities for visiting scientists, the Lab was almost entirely automated.</p>
+
+<h3>Lockdown</h3>
+
+<p>Every few minutes, the computer requires another sample of lava to analyse.  For reasons that made sense to someone, it was decided that the best way to achieve this was to temporarily dam the lava flow and raise the level high enough that the scoop can draw off a small sample.  Since flooding the caldera is potentially dangerous, the Lab will go into lockdown whilst the sampling procedure is in progress.  Intra-level doors will be sealed, and the two large viewing windows will be closed.  Of course it is not anticipated that the level will ever rise high enough to threaten the Lab itself; these precautions are merely in case of potential splashback.</p>
+
+<h3>Gameplay</h3>
+
+<p>Night.  Usual story.  It's DeathMatch: just kill anything with a pulse, and have fun!</p>
+
+<h2>Features</h2>
+
+<p>The original <span class="level">LavaLab</span> had four teleporting &quot;anomalies&quot; scattered around the place, but without a great deal of logic to how they worked or what they were; this level has two, with four possible exit points and a lot more detail to explain their origin.  The original had absolutely no special effects associated with the teleportation event -- which was always something I wished I could change.  For this level, I have put a lot of work into the special effects associated with the anomalies and their use.  I really hope you like the end results!</p>
+
+<p>The only weapon not included in this level is the Gauss Cannon, AKA the "Jump Gun".  Quite apart from my own inability to hit a barn door with the darn thing, I didn't want to include it in this level because it made handling the outer walls problematic at best.  (One thing I really dislike in levels is the invisible barrier (particularly noticeable in UT Onslaught maps, for instance) which holds the player inside the map for no logical reason other than because "it's the edge of the map"!  Call it a pet peeve if you will, but it meant there was no room for the Gauss Cannon in <span class="level">Lab11: LavaLab</span>.  However, that problem will possibly not exist in <span class="level">Lab11: Erupt</span>, so you can probably expect to find one therein!)</p>
+
+<p>There are several Egon Cannons scattered around the place.  They are intentionally difficult to reach, and acquiring one typically entails some level of danger.</p>
+
+<p>Additionally, after recent tremors which led to a hasty evacuation of the Lab's scientific personnel -- and construction crews, since the place was not entirely complete -- some minor structural damage has occurred.  It is possible that the lab is not entirely stable.  Watch your step! :-)</p>
+
+<p>Finally, every 8-10 minutes the lab will go into lockdown mode, which changes the dynamic of the level.  Consider it an experimental feature ... and please let me know what you think.  It may not be something I shall include in future levels, but it depends on how well it is received (or, I guess, reviled!)</p>
+
+<h2>Feedback</h2>
+
+<p>I would appreciate feedback from anybody who likes (or dislikes) this level.  If you have something to say about this level, or an error to report, please <a href="http://www.petesplace.id.au/contact_pete.php?subj=Lab11_LavaLab">contact me</a>.  Without feedback, how can I hope to improve?  :-)</p>
+
+<h2>Playtesting</h2>
+
+<p>This level has been extensively playtested by the following people, many of whom have made comments contributing to the finished product:</p>
+
+<ul class="data">
+<li>Ben Davies</li>
+<li title="the author, aka 'Phoenix'">Peter Jones</li>
+<li>Karen McKavanagh</li>
+<li>Kim Stallard</li>
+<li>Grant Wheatley</li>
+</ul>
+
+<p>Unfortunately, <span class="level">Lab11: LavaLab</span> grew to be quite a bit larger -- in available floorspace, if nothing else -- than its predecessor.  I generally aim my levels at being playable by two people, since that is often all we can manage to round up most evenings.  This one, however -- well, it <em>can</em> be played with two people, but it is better with four or more.  If you want to play a version of this level better suited for two, you might want to wait for <span class="level">Lab11: Erupt</span>, coming soon to a server near you...</p>
+
+<h2><a name="comments">Comments</a></h2>
+
+<h3>Revision History</h3>
+
+<h4>Version 1.0 -- October 31, 2008</h4>
+
+<p>I am releasing this after extensive testing and numerous recompiles.  As it stands, any further problems which may exist with it are essentially unfixable, so I probably won't even attempt to change this further.  However, any comments which can be incorporated into the next spin-off level will be!</p>
+
+<h2><a name="credits"></a>Other Credits</h2>
+
+<p>Thanks go to the following:</p>
+
+<ul class="spaced">
+<li><a href="http://www.valvesoftware.com/">Valve Software</a>, for producing this great game, and giving us the means of creating our own levels.</li>
+<li>The Playtesters (listed above) for their feedback and suggestions which helped make this level better than it would have been without them.  Also for their &quot;gentle nudging&quot;, which helped me stay focused on finishing!</li>
+<li>Ben Davies, who once again provided the input I needed to prevent the level from stagnating.  I may have built these levels, but Ben is very much the co-designer.</li>
+<li>The rock and lava textures that I used for my new and improved volcanic caldera were created by <a href="http://www.twhl.co.za/user.php?id=2922">srry</a>.  To a degree, it was seeing his textures which convinced me to go ahead with my plans to remake <span class="level">LavaLab</span>!  I needed something good enough to do the idea justice, and they certainly are!  Thanks, srry!</li>
+<li><a href="mailto:hyperglint@usa.net">Hyperion Glint</a> for the toilet stall prefab.  I modified this one somewhat from the one I used in the original <span class="level">LavaLab</span> -- and then almost had to get rid of it altogether because of level limitations (the level originally had four toilet stalls, but since they weren't really being used anyway, they got sacrificed in the name of the greater good!)  I originally found it at the <a href="http://www.planethalflife.com/prefablab/">Prefab Lab</a> (under 'Structures'.)</li>
+</ul>
+
+<h2><a href="http://www.petesplace.id.au/mapping/levels.php">Other Levels</a></h2>
+
+<h3>Half Life: Deathmatch</h3>
+
+<ul>
+<li>LavaLab</li>
+<li>LavaLab: Erupt (variant of LavaLab)</li>
+<li>Lab17: Storage</li>
+<li>Lab17: Flood (variant of Lab17: Storage)</li>
+<li>Lab17: Slimelab</li>
+<li>Lab17: Quake (variant of Lab17: Slimelab)</li>
+<li>Necropolis: Mausoleum</li>
+</ul>
+
+<h2>Copyright and Permissions</h2>
+
+<p>This level is copyrighted 2008 by Peter Jones.</p>
+
+<p>You MAY distribute this level through any electronic network (internet, FIDO, local BBS, etc) provided you include <em>this</em> HTML file, and keep the ZIP archive intact.</p>
+
+<p>You MAY include this level in the map rotation of a &quot;free&quot; internet HLDM server, but if you do so I'd <em>really</em> appreciate an email to let me know you're using it!  You MAY NOT include it on your server if you are charging for access to play on the server!</p>
+
+<p>This level MAY NOT be included with any compilation packs UNLESS you ask me first and I grant permission.</p>
+
+<p>You MAY NOT make a profit from this level without direct signed permission from me.</p>
+
+<p>You MAY NOT modify this level (or any of the files in this distribution) in any way, nor may you use it as a base or template for your own level.</p>
+
+<p>In other words: give it to your buddies, play it as much as you like, but give credit where credit is due, and if you are going to make money from this level, I want some too!</p>
+</div>
+
+</body>
+</html>

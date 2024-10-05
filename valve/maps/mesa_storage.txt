@@ -1,0 +1,27 @@
+
+-----------------------
+Mesa Storage
+
+Version 1
+Made by Hotdog
+Created in June - July of 2005
+Half-Life Deathmatch
+
+6 Players Recommended
+1 Trap
+2 Secrets
+
+-----------------------
+
+Details
+
+A second map for the Mesa collection. Mesa maps are based on a specific part on the Half-Life game. This map is based on the level "We've Got Hostiles" where you first meet the military. It is a complex multi-maze level with three different elevations for the whole level. You can stay on the ground and fight around the storage crates or head up to the second level and traverse the catwalks to gain a height advantage. I also included the ventilation system from the game, a maze of vents that go through every room plus a few more. With regular openings for shooting out of, the vents provide a stealthy way to shoot your opponents. Once again, I have hidden both the Egon and Gauss in secret areas.
+
+-----------------------
+
+Copyrights\Restrictions
+
+Feel free to decompile and use any part of this map for your own use just
+please put in your readme file that you used part of this map.
+The textures in this map are embedded, you are welcome to extract them.
+You may distribute this level in any form but please ensure that it is accompanied by this readme file.

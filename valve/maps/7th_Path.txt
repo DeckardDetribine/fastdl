@@ -1,0 +1,18 @@
+===================================
+This file was downloaded at fpsbanana.com
+===================================
+-------------------------------------
+7th_Path (Half-Life Map)
+-------------------------------------
+
+Installation Instructions
+
+If you DON'T have a folder named "maps" in your valve folder then place the maps folder in this directory:
+
+C:\Program Files\Steam\steamapps\YOURACCOUNT\half-life\valve
+
+If you DO have a folder named "maps" in your valve folder then just place the .bsp file in this directory:
+
+C:\Program Files\Steam\steamapps\YOURACCOUNT\half-life\valve\maps
+
+Hope you enjoy it!

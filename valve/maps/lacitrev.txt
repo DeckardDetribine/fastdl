@@ -1,0 +1,77 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+          HOT DEATH DINER CHRISTMAS MAPPING CONTEST
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+------Install Instructions-----------------------------------------------
+
+Unzip archive to your 'c:\sierra\half-life\valve' directory.
+
+------General Information--------------------------------------------
+
+Title           : Lacitrev
+
+Release         : second
+
+Date            : 6.12.2002
+
+Filename        : lacitrev.bsp
+
+Author          : Jussi Kivilinna (aka [DRS]hullu)
+
+Email Address   : hullu@unitedadmins.com (hullu@hullu.cjb.net)
+
+Home page       : http://hullu.xtragaming.com/index.html
+
+Description     : Half-Life: Deathmatch Map.
+                  Highly vertical jungle/nature map.
+                  Made for HotDeathDiner xmas mapping contest.
+                  
+                  Couldn't think any good name so I just reversed
+                  some word :) .. like I made with Zeroceromon and
+                  Teymanon ;)
+
+Previous Maps   :
+                  Teyemanon (hldm, made-in-one-day wonder :)
+                  Varrock Special Edition (hldm, last and the greatest, direct convert from OP4POW version(entity&wadinclude only))
+                  OP4POW Varrock (op4pow, took long time to fix HLDM Varrock to pro quality ;)
+                  Enura Arena (hldm, don't ask, don't dl)
+                  Zeroceromon (hldm & op4ctf)
+                  HLDM Varrock(1st version) (hldm, first version.. was quite good back then :)
+                  ...
+                
+Credits/Thanks  : 
+                  [DRS]Pexxi for sky map <pexxi@pexxi.cjb.net>
+
+                  DRS-clan for support (www.drsclan.com)
+
+                  Zoner, Merl for the tools
+
+                  Valve for Half-Life
+
+------Play Information-----------------------------------------------
+
+Deathmatch      : Yes - 32 starts defined. 
+Teamplay        : Yes (haven't tested but should be fine since there is two/three main areas)
+CTF             : No
+Single Player   : No
+Min. players    : 3
+Max. players    : 8+
+
+You spawn with: 9mmhandgun, satchels and LongJump-unit.
+
+------Map Information------------------------------------------------
+
+New Textures    : Some, compiled in to bsp.
+New Sounds      : None.
+New Sky         : Yes.
+
+------Construction---------------------------------------------------
+
+Base          : (some old cliff construction test map made years ago(2001))
+Util(s) used  : WorldCraft/Hammer 3.4, 
+                PSP7, 
+                Wally, 
+                Merl's HL Tools 1.7 + hullu's hlrad hack
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 

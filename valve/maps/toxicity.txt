@@ -1,0 +1,19 @@
+======================================
+TOXICITY
+======================================
+by Victor-933
+
+======================================
+Installation
+======================================
+Place Map in your Valve/Maps folder - x:\program files\valve\steam\steamapps\yourname\half-life\valve\maps
+
+======================================
+Stats
+======================================
+Build time: a few days
+Size: Large
+Custom textures: Yes
+Custom sounds: No
+Custom models: No
+Custom Sprites: No

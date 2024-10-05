@@ -1,0 +1,175 @@
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+   * * * * *  FIRST ARENA   * * * * *
+-------------------------------------------------------------------------
+
+   MAP NAME:   -----------------   first_arena.bsp
+   AUTHOR:        -----------------   Peter Manson  
+   MAP TYPE:    -----------------   Half-life   Deathmatch / teamplay
+
+   PREVIOUS MAPS:  --------   enders_game      (deathmatch / teamplay)
+                                                    rohan                    (deathmatch / teamplay)
+                                                    rohan2                  (deathmatch / teamplay)
+
+   AUTHOR CONATCT:  ------  peter@mickeymurphy.freeserve.co.uk
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+   CONTENTS
+----------------------------------------------------------------
+
+   1 - INSTALATION OF THE MAP
+   2 - CONSTRUCTION DETAILS
+   3 - MAP INFO
+   4 - COPYRIGHT
+   5 - NEED HELP?
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+   Installation of the map: 
+----------------------------
+
+   ***  Note unlike most half-life levels this one use's a different
+   background (or) sky.  ***
+
+   * Getting this map to work with the sky really is simple, and i will
+   explain what to do in a few easy steps.
+
+   The zipped file you download contains 3 items:
+
+   first_arena.bsp   ----------- this is the level
+   first_arena.txt      ----------- the readme file which u are looking at!
+   hexagon256.zip  ----------- the above mentioned sky 
+
+   1/ The actuall level file (first_arena.bsp) goes into the folder:
+
+                    C:\SIERRA\Half-Life\valve\maps
+
+   2/ The new background-(sky) called hexagon256.zip  MUST be unzipped into the folder:
+
+                    C:\SIERRA\Half-Life\valve\gfx\env
+
+      *NOTE*  --  If like me, when you first look in the folder "valve\gfx" you
+                find no folder called "env"  then you must create one.
+             
+   
+      *NOTE*  --  If you download the map first_arena from a web site like planet half-life
+                and follow the instructions i have given regarding the sky, everything 
+                should be fine. -However if you get this map through a games server whilst 
+                playing half-life, then the server will download the map correctly,
+                BUT it cannot insert the sky, or even download it to your computer.
+                So If you get this map from a games server, then you will need to download
+                the sky and insert it seperatly, like i explained above.
+
+   you can download the sky from:
+
+                http://www.autovision.co.uk/maps/hexagon256.zip
+
+
+   Ok, thats the nasty bit over.
+
+
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   --CONSTRUCTION DETAILS---
+--------------------------------
+
+   Base:		                      From Scratch
+   Editor used:                                  WorldCraft 2.0 
+   Compile Machine:	                      PentiumII, 400MHz, 196MB RAM, voodoo 3-AGP
+   Construction time:	                      2-3 weeks worth of spare time, (im getting quicker)
+   New textures:	                      No
+   CD track:                                       if a cd is in the drive, then track 2 will play
+   Custom sky:                                  thanks to "the mighty Pete" for his excellent sky
+
+   Mighty Pete is at    ---->               http://www.geocities.com/petes-oasis/
+  
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   ----MAP INFO----
+-------------------------
+
+   * The two main interactive features of the map are:
+                                           
+   1:  a controlable rocket launcher.
+   2:  a button which activates crushers killing players climbing up a ladder.
+
+   * The map has no hornetgun, I wasnt happy about missing out this weapon, but
+     due to the large open area in this map, i thought it would be best to miss
+     out this gun.                   
+
+   * I tried to make this map as easy to navigate as possible.  My last map Rohan2, 
+     was (i felt) far too large, meaning you would only know your way around it if 
+     you played it regularly.
+     The arena style of this map means that you know where you are going even after
+     playing it once. - i hope.
+
+   * This map has a custom sky, which you will not get with the .bsp file if you download
+     the map from a games server. 
+     However, you can still play without this new sky, but it subtracts from the overall
+     appearance of the level, and is not how i intended it to look.
+     
+   * In the event of you having to download the sky seperatly, download it from:
+
+     --->      http://www.autovision.co.uk/maps/hexagon256.zip
+
+   * If you wish to view the sky prior to downloading it, then here are two pictures:
+
+     --->      http://www.autovision.co.uk/maps/sky_pictures.zip
+                           
+
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   ** Copyright **
+--------------------
+   
+   **Copyright 2000  Peter Manson**
+
+   Authors MAY NOT use this level as a base to build additional levels. 
+   Feel free to distribute this level, but ONLY if you INCLUDE THIS FILE WITH
+   NO MODIFICATIONS.  If you don't co-operate, then DON'T DISTRIBUTE IT IN
+   ANY FORM. 
+   This BSP may be distributed ONLY over the Internet and/or BBS systems.
+   You are NOT authorized to put this BSP on any CD or distribute it in
+   any way without my permission.
+
+------------------------
+------------------------
+
+   Saying that, i made this level purely for my own enjoyment, and love of
+   half-life.  So if any one wants to copy, use, or alter this level, then contact
+   me, and i will probabaly tell you to do what ever the hell you like with it. :-}
+   All i ask is that i be informed of any thing that you wish to change about it.
+
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   NEED HELP?
+----------------
+
+   If you have any problems concerning any aspect of this map,
+   then please contact me and i will do my best to help.
+
+
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
+   many other excellent user made maps can be found at  
+ 
+             --->    http://www.planethalf-life.com/hornetking/
+
+
+                          *  *  *  *  *  *  *  *  *  *  *
+
+
+
+
+

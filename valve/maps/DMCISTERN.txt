@@ -1,0 +1,35 @@
+MAP INFO:
+
+-----------------------------------------------------------------------------
+
+Name: Cistern of Death
+
+BSP-Filename: DMCistern
+
+Player: 2-7
+
+Description: "Cistern of Death" is a labyrinth with some different ways,
+             which have 2 or rather 3 floors. There are 3 ways to come to
+             the highest floor, the floor in the middle can be reached from
+             almost everywhere, exactly the same is with the downest floor
+             which is just flooded with water. On the map there´s one secret-
+             area, the secret is relative easy to find, but very difficult
+             to reach (, I suggest the "rocket-jump" with the Nukeweapon)!
+             With 3 and more players, life will come to the map. With 5 and
+             more players it will be a little, funny massacre!
+             So have a good killing !!!
+
+Author: Nailz
+
+E-Mail: HAWUERZBACH@OKAY.NET or HAWUE2406@WTAL.DE
+
+Special Info: With "Cistern of Death" I tried to built a Deathmatch-Map like
+              those, which are included in QuakeI. I think, that most of the
+              Half-Life-Map´s are realy good Single-Player-Map´s, but not so
+              good for typical Deatchmatches. However, my new map is builded
+              like an old Cistern which is, how I think very usable to give 
+              a good place for hard Deatchmatches!
+              Internet-Gaming:
+              -I don´t know anything about the speed of my level in the 
+              -internet, but in LAN-Games is the level fast enough for
+              -good playing (, on slow machines like mine, too).

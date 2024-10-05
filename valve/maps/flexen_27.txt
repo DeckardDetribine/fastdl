@@ -1,0 +1,47 @@
+================================================================
+Date                    : 27/06/01
+Title                   : Flexen_27
+Filename                : Flexen_27.bsp
+Author                  :  Air-dan
+Email Address           : airdan27@hotmail.com
+Home Page               : n/a
+
+Map Description         : nice mp map for 2-8 players.
+
+                           
+Other Works by Author   : A few sp maps.
+
+Misc Author Info        : ...
+
+
+================================================================
+
+== Play Information ==
+
+Single Player           : no
+Cooperative             : no
+Deathmatch              : yes
+
+
+== Construction ==
+Base                    : nothing
+Editor(s) used          : worldcraft 3.3
+
+
+== Additional Credits to ==
+thanks to my flexy skills :)
+
+                          
+== Installation Info ==
+Unzip into the half-life\valve\maps directory. 
+
+
+
+==Copyright / Permissions==
+Authors MAY NOT use this level as a base to build additional levels.
+
+This map may be distributed ONLY on a "not for profit" basis using any medium.
+
+This template is available from www.globalassault.com
+
+

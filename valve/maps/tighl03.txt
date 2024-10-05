@@ -1,0 +1,132 @@
+date: 14th of January 1999.
+Half-Life deathmatch level
+
+====================================================
+title:            Old School
+file:             tighl03.bsp
+author:           ]Tigger-oN[ 
+email address:    tigger@ebom.org
+URL:              http://www.ebom.org/ray
+                  http://planethalflife.com/tigger 
+description:      Medium sized DM level. This is 
+                   an *Old School Style* of map if 
+                   you ask me, and its very heavyly 
+                   based on a Clan Arena level i 
+                   made a little while back.
+
+====================================================
+play information
+
+single player     well.. have a look, few special 
+                   things, there were a lot more but 
+                   had to be removed as a the hlds.exe 
+                   did not like things like the 
+                   skeleton/stukabat.mdl :[
+cooperative:      no
+skills 0,1,2,3:   no
+deathmatch:       yes - FFA (3 to 6 ppl)
+new sounds:       no
+new graphics:     no
+new music:        no
+
+
+how to start      goto start/run (on the windows task bar) 
+ in single        browse for your hl.exe (look in 
+ player mode:       half-life folder :])
+                  once selected, don't hit run, add the 
+                    following
+                  hl.exe +map tighl03
+                  if you want to have a *console* as well, 
+                  make it
+                  hl.exe -console +map tighl03
+                  
+====================================================
+info
+
+r_speeds are important to me. :]
+
+Spent more time on this map than i have on any 
+other map in a long time, this map has had a lot 
+of work done to it, but I personal think it is 
+not *over done*. I was constantly trying new 
+things, adding and removing sections and 
+optimising the level in many different ways.
+
+The *fly-by* in the single player mode took about 
+5 hours to work out, but its a nice start, and 
+something a bit special/different. there is a few
+other things in SP that are not in the DM game.
+
+i did have the skeleton and stukabats, and some 
+assassins, but these had to be removed as the 
+*orginal* dedicated Half-Life server did not have 
+these .mdls in the pak file :[ i made it so they 
+didn't appear in a DM game, but the server still 
+spat the dummer.
+
+if your interested in the *assassin* version 
+(theres only a few, but the its a nice *look* 
+around) just email me, and i'll send it to you
+
+The architecture comes from my local environment, 
+i have *borrowed* lots of parts of the old and 
+forgotten buildings around me. these building 
+themself are a bit of a miss-mash of styles and 
+era's and i think you can see this being reflected 
+within this map. My world is far from *perfect* 
+and i hate the idea of a *perfect virtual world*, 
+hence the use of the miss-mash style. When i 
+walk around these old buildings i like to tying 
+to workout which bits where constructed first and 
+which came later, i can see this being 
+refferneced in this level too, and i like it!
+
+Base map was a Clan Arena level i designed a 
+little while ago. i don't think there where any 
+brushes that did not get move or changed during 
+the construction of this map.
+
+====================================================
+construction
+
+base:           tigca02.map
+editor:         WorldCraft 2 by Valve
+other progs:    none
+know bugs:      none
+build time:     Lots :]
+
+compile time:   qcsg 12sec
+                qbsp2 14sec
+                vis 108sec
+                qrad 440sec
+                 (pII 300 128ram)
+
+====================================================
+thanx to ...
+
+DeadFrog
+Brian Kelly
+evilchild (the DOE is a great idea!)
+ http://www.lowlife.com/halflife
+Drakir (great feedback)
+Barry Gibb[PN] (your email bounced :[)
+Daniel 'Dann' Thombs (for the skeleton set-up, 
+ bummer its only good for single player) 
+ http://www.far2cool.com/half-life/
+
+and the others that i have forgoten :]
+
+====================================================
+Distribution and legal: 
+
+Copyright (c) 1999 ray, tigger-on, tigger@ebom.org
+All rights reserved.
+
+Portions copyrighted by Valve, Inc.
+This level may be electronically distributed only at 
+NO CHARGE to the recipient in its current state, MUST 
+include this .txt file, and may NOT be modified IN 
+ANY WAY. UNDER NO CIRCUMSTANCES IS THIS LEVEL TO BE 
+DISTRIBUTED ON CD-ROM WITHOUT PRIOR WRITTEN PERMISSION.
+
+====================================================

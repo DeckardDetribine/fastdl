@@ -1,0 +1,64 @@
+* Play Information *
+
+Title 			: Steelwork V1.12
+Filename		: steelwork.bsp
+Author			: [RI]Wolf
+Other lvls by author	: Combat Camp V2.0, Lost Village V1.1,
+			  Castle_Rush
+Email address 		: ri-wolf@gmx.de
+Home page		: http://ri.gametown.de
+Description		: one more big map with a thick atmospehre
+			  from me for all the teamplay-server around
+			  the web. this map is constructed like a
+			  steelwork and the textures and sounds are
+			  styled in the theme. in the map there are
+			  3 secret rooms with stuff in there.
+			  look out for lightings on wallbottoms and
+			  sign on the walls around. an crate in the
+			  outdoorarea is a teamfeature. but also one
+			  player can push the cranebutton and reach
+			  the RPG under the crate.
+			  thats it for now..			  
+			  
+Additional Credits to   : the clanmembers of Raising Inferno for
+			  testing the map and give me comments
+			  on gameplay and texturing :)
+			  
+
+Single Player           : no
+Cooperative Player      : no
+Deathmatch Player       : Teamplay and Deathmatch
+CTF2			: no
+Difficulty Settings     : no
+New Textures            : yes from me and modified
+			  texturepacks from my friends :)
+CD Track                : no
+
+* Construction *
+Base			: new Level from scratch
+Editor(s) used          : Worldcraft 2.1
+Compile Machine		: Pentium II 350MHz 128MBRAM
+Compile time		: around 5500 secs.
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+
+
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+[RI] Wolf     
+                  Raising Inferno 1999
+

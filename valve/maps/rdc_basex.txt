@@ -1,0 +1,83 @@
+===========================================================
+rdc_basex by [RDC]Twitch a.k.a Hammer of Doom
+============================================================
+
+Map Name:      		rdc_basex.bsp
+Author:             Twitch  [RDC]Twitch
+Author email:  		arineod@gmail.com
+Homepage:      		WWW.LEVELEDITING.COM
+                    www.robodeath.com ROB DEATH CLAN
+
+wadincluded in map:  	twitch.wad with nightwatch textures
+============================================================
+LEVEL DESCRIPTION:
+
+Single Player:    		No
+Co-Op:                	No
+Deathmatch:     		Yes
+
+Suggested Players:  	4-8
+New Textures:   		Yes
+New Sounds:      		No
+New Models:		        No
+
+============================================================
+CONSTRUCTION:
+
+base map:                	None
+editor used:             	Worldcraft 3.5 Hammer
+utilities used:          	Super ZHLT 3.9, Photoshop CS3, Wally
+known bugs:            	    None
+Secrets:                    One
+============================================================
+Install:
+In your steam/steamapps/your_account_name/half-life/valve folder, place all the folders included in the zip file.
+You should have:
+maps
+overviews
+sprites
+
+==========================
+Credits:
+Textures I downloaded from several sources.  Most notable source was the nightwatch textures set I downloaded
+from a link on the Natural Selection (Half-Life 1 mod) forums.
+Half-Life: Nightwatch - Textures
+--------------------------------
+nw.wad
+nw_xeno.wad
+
+Textures by:
+Adam Foster, Henning Horstmann, Mohammad Alavi, Tomislav Spejic, and Tom DiLazaro. One additional texture by Cayle George. 
+
+Includes additional textures created from bases by and/or originally authored by Randy Reddig and Kevin Roberts.
+
+If you decompile rdc_basex and obtain the textures then please give credit to the list above for the nightwatch texture set because they rock
+and those guys deserve the credit for the awesome textures!
+
+==========================
+
+COPYRIGHT STUFF
+
+rdc_basex.bsp  		copyright Jul 24, 2010 by [RDC]twitch - Hammer-of-Doom 	
+
+Authors MAY use this level as a base to build additional levels as long 
+as you give me credit in your read.me as using this map as a base to 
+build your level.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet.
+
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+visit levelediting.com for any bug reports or questions
+visit robodeath.com ROBO DEATH CLAN
+
+I used some pictures and textures I found on the internet a while back. I have no way
+to reference the original authors because the site where I downloaded them at is no longer available.
+
+~X~
+Had to rename skyname to "space2" to avoid conflict with other skybox.

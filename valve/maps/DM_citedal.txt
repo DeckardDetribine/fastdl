@@ -1,0 +1,39 @@
+== Half-life deathmatch map ==
+
+Date                    : 28th October
+Title                   : DM_citedal
+Filename                : DM_citedal.zip
+Homepage		: http://www.geocities.com/nayisdeath/
+Author                  : nathan goulden
+Email Address           : tecmds@icqmail.com
+Map size                : Huge
+Other Works by Me       : 1,Monk
+			  2,Thepit
+			  3,seafort
+			  4,movie_wars
+			  5,Monk2
+== Play Information ==
+
+Single Player           : no
+Cooperative             : no
+Deathmatch              : yes
+textures		: Mostly new textures from my Monk2.wad
+sounds			: Some from counter-strike
+
+
+== Construction ==
+Base                    : From scratch beside some other ideas from monk1 and 2
+Editor(s) used          : worldcraft 3.3,terragen,wally,602photo
+
+
+== Installation Info ==
+unzip to c:\SIERRA\half-life
+
+
+==Copyright / Permissions==
+
+You may use these textures and sky as long as you give me some credit 
+in your maps read-me file
+
+
+

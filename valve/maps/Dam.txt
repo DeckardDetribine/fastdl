@@ -1,0 +1,40 @@
+=========================
+  HL Map Spec Sheet
+=========================
+---General Information---
+Title : The Deathmatch Dam
+Filename : Dam.bsp
+Author : David Harvey
+Other lvls by author : None for HL, but LaserQ & Ethereal Void for Quake, and many for Doom...
+Email address : dah@sys.uea.ac.uk
+Home page : http://www.geocities.com/SiliconValley/Haven/4173/
+
+---Play Information------
+Map Description:
+This level is designed to give those people who saw the dam in Half Life and wanted to deathmatch
+in & around it. The deathmatch version is slightly smaller (for r_speeds purposes), but there's still some fun stuff to use (including a dingy).
+
+Single Player : No
+Deathmatch : Yes
+Teamplay : No
+Recommended # of Players : 2-8
+
+---Map Information-------
+New Textures : No
+New Sounds : No
+
+---Construction----------
+Base : Build from scratch
+Editor(s) used : Worldcraft
+Compile Machine	: P2 450
+Compile time : about 2 hours
+
+---Additional Info-------
+This level, by it's very nature, has a large open area in. I've done by best to ensure that r_speeds are sufficiently low, but in some places it creeps up a little high (the sniping point overlooking the front of the Dam has the highest point in the level). It's for this reason that the rock walls look a little boring & smooth!
+
+If anyone would like the .map version of this, e-mail me.
+
+---Copyright-Permissions--------------------------------------------
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.

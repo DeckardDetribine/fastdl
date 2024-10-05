@@ -1,0 +1,49 @@
+Flyswatter - Hads DM 1			
+
+-Info-
+Author: Hads (duh) [hads@coldfish.co.uk]
+Textures: Rorshach [http://www.planetquake.com/polycount/cottages/rorshach]
+Type: Half-life Deathmatch
+Max Players: 8
+
+-Notes-
+The maps name comes from a song from the third Eels Album, Daisies Of The Galaxy, which was in my CD player right throughout the maps construction. 
+The textures are included in the BSP file. If you wish to make a map with them they can dowload from Rorshach's website. 
+Any comments/suggestions will be really appreciated.
+
+-Tools-
+WC 2.1 and 3.3 [http://www.valve-erc.com]
+Wally [http://www.telefragged.com/wally/]
+Zoners Half-Life Tools [http://www.valve-erc.com/resources/?page=zhlt]
+
+-Credits-
+Thanks to Artbroken, Jabyaeye and all the other kind VERC IRC folk for their suggestions.
+Thanks to Rorshach for his great textures.
+Thanks to Autolycus and the wonderful VERC.
+Thanks to Valve for making Half-Life in the first place.
+Thank you to the Eels for providing the sound-track to my mapping hours.
+And thanks to you for taking time out your busy schedule to play this thing :-)
+
+ - hads 20/10/01
+
+-Copyright-
+Map copyright hads 2001. Please dont distrubute without this readme file.
+Textures copyright Rorshach.
+
+
+"Field mice, head lice,
+spiders in the kitchen,
+dont think twice 'bout 
+whatever keeps you itchin'.
+Ice water, flyswatter
+gonna get you through 
+the day."
+
+ - Flyswatter, Eels.
+
+
+
+
+
+
+

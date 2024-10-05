@@ -1,0 +1,92 @@
+HELICOPORT
+
+* Play Information *
+Title 			: HELICOPORT
+Filename			: heliport.bsp
+Zipped filename		: heliport.zip
+Map web site		: http://www.geocities.com/TimesSquare/Fortress/9206/heliport.html
+Download		: http://www.geocities.com/TimesSquare/Fortress/9206/heliport.zip
+".map" file (for mapmaking)	: http://www.geocities.com/TimesSquare/Fortress/9206/heliport-map.zip
+Author			: Etienne Denis (Le Yeti)
+Email address 		: le.yeti@usa.net
+Description		: IMPORTANT: read "additional info" below
+Deathmatch Player       	: At leat 2! Max 16? More should be more crazy (or more fun)...
+Distribution		: You can distribute this map over the Internet as long as your distribute it free.
+Time spent on this project	: too long.
+
+* Copyright / Permissions *
+All copyrights to Etienne Denis, Montreal (Quebec) Canada.
+YES, authors CAN use this level as a base to build additional levels! Just give me the credits (thanks).
+In fact, you can do wathever you want with this map unless making money. If you want to make money (sell a CD or wathever), you need my written permission.
+
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+
+STORY
+You work at a military helicopter base somewhere. Your co-workers play a stupid game: to wake you up. While you try to open your eyes (it takes you at least 2 seconds), the girl you was dreaming of wish you a "very safe day". You grab your AR and shotgun (never go to sleep without them). You get mad. You finally succed to open your eyes. The girl you was dreaming of is not there. All you see is your crazy co-workers. Things get very bad.
+
+USING THIS MAP
+To play this map, unzip heliport.zip, copy the "heliport.bsp" file in your "Half-Life\valve\maps". Run Half-Life in deathmatch mode (or type "+deathmatch 1" at the console). Then type "map heliport" at the console. After that, send me your comments and all your money. If you want, send me only your comments at "le.yeti@usa.net".
+
+TEAMPLAY
+You can play "classic DM", it will be fun. But this map was designed with teamplay in mind (kind of "free for all" style of teamplay). There are basically 2 areas where you will find many weapons, ammo and goodies: the heliport (outside) and the lower levels (inside). A team should guard at least one of these 2 areas...
+
+WEAPONS
+You start with a shotgun and a AR, so you won't find any in the level. There is not a lot of 357, they are out of stock... ;-D   I did not put any "big blue lagging laser".  No alien weapons, 'cause our commercial relations with them are no so good. Yeah, there are some snarks, we import them from the Russians since the Tchernobyl accident.
+
+SAFE
+The safe is at the lower floor. Lot of goodies in the safe: 2 Gauss, ammo and else. You can open the safe with the button. Beware of the turrets if they are activated! 
+
+TURRETS
+Yep, turrets in the room near the safe (and in the safe)! There are activated by a button in the security room (the one with a window). So you open the safe, your friend hears the alarm, he triggers the turrets... Get it? 
+
+SNIPPERS
+Many "snipping spots" in the helicopter room. Need a Gauss to reach most of them. The Gauss is in the safe.
+
+BIG GUN
+It's up there, in front of the helicopter! Jump to grab the ladder. Need more ammo? Some are in the safe.
+
+FIRST AID
+Special cure (someting like +75 health points in few secs). It's down the stairs. Check the lights: they go from red to blue when your are down there, and while the machine is recharging, there are no light anymore. No need to use the "use" key. You can still face your opponents while you are building yourself a new health. 
+
+HELICOPTER
+You can shoot it while the pilote is sleeping... Big bang! Big damage for those who too near!
+
+LADDERS
+Always a ladder beside each elevator. Have a tripmine in your pocket.
+
+
+-------- TECHNICAL MAPMAKING STUFF --------
+
+R_SPEEDS
+I took care of your poor and old videocard (witch is still better than mine anyway). No r_speeds over 450. Important rooms are not connect by any indirect view.  That means the game should run smoothly.
+
+TEXTURE, GAME FLOW AND AMBIANCE 
+All the texture from the game (more easy for you). Each room and each corridor is a bit different so you will always know where you are. Always 2 or more ways to get somewhere. Doors open and close fast. You can get a lot of information if you pay attention to the sounds. The 2 secs of darkness when you respawn is a pause to let you breath a little bit. There are many "ambiance" sounds. 
+
+MAP FILE
+I have release the ".map" file. Maybe this can be useful for somebody. Go to the map web site (see top of this text).
+
+The safe was made with a "func_train" and some multisource. You have a button outside the safe but also inside the safe (if you are still there after the doors are close). If you trigger one of the 2 buttons, you cannot trigger they other until the doors are close.
+
+The first aid spot was made with a trigger_hurt witch have a negative damage value. It's trigger on and off by trigger_multiple. The lights are triggered the same way.
+
+All the infoplayer_deathmatch are in small black rooms. An AR and a shotgun are on the floor. The floor is a door that is trigger after 2 secs (you stand on the top of it). The door goes down, and then you hit the teleportation area. There are 36 infoplayer_deathmatch so it should always have enough time to respawned the AR and the shotgun before a second player use the same infoplayer_deathmatch (this feature needs to be tested).
+
+CREDITS
+
+The map was created by Etienne Denis (Le Yeti).
+Email: le.yeti@usa.net
+
+I used many Worldcraft's prefab. I modified a prefab from Suicide20 for the stairs. 
+
+Thanks to the boyz and girlz of the Rust mailing list, Rust web site, Gamedesign.net, halflife.net/workshop, and contaminated.net/wavelength for their help. 
+
+Language: My English is very bad and I know it. I wrote this in English 'cause lots of players don't read French.
+
+
+
+
+

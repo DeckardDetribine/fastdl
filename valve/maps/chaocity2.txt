@@ -1,0 +1,124 @@
+---	
+CHAOCITY 2.0 
+
+by  S U L S A
+---
+
+Type: Halflife Deathmatch map
+Players: 6-? players
+Filename: Chaocity2.bsp
+
+Email: sulsa@altavista.com
+
+=======================
+
+THE STORY:  
+
+A Return to CHAOCITY...
+
+	The mayhem that was started in Chaocity 1.0 has continued.  Now the specifics of the story are leaking out to the general public...
+
+1998
+-Something tragic happens in an unknown top secret government lab called Black Mesa, somewhere in the midwest.
+
+1999
+-Cleanup of the XEN invasion finishes. The government coverup continues. 
+-Some microscopic XEN organisms that feed on the carbon derivatives in oil survive the sanitation process.
+
+2000
+-National petroleum deposit levels begin to plummett dramatically.  Concern quickly spreads throughout the nation. 
+-The reason is discovered, but not publicized.  The government cracks down on international travel and commerce in an attempt to limit the spread of the organism to other parts of the world.  Civil unrest and fear begin to climb under the pressure of spiking oil prices and unexplained commercial and travel restrictions.
+
+2001
+-Despite U.S. attempts to quietly control the XEN organism outbreak, OPEC nations begin to notice a drop in their own oil production and quality.
+-Oil prices continue to rise at an alarming rate.
+-OPEC and NATO confront the USA for more answers.  The U.S. continues to deny responsibility.
+
+2002
+-Saudi Arabia launches a conventional first strike against Iraq and Iran, claiming national interest in keeping control of the OPEC community.  Highly trained Iraqi terror squads respond with a low yield nuclear device in downtown Riyadh, killing 67,000. 
+-NATO and the rest of the world are horrified at the quick escalation in force, but do little to prevent the fighting.
+-A second nuclear device goes off in Jiddah and components of a third are intercepted while entering a commercial wharf in Miami, Florida, USA.
+-The Dept. of Defense weighs it's options, and drafts the remaining scientists from Black Mesa.  They are tasked with developing a 'super soldier' through gene splicing, gene manipulation and XEN DNA samples still on hand from the original Black Mesa project.
+
+2003
+-NATO begins to disintegrate in the new world turmoil, and the U.S. is essentially alone.  The 'super soldier' project becomes a top priority, and more resources are spent to release a working model.
+-4 more tactical nuclear weapons are used, all by Saudi Arabia.  Two of which are against Israel,  crippling their Command and Control structure before they can respond.  Another 238,000 are dead.
+-The first wave of 'super soldiers' are ready and undergo evaluation for combat in urban environments.  A city is taken over by the government and divided into sections for testing.  The code name for the Top Secret project is Chaocity.  
+-CHAOCITY 1.0 is a partial success.  Side affects include mood swings: from severe aggression and depression, to euphoria and fits of laughing.  Uncontrolled bloodlust and a failure to follow direct orders complicate the studies.
+-As more changes in the genetic code are tried, a larger area is set up for further testing and evaluation. 
+
+It is called CHAOCITY 2.0 
+ 
+ 
+=======================
+
+THE MAP ITSELF:
+
+	This map contains all the weapons found in the Halflife universe.  There is 1 stationary player controllable turret.  There are about 10 custom textures and one custom sky in this map that I made myself.  There is one trap in the map which is perhaps the most insidious trap ever put into a Death Match map.  I am not even going to explain it or how it works, you will figure it out soon enough...  :]
+
+	This is my second map and it began as the second half of Chaocity 1.0. After CC1 was released, I wanted to see just how big a Death Match map could get.  It took over 3 months to finish and I ran out of ideas, patience and texture memory before I ran out of physical space, but it seems like it could have gotten bigger.  There are very few BIG maps out there, and there are even fewer people who like the 'slower' type of game that goes along with the big size.  There are however, a huge amount of small and medium sized maps of high quality, so if this is too big for you, you have hundreds of others to choose from.  But if you are one of the few who love to play on the 'big chuggers', then I hope you enjoy Chaocity 2.0 .
+
+
+
+=======================
+
+THE CUSTOM SKY:
+
+	You must put all 12 image files (6 .bmp, 6 TGA) in your \\...Valve\gfx\env folder.  If it ain't there, MAKE ONE.
+
+
+=======================
+
+TECHNICAL STUFF:
+
+Hardware:
+	-PIII 450mhz processor with 384 mhz RAM
+	-Viper TNT 16mb video card
+Software:
+	-Worldcraft 2.1/3.3
+	-ZONER'S Tools
+	-HalfLife Compilation Controller
+	-Wally
+	-Spriteview
+	-Pakscape
+	-Adobe Photoshop 5.5
+	-Adobe Illustrator 9.0
+
+Compiling Time:
+	-109 minutes
+
+Geek #s:
+	-visibility matrix   : 178.2 megs
+	-556340 square feet [80107200.00 square inches]
+	-1705 direct lights
+	-9308 faces
+=======================
+
+THANK YOUs:
+
+	-Dr. Dags and Cool n' Fresh, PRE-beta testers, members of [CMC], and great friends for years.  (That's all three of us in the picture).
+	-Clan [CMC] (Canned Meat Clan) for the actual Beta-testing and bug scrubbing; great ideas and suggestions for improvement.  It is the greatest thing that we all survived the implosion of 'iCAST.com', and will be great friends for life.  You guys are THE BEST.
+	-The web resources like the Halflife ERC and GlobalAssault.com.  Most of all however, thanks to the guys who frequent the RUST gamedesign forums.  If it wasn't for them and the many others like them out there, there wouldn't be ANY amateur game designers...
+	
+=======================
+
+COPYRIGHT STUFF:
+
+	This map is ALL MINE, except for one thing:
+
+	-HWARANGDO, the most comprehensive system of deadly fighting on the planet.  www.hwarangdo.com
+
+	I made this map from scratch.  It belongs to me.  Everything is original.  But you know what?  Use whatever you want out of it!  Turn it into whatever you want or take whatever you want for prefabs...ON ONE CONDITION:  Be cool, be honorable and GIVE CREDIT WHERE CREDIT IS DUE.
+
+Once again, it has been a pleasure making this map for all the HL shooters out there, and an honor to count myself amongst the designers.
+
+
+o--[-----
+
+S u l s a
+
+12-14-2000
+	 
+
+
+

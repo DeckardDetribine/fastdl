@@ -1,0 +1,60 @@
+================================================================
+Date                    : 27-06-2001
+Map Title               : Deathmatch Facility
+Map Filename            : dm_facility.bsp
+Author                  : Piotr "PiotErr" Lipinski
+Email Address           : pioter10@poczta.wp.pl
+Home Page               : none
+Map Description         : Ridiculous post-industrial building erected under beautiful
+			  stormy sky (env map created by Muad - great thanks for permition)
+			  for crazy people playing Half-Life                           
+Other Works by Author   : none worth mentioning
+
+
+================================================================
+
+== Play Information ==
+
+Single Player           : for test/debugging only
+Cooperative             : no
+Deathmatch              : yes
+
+
+== Construction ==
+Base                    : from scratch
+Editor(s) used          : WorldCraft, Wally, Paint Shop, Quark
+Build Machine	        : AMD K6 366, 96 MB ram
+Compile Machine	        : P III 800, 256 MB ram
+Compile time	        : about 40 min.
+
+
+== Additional Credits to ==
+Special Credits and Thanks to Adam W. "Muad" Stiles for creating and letting me
+use his env maps Stormy.
+Thanks to Wadfather, web place where I found that sky.
+Thanks to Valve for bringing us Half-Life.
+Thanks to Zoner for compiling tools.
+Thanks to Half-Life ERC for their tutorials.
+Thanks to Telefragged for Wally.
+Thanks to Armin Rigo and his friends for Quark.
+
+
+                          
+== Installation Info ==
+Unzip files: dm_facility.bsp and dm_facility.txt into the half-life\valve\maps directory.
+Unzip content of directory "env" (only content, not directory;)) into the
+half-life\valve\gfx\env directory.
+
+
+
+==Copyright / Permissions==
+Authors MAY NOT use this level as a base to build additional levels.
+
+This map may be distributed ONLY on a "not for profit" basis using any medium.
+
+This template is available from www.globalassault.com
+
+===================================================
+Don't get fragged !
+
+PiotErr

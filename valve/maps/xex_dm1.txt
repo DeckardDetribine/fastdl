@@ -1,0 +1,70 @@
+================================================================================
+Title                   : xcerx_dm1
+Filename                : xex_dm1.bsp
+Version                 : 03/19/99
+                                      
+Author                  : xcerx
+Email Address           : xcerx@hotmail.com
+
+Other levels by author  : This is my first released map.
+
+Description             : uhhh, a silo in the middle. quite dark. no big empty areas
+		          really fast gameplay. Many tripmines. 
+			  I made it because i love tripmines and I have no tripmine maps.
+			
+			  r_speeds should be fine for most systems.
+
+Story			: you and your homosexual brother are arguing over a boy. 
+			  you decided to fight a battle in an old nuke silo. The one who 
+			  wins is the badest gay and have the rights to take the third boy. 
+			  uhh.... you borrowed all the weapons from your father. he is an old 
+			  drugdealer, also homosexual if you wondered. if there are 3 players
+			  the third play the father. He wants to kill the third boy, because
+			  he dont like redheads. if there are 4 players the fourth have to play 
+			  the drugdealers wife. mattias is his name. if you wondered. 
+			  you cant play more than four persons on this map, if so we will run
+			  out of gays.
+			  
+ 			  	
+Thanks to               : uhhh, "biffen", he borrowed me wc2
+
+================================================================================
+
+* Play Information *
+
+Game                    : Half-Life
+Single Player           : No
+Deathmatch              : Yes, 4 spawn points. Suitable for 2-3 players.
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Monsters            : No
+New Demos               : No
+New Models              : No
+
+* Construction *
+
+Base                    : I have made the boxes, brushes or what they are called. uuuhhh
+			  taken the textures from the halflife.wad ?? .....dont remember
+		          shit the same, who cares
+
+Editor(s) used          : Worldcraft 2.0
+
+Build Time              : 15 hours
+Compile Time            : 3 min, 200 mmmx, 64 ram
+Installation		: Unzip xex_dm1.zip into your sierra/half-life/valve/maps dir.
+			
+
+* Copyright / Permissions *
+
+This level is (c) by Erik Skåpdal 1999.
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD 
+or any other electronic medium that is sold for money without my explicit
+permission! My e-mail adress is available at the top of the page.
+
+Authors MAY NOT use this level, or any of the beta versions of this level,
+as a base to build additional levels.
+
+You MAY distribute this BSP through any electronic network (internet, 
+FIDO, local BBS, provided you include this file and leave the archive 
+intact.

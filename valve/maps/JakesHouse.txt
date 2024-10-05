@@ -1,0 +1,322 @@
++-------------------------------------------------------------------+
+|   Some information before the main feature                        |
++-------------------------------------------------------------------+
+
+This is a compact, tight map and not really designed for beginners. It does contain some of the more powerful weapons but they are hard to get and so the shotgun and machine gun are used the most instead of 1 shot kill weapons. Also so that you can't be picked off right after respawning most spawn points are on or near a gun.
+That's the plan anyway...
+
+The r_speeds are ok, never going above 650ish, but mostly below 400.  
+
+++=================================================================++
+||   Half-Life Map Spec Sheet                                      ||
+++=================================================================++
+Hello I could have kept this map for myself and a few freinds to play on my Lan but instead I'm giving it to you.
+Not for free mind you, oh no. To use this map you must send me an E-mail telling me wht you think otherwise I can't be held responsible for its actions.
+You have been warned
+Who knows, I may even tell you how to get the Egon.
+
+
+sheep_of_evil@yahoo.com
+=====================================================================
+
+
++-------------------------------------------------------------------+
+|------General Information------------------------------------------|
++-------------------------------------------------------------------+
+
+Title		:'My house:This Map is dedicated to Chris Tate'
+Filename	:Jakeshouse.bsp (bit vain)
+Author		:Jake 
+Author Email	:sheep_of_evil@yahoo.com
+Home page	:none
+Description	:An exact replica of a small town house in britain situated a convinient five minutes from the town centre and commanding excelent panoraminc views of the area.
+Previous Maps	:Check Point Charlie (cpc.bsp), Hl:3Arenas (cpd.bsp), Banjo Factory (cpe.bsp)
+=====================================================================
+
+
++-------------------------------------------------------------------+
+|-----Story Line----------------------------------------------------|
++-------------------------------------------------------------------+
+
+Mr Freeman and Mr Grunt were having a fight and then killed each other (accidentally) by falling in some acid.
+One of them had a rocket launcher and one a gauss gun.
+Then alot more people came along and for no apparent reason started to kick the crap out of each other
+FOR NO REASON (remember)
+But It was ok because every time they died they were reincarnated so everything was fine, except because they couldn't take it with them they had to take it from others by kicking the living crap out of them.
+And so it went on.
+But it was ok because they never died.
+And some wore business suits which needed batteries.
+and everyone got annoyed because Jacob wouldn't tell them how to get the egon because he was very mean.
+The End
+
+It's a Deathmatch map ie. you kill each other, does this need spelling out ? :)
+If so e-mail me at Iamthestupidestpersonintheworldtotryto@emailyouatthisaddress.com
+=====================================================================
+
+
++-------------------------------------------------------------------+
+|-----Credits and Thanks--------------------------------------------|
++-------------------------------------------------------------------+
+(these people are the guys who worked on ALL my maps)
+
+Original concept:						 Jake
+
+Design:								 Jake
+
+Production:							 Jake
+
+Producer:							 Jake 
+
+Testers:					Jake [GDM]SheepOfEvil 
+ 						 Gaz    [GDM]FireClaw
+					       Steve       EasyTarget
+					       Chris      EggsOfSatan
+					     Richard      PublicEnemy
+
+Editor:								 Jake
+
+Assistant editor:						 Jake
+
+
+Give me a job
+
+
+Thanks to all those sites on the internet with help and tips on world-
+craft and thanks to  valve for giving it away with such a good game.
+
+Thanks to Radium (www.planethalflife.com/radium) who seems to have disappeared for the moment
+
+Thanks to Hornetking (www.planethalflife.com/hornetkng) for reviewing my previous maps (and liking them)
+
+Thanks to Scream and hornetking (although I think i've now thanked him twice?;)
+
+Thanks to Walters world for being very funny (RIP)
+
+Thanks to valve for digging the fps shooter out of a very deep hole (Is it just me or did Quake I/II single player really stink of rotten dog carcass ?, ie was it boring, repetetive and with no imagnination/flow ?)
+
+Thanks to Id, a company who are finally playing to their strengths  (multiplayer and level design)
+
+And Not their weaknesses (traditional fps style levels)
+
+Thanks for everyone who has ever owned a Pc
+
+Thanks to console owners (who don't know what they are missing)
+
+Thanks to valve for remembering both single and multiplayers and giving stuff away f.. r.. e.. e.. (wow)
+
+Thanks to everyone who has helped with testing (Chris,Steve,Gaz,Richard)
+
+Thanks to Steve lyne for his kind words and help with reinstallation problems
+
+Thanks to everyone at Outcast central (www.outcastcentral.com, ask for vapor)
+
+Thanks to my mother and father (and the rest of the family)
+
+Thank you lord for all the trees and flowers
+
+Thanks to Pc-gamer uk for almost always delivering my subscribtion before it's in the shops
+
+Thanks to Pc zone
+
+Thanks to Everyone who has ever worked on anything I enjoyed
+
+Thanks to the Tax man (he's only  doing his job)
+
+Thanks to Clan TeamSheep (RRP)
+
+Thanks to GDM
+
+Thanks to 6 or so people who have actually e-mailed me about my map(s)
+
+'Thanks' to all the rest of you who have downloaded the maps but not actually e-mailed me (I want feedback/Praise if applicable)
+
+Thanks to Yahoo for allowing me to e-mail this map
+
+Thanks to Mr Gates for his work
+
+Thanks to all the people who made bits of my pc
+
+Thanks to Vapor, Marika, Wibble, Chetter Hummin, Granny, Dave, Jag, happy Camper, Mpwk, Tibs, Riak, Normy, thingy, Easy target, Eep, KingDick, Geo 
+
+Thanks to Gaz, Richard, Chris, Alex Teal, Duke, Jamie, Caroline, Caroline Weale, Sasha, Adrian pratt/jordan, Sahima, Jonathan, Paul, Chris, Liz, Chris, Heather, Cathryn, Sally, Emma, Terri-anne, Lisa, Sarah, Doc, Mike, Alex, Mr child, Adam, the other Adam, Andy, Craig, Liz, Stewart, Lucy, Rob, Danny, Sara, Clare, Nathan, Ashley, Emily, Slow Norris, Simon gregory, Mr Harrison, Mr Auty, Elizabeth, Phil, Matt, charlotte, Joy, Yvette Cooper   
+
+Thanks to Danny, Tom, Laurie, gary, Steve, Steve
+
+Thanks to everyone else who isn't listed (I can only apologise but this is being written at about 2'o clock in the morning)
+
+Thanks to You for downloading this map
+
+Thanks to Tony For running a country
+
+Thanks to Berries butties
+
+Thanks to everyone in the world who is nice enough to learn English as a second language so I don't have use my terrible linguistic skills 
+
+Thanks to The Queen for (reasons pending)
+
+Thanks to Mrs O'brien
+
+Thanks to the Adam and Joe show
+
+Thanks to have I got News To You
+
+Thanks to everyone who voted for me
+
+Thanks to Particle systems for creating one of my favorite games ever, I-war ! (I've played the single player game more than half-life single player. Well probably)
+
+I also Like the Nomad Soul, Outcast is Brilliant and Homeworld's good but both sides are exactly the same so thanks to the developers of those..
+
+Thanks to the creators of the simpsons, without doubt one of the best shows on television
+'Right I think I've figured out the controls, you can go up and down but not side to side or back in time'
+
+Thanks to ANYone who has Ever given me money/help with anything
+
+Thanks to Ditch for being musical
+
+Thanks to Deserted for the same
+
+Thanks to Rolf Harris
+
+Thanks for forgetting that last one
+
+Thanks to Chris and Andy for giving back those cd's they lent.. eventually
+
+Thanks for listening
+
+For a full list of thanks please write to;
+ 
+IcantbelievehowstupidIwastofallforthatlastaddressbutthistimeitmustbe@real.com
+=====================================================================
+
+
++-------------------------------------------------------------------+
+|-----Additional Info, Tips, and Notes------------------------------|
++-------------------------------------------------------------------+
+
+I am working on a single player episode
+
+Don't pick up the rocket launher or gauss, as the acid hurts lots
+It is difficult to get to the cache of supplies in the entry area/the egon
+No I'm not telling you 3:>
+
+--Info--
+A tomato is actually a fruit
+The 410 leeds-Pontefract Bus goes every 20 Minutes from the bus station Monday-Saturday daytime
+You can see through a CD as the metal sheet is so thin
+According to current scientific thinking the universe is made out of super strings
+
+--Tips--
+Never feed hedgehogs milk
+The value of your shares can go down as well as up
+Use a magnet to pick up pins
+Never leave the house without a pen
+Eat Healthy
+Never go back to a firework once lit
+Don't eat mushrooms unless you know what they are
+You can use coke to loosen rusty bolts
+Don't keep superglue in the same place as eye drops
+======================================================================
+
+
++--------------------------------------------------------------------+
+|-----Known bugs-----------------------------------------------------|
++--------------------------------------------------------------------+
+
+Nope (something to do with leaf portals when compiling but the map works)
+
+Ok so it's possible to levitate in some areas and walk through some other stuff but thats to stop you fools from having to jump about all the time and so you don't get snagged on the light fittings capish.
+Do you see how much I love you all ?
+
+Also the lifts with the rpg and gauss on don't always work...
+This isn't a bug. There is no gain without a little risk :)
+=====================================================================
+
+
++-------------------------------------------------------------------+
+|-----Play Information----------------------------------------------|
++-------------------------------------------------------------------+
+
+Deathmatch	:yep
+Single Player	:X nay on the single player tay
+Map Description	:MY house down to the smallest details (this may be a lie)
+How Many Players:2+, I'd guess about 12 maximum, but its a taste thing init?
+Gunz and Ammo   :All guns and ammo with the exception of the Hornet gun (sorry king)
+=====================================================================
+
++-------------------------------------------------------------------+
+|-----Map Information-----------------------------------------------|
++-------------------------------------------------------------------+
+
+New Textures	:I wouldn't know 
+New Sounds	:how if I wanted to
+=====================================================================
+
+
++-------------------------------------------------------------------+
+|-----Construction--------------------------------------------------|
++-------------------------------------------------------------------+
+Base		:scary_2 senior (not really of course)
+Editor(s) used	:Worldcraft
+Compile Machine	:PII 450 128mb ram
+Compile time	:About 20 mins
+Build time      :Some hours (Not too sure)
+Playtest time	:about 1/2 hour on a very early version. (long story basically)
+=====================================================================
+
+
++-------------------------------------------------------------------+
+|-----Map Instructions----------------------------------------------|
++-------------------------------------------------------------------+
+Unzip the files in this archive.  Place the map, "jakeshouse.bsp" in  
+your half-life/valve/maps directory.                               
+=====================================================================
+
+
++-------------------------------------------------------------------+
+|-----Copyright-Permissions-----------------------------------------|
++-------------------------------------------------------------------+
+
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+Sheep_of_evil@yahoo.com
+=====================================================================
+
+GO evil!
+
+This file will self destruct in 20 seconds
+19..................
+18.................
+17................
+16...............
+15..............
+14.............
+13............
+12...........
+11..........
+10.........
+9.........
+8........
+7.......
+6......
+5.....
+4....
+3...
+2..
+1.
+Ok i lie
+
+Yes Naming a map after myself is vain.
+Yes I know you don't know who chris tate is but it's an in joke.
+
+Opposing force is out in a bit innit :)

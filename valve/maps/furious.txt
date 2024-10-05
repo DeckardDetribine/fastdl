@@ -1,0 +1,18 @@
+					 >>>Furious<<<
+		  		Made By Nukem (John Sapikowski)
+
+	Half-Life Deathmatch level
+	Suggested Players: 4+
+	# of player starts: 14
+	
+	Base Idea: From scratch, a map that plays well with lots of players, and is very large but well connected, making it seem smaller. Having also weapons avalible upon spawn.
+	Build Time: About 7 months
+	Editor Used: Worldcraft 3.3
+	Compiler Used: Batch Compiler 2.0
+	Compile/Build Machine: AMD Athlon XP 1800+ (1533 mhz) processor, 64 mb Geforce 2 mx400 video card, 512mb ram, running Windows Me.
+	
+	Special Thanks: To the wonderful texture artists on the internet that provide to the public so many high quality textures for Half-Life. I never meant forget to thank all the talented texure artists sooner, I have used custom/new textures so many times before. Much Appreciation. And I also want thank my good buddy Derek Burton for taking some time to help me playtest this map and like many other times, helped me improve the entire map. :)
+	Notes: The second biggest map I have ever finished. I hoped for the map to be fast paced despite its size, thanks to well connected sectors of the map. This map barely compiles due to the max planes limit in Half-Life, I used nearly 100 percent of that limit in this map.  I actually first started this map to make a tutorial map for my friend Derek Burton, to teach him how to make a skybox in a map. Lol, I always wanted to release a map that was a tutorial.
+	Map Notes: Use the flow control valve and the camera to fill up the tank holding the rpg viewed in the camera next to the valve, possibly drowning your opponent in the process, they die instantly rather than waiting to slowly drown, there is no way out of the trap. You have to wait more than one minute to be able to use the trap again. Also after you turned the valve, check the tank in the room behind you for a special prize while the trap is toggled.
+	Secrets: Plenty, there are 3 or 4 secret rooms throughout the map. Not as many as I wanted. You can get the Guass and Egon guns only by accessing secret some areas.
+	

@@ -1,0 +1,33 @@
+---General Information---
+Title 				DeathMatch City
+Filename			DMCity.bsp
+Author				Joe Harrison
+Other lvls by author		
+Email address 			joe_harrison@ed.gov
+Home page			http://216.161.249.17
+Additional Credits to   
+
+---Play Information------
+Map Description			Small level with lots of weapons and ammo.
+Recommended # of Players:       6 I wouldn't play more than 12 on this one.
+
+---Map Information-------
+New Textures           
+New Sounds		
+
+---Construction----------
+Base				Fresh start
+Editor(s) used          	Worldcraft
+Compile Machine		        333mhz PII Celeron w/128 megs of ram
+Compile time			50min
+
+---Additional Info-------
+---Copyright-Permissions--------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels. 
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

@@ -1,0 +1,20 @@
+Map Name : Frontier
+Autor : ET-Nik
+Site : http://hldm.org
+
+Play Information
+	DeathMatch : YES
+	Single Pleyer : NO
+	Cooperative : NO
+	Mod : Half-Life, Adrenaline Gamer, OpposingForce
+	Player Max : 32
+	
+Others maps by ET-NiK
+	Entrance
+	Entrance 2
+	Space Combat
+	Crossfire Emperors
+	Killbox Emperors
+	Levels
+	Fast And Faster 3
+	Argilla

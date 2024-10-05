@@ -1,0 +1,15 @@
+// overview description file for dm_abandoned_remake
+// Z Min 504 Z Max -33
+
+global
+{
+	ZOOM	3.25
+	ORIGIN	2016 1640 440
+	ROTATED	0
+}
+
+layer
+{
+	IMAGE	"overviews/dm_abandoned_remake.bmp"
+	HEIGHT	-34
+}

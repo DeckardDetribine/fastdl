@@ -1,0 +1,131 @@
+====================
+* Play Information *
+====================
+Title 			: Martyrdom
+Filename		: martyrdom.bsp
+Author			: Joe "Martyr" Milton
+Release date		: February 1, 1999
+Other lvls by author	: This is my first level for Halflife.
+			  Quake I levels: Penance of the Satyrs,
+			  Rhapsody in Steel. Anyone remember those?
+Email address 		: jmilton@rocketmail.com
+			  Please email me if you put this map in
+			  your server rotation, I'll try to show up!
+Home page		: NA
+Description		: Deathmatch map for Halflife. A large silo
+			  storage facility. Recommended number of 
+			  players: 4-16. This is definitely NOT a 
+			  1-on-1 map!
+Additional Credits to   : Evilchild for his awesome map testing site:
+			  http://www.lowlife.com/halflife/
+			  Coughcold and 8man for beta testing -
+ 			  you guys are the best!
+			  Youngdoc, Hellbringer, AK-47 and all the
+			  other folks that hang out at the 
+   			  Planethalflife editing forum.
+			  Autolycus for the HL Editing Resource
+			  Center.
+			  Hellbringer (again) for the Wavelength 
+			  editing site.
+			  Ben Morris for the original Worldcraft.
+			  Valve for making Halflife such a great game.
+
+Single Player           : There is a single player start for walking
+			  around - but no monsters
+Cooperative Player      : No
+Deathmatch Player       : Yes - 16 DM starts
+CTF2			: No
+Difficulty Settings     : NA
+New Textures            : No
+
+================
+* Construction *
+================
+Base			: From scratch.
+Editor(s) used          : Worldcraft.
+			  I remember the good ol' days
+			  of Worldcraft and Quake 1 when there was
+			  no such thing as brush clipping or vertex
+			  manipulation or texture lock. 
+			  You new guys have it EASY!
+Compile Machine		: A VERY nice person compiled it for me 
+			  since my PC could not handle the size. He 
+			  will remain nameless to prevent him from 
+			  being swamped with requests from other 
+			  people with lame systems.
+Compile time		: Don't know
+Build time              : 6 weeks part time - hey, I have a life!
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+=========
+* Hints *
+=========
+Yes, there are snarks in the level, you just have to look...
+
+There are a couple of ways to get to the rpg in the large silo 
+room if you don't mind risking a long fall...
+
+There is one "secret" door that's fairly easy to find...
+
+You can turn the wheel to activate the bridge AND fire a gun at 
+the same time as long as you stay facing the wheel...
+
+Don't fall into slime...it hurts...
+
+Dont' fall into the dark pit either...that hurts too...
+
+=========================
+* Design Considerations *
+=========================
+It's time consuming to get that egon. Your hands have to stay at 
+the wheel to turn the access bridge making you very vulnerable.
+
+Jump carefully to get the rpg in the big silo room or you'll
+burn your toes.
+
+The other rpg is easily accessible, but puts you in the line
+of site of a crossbow sniper.
+
+For a fun time, creep up the ladder inside the large rusty silo
+and surprise that sniper.
+
+I threw in ONE crate...just so I could be considered a true
+Halflife mapper :)
+
+You CAN jump down onto the main level elevator (with the white
+concrete walls) from the upper level hallway and quickly hop 
+off it to the floor below. It's a good way to cut off someone 
+who's following you.
+
+Clip brushes were used where necessary to reduce risk of 
+getting "stuck." 
+
+Lots of thought and effort went into connectivity. It's a large
+map where you have to THINK about how to get to that certain
+area you're looking for. With time, you'll learn the best routes.
+Stand in just about any one place and think, "Let's see, I could 
+go that way, or that way, or that way..." Most rooms have lots
+of different ways in and out.
+
+Even more effort went into lowering r_speeds. This map should 
+be playable by just about anyone. That took both
+creativity and a willingness to hack out stuff that was cool
+but not necessary, not to mention pulling out a few tricks to 
+reduce the polygon count.
+
+===========================
+* Copyright / Permissions *
+===========================
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+

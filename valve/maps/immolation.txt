@@ -1,0 +1,71 @@
+=====================================================================
+   Half-Life Map Spec Sheet - Supplied by the nice people at Radium!
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: Immolation
+Filename	: immolation.zip
+Author		: Palamon (AKA Dan Watts)
+Description	: Small 1-on-1 or 3 player FFA deathmatch map
+Previous Maps	: The Cave (dwcave)
+
+------Credits and Thanks---------------------------------------------
+Oh, the list is long, and extending...
+id, valve, radium, wavelength - obvious :)
+Ohm, VooDoo (even if he has a silly nick), and the amazing Sureal - beta testing
+A multitude of people for emotional support :) and feedback...
+The author of the jumbot. Thankyou!
+And, there's a shitload of cool mappers who I'd like to thank for inspiration which
+falls just short of plagerism. Unfortunatly, I'm sure they'd hate to be
+mentioned here. So, general thanks to all those massively skilled people
+who inspire others such as me to make attempts
+
+------Play Information-----------------------------------------------
+
+Deathmatch	: Yaaah...
+Single Player	: Don't be silly, now.
+Map Description	: A very small, semi-industrial/bunker type complex. Hopefully
+enough items to support a few people, but strategic enough to make 1-on-1 fun. 
+Camping is not encouraged. Designed for LAN play, but should be OK to play even
+on a high ping connection, I hope.
+How Many Players: 2 - 3 (ish)
+
+------Map Information------------------------------------------------
+
+New Textures	: Not this time around
+New Sounds	: Nope.
+
+------Construction---------------------------------------------------
+
+Base		: From scratch.
+Editor(s) used	: Worldcraft 2.1
+Compile Machine	: AMD k6/2 400, 256 Mb RAM
+Compile time	: About 3/4 an hour
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "immolation.bsp" in
+your half-life/valve/maps directory.
+
+------Additional Info------------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+This map began as an experiment in simple, boring architecture and
+playing with lighting... it kinda grew, remaining just as boring but
+turning out quite fun to play
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+Blah blah blah.

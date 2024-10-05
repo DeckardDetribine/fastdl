@@ -1,0 +1,8 @@
+This map may have some glitches because it is too complex but im not sure being that my computer's graphics arent that great.
+________________________________________________________________________________________
+
+Just put the bsp. file in the maps folder and the wad file in your valve folder.
+
+________________________________________________________________________________________
+
+Map by: Myles Chumchal/zeeba-G

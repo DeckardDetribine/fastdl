@@ -1,0 +1,150 @@
+
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+
+------General Information--------------------------------------------
+
+Title		: Museum
+Filename	: hldm_museum.bsp
+Authors		: Jinx
+Authors Email	: jinx@cryotank.net
+Home pages	: http://www.cryotank.net/maps/
+Description	: an art museum
+Mod		: Half-Life Deathmatch
+		: Originally for Action Half-Life
+		: (http://www.ministryofaction.net)
+
+------About This Map-------------------------------------------------
+
+I wanted to do one final map for Action Half-Life and decided this would be a good theme. As usual, I also made a HLDM version for everyone to enjoy.
+
+------Credits and Thanks---------------------------------------------
+
+Plant Models:
+Created by Simon Fuchs aka Xenon (2004)
+Xenons@t-online.de
+www.xenondesign.de.vu
+Thank you, they were perfect!
+
+Action Half-Life Artwork:
+CHPX did the central photo with the guy in the long coat and smoking gun.
+Rogue did the AHL banner to the left.
+The Distraction logo I am not so sure, but check out their new Action-styled HL2 mod here:
+(http://distraction-mod.com)
+
+The Hate Bomb:
+CAIRATH, Malcolm, and Hondo. Best. Replacement. Ever.
+(http://68.32.69.181/hof/weapons.php?weapon=10)
+(http://www.havenofrags.com)
+
+The Skybox comes from "Poke646" by Marc Schröder.
+
+The Snarkpit crew!
+(http://www.snarkpit.net)
+
+TWHL: The Whole Half-Life
+Great mapping community, thank you for the feedback and IRC silliness!
+(http://twhl.co.za)
+
+Everyone who gave feedback and helped playtest the map.
+
+The A-Team for Action Half-Life!
+
+Sykes for his work on AHL: Director's Cut!
+(http://www.ministryofaction.net)
+
+------Texture Credits------------------------------------------------
+
+Blazeeer:
+This guy has a ton of great original textures- many thanks! (http://www.blaz.cscentral.com/textures.htm)
+
+TheDoenerKing:
+(http://www.thedoenerking.de)
+
+Banana:
+I used his wall textures, all with some others here and there, that were from AHL and his public wads. Thanks :D
+
+Muad'dib:
+I used a texture of Muad'dib's to make some of the glow sprites I used.(http://www.planetunreal.com/muad/) (http://www.planethalflife.com/wadfather)
+
+Plexor & Max Payne's Developers:
+The exit sign is from the open-sources Max Payne textures. Converted to Half-Life specs by Plexor.
+
+I *think* I covered everyone there, it's hard to keep track of everything on a map like this x_x  If I used your work and didn't list you, let me know and I will update this file to reflect your work!
+
+
+------Art & Photography Credits------------------------------------------------
+
+My friend Carey, goth girl of d00m. Her art is in the small gallery with the plant. The Velveteen Rabbit & other art there are hers. No. She is not a furry.
+(http://coffinberry.deviantart.com)
+
+Kira Roux, a friend how happens to be a photographer as well. Her art is in the lower area of the two-level room, on the pagodas:
+(http://kiraroux.deviantart.com)
+
+No, they won't date you :p
+
+The "Revelation" android girl image is made from this stock image by Lilie:
+http://www.sxc.hu/browse.phtml?f=view&id=503913
+It was photoshopped by me for a flier for a goth/industrial night I DJ:
+(http://www.myspace.com/lakewoodchamber)
+
+The two strange face pieces in the upper alcoves of the big room are by Jane, my sister. She does layout and graphic design.
+
+The strange version of Edvard Munch’s “The Scream” is from the anime "Excel Saga":
+(http://en.wikipedia.org/wiki/Excel_Saga)
+
+Stephen Colbert portrait (by the elevator) is from The Colbert Report:
+(http://www.comedycentral.com/colbertreport/index.jhtml)
+
+The Flying Spaghetti Monster portrait is from The Church of the Flying Spaghetti Monster:
+(http://www.venganza.org)
+
+Max Mayne's Developers:
+Most of the generic art in the map is from their open-sourced textures.
+
+
+------Additional Info, Tips, and Notes-------------------------------
+
+"Detail textures" are available in this map. Please type "detail_textures 1" in the console to turn them on. They seem to cause a tiny bit of lag, but your milage may vary and they make the walls etc. look less blurry up close. Mappers are welcome to use these on their own maps if they want (they aren't that great tbh), just give a link to my website in your .txt credits.
+
+
+------Play Information-----------------------------------------------
+
+Single Player   : No grunts or assassins, but you can play bots of course.
+Deathmatch	: Yes.
+Players: 	: 4+
+
+
+------Map Information------------------------------------------------
+
+New Textures	: Yes. (see credits)
+New Models	: Yes. (see credits)
+New Sprites	: Yes. (see credits)
+New Skymap	: Yes. (see credits)
+
+
+------Construction---------------------------------------------------
+
+Base		: None, this is an original work.
+Editor(s) used	: Worldcraft 3.4, Zoner's Tools
+Texture editors : Wally, Photoshop
+Compile Machine	: Pentium 4 3.47ghz, 3GB RAM
+Compile time	: About 15 minutes
+Playtest time	: A few sessions, mostly roundless AHL teamplay.
+
+
+------Copyright-Permissions------------------------------------------
+
+You MAY NOT ALTER IT without my express permission.
+If you like my work, please respect my wishes.
+
+Authors may NOT use this level as a base to build additional levels without my direct permission.
+
+You MAY NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!
+
+This BSP may be distributed ONLY over the Internet.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission (ask, though, I'll probably say yes :p )
+

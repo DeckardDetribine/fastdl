@@ -1,0 +1,87 @@
+February 18, 1999
+****************************************************************
+
+Title                   : "Beneath the World"
+Filenames               : rednk224.bsp
+			  rednk224.txt 
+Author                  : Chris Thorsten
+E-mail                  : chris@atomic-pc.com
+Homepage		: http://www.atomic-pc.com/halflife.html
+Map Description         : A generator complex that's situated, well... 
+			  beneath the world.  You know, in the secret
+	                  depths of the earth.  This map is my followup 
+		          to The Coolant Station.
+
+****************************************************************
+PLAY INFORMATION:
+
+Copy rednk224.bsp to your halflife\valve\maps directory
+
+
+Single Player           : No, unless you want to look around
+Cooperative             : No
+Deathmatch              : Yes, 4-16 players
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+
+****************************************************************
+CONSTRUCTION:
+
+Editor(s) used          : Worldcraft 2.0
+Construction Time	: about 30 hours
+VIS info		: about 45 minutes
+QRAD info		: about 1 hour with -smooth 80, -chop 64, -extra
+Machine used		: Pentium II 400, 128 RAM
+
+A NOTE ON R_SPEEDS:  
+--------------------
+This map has quite a bit of detail in some places, but not as much as 
+I originally tried to include.  The poly & face counts were just too high, so
+I had to get rid of some extra detail in the larger rooms (rails, etc.)  
+
+Considering that the wpoly counts don't break 600 in most places, 
+I think I did a pretty decent detail job.  I like it, anyway. 
+With the details that USED to be in the map, they topped 900... not too 
+great, especially on a medium or low-end machine.
+
+Note:  I did NOT test this map in "software" mode.  Only in hardware.
+You may get bent out of shape that I'd release a level without
+testing it in software rendering mode.  Get used to that concept... 
+it appears to be the way of the future.
+
+Also:  There are some little quirks you MAY find, I fixed all the 
+ones I was able to see.  Email me if there are any 
+bugs you notice.  There is an area where VIS reported "leaf portals
+saw into leaf", but it doesn't appear to cause a problem in the game.
+
+****************************************************************
+COPYRIGHT INFO:
+
+Map design Copyright (c) 1998 Chris Thorsten. All rights reserved.
+Textures, models, sounds, etc., Copyright of Valve / Sierra.  
+
+This map may be put on a compilation (CD, etc) with prior written 
+permission from me.  Feel free to distribute it via electronic means,
+provided you include this text file with it, unaltered.
+
+Authors may NOT use this map as a base to build additional levels.
+
+
+****************************************************************
+THANKS TO:
+	Valve, Sierra, Radium, Ben Morris, Rust, Dr. Octagon, 
+	everyone else I forgot
+
+NO THANKS TO:  
+	The jerk who put a boulder through Doris's windshield!
+
+PLAYTESTERS (thanks guys):
+	Jake, Frank, Joe, Josh, Casey
+*****************************************************************
+
+If you find any servers that run this map, email me so I can join the 
+game!  Enjoy...  the world's supposed to end soon, anyway : )
+
+-"Redneck Retard!"
+

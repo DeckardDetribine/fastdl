@@ -1,0 +1,151 @@
+** INTRODUCTION **
+
+Title			: Total Annihilation.
+Date			: 11th April 2000.
+Filename		: Gustavo21_TA.bsp
+Filesize		: 4.9mb, or thereabouts.
+Author			: Keved, my Half-Life alias is Gustavo.
+Email Address 1		: keved@keved.force9.co.uk
+Email Address 2		: gustavo@planethalflife.com
+Email Address 3		: keved@hotmail.com (only use as a last resort).
+ICQ			: 10393836 (auth required).
+Home Page		: http://www.keved.force9.co.uk
+
+IMPORTANT: If you intend to play against Jumbots, you *NEED* version 1.8 or later.
+
+ABOUT THE MAP/ME:
+Total Annihilation is my 21st FPS map (and 9th for Half-Life deathmatch).
+
+Previous maps...
+01. Penitentiary (Half-Life deathmatch, 5-March-1999).
+02. Maximillian (Half-Life teamplay primarily/also deathmatch, 15-May-1999).
+03. Maximal (Team Fortress Classic territorial domination, 8-July-1999).
+04. Mad Bucking Fastards (Half-Life deathmatch, 27-July-1999).
+05. Talos (Half-Life deathmatch, 3-August-1999).
+06. C4 (Action Half-Life, 16-September-1999).
+07. TNT (Half-Life deathmatch, 23-October-1999).
+08. Orbital (Team Fortress Classic CTF, 31-December-1999).
+09. Jaw Breaker (Half-Life deathmatch, 20-January-2000).
+10. Corps68 (Team Fortress Classic CTF, 26-January-2000).
+11. The Bone Collector (Half-Life deathmatch, 2-February-2000).
+12. Jaw Operation (Opposing Force deathmatch, 2-February-2000).
+13. The Jaw Action (Action Half-Life, 2-February-2000).
+14. Bone Action (Action Half-Life, 4-February-2000).
+15. Bone Operation (Opposing Force deathmatch, 4-February-2000).
+16. Eliminator Jnr (Half-Life deathmatch/also teamplay, 19-February-2000).
+17. Nostromo (Team Fortress Classic CTF, 24-February-2000).
+18. Eliminator AHL (Action Half-Life, 26-February-2000).
+19. Eliminator OP4 (Opposing Force deathmatch, 4-March-2000).
+20. Sulaco (Half-Life teamplay deathmatch only *not* ffa deathmatch, 8-March-2000).
+
+Who am I? I'm 24 yrs old, English, & currently work for an Architectural Practice in NW England.
+
+CREDITS TO:
+1) Valve/Sierra/id.
+2) The Zoner compiling tools version 1.61. Total Annihilation was compiled with these superb modified compiling tools, via a batch file. sean@dimensionalrift.com. Keep up the good work, Sean.
+3) Rich Whitehouse, author of the excellent Jumbot, for creating the Jumbot route file which is included in this zip. Many thanks for your efforts, Rich. You can download the Jumbot here: http://www.telefragged.com/thefatal/jumblow.shtml
+4) A big thanks to the playtesters. HotRod (hotrod179@hotmail.com), Cliff Leslie (comdrblood@earthlink.net), Stevie (steveoo@demon.co.uk), Jon, LongShot, and Missy.
+5) Cavedog's "Total Annihilation", still one of my all-time favourite games. TA2 is just about the only game I'm awaiting as eagerly as HL2, as TA was the only game I played online before Half-Life. I've played around 600 games of TA online (half on MPlayer, half via direct IP), mostly using the alias "Keved", with a win-loss record of, from memory, 550-50 give or take a few either way. Unsurprisingly then, I just had to pay homage. 8O)
+6) The Lambda Map Complex at Planet Half-Life (and particularly Fisich) for their support & reviews of Jaw Breaker, Bone Collector, and Eliminator Jnr. They have given these maps of mine some great publicity, including all 3 being in their top 10 map listing. http://www.planethalflife.com/complex
+7) Records, for salvation from radio/tv hell.
+
+
+
+** PLAY INFORMATION **
+
+SINGLE PLAYER:
+Just to familiarise yourself. Make sure you have half an hour set aside! ;)
+
+MULTIPLAYER:
+16-32 players. 16 players absolute minimum, preferably greater than 24. 32 respawn points are included. Total Annihilation is a little too big for player numbers less than 16, and can accommodate any number up to 32 with ease (and above 32 if it was possible!). For lower player numbers may I my previous DM map Eliminator Jnr for medium-large games (8-24 players), and Jaw Breaker & The Bone Collector for small-medium games (4-8 players).
+
+TEAMPLAY:
+Yes, form up into teams, with the obvious teamplay goal of capturing and holding the bunker. 2 frags are awarded for each airstrike activated, so the team that holds the bunker obviously has a good constant supply of team frags.
+
+DESCRIPTION:
+A huge King-of-the-hill orientated map, with a large central bunker surrounded by 4 sectors. Airstrikes can be called from within the central bunker to annihilate those outside in the 4 sectors. Each sector has its own completely independent airstrike which can be activated once every 2 minutes, rewarding the activating player with 2 frags. Perfect for epic deathmatch battles.
+
+INFORMATION:
+Note that basically the entire map is not as built-up as I wanted, ie isn't as detailed. There seems to be a limit on the rmf filesize that Vis.exe can compile, around 6mb, so as the TA.rmf file is almost spot-on 6mb and I was dead-set on keeping the map's huge layout, I simply couldn't add any brushes to it without running the danger of the map not compiling. I've been in this situation before with Orbital, Corps68, Nostromo, and Sulaco, each of which caused Vis to crash when over a certain filesize. So, if you think the map is a little square in places, it's entirely for technical reasons because I had to keep things simple in order to keep the large map size. For this same reason you'll also notice an absence of staircases in favour of ramps/lifts - stairs would have simply used up too much precious filesize.
+
+The same is true with ambient sounds. Listen carefully as you run around Total Annihilation, and you'll hear...nothing!! That's right, there aren't any ambient sound effects other than for the 4 airstrikes, for the very simple reason that I reached the "point entity" limit (the limit is 650, TA has 625...I left some spare as a precaution). For those who aren't mappers, point entities include the likes of weapons, ammo, light sources, and...ambient sound effects. With the huge amount of weapons ammo & lighting in TA, I didn't have anything left over to enable me to include any sound effects. Still, with 32 players, the constant sounds of explosives would have drowned out all ambient sounds!
+
+A note on weapon & ammo placement. Bear in mind that TA is intended for 24-32 players (16 absolute minimum), and therefore has *plenty* of weapons & ammo spread around the map. For example, there are 16 x shotguns, 16 x 9mmAR's, etc. If you play with less than the recommended number of players, item placement will seem heavy. Just something to remember next time you see maybe a shotgun and 9mmAR close together - I had to include such a huge amount of weapons to cater for the maximum 32 players.
+
+The airstrikes are activated by +use-ing *any* part of the computer terminals in the bunker's basement...the entire terminals are the activating buttons, not merely little buttons. The lights underneath each terminal show when each airstrike is available to be activated. Red means "not ready", green is obviously "ready".
+
+Hope you like Total Annihilation. I'd appreciate feedback too...to my email address at the top of this text file. It's a major commitment putting in the time to design these damn maps, so I fully welcome any & all constructive encouragement / ideas / criticisms / praises. Job offers welcome too!!
+
+BOTS:
+I have tested Total Annihilation with the following bots;
+
+Jumbots...
+Unzip the included route file (.jrf) into ...//jumbot/wpfiles and refer to the Jumbot docs for instructions on how to play against the Jumbots. Due to the size of this map, you're going to need 16+ bots, preferably 31 if your PC can handle that many. Once playing, the Jumbots play very well in TA (all credit to Rich for that), including using the upper platforms as much as any player. IMPORTANT NOTE: Upon seeing the size of this map, Rich Whitehouse, the author of the Jumbot, had to increase the amount of waypoints available for route files in the Jumbot code and release a new version...v1.8. Therefore, you *NEED* Jumbot version 1.8 or later to be able to play the Jumbots.
+
+Phineas bots...
+The Phineas bots play reasonably well, but not as good as the Jumbots. The Phineas bots tend to fall off the higher levels within seconds, primarily sticking to ground level.
+
+
+
+** WHAT'S NEXT **
+
+(THIS MAP MAY NOT BE RELEASED) "SMASH TV". If it happens, this will be a conversion of Total Annihilation to full-on deathmatch teamplay, with 4 teams, and team respawning & goals. The airstrikes will be replaced by NPC marines, yes, the same ones that appear in Half-Life's single player episode. Instead of activating the airstrikes to score points, points will be scored for releasing marines into the enemy bases. Those who have played the old C64/Amiga game SmashTV will know the gametype I'm looking for.
+
+"BURNING HATE". I'm already well underway with this new deathmatch map, which will be roughly of the same size as Eliminator Jnr.
+
+I'm also contributing a map for a Half-Life Star Wars mod, along the lines of Unreal Tournament's "assault" gametype. Imperial troops storm the Rebel base on Hoth.
+
+After that, who knows? I haven't decided yet on what gametype I'll be mapping for, or even what game. I've had a pile of offers to map for various Half-Life mods which may or may not materialise, and still have plenty of ideas for HL deathmatch maps. Another TFC map is a non-starter, that's for sure...I've had enough of TFC mapping after the enormous maps Orbital, Corps68, and Nostromo! A single player episode is now similarly not what I'm planning on doing, purely because it's a bit late in Half-Life's life to start one now so its more likely that I'll save my SP ideas until HL2 arrives. I'll continue mapping for Half-Life in one form or another during my lunch hours at work (f.e. I created Jaw Breaker in two weeks worth of Mon-Fri lunch hours!). But, as my home PC has lost most of the 3D window functionality for some no doubt obscure reason (I can't select anything in the 3D window or apply any textures, which is as unproductive and frustrating as it sounds, apparently a bug with Worldcraft & DirectX7.0 so I'm told), so at home I'll move over to Unreal Tournament, Quake 3, or Soldier Of Fortune mapping.
+
+
+
+** INSTRUCTIONS **
+
+Extract the files manually into the following.
+
+Gustavo21_TA.bsp into ...\\valve\maps
+
+Gustavo21_TA.jrf into ...\\jumbot\wpfiles (Refer to your Jumbot docs for how to play against Jumbots.)
+
+All 4 of the wav files into ...\\valve\sound\ambience
+
+And of course keep this text file. 8¬)
+
+
+
+** CONSTRUCTION **
+
+Base                    : Created from scratch.
+Editor(s) used          : Worldcraft v2.1
+Custom textures		: Yes, a few without permission from Quake 3 Arena (credit to id, they have some fantastic texture artists). Apologies for ripping - my lax morals I guess.
+Custom sounds		: Yes and no. There are 4 custom wav files included along with the bsp in the zip, but all 4 are simply a few of Valve's pak file wavs tacked together.
+Known Bugs              : I've stretched some textures, so decals may be out-of-shape/size. Note that any "texture misalignments" are intentional, ie used a little creatively/crappily, depending on your taste. For info, all light fixtures are func_illusionary's - don't be surprised by being able to jump through light fixtures. One bug, which doesn't seem to affect the game at all, is that with 32 people playing & activating all 4 airstrikes simultaneously, there is so much noise happening (ie explosions, etc) that the "sound file list" is reported as being full in the top left corner of your screen if you have developer mode enabled. During playtesting, no-one actually noticed any of the airstrike sound effects not sounding, so I'm hoping this won't present a problem.
+Build Time              : 4 weeks to build, another week to playtest & polish. Half-way through, I built a new PC for myself which developed hardware problems so I was unable to edit for 1 week of that 4 week period. How many hours? At a guess, around 30-40 hrs in total (ie planning, building, and playtesting). Not long considering the huge map size.
+Compile Time		: Around 20 minutes, once I finally had my new PC up & running! My previous PC, a P2-300 w/224mb, took around 1.5hrs.
+Build machine 1 (work)	: Athlon 500mhz, Gigabyte 750 motherboard, 128mb PC100 ram, 32mb Matrox G400, Windows98, etc.
+Build machine 2 (home)	: Athlon 650mhz, Asus K7M motherboard, 256mb PC100 ram, 32mb Matrox G400 Max, Windows2000, etc.
+Compile machine		: As "build machine 2."
+Compile settings	: (via a batch file) Nothing special, apart from Zoner's hlrad using the switches -chop 128 -scale 1.25 -gamma 0.45, and Zoner's hlcsg adding my custom wads into the bsp.
+
+MAP INFO:
+Rmf size		: 6001kb
+Solids			: 2688
+Faces			: 15945
+Point Entities		: 625
+Solid Entities		: 370
+Successive revisions	: 51
+
+
+
+** PERMISSIONS **
+
+Do NOT put this zip, or any of the files contained within, on any sort of commercial product or compilation unless you have permission from myself beforehand. You MAY distribute this zip file through any other means, providing it is unaltered and is free of charge. Do NOT modify this BSP in any way, either for commercial or non-commercial purposes.
+
+Email me if you'd like to have a look at the (6mb) rmf file for Total Annihilation. Zips down to ~325kb. I advise only asking if you have a 500mhz & 128mb PC absolute minimum.
+
+You have yerself a nice day, y'hear?
+
+Oh btw, if you see me on a server, I *CANNOT* speak Spanish/Portuguese/Smack talk/whatever...just so I ain't assumed to be a Colombian drug baron like I have been a few times before (or corderoy wearing Uruguayian goat shepherd, that happened once). 8¬)
+
+--
+Gustavo.

@@ -1,0 +1,111 @@
+Title		: Frag'N'Fly
+Author		: Bedwetting Type
+Designer        : [GC2]B(o  )(  o)Bz
+Email		: bedwetting_type@hotmail.com
+Website         : http://bedwettingtype.tripod.com
+Date		: March 18, 2002
+Game		: Half-Life
+
+--------------------------------
+Description
+--------------------------------
+A very large goal-based teamplay deathmatch map geared towards clans and hardcore players.  The map is 32 stories high with 5 symmetric levels consisting of platforms and ladders.  Players start at the bottom and make their way up to the goal at the top, and prevent the other team from reaching it.  20 frags are awarded to the team or individual who reaches it.
+
+--------------------------------
+Installation Instructions
+--------------------------------
+Unzip everything into your "valve" directory (e.g. "C:\Sierra\Half-Life\Valve") with "Use Folder Names" turned on.  The .BSP, .RES, and .TXT files will automatically go in your "maps" folder, and the .SPR files will go in your "sprites" folder.
+
+--------------------------------
+Rules
+--------------------------------
+* After joining the server or dying, you spawn inside a spectator pyramid.  No weapons are allowed or available inside the pyramid.You can use the camera monitors to watch the action from above.
+
+* If the server is running Teamplay mode, and there are already teams playing or if your team lost the last round, stay inside the pyramid and watch until the round is over.  Watch the other players' strategy and formulate a plan with your teammate. 
+
+* If the server is running Deathmatch mode, jump into any portal when you are ready.
+
+* If the map has just started, jump into a portal with your teammate.  The team who got the most frags the previous round goes into the red "Winner" portal, and the team that was spectating goes in the yellow "Challenger" portal, to avoid confusion.
+
+* To start the round and open the doors, each team has to press the green button in their lobby within 8 seconds of each other.
+
+* If you die, just hop into either of the two portals and get going again!
+
+* If you wish to spectate again, go into a lobby and press the button marked "spectate."
+
+* Make your way to the goal portal at the top of the level, using the long jump module or tau cannon to get from platform to platform.  If you are a defensive player, PROTECT YOUR TEAMMATE AND PREVENT THE ENEMY FROM SCORING!  The player who reaches the goal scores 20 frags for his team, and teleports back to the bottom.
+
+--------------------------------
+Strategy
+--------------------------------
+* Not everyone will be able to make the jumps.  That's OK, the jumps get pretty hard.  Try holding down crouch while you longjump.
+
+* Playing defense is just as much fun as playing offense!  If you can't manage to score a goal yourself, let your teammate do the scoring and protect him from below.
+
+* If you're playing offense, it's a good idea to drop weapons down to your teammate below, or open the tau cage for him. (You can bind the 'drop weapon' command to a key by bringing down the console with the ` key and typing "bind <key> drop", where <key> is any key on the keyboard.)
+
+* Half-Life voice communication can help out a lot in this map.  Ask your teammate to cover you when you are near the goal, and tell them where you or the enemy is.
+
+* Each side of the map is marked by a color (red, green, yellow, and blue).  You can quickly tell your teammates where you or the enemy is by color and level number (e.g. "Cover me, green 5.").
+
+--------------------------------
+Technical Info
+--------------------------------
+Single Player	: No
+Cooperative	: No
+Deathmatch	: Yes
+Teamplay	: Yes
+Difficulty	: No
+New Textures	: Yes
+New Sounds	: No
+CD Track #	: None
+Files		: FRAG-N-FLY.BSP, FRAG-N-FLY.TXT, FRAG-N-FLY.RES, CHALLENGER.SPR and WINNER.SPR.
+Recom. Players	: 2-8
+Min. Hardware	: 300 MHz
+Recom. Hardware	: 450 MHz
+
+--------------------------------
+Constructon
+--------------------------------
+Base		: Designed by [GC2]B(o  )(  o)Bz, Built from scratch
+Build Time	: 3 weeks of planning, mapping, and testing.
+Prefabs Used	: None
+Editor(s) Used	: Worldcraft 3.3, Wally
+Other Utilities : Paint Shop Pro 5.0, Photoshop 4.0, Zoner's Half-Life Tools  =)
+Known Bugs	: The goal portal sometimes fails to teleport you at first, and you score multiple goals.
+Compile Machine : AMD Athlon XP 1600 (1.4GHz), 256MB RAM
+Compile Time	: 6 mins, 45 secs =P
+
+--------------------------------
+Credits
+--------------------------------
+Valve		: Half-Life and Worldcraft
+[GC2]B(o  )(  o)Bz      : For the map idea and design
+Genghis Cafe 2  : For hosting, playtesting, and giving me support.  I love you guys!
+
+Special thanks to anyone who plays the map.
+
+Sorry if I forgot someone here.
+
+--------------------------------
+Copyrights/Permissions
+--------------------------------
+Half-Life and all its original media are copyrights of Valve software.
+Worldcraft 3.3 is a copyright of Valve software.
+All textures are copyrights of their respective painters.
+
+Authors MAY NOT use this map as a concept for building their own maps.
+
+You MAY NOT use the textures in the BSP file without my written permission.
+
+You MAY distribute this map amongst your friends, on the internet, or on another electronic service as long as there is NO CHARGE, except for the costs of using the service.
+
+You MAY distribute your own Frag'N'Fly config files, waypoint files, location files, etc. for use in different mods.
+
+You MAY NOT include this map in any commercial map packs or CDs without my
+written permission.
+
+You MAY cut down a tree with a herring.
+
+--------------------------------
+Guns don't kill people, TRIGGER_HURT's kill people!

@@ -1,0 +1,24 @@
+Vernon
+Created by Brian "Cash Car Star" Grigg
+ccs@cashcarstar.hlgaming.com
+http://cashcarstar.hlgaming.com
+
+Place the .bsp file in your valve/maps/ directory.
+
+Customs textures primarily by Evil Lair and Madness, also by meat, Crinity, Painter, and Sean Johnson
+No custom models, sounds, or skybox
+
+Created for the Snarkpit Mapping Competition over the course of three weeks.
+Final compile 10/13/02 2:25 AM
+Compile time: about an hour
+
+Created with QuArK v6.3
+
+Other maps by author: as_aldea, es_trojan, flf_corinth, glimmer, grievance, si_overfloater, si_satur9, daydream (forthcoming)
+Visit the website to dl any of the above
+
+Please send me feedback, it is always appreciated
+
+Please keep this text file with this map if you choose to distribute it
+
+Darrell Hammond is a funny guy

@@ -1,0 +1,53 @@
+===================================================================================
+DATE: October 19, 1999
+===================================================================================
+Title(s)                : Haunted Keep
+Files                   : hauntedk.bsp , hauntedk.jrf
+Author                  : Stephen Smart
+Email Address           : quantumsaint@yahoo.com
+Revised Version         : October 19, 1999
+Original Date of release: April 15, 1999
+Description		: Newer version of haunted.bsp... Darker and better R_SPEEDS for smoother play.
+                          
+===================================================================================
+--ADDITIONAL CREDITS--
+Playtesters: David, Darrell, David, Pat
+
+=========================================================================================
+--PLAY INFORMATION--
+Game			: Half-Life
+Level Name      	: Haunted Keep
+Files    		: hauntedk.bsp
+Single Player           : No	
+Cooperative 		: No 
+                          
+DeathMatch              : Yes
+MAP    # of PLAYERS     : 2-6
+             				
+Difficulty Settings     : No
+
+Platform(s) used               : P200mmx 32MB mem and AMD K6 300 64MB mem
+Known bugs                     : None that I know of... please let me know if you find any.
+New sounds/textures/entities   : NO
+============================================================================================
+===========================================================================================
+--LOADING INFORMATION--
+Download, unzip, and put the .BSP file in your c:\sierra\half-life\valve\maps directory (your drive letter may be different). Its that easy...Done 
+
+--Revision notes--
+
+This is a completely new version that addresses some of the speed and lighting problems from the first version.
+I have removed the DYNAMIC LIGHTING from the map (fire flicker and pulse light teleport). Lightening still works.
+Hopefully, overall the map is a little darker for the mode set. The water is no longer tranparent for VIS reasons.
+I have also included a JUMBOT ROUTE FILE (jrf). The bots seem to have a hard time getting out of tyhe water in some areas (sorry).
+If this map needs a better route (Im no expert on jrf) then you might try some of the JRF sites on the internet... most do requests (very cool)!
+
+--Additional Notes--
+This is the revision of the first map (haunted.bsp) I made for HL. 
+
+============================================================================================
+--LEGAL--
+This Half-Life maps/level (Haunted Keep (hauntedk.bsp) is (c) 1999 Stephen Smart.
+DO NOT put this level on any sort of commercial product or compilation.
+You MAY distribute this BSP file through any other means, provided you include this .txt file 
+(unaltered) and it is free of charge. Do not modify this BSP.

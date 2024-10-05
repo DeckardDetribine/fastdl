@@ -1,0 +1,40 @@
+       /////// //    //  //////  ///////   //////  //    //
+     //       //    // //    // //    // //    // //    //
+    //       //    // //    // //    // //    // //    //
+    //////  //////// //////// //    // //    // // // // ////////
+        // //    // //    // //    // //    // // // //
+       // //    // //    // //    // //    // // // //
+///////  //    // //    // ///////   //////   //////
+     
+       /////// ///////   //////  //    // //       //////// ///////   //
+     //       //    // //    // //    // //       //       //    //  //
+    //       //    // //    // //    // //       //       //    //  //  //////
+   //       ///////  //////// // // // //       /////    ///////      // 
+  //       //    // //    // // // // //       //       //    //      //////
+ //       //    // //    // // // // //       //       //    //           // 
+ /////// //    // //    //  //////  //////// //////// //    //      ////// 
+
+MAPS...  
+--Map information--
+
+Title: CREATION LOST
+Author: Philipp Sackl a.k.a. ShadowCrawler
+Game-type: Deathmatch
+Description: none (I'm so lazy)
+version: 2.0
+new textures: no
+new sounds: no
+
+--Build information--
+
+BuildTime: 1-2months
+Editor used: Worldcraft 2.0
+
+Additional Credits to:
+
+-SAS-DAGGER for compiling the map
+
+
+
+
+

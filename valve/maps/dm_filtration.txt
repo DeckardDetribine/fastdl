@@ -1,0 +1,35 @@
++---------------------------------------------------------------+
+|                         DM_FILTRATION				|
+|                         BY VICTOR-933				|
++---------------------------------------------------------------+
+| SUMMARY:							|
+|								|
+| As one of the main intake pumps for the filtration systems of	|
+| Environment Processing, this section of the facility never 	|
+| sleeps. The millions of gallons of water consumed by the	|
+| Tycho Complex all pass through here at one point or another.	|
+|								|
+| It's your job to make those waters run red.			|
+|								|
++---------------------------------------------------------------+
+| INSTRUCTIONS:							|
+|								|
+| Extract this archive to your half-life/valve folder.		|
+|								|
+|								|
+| IF NECESSARY:							|
+|								|
+| Place BSP file in half-life/valve/maps			|
+| Place WAV files in half-life/valve/sound/dm_filtration	|
+|								|
++---------------------------------------------------------------+
+| DEVNOTES:							|
+|								|
+| R_Speeds at or below 1200. All weapons are present.		|
+|								|
+| All textures and sounds by Victor-933				|
+|								|
++---------------------------------------------------------------+
+| 	      Find more of my stuff on Gamebanana!		|
+| 	    http://www.gamebanana.com/members/213517		|
++---------------------------------------------------------------+

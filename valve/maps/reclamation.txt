@@ -1,0 +1,69 @@
+				RECLAMATION
+by:  Yak_Fighter
+-------------------------------------------
+date:  August 9, 2004
+email1:  yakfighter@aol.com
+email2:  yak_fighter11@hotmail.com
+email3:  yak_fighter@hotmail.com
+website:  http://yak_fighter.tripod.com/
+
+mapname:  reclamation.bsp
+gametype:  HLDM
+mapstyle:  extended arena
+no. of players:  8-12
+new sky:  xyloote.tga
+new textures:  compiled in
+new sounds:  no
+new sprites: no
+new models:  no
+
+
+
+---------STORY----------------------------
+The human invasion of Xen went all according to plan.  The Nihilanth is dead, thanks 
+to Gordon Freeman, and the Xen forces are in disarray.  In order to control the border
+world the military built multiple bases in strategic locations and began hunting down 
+the remnants of the Xenian forces.  The G-Man, with both Xen and Freeman in his control, 
+is confident that he has accomplished his mission. 
+ 
+That is, until contact with one of the bases was lost.  Recon teams were sent in, but 
+none returned.  Now you've been sent in to see what has caused this mess.  Hope you have
+better luck than those who entered before you...
+
+
+---------INFO----------------------------- 
+This map has been quite the adventure.  I basically had to relearn everything about 
+mapping and HLDM after a year layoff and then some.  The early versions of this map 
+sucked, and each new one improved by leaps and bounds.  I'd still be working on this 
+if there wasn't a deadline.  I'm not entirely happy with the outcome, but I'm going to 
+build on the lessons from this one to make better maps when HL2 comes out.
+
+I know there's some problems with the map, and that's because it didn't go through 
+extensive testing before release in order to get it entered in the Snarkpit Mapping Contest 2004.
+The number 1 complaint will probably be the lighting, and all I know is that I can see in there.
+I'll make sure my next maps have better lighting.  In case you're wondering, the textures are
+not mine.  I merged three wads together (shaderlab, than_industrial, meatpak) and then edited
+some textures to meet my specifications.
+
+All the weapons except the hivehand are in the map.  There is an egon, but it takes some 
+effort to find and will cost you.
+
+
+---------THANKS--------------------------
+the authors of the shaderlab, than_industrial, and meatpak textures
+Speedy for the 'xyloote' sky downloaded from the wadfather (www.planethalflife.com/wadfather)
+
+Leperous and the rest at the SnarkPit (www.snarkpit.com)
+	Alien_Sniper
+	Campaignjunkie
+	Crackerjack
+	Ferret
+	Gwil
+	Hugh
+	KingNic
+	JFry
+	Myrk-
+	Orpheus
+	ReNo
+	scary_jeff
+	Tracer Bullet

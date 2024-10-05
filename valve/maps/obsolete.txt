@@ -1,0 +1,75 @@
+==========================================================
+
+---General Information---
+Title			: Obsolete
+Version			: 0.9
+Release Date :		: 28 / 03 / 01
+Filename			: obsolete.bsp
+Filesize(zipped)		: 272kb
+Author			: ReNo [Duncan Blair]
+Email Address		: reno@eidosnet.co.uk
+Homepage		: www.adrenalinegamer.com/evolution
+ICQ#			: 28651662
+Other Work		: First release! [Dont worry! This is the case coz its the first i feel is worth it!]
+
+=========================================================
+
+---Play Information---
+Game			: Half-Life
+Game Mode		: Deathmatch
+Players			: 2 - 8 [BUT i wouldnt recommend more than 4, and primarily its a 1v1 map!]
+Weapons			: All excluding tripmines, egon and hornetgun...i think this map lags enough without em :(
+Known Bugs		: In some places in the sky some areas of the map disappear.  R_speeds creep up quite high in places [not a bug but a noteworthy problem]. Brush glitches that u can notice when zoomed in with the xbow in some areas.
+
+---Construction---
+Editor Used		: Worldcraft 3.3
+Compile Machine		: P2 300, 64mb RAM
+HLCSG			: 28 secs [-skyclip -chart -estimate]
+HLBSP			: 17 secs [-maxnodesize 4096 -chart -estimate]
+HLVIS			: 306 secs [-chart -estimate]
+HLRAD			: 1381 secs [-extra -bounce 2 -smooth 80 -chart -estimate]
+Base			: From scratch
+Construction Time		: Well i must admit that i didnt count the hours :(
+Prefabs used		: Hanging Light - QuakeGuru [God this prefab is way overused by me :)]
+
+---Notes---
+This map was made to be included in the AG Mod Arena map pack. It is primarily a 1v1 map but there are 8 spawn points so i suppose that is the maximum.
+
+E-mail me with any comments on the level, praise or criticism. This is easily my best map to date, and is the first that i have released. All my other maps have been experimental to test out ideas and to learn worldcraft's tools etc... Any feedback is much appreciated, as maybe my next work will be better for it :)
+
+---Special thanks---
+Testers and Helpers - Groo, JL, Vio, AG mod peeps [Bullit and CHiNX that i know of], Alborac, my offline m8ies, and ne1 else who played the map during testing, esp. Pana for setting up a server for us :)
+All of my HL clan, Colonial Marines, for spreading the power of WHOOPAH far and wide; and covering my hide in those firefights :)
+Everyone in the wireplay HL community [especially to all those in #wphl] for their heartwarming banter :)
+All the peeps running the show that we like to call HLCCL.
+All the wireplay HL admins for changing maps and gravity settings ;)
+As usual, Valve...
+Most of the sites over at Planet Half-Life for being so damned good!
+
+================================================================
+
+Copyright and Permissions
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name obsolete.bsp and is supplied in a zip file called 
+obsolete.zip that also contains this text document and 
+no other files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 2000 ReNo
+
+===============================================================
+
+This readme is a modified version of the template created by Hornetking UK, which is available at  his map review site;
+http://www.planethalflife.com/hornetking/
+hornetking@planethalflife.com
+
+===============================================================

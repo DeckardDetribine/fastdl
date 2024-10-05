@@ -1,0 +1,59 @@
+July 1, 2001
+
+================================================================
+
+Title                   : totem
+Filename                : totem.bsp
+Author                  : Lukasz '$p!n#z@' Lakomski
+E-mail           	: spin_oza@poczta.onet.pl
+Description             : Halflife DM level for 2-12 players .         Special Thanks to       : id for Quake 1,2,3 Valve for creating 
+                          Halflife 
+			  Sean 'Zoner' Cavanaugh for compile tools
+			  people from map exange forum
+			  PHL for hot news :)
+================================================================
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes
+Cooperative             : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : globalassault.wad dmc.wad 
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+Previous works
+
+castle_wars.bsp  22.01.2001  8.3 (Valve-ERC) , 
+                             9 Globalassault
+                             second runner up on PHL/Valve                                          mapping contest
+wie_nazicastle   14.02.2001 -map for War in Europe HL mod                                           (www.warineurope.de)
+=================================================================
+
+Construction
+
+
+Editor used             : I always work with two : worldcraft3.3 and QuArk beta 6.3
+Compile Machine		: celeron 300A(450 Mhz) 192 RAM  Ge-Force2 GTS (elsa gladiac-thx phl/valve for support me:) win 98
+
+Compile Tools           : Zoner's Halflife Tools v 2.5.3
+	
+Compile time		hlcsg : [1m 16s] -wadinclude globalassault.wad -wadinclude dmc.wad
+			hlbsp : 44.27 s
+			hlvis : [32m 10s] -full -high
+			hlrad : [17m 13s]-bounce 20 -extra - smooth 60 -high -chop 64
+ 
+Known Bugs              : I don't know
+Build Time              : about 50 hours spread over 3 weeks 
+
+================================================================
+
+If you enjoy playing this level, please send me an e-mail :-)
+
+
+
+
+(c) Copyright 2001 Lukasz Lakomski

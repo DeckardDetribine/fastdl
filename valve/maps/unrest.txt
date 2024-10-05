@@ -1,0 +1,43 @@
+================================================================
+Title                   : "Fort of Unrest"  - for Half-Life
+Date                    : 25th January 2001 
+Filename                : unrest.bsp
+Author                  : Steve Lyne aka "Scary_1" 
+Email Address           : steve.lyne@telia.com
+Home Page               : scary1.remotepoint.com
+
+Description             : "Fort of Unrest" is my entry to the Planethalflife/Gamespy contest.
+
+			  Setting: Abandoned fort 
+
+Additional Information  : Truck and forklift prefabs are made by myself.
+
+Additional Credits to   : i)   My family - Hannele, Nathalie & Emily
+  			  ii)  PHL / Gamespy - www.planethalflife.com / www.gamespy.com
+			  iii) Valve/Sierra 
+                          vi)  Sean "Zoner" Cavanaugh for the great compilg tools
+			  v)   The HolyWars team for being a great group of guys to work with.
+
+================================================================
+
+* Play Information *
+
+Single Player           : No (one start)
+Deathmatch              : 4-10
+Difficulty Settings     : No
+
+* Construction *
+
+Base                    : From scratch
+Editor(s) used          : Worldcraft 3.33
+Known Bugs              : I don't think so
+
+Build Time              : Hard to say. The map has been taking shape for a while. 
+
+Compile machine         : PIII 700 with 128 megs of SDRAM 
+HLCSG Time		: 28 seconds
+HLBSP Time              : 13 seconds
+HLVIS Time              : 177 seconds
+HLRAD Time (extra)      : 914 seconds 
+
+

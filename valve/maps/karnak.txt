@@ -1,0 +1,126 @@
+------General Info--------------------------------------------
+
+Finish Date	:  Easter Sunday, 2002
+Title           :  KARNAK, EGYPT 1200 B.C.
+Filename        :  KARNAK.bsp
+Author          :  [LMS]007, Kyle
+Author Email    :  lmsownsyou@hotmail.com
+Author ICQ      :  47926203
+Previous Maps	:  deepsilo, doublefire, showdown3, ag_courtyard, frenzy-elite.
+Update          :  changed skyname from "sb-desert256" to "sb-desert" for compatibility - Xawari
+		
+
+------Map Desciption-------------------------------------------------
+
+Takes place 1200 B.C. in Ancient Egypt. Its a huge dm map designed with 
+modern hldm gameplay in mind.
+
+------Play Information-----------------------------------------------
+
+
+Deathmatch      :  Yes
+Team Deathmatch :  Yes
+Single Player   :  no
+How Many Players:  8-32 (anything less then 8 and you will be starving for action)
+
+------Construction---------------------------------------------------
+
+Size		:  8.75mb (to my knowledge this is the largest hl muliplayer map ever created)
+Base            :  from scratch
+Editor(s) used  :  WorldCraft 3 / Zoner's HL tools 2.4.2
+Time to Complete:  Id rather not say
+Compile Machine :  athlon 1200, 512MB RAM
+Compile time    :  ~20 mins
+Playtest time   :  2 weeks
+Textures	:  Egypt texture from wadfather.com by sock
+
+------Map Information------------------------------------------------
+Solids: 2690
+Faces: 16266
+PointEntities:470
+
+==main idems==
+Hev Batteries 20x 	********************
+Health Kits 21x 	*********************
+Long Jumps 4x		****
+
+
+==main weapons==
+beegun 2x 		**
+egon 3x 		***
+crossbow 4x 		****
+gauss 4x		****
+rpg 5x			*****
+357 7x			*******
+shotgun 10x		**********
+mp5 18x			******************
+
+
+
+
+
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the file "KARNAK.bsp" in
+your half-life/valve/maps directory.
+place the sky bitmaps in your half-life/valve/gfx/env directory
+
+
+------Feedback-------------------------------------------------------
+
+email me:
+lmsownsyou@hotmail.com
+
+icq me:
+47926203
+
+Half-Life players' message board:
+http://boards.gamers.com/messages/overview.asp?name=elitegamers&page=1
+
+
+------Special Thanks-------------------------------------------------
+
+tommyd - mapping expertise
+Chewie - beta testing / suggestions
+McDeath - beta testing / suggestions
+dm0n3y - beta testing / suggestions
+Voltron -mapping expertise
+Gustavo -mapping expertise
+Cadaver -gave me the sphinx prefab from de_vegas 
+Sock -sky map & textures
+AdrenalinRush - beta testing / suggestions
+Juim - beta testing / suggestions (hotdeathdiner.com admin)
+"Nine One Six" lan party participants
+
+
+------Copyright-Permissions-----------------------------------------------
+
+Copyright 2001.  You may not use this map as a base to build other levels.
+
+==========================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cs is teh ghey

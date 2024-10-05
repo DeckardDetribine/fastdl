@@ -1,0 +1,47 @@
+Map Information
+===============
+	Odin's Guard 
+	Half-Life Deathmatch
+	dm_odin.bsp
+	Recommended Players: 4-8
+
+Author Information
+==================
+	Author: Andrew C. Weldon
+	E-Mail: aweldon@planethalflife.com
+	URL:    http://planethalflife.com/awmaps/
+
+Map Description
+===============
+	Created for the Snark Pit's contrasting arena contest. Theme is a general snowy nature vs. tech contrast.
+
+Thanks to
+=========
+	Adam "WhoMe" Foster, Textures/Tree
+	Shader Lab, Textures
+	Matt "Chalupamonk" Michelson, Sky
+	Leperous and Orpheus from the Snark Pit
+	Comprox, Cyanide, Ekaj, Flashdevil, Infinity, JediYoshi, TheEnigma[sKs], and MetalMan, Testers
+
+Technical Info
+==============
+	Editor: WorldCraft/Valve Hammer Editor 3.4
+	Build Time: ~2 weeks
+	Compile Time:
+		CSG: 27s
+		BSP: 11s
+		VIS: 6m 0s
+		RAD: 2h 58m (-extra, -chop 32, -sparse)
+	Compile Tools: Zoner's 2.5.3 1.6.1 custom build
+	Compile Machine: AMD Athlon XP 1900, 1 GB PC2100 DDR Memory
+		 
+Instructions
+============
+Unzip the contents of the .zip file into your Half-Life directory. All files will be automatically placed from there.
+
+
+=====
+dm_odin (c) 2002 Andrew Weldon
+=====
+
+		 

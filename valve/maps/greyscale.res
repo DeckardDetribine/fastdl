@@ -1,0 +1,17 @@
+gfx/env/dfdmistup.tga
+gfx/env/dfdmistdn.tga
+gfx/env/dfdmistbk.tga
+gfx/env/dfdmistft.tga
+gfx/env/dfdmistlf.tga
+gfx/env/dfdmistrt.tga
+maps/greyscale.txt
+maps/greyscale.res
+sound/grey/hb22.wav
+sound/grey/respawn1.wav
+sound/grey/espark.wav
+overviews/greyscale.txt
+overviews/greyscale.bmp
+models/player/bwsniper/bwsniper.mdl
+models/player/bwsniper/bwsniper.bmp
+models/player/bwsniper/bwsniper.txt
+models/greyrat.mdl

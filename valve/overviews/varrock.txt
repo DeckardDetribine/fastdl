@@ -1,0 +1,15 @@
+// overview description file for varrock
+// Z Min 641 Z Max -2225
+
+global
+{
+	ZOOM	1.73
+	ORIGIN	-584.44 1164.59 -792
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE	"overviews/varrock.bmp"
+	HEIGHT	-2000
+}

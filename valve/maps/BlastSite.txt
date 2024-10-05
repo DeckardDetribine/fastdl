@@ -1,0 +1,43 @@
+* Play Information *
+Title 			:Blast Site.
+Filename		:BLASTSITE.BSP
+Author			:Stuart (Mr.Bunwah) Maine.
+Other lvls by author	:Various Quake and Painkeep levels.
+Email address 		:s_maine@hotmail.com or stuart.maine@psygnosis.co.uk
+Home page		:None.
+Description		:Medium sized, fast paced deathmatch level. Designed 
+			 to have very low R_Speeds (463 max). 			 
+Additional Credits to   :Ben Morris for Worldcraft.
+                         Robert "RiO" Osborne, Micheal "Balance" Devereux,
+                         Gavin "MadGav" Whitlock, Tony "TonyM" Marshall, 
+			 Stuart "EvilStu" Wheeler, Ed "EDO" Persey,
+                         and Graham "Gimp" Sergeant for playtesting.
+
+Single Player           :Only to look around.
+Cooperative Player      :No.
+Deathmatch Player       :Works best with 4 to 6 players.
+CTF2			:No.
+Difficulty Settings     :No.
+New Textures            :No.
+CD Track                :Whatever.
+
+* Construction *
+Base			:From scratch.
+Editor(s) used          :WorldCraft.
+Compile Machine		:P166 w. 64MB RAM.
+Compile time		:Around an hour.
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+
+Note: Every machine that this map was tested on has it's Gamma turned up 
+at least partly. If you leave your PC on default then this map will 
+probably be too dark.
+
+
+* Copyright / Permissions *
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.

@@ -1,0 +1,46 @@
+===================================================================================
+DATE: May 25, 1999
+===================================================================================
+Title(s)                : Brick House
+Files                   : brickhse.bsp
+Author                  : QS (Stephen Smart)
+Email Address           : quantumsaint@yahoo.com
+Date of release		: April 15, 1999
+Description		: A house of bricks (I guess?)
+                          
+===================================================================================
+--ADDITIONAL CREDITS--
+Playtesters: David, Darrell, David, Pat
+
+=========================================================================================
+--PLAY INFORMATION--
+Game			: Half-Life
+Level Name      	: Brick House
+Files    		: brickhse.bsp
+Single Player           : No	
+Cooperative 		: No 
+                          
+DeathMatch              : Yes
+MAP    # of PLAYERS     : 2-8
+             				
+Difficulty Settings     : No
+
+Platform(s) used               : P200mmx 32MB mem and AMD K6 300 64MB mem
+Known bugs                     : If you find any problems (anything) please let me know also. Thank you...
+New sounds/textures/entities   : NO
+============================================================================================
+===========================================================================================
+--LOADING INFORMATION--
+Download, unzip, and put the .BSP file in your c:\sierra\half-life\valve\maps directory (your drive letter may be different). Its that easy...Done 
+
+--Additional Notes--
+This is the fourth map I made for HL. If you downloaded a version that is older than the date above you will want to re-download it. There have been major changes made.
+
+Please play the hell out of it and let me know what you think people. Any comments at all.
+Please do not E-MAIL me for help with your level. I will play it but I will not FIX it. I visit an online disscusion group, try those for help. They help me quite a bit.
+============================================================================================
+--LEGAL--
+This Half-Life maps/level (Brick House-brickhse.bsp) is (c) 1999 Stephen Smart.
+DO NOT put this level/map on any sort of commercial product or compilation.
+You MAY distribute this BSP file through any other means, provided you include this .txt file 
+(unaltered) and it is free of charge. Do not modify this BSP.

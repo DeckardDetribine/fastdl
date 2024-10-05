@@ -1,0 +1,24 @@
+
+NAME OF MAP:    rohan2
+TYPE:           Death Match
+AUTHORS E-MAIL: peter@mickeymurphy.freeserve.co.uk
+PREVIOUS MAPS:  (Enders_game) ,and    (ROHAN)
+PLAYERS:        8--16
+
+
+      This map is an improved version of ROHAN.bsp,
+   
+      fixes are:  1 previously if you tried to gauss jump you died
+                  2 slightly better connectivity 
+                  3 different textures which i like more
+                  4 more weapons!!!! (the more the better i say)
+                  5 and a few other little things  
+
+to be honest not much has changed in this map, but i think the map
+is more fun to play now.
+
+(no part of this map may be used or altered without my permission)
+IF there is any part of this map that people want to copy or use 
+then e-mail me and well talk about it.
+
+Minor fixes by ~X~

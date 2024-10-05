@@ -1,0 +1,17 @@
+Title:
+    Necropolis: Mausoleum
+Version:
+    1.1
+Release Date:
+    August 28th, 2006
+Get It At:
+    Necropolis: Mausoleum
+Readme:
+    mausoleum.html
+
+Author:
+    Peter Jones
+Contact:
+    Contact Pete
+Website:
+    Pete's Place :: Mapping

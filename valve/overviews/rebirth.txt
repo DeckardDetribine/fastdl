@@ -1,0 +1,15 @@
+// overview description file for rebirth
+// Z Min 2049 Z Max -1153
+
+global
+{
+	ZOOM	1.63
+	ORIGIN	1166 608 448
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE	"overviews/rebirth.bmp"
+	HEIGHT	-1153
+}

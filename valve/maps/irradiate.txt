@@ -1,0 +1,7 @@
+Game : Half-Life
+Map Name : Irradiate
+Version : 1.0
+Filename : irradiate.bsp
+Author : Winns
+Email : winns87x@gmail.com
+

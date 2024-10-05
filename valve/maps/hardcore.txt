@@ -1,0 +1,334 @@
+=======================================================
+hardcore   by DocRock
+=======================================================
+
+Map Name:      		hardcore.bsp
+Filesize:           		1.57 mb .zip
+Author:            		DocRock
+Author email:  		docrock64@cox.net
+Homepage:      		www.planethalflife.com/docrocksmaps
+
+wadincluded in map:  	none
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:    		No
+Co-Op:                		No
+Deathmatch:     		Yep
+
+Suggested Players:  	12-32
+New Textures:   		No
+New Sounds:      		No
+New Models:		No
+
+Map description:  		Strictly Half-Life textures used in this massive hardcore map.
+			
+
+ENSURE TO HAVE MONSTERS ACTIVATED WHILE PLAYING THIS MAP.  IT NOT ONLY 
+ADDS TO THE FUN FACTOR, BUT TO THE WHOLE AMBIENCE OF THE MAP AS WELL!!!
+
+=======================================================
+CONSTRUCTION:
+
+base map:                	None
+prefabs:                   	None
+editor used:             	Worldcraft 3.4 Hammer
+utilities used:          	Zoner's Half-Life compile tools, botman's bots
+known bugs:            	None
+compile machine:    	AMD Athlon XP 1600  1.39 GHz  448 mb of RAM
+compile time:          	55 minutes
+
+=======================================================
+INSTALLATION:
+
+Run Winzip and unzip hardcore.zip onto your desktop.  Open the hardcore folder and place the hardcore.bsp, hardcore.res, and hardcore.txt in your valve/maps folder.  Open the dfdmist folder and place the 6 (six) dfdmist.tga files into your valve/gfx/env folder.
+
+=======================================================
+OTHER LEVELS BY DOCROCK:
+
+kitkat_beach, kitkat_klub, Get_Shorty, Farmland2, Cliffside2, Tigger, Scooby_Doo, LOML_Palace, 
+DepotArena, Conundrum, Conundrum 2, The Challenger Deep...etc
+
+=======================================================
+SPECIAL THANKS:
+
+To my babykitkat, my lover, my sweetheart, my wife.  I love you!!  My 
+#1 fan, thanks baby for playtesting and helping me with this awesome 
+map!  I DEDICATE THIS TO YOU!
+
+=======================================================
+MORE THANKS!
+ 
+babykitkat	beta tester
+Edgar Allen Poe 	beta tester
+Discount Killer	beta tester
+Rev.Greenbud	beta tester
+QuickSilver	beta tester
+
+OTHER THANKS
+
+[WTF?]Deraj	dfdmist skybox
+=======================================================
+DOC'S NEXT MAP....COMING SOON!
+
+kamp_kitkat
+ =======================================================
+COMPILE LOG INFORMATION
+
+
+** Executing...
+** Command: Change Directory
+** Parameters: "C:\Sierra\Half-Life"
+
+
+** Executing...
+** Command: C:\PROGRA~1\VALVEH~1\tools\hlcsg.exe
+** Parameters: "c:\program files\valve hammer editor\maps\hardcore"
+
+hlcsg v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlcsg -----
+Command line: C:\PROGRA~1\VALVEH~1\tools\hlcsg.exe "c:\program files\valve hammer editor\maps\hardcore"
+
+-= Current hlcsg Settings =-
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       1 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Wadinclude list :
+[zhlt.wad]
+
+
+entering c:\program files\valve hammer editor\maps\hardcore.map
+CreateBrush:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (47.83 seconds)
+SetModelCenters:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (0.00 seconds)
+CSGBrush:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (6.85 seconds)
+Using WAD File: \sierra\half-life\valve\halflife.wad
+Using WAD File: \sierra\half-life\valve\liquids.wad
+Using WAD File: \sierra\half-life\valve\decals.wad
+added 53 additional animating textures.
+Texture usage is at 2.89 mb (of 4.00 mb MAX)
+55.64 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+
+** Executing...
+** Command: C:\PROGRA~1\VALVEH~1\tools\hlbsp.exe
+** Parameters: "c:\program files\valve hammer editor\maps\hardcore"
+
+hlbsp v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlbsp -----
+Command line: C:\PROGRA~1\VALVEH~1\tools\hlbsp.exe "c:\program files\valve hammer editor\maps\hardcore"
+
+-= Current hlbsp Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       1 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 240)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 4096)
+
+
+BSP generation successful, writing portal file 'c:\program files\valve hammer editor\maps\hardcore.prt'
+17.62 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+
+** Executing...
+** Command: C:\PROGRA~1\VALVEH~1\tools\hlvis.exe
+** Parameters: "c:\program files\valve hammer editor\maps\hardcore"
+
+hlvis v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlvis -----
+Command line: C:\PROGRA~1\VALVEH~1\tools\hlvis.exe "c:\program files\valve hammer editor\maps\hardcore"
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       1 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [     off ] [     off ]
+full vis            [     off ] [     off ]
+
+
+2934 portalleafs
+10069 numportals
+BasePortalVis:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (112.14 seconds)
+LeafThread:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (2477.05 seconds)
+average leafs visible: 221
+g_visdatasize:188107  compressed from 1076778
+2589.68 seconds elapsed [43m 9s]
+
+-----   END   hlvis -----
+
+
+
+
+** Executing...
+** Command: C:\PROGRA~1\VALVEH~1\tools\hlrad.exe
+** Parameters: "c:\program files\valve hammer editor\maps\hardcore"
+
+hlrad v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlrad -----
+Command line: C:\PROGRA~1\VALVEH~1\tools\hlrad.exe "c:\program files\valve hammer editor\maps\hardcore"
+
+-= Current hlrad Settings =-
+Name                | Setting             | Default
+--------------------|---------------------|-------------------------
+threads              [                 1 ] [            Varies ]
+verbose              [               off ] [               off ]
+log                  [                on ] [                on ]
+developer            [                 0 ] [                 0 ]
+chart                [               off ] [               off ]
+estimate             [               off ] [               off ]
+max texture memory   [           4194304 ] [           4194304 ]
+priority             [            Normal ] [            Normal ]
+
+vismatrix algorithm  [          Original ] [          Original ]
+oversampling (-extra)[               off ] [               off ]
+bounces              [                 1 ] [                 1 ]
+ambient light        [ 0.000 0.000 0.000 ] [ 0.000 0.000 0.000 ]
+maximum light        [           256.000 ] [           256.000 ]
+circus mode          [               off ] [               off ]
+
+smoothing threshold  [            50.000 ] [            50.000 ]
+direct threshold     [            25.000 ] [            25.000 ]
+direct light scale   [             2.000 ] [             2.000 ]
+coring threshold     [             1.000 ] [             1.000 ]
+patch interpolation  [                on ] [                on ]
+
+texscale             [                on ] [                on ]
+patch subdividing    [                on ] [                on ]
+chop value           [            64.000 ] [            64.000 ]
+texchop value        [            32.000 ] [            32.000 ]
+
+global fade          [             1.000 ] [             1.000 ]
+global falloff       [                 2 ] [                 2 ]
+global light scale   [             1.000 ] [             1.000 ]
+global gamma amount  [             0.500 ] [             0.500 ]
+global sky diffusion [             1.000 ] [             1.000 ]
+
+opaque entities      [                on ] [                on ]
+sky lighting fix     [                on ] [                on ]
+incremental          [               off ] [               off ]
+dump                 [               off ] [               off ]
+
+
+[Reading texlights from 'C:\PROGRA~1\VALVEH~1\tools\lights.rad']
+[48 texlights parsed from 'C:\PROGRA~1\VALVEH~1\tools\lights.rad']
+
+10340 faces
+Create Patches : 42839 base patches
+0 opaque faces
+290843 square feet [41881476.00 square inches]
+894 direct lights
+
+BuildFacelights:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (142.20 seconds)
+visibility matrix   : 109.4 megs
+BuildVisLeafs:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (205.22 seconds)
+MakeScales:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (301.82 seconds)
+SwapTransfers:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (24.70 seconds)
+Transfer Lists : 25384802 transfers
+       Indices : 22083256 bytes
+          Data : 101539208 bytes
+Bounce 1 GatherLight:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (1.54 seconds)
+FinalLightFace:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (3.01 seconds)
+682.23 seconds elapsed [11m 22s]
+
+-----   END   hlrad -----
+
+
+
+
+** Executing...
+** Command: Copy File
+** Parameters: "c:\program files\valve hammer editor\maps\hardcore.bsp" "C:\Sierra\Half-Life\valve\maps\hardcore.bsp"
+
+
+** Executing...
+** Command: Copy File
+** Parameters: "c:\program files\valve hammer editor\maps\hardcore.pts" "C:\Sierra\Half-Life\valve\maps\hardcore.pts"
+
+
+** Executing...
+** Command: C:\Sierra\HALF-L~1\hl.exe
+** Parameters: +map "hardcore" -dev -console
+===========================================================
+COPYRIGHT STUFF
+
+hardcore.bsp  	copyright May 20, 2002
+
+Authors MAY use this level as a base to build additional levels as long 
+as you give me credit in your read.me as using this map as a base to 
+build your level.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet.
+
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+PLEASE PLEASE PLEASE email me with any comments about this map or any 
+of my other maps because I love feedback good or bad...and I will do my 
+best to answer any and all emails regarding my maps.
+

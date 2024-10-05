@@ -1,0 +1,77 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: HLDM Varrock
+
+Release         : 1.1
+
+Version Info	: Ent-Only patch (works with release 1.0)
+                  New in 1.1:
+                  	+ ambience sounds
+                  	+ fixed 'made-by' message
+                  	+ better skymap
+
+Date		: 2.2.2002
+
+Filename	: hullu6dm_varrock
+
+Author		: Jussi Kivilinna
+
+Email Address	: hullu@hullu.cjb.net
+
+Home page	: http://hullu.cjb.net/
+
+Description	: Half-Life: Deathmatch Map. Based on Varrock Town of online-rpg Runescape (www.runescape.com)
+
+Previous Maps	:
+		Zeroceromon (hldm & op4ctf)
+		Templecore (hullu5dm) (hldm)
+		op4ctf_StorageArea (hl-op4)
+		Peruskoulu 1.5 (hl-op4)
+		...
+		
+Credits/Thanks	: Poro for the idea, 
+                  Valve for Half-Life and tfc2.wad, 
+                  Jagex (www.jagex.com) for Runescape,
+                  Mighty Pete for his great Nottingham256-skymap!
+                          (http://www.geocities.com/petes-oasis/)
+
+------Play Information-----------------------------------------------
+
+Deathmatch	: Yes - 30 starts defined. 
+Teamplay        : Yes - One teamplay secret place included! (Egon is there)
+CTF             : No
+Single Player	: No
+Min. players    : 6
+Max. players    : 24
+
+r_speeds get very high at most parts of roof tops! I don't recommend going there as you will be easy target (and there is no ammo/weapons) (unless you are all-skillz dude :).
+
+------Map Information------------------------------------------------
+
+New Textures	: Some.
+New Sounds	: None.
+New Sky		: Yes.
+
+------Construction---------------------------------------------------
+
+Base		: Varrock @ Runescape (www.runescape.com)
+Editor(s) used	: WorldCraft 3.3, PSP7, Wally, ZTools 2.5.3
+Compile Machine	: Celeron 400@450 / 128Mb
+[HLCSG & HLBSP]	: 5m 44s
+[HLVIS]		: 2h 53m 6s
+[HLRAD]		: 1h 10m 13s (-sparse -bounce 4 -extra)
+
+------Map Instructions-----------------------------------------------
+
+Unzip archive to your 'half-life\valve' directory with 'Use directory names' enabled in your unzipper program.
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems. You are NOT authorized to put this BSP on any CD or distribute it in any way without my permission.

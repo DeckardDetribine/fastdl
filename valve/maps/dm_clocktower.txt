@@ -1,0 +1,10 @@
+DM_CLOCKTOWER - By Victor-933
+
+INSTRUCTIONS:
+Extract contents of archive to your Half-Life/Valve directory (/steam/steamapps/common/half-life/valve/)
+
+This is what happens when you combine too much MYST with a taste for the gloomy. Watch your step and be quick on your feet...
+
+Texture credits: Poke646, Valve's Deathmatch Classic, Victor-933 (mostly just hacking together existing textures to make ones more suited to the task at hand)
+
+Sound Credits: MYST, Gunman Chronicles, Quake 3 Arena

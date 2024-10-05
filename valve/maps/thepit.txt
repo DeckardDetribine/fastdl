@@ -1,0 +1,60 @@
+================================================
+   The death pit  spec Txt!
+================================================
+
+
+------General Information--------------------------------------------
+
+Title		: Thepit
+Release Date	: 15th August
+Filename		: thepit.bsp
+Author		: Nathan Goulden
+Email Address	: Nathangoulden@netscapeonline.co.uk
+ICQ number	: 124951066
+ICQ Address	: hitmod4@icqmail.com
+Previous Maps	: Seafort,Badhealth,Monk,movie_wars
+
+------Map Information------------------------------------------------
+Deathmatch               : yep your going to see some blood!
+waypoints                  : i made some for jumbot!
+New Textures	: yep some new ones!
+File Size		: about 2.8 zipped didnt look!
+Known bugs	: yep just one if you get suck on the doors of the traps!the doors dont close
+                                      and the trap still does its event try not to get killed on the doors!
+Max players	: 16 players!
+r_speeds                   :some nice r_speeds to make the map faster for lowerend pcs
+testing                        :i tryed this map on a p200 and it was getting 40fsp throughout!
+extras                         :to get more out of the map go into your c:/sierra/half-life/valve/sound/materials
+                                    and add this line at the bottom of M (M pit_steel) without the brackets!this will make the 
+                                    custom floors sound like metal you can do this for any textures!
+
+
+------Construction---------------------------------------------------
+
+Base	                         :nothing,made from scratch
+                                            
+Programmes used	       : WorldCraft 3.3,Wally,terragen,zoner tools.
+Advanced Compile time : 3 minutes (full vis,extra qrad/hlrad,-extra,-nowadtextures)
+Machine	                         : PIII 733,512mbram
+Build time	                         : 1 week (couple of hours a day)
+	
+------Map Instructions-----------------------------------------------
+
+Unzip
+place thepit.bsp into valve/maps.
+place thepit skys as .TGA into valve/gfx/env
+
+
+-----  permission ---------------------------------------------------
+
+you may use the sky  in your map just give me credit on your maps
+.txt files!oh and let me know by just e-mailing me!
+------Additional info--------------------------------------------------
+
+use t.v monitors and switchs to crush,blow up and flood people!
+use the crusher,the death tank, thepit to help get frags!
+use the teleporters to get fast access to areas of the map
+If you find any bug's or have any comments about the level then e-mail me.
+Also if you need help with worldcraft please contact me for help!
+
+Enjoy! The-Pit

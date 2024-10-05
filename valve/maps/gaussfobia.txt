@@ -1,0 +1,414 @@
+
+************
+GuaSS FoBia
+************
+Map By: MaMuS
+
+
+************
+Credits
+************
+Some textures and the sound files are not mine, all the things that I have done you can use in any other project, just say that you haven't did it
+[tm_harbor] from the game "The Specialist"
+[tfc.wad and tfc2.wad] from the game "Team Fortress Classic"
+[3dm_bik_sea.wav] from a map called "ts_beach" from the game "The Specialist"
+[rocket_groan4_cue.wav] just a mod from the original that comes with "Hal-Life", with Cue points
+
+
+************
+Introduction
+************
+    This map is made for who like playing with a Gauss. All the players respwan in an specific area of the map
+ (an Lower level) and the gauss can be found in the higher levels. When a player is in an higher level, he
+ has some advantages from who is on a lower.. so, you need to stay up and armored with the gauss to get
+ a fast locomotion in this map.
+
+
+************
+Compilation
+************
+
+Map made and Beta Compilations on a Celerom 333mhz Mendocino. FInal Compilation on a Athlon 64 3200+ Venice.
+
+Final Compilation Log:
+
+
+hlcsg v3.0 rel Public Beta 2 (Sep 21 2004)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Built on code by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+For Full Credits please read credits.html
+Submit detailed bug reports to (amckern at amckern@yahoo.com, or AJenbo at anders.jenbo@pc.dk)
+If you have a mapping error, please ask at the modifications 'Nominated Mapping Help Forum'
+
+-----  BEGIN  hlcsg -----
+Command line: "G:\ARQUIVOS DE PROGRAMAS\Valve Hammer Editor\zoners\hlcsg.exe"-estimate -chart -wadinclude small_mm.wad -wadinclude costal.wad -wadinclude ravoc.wad -wadinclude mms_predio.wad -wadinclude tm_harbor.wad -wadinclude tfc.wad -wadinclude tfc2.wad "G:\Arquivos de Programas\Valve Hammer Editor\maps\gaussfobia.map"
+Entering G:\Arquivos de Programas\Valve Hammer Editor\maps\gaussfobia.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       1 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [      on ] [     off ]
+estimate              [      on ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+max lighting memory   [ 6291456 ] [ 6291456 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+clip hull type        [  legacy ] [  legacy ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+nullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+[small_mm.wad]
+[costal.wad]
+[ravoc.wad]
+[mms_predio.wad]
+[tm_harbor.wad]
+[tfc.wad]
+[tfc2.wad]
+
+66 brushes (totalling 358 sides) discarded from clipping hulls
+CreateBrush:
+ (1.16 seconds)
+SetModelCenters:
+ (0.02 seconds)
+CSGBrush:
+ (3.06 seconds)
+
+Object names  Objects/Maxobjs  Memory / Maxmem  Fullness
+------------  ---------------  ---------------  --------
+models              0/400            0/25600    ( 0.0%)
+planes          10428/32768     208560/655360   (31.8%)
+vertexes            0/65535          0/786420   ( 0.0%)
+nodes               0/32767          0/786408   ( 0.0%)
+texinfos         1064/32767      42560/1310680  ( 3.2%)
+faces               0/65535          0/1310700  ( 0.0%)
+clipnodes           0/32767          0/262136   ( 0.0%)
+leaves              0/8192           0/229376   ( 0.0%)
+marksurfaces        0/65535          0/131070   ( 0.0%)
+surfedges           0/512000         0/2048000  ( 0.0%)
+edges               0/256000         0/1024000  ( 0.0%)
+texdata          [variable]          0/4194304  ( 0.0%)
+lightdata        [variable]          0/6291456  ( 0.0%)
+visdata          [variable]          0/2097152  ( 0.0%)
+entdata          [variable]          0/524288   ( 0.0%)
+0 textures referenced
+=== Total BSP file data space used: 251120 bytes ===
+
+Including Wadfile: \sierra\half-life\valve\costal.wad
+ - Contains 4 used textures, 14.29 percent of map (62 textures in wad)
+Including Wadfile: \sierra\half-life\valve\ravoc.wad
+ - Contains 12 used textures, 42.86 percent of map (45 textures in wad)
+Including Wadfile: \sierra\half-life\tfc\small_mm.wad
+ - Contains 0 used textures, 0.00 percent of map (7 textures in wad)
+Including Wadfile: \sierra\half-life\tfc\tfc2.wad
+ - Contains 3 used textures, 10.71 percent of map (395 textures in wad)
+Including Wadfile: \sierra\half-life\tfc\tfc.wad
+ - Contains 4 used textures, 14.29 percent of map (279 textures in wad)
+Including Wadfile: \sierra\half-life\valve\tm_harbor.wad
+ - Contains 4 used textures, 14.29 percent of map (125 textures in wad)
+Including Wadfile: \sierra\half-life\valve\mms_predio.wad
+ - Contains 0 used textures, 0.00 percent of map (44 textures in wad)
+Including Wadfile: \arquivos de programas\valve hammer editor\zoners\zhlt.wad
+ - Contains 1 used texture, 3.57 percent of map (3 textures in wad)
+
+Texture usage is at 1.61 mb (of 4.00 mb MAX)
+4.89 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.0 rel Public Beta 2 (Sep 21 2004)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Built on code by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+For Full Credits please read credits.html
+Submit detailed bug reports to (amckern at amckern@yahoo.com, or AJenbo at anders.jenbo@pc.dk)
+If you have a mapping error, please ask at the modifications 'Nominated Mapping Help Forum'
+
+-----  BEGIN  hlbsp -----
+Command line: "G:\ARQUIVOS DE PROGRAMAS\Valve Hammer Editor\zoners\hlbsp.exe"-estimate -chart -maxnodesize 2048 "G:\Arquivos de Programas\Valve Hammer Editor\maps\gaussfobia.map"
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       1 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [      on ] [     off ]
+estimate            [      on ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noopt               [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    2048 ] [    1024 ] (Min 64) (Max 8192)
+
+
+SolidBSP [hull 0] 500...1000...1500...2000...2094 (0.89 seconds)
+BSP generation successful, writing portal file 'G:\Arquivos de Programas\Valve Hammer Editor\maps\gaussfobia.prt'
+SolidBSP [hull 1] 500...1000...1500...2000...2500...3000...3500...4000...4119 (4.88 seconds)
+SolidBSP [hull 2] 500...1000...1500...2000...2500...3000...3500...3796 (3.33 seconds)
+SolidBSP [hull 3] 500...1000...1500...2000...2500...3000...3500...4000...4369 (5.05 seconds)
+
+Object names  Objects/Maxobjs  Memory / Maxmem  Fullness
+------------  ---------------  ---------------  --------
+models             70/400         4480/25600    (17.5%)
+planes           4125/32768      82500/655360   (12.6%)
+vertexes         4175/65535      50100/786420   ( 6.4%)
+nodes            2307/32767      55368/786408   ( 7.0%)
+texinfos         1064/32767      42560/1310680  ( 3.2%)
+faces            3338/65535      66760/1310700  ( 5.1%)
+clipnodes       11230/32767      89840/262136   (34.3%)
+leaves           1551/8192       43428/229376   (18.9%)
+marksurfaces     4449/65535       8898/131070   ( 6.8%)
+surfedges       14721/512000     58884/2048000  ( 2.9%)
+edges            8119/256000     32476/1024000  ( 3.2%)
+texdata          [variable]    1690892/4194304  (40.3%)
+lightdata        [variable]          0/6291456  ( 0.0%)
+visdata          [variable]          0/2097152  ( 0.0%)
+entdata          [variable]      19390/524288   ( 3.7%)
+28 textures referenced
+=== Total BSP file data space used: 2245576 bytes ===
+17.50 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v3.0 rel Public Beta 2 (Sep 21 2004)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Built on code by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+For Full Credits please read credits.html
+Submit detailed bug reports to (amckern at amckern@yahoo.com, or AJenbo at anders.jenbo@pc.dk)
+If you have a mapping error, please ask at the modifications 'Nominated Mapping Help Forum'
+
+-----  BEGIN  hlvis -----
+Command line: "G:\ARQUIVOS DE PROGRAMAS\Valve Hammer Editor\zoners\hlvis.exe"-estimate -chart "G:\Arquivos de Programas\Valve Hammer Editor\maps\gaussfobia.map"
+ 960 portalleafs
+3205 numportals
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       1 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [      on ] [     off ]
+estimate            [      on ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+max vis distance    [       0 ] [       0 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [     off ] [     off ]
+full vis            [     off ] [     off ]
+
+
+BasePortalVis:
+ (2.55 seconds)
+LeafThread:
+ (625.27 seconds)
+Warning: Leaf portals saw into leaf
+    Problem at portal between leaves 162 and 160:
+       (912.000 -640.000 448.000)
+    (960.000 -944.000 768.000)
+    (960.000 -944.002 768.000)
+    (960.000 -672.000 760.842)
+
+Warning: Leaf portals saw into leaf
+    Problem at portal between leaves 303 and 336:
+       (-971.924 600.072 445.656)
+    (-1016.422 654.382 360.055)
+    (-1016.633 655.042 359.227)
+    (-849.902 715.672 403.838)
+
+Warning: Leaf portals saw into leaf
+    Problem at portal between leaves 347 and 400:
+       (-938.222 632.000 263.056)
+    (-849.902 715.672 403.090)
+    (-849.426 715.845 403.966)
+    (-811.731 632.000 516.038)
+
+average leafs visible: 196
+g_visdatasize:65687  compressed from 115200
+
+Object names  Objects/Maxobjs  Memory / Maxmem  Fullness
+------------  ---------------  ---------------  --------
+models             70/400         4480/25600    (17.5%)
+planes           4125/32768      82500/655360   (12.6%)
+vertexes         4175/65535      50100/786420   ( 6.4%)
+nodes            2307/32767      55368/786408   ( 7.0%)
+texinfos         1064/32767      42560/1310680  ( 3.2%)
+faces            3338/65535      66760/1310700  ( 5.1%)
+clipnodes       11230/32767      89840/262136   (34.3%)
+leaves           1551/8192       43428/229376   (18.9%)
+marksurfaces     4449/65535       8898/131070   ( 6.8%)
+surfedges       14721/512000     58884/2048000  ( 2.9%)
+edges            8119/256000     32476/1024000  ( 3.2%)
+texdata          [variable]    1690892/4194304  (40.3%)
+lightdata        [variable]          0/6291456  ( 0.0%)
+visdata          [variable]      65687/2097152  ( 3.1%)
+entdata          [variable]      19390/524288   ( 3.7%)
+28 textures referenced
+=== Total BSP file data space used: 2311263 bytes ===
+627.95 seconds elapsed [10m 27s]
+
+-----   END   hlvis -----
+
+
+
+hlrad v2.5.3 rel Custom Build 1.7 (Dec  9 2002)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (merlinis@bigpond.net.au)
+-----  BEGIN  hlrad -----
+Command line: "G:\ARQUIVOS DE PROGRAMAS\Valve Hammer Editor\zoners\hlrad.exe"-estimate -chart -gamma 3.0 -bounce 6 -ambient 0.25 0.23 0.28 -dscale 3 -smooth 10 -chop 32 -texchop 64 -extra "G:\Arquivos de Programas\Valve Hammer Editor\maps\gaussfobia.map"
+
+-= Current hlrad Settings =-
+Name                | Setting             | Default
+--------------------|---------------------|-------------------------
+threads              [                 1 ] [            Varies ]
+verbose              [               off ] [               off ]
+log                  [                on ] [                on ]
+developer            [                 0 ] [                 0 ]
+chart                [                on ] [               off ]
+estimate             [                on ] [               off ]
+max texture memory   [           4194304 ] [           4194304 ]
+priority             [            Normal ] [            Normal ]
+
+vismatrix algorithm  [          Original ] [          Original ]
+oversampling (-extra)[                on ] [               off ]
+bounces              [                 6 ] [                 1 ]
+ambient light        [ 32.000 29.440 35.840 ] [ 0.000 0.000 0.000 ]
+maximum light        [           255.000 ] [           256.000 ]
+circus mode          [               off ] [               off ]
+
+smoothing threshold  [            10.000 ] [            50.000 ]
+direct threshold     [            25.000 ] [            25.000 ]
+direct light scale   [             3.000 ] [             2.000 ]
+coring threshold     [             1.000 ] [             1.000 ]
+patch interpolation  [                on ] [                on ]
+
+texscale             [                on ] [                on ]
+patch subdividing    [                on ] [                on ]
+chop value           [            32.000 ] [            64.000 ]
+texchop value        [            64.000 ] [            32.000 ]
+
+global fade          [             1.000 ] [             1.000 ]
+global falloff       [                 2 ] [                 2 ]
+global light scale   [ 1.000 1.000 1.000 ] [ 1.000 1.000 1.000 ]
+global gamma         [ 3.000 3.000 3.000 ] [ 0.500 0.500 0.500 ]
+global light scale   [             1.000 ] [             1.000 ]
+global sky diffusion [             1.000 ] [             1.000 ]
+
+opaque entities      [                on ] [                on ]
+sky lighting fix     [                on ] [                on ]
+incremental          [               off ] [               off ]
+dump                 [               off ] [               off ]
+
+colour jitter        [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+monochromatic jitter [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+softlight hack       [   0.0 0.0 0.0 0.0 ] [   0.0 0.0 0.0 0.0 ]
+diffuse hack         [                on ] [                on ]
+spotlight points     [                on ] [                on ]
+
+custom shadows with bounce light
+                     [               off ] [               off ]
+rgb transfers        [               off ] [               off ]
+
+
+[Reading texlights from 'G:\ARQUIVOS DE PROGRAMAS\Valve Hammer Editor\zoners\lights.rad']
+Warning: Duplication of texlight '+0drk_but_r' in file 'G:\ARQUIVOS DE PROGRAMAS\Valve Hammer Editor\zoners\lights.rad'!
+[87 texlights parsed from 'G:\ARQUIVOS DE PROGRAMAS\Valve Hammer Editor\zoners\lights.rad']
+
+3338 faces
+Create Patches : 40695 base patches
+75 opaque faces
+199873 square feet [28781812.00 square inches]
+425 direct lights
+
+BuildFacelights:
+ (405.66 seconds)
+visibility matrix   :  98.7 megs
+BuildVisLeafs:
+ (550.34 seconds)
+MakeScales:
+ (88.91 seconds)
+SwapTransfers:
+ (16.33 seconds)
+Transfer Lists :    53138924 :   53.14M transfers
+       Indices :    21376708 :   20.39M bytes
+          Data :   212555696 :  202.71M bytes
+GatherLight:
+ (4.41 seconds)
+GatherLight:
+ (4.41 seconds)
+GatherLight:
+ (4.44 seconds)
+GatherLight:
+ (4.42 seconds)
+GatherLight:
+ (4.47 seconds)
+GatherLight:
+ (4.44 seconds)
+FinalLightFace:
+ (1.98 seconds)
+
+Object names  Objects/Maxobjs  Memory / Maxmem  Fullness
+------------  ---------------  ---------------  --------
+models             70/400         4480/25600    (17.5%)
+planes           4125/32767      82500/655340   (12.6%)
+vertexes         4175/65535      50100/786420   ( 6.4%)
+nodes            2307/32767      55368/786408   ( 7.0%)
+texinfos         1064/32767      42560/1310680  ( 3.2%)
+faces            3338/65535      66760/1310700  ( 5.1%)
+clipnodes       11230/32767      89840/262136   (34.3%)
+leaves           1551/8192       43428/229376   (18.9%)
+marksurfaces     4449/65535       8898/131070   ( 6.8%)
+surfedges       14721/512000     58884/2048000  ( 2.9%)
+edges            8119/256000     32476/1024000  ( 3.2%)
+texdata          [variable]    1690892/4194304  (40.3%)
+lightdata        [variable]     541641/4194304  (12.9%)
+visdata          [variable]      65687/2097152  ( 3.1%)
+entdata          [variable]      19390/524288   ( 3.7%)
+28 textures referenced
+=== Total BSP file data space used: 2852904 bytes ===
+1092.67 seconds elapsed [18m 12s]
+
+-----   END   hlrad -----
+
+
+************
+Just some links...
+************
+	www.leveldesign.com.br
+	www.labs.brlogic.com
+	www.croshair.cjb.net
+
+
+*************************************
+Mybe this is the final version.
+*************************************

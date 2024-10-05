@@ -1,0 +1,55 @@
+Doomify
+a deathmatch experience by DocRock
+
+Map information:
+bsp name:	doomify.bsp
+skybox name:	fifthdimension
+map released:	jan 20 2017
+author:		DocRock
+author email:	docrock10@hotmail.com
+
+Build information:
+original map:	yes
+map based on:	loosely based on Doom 2016 pc game
+
+utilities used:	valve hammer 3.5.2
+		wally
+		ms paint
+		goldwave sound editing
+		google image search
+		free sound.org
+	
+wadincluded:	mapper.wad, doomify.wad
+
+models used:	yes
+sounds used:	yes
+sprites used:	yes
+
+PC Specs:		Windows 7 Professional
+		Intel(R) Core(TM) i7-3930K
+		3.2 Ghz 
+		16gb memory
+		
+Compile Time:	2 hours
+
+map dedicated to:	babykitkat (always) my LOML (Love of my life)
+
+beta testers:	babykitkat
+		SilentRunner007
+		
+thanks:		SilentRunner007 for the zoner's 64 bit update! Mind Blown!
+		
+installation:	doomify.bsp to half-life/valve/maps
+		doomify.txt to half-life/valve/maps
+		doomify.res to half-life/valve/maps
+		fifthdimension256_.tga files to half-life/valve/gfx
+		sounds to half-life/valve/sound/doomify
+		sprites to half-life/valve/sprites/doomify
+		models to half-life/valve/models
+		
+
+
+
+
+
+

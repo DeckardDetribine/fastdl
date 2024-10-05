@@ -1,0 +1,15 @@
+// overview description file for mario_dm
+// Z Min 591 Z Max -49
+
+global
+{
+	ZOOM	2.25
+	ORIGIN	-128 0 552
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE	"overviews/mario_dm.bmp"
+	HEIGHT	-48
+}

@@ -1,0 +1,22 @@
+MayaCore - by Uwe Lange aka Boblem
+
+This map is a remake of the classic HL1-Deathmatch map datacore.
+Done for the 2. TheWall.de hl-dm mapping contest.
+Just extract the files into your halflife/valve directory.
+
+Sky by 3dMike
+Textures by Madness, X-Tender, Fingers
+sound by stroggos, daywalker
+flamesprite by stroggos
+
+thanks to
+daywalker
+slipi
+crow
+lumpn
+katze im sack
+fanatic
+m1ch!
+
+Changed fix_flame.spr sprite name to fixflame.spr to optimize memory usage.
+~X~

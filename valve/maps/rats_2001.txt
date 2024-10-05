@@ -1,0 +1,121 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: Rats_2001
+Release         : Version 1
+Date		: 1st August 2001
+Filename	: rats_2001.bsp
+Author		: Chris Spain
+Email Address	: chris@cyber-rat.com
+Home page	: www.cyber-rat.com
+Description	: DM map where the player is about 4 inches tall,
+		: set in a kitchen (huh?!?).
+Previous Maps	: Various HL, Quake2, Quake and DOOM maps (see homepage)
+Credits/Thanks	: Thanks to Swampbug for the concept, and to
+                : Frank 'PackRat' Kannemann for playtesting this version.
+
+------Release Notes - 2001 Version 1 ---------------------------------
+
+I made this new version to celebrate the 2 year anniversary of the
+release of my original Rats! map. The idea was just to improve the texturing
+a bit and correct a few minor faults.
+
+It was not my intention to radically change the gameplay of the original,
+but by making a few improvements I was able to bring the r_speeds down
+enough to allow me to add more items on the worksurfaces of the kitchen.
+
+The only other changes I've made are to add some glow effects on lights
+and to add environmental sound fields in the cupboards.
+
+------Release Notes - Version 2 -------------------------------------
+
+I've made this new version of the map after playing Rats! on-line.
+The main change I've made is to have moved the Egon/Gluon gun from
+the sink into the icebox. This means you've got to suffer a bit to
+get it, which seems fair.
+
+The RPG that was in the icebox is now in the sink and the sink-side
+trigger for the garbage disposal mechanism is now walk-over instead
+of "Use" only, making it much easier to use.
+
+There are a couple of minor bugfixes too, but nothing major.
+
+------Play Information-----------------------------------------------
+
+Deathmatch	: Yes - 24 starts defined.
+Single Player	: No.
+Map Description	: Small Fraggers...
+
+The map is either set in a giant kitchen or in a normal size kitchen
+with tiny players, depending on your point of view. OK, so it's a
+gimmicky idea, but I have tried to make it work as a DM map. Try it
+out and you'll find that at least it makes a change from endless
+bases, warehouses and canyons...
+
+I've defined 24 DM starts (for variety), but I reckon things would
+get pretty hectic with that many people. Because the map is centered
+around one main "arena", it would probably work quite well for a
+small number of players (they wouldn't wander around forever waiting
+to catch sight of another player).
+
+The theme and the scale of the players means that r_speeds can get
+high in the open spaces (I've seen a peak of just over 700), but
+most fast machines should be able to cope with this. If you're
+wondering why there's not much stuff lying around on the kitchen
+surfaces and table, it's to try keep the r_speeds down. Obviously
+I could have had all kinds of fun kitchen applicances sitting around,
+but it wouldn't have been playable.
+
+The map could be fun for teamplay, but I haven't been able to try it.
+As far as I can see, there are two main bases:- the main cupboard
+with four entry points (2 floor, 1 mid level, 1 high) and some nice
+weaponry; and a combination of the cupboard under the sink and the
+fridge, which has quite a few entry points (3 floor, 1 mid level, 1
+high), and a fairly healthy arsenal.
+
+Note: If the map is run with realistic falling damage set on there
+will probably be a lot of broken bones and splattered bodies around
+as the vertical drops are very high (it's easy to get confused
+and think "Hey, it's just a kitchen worktop, I can jump off here..."
+and forget that it's equivalent to a five storey building). It still
+works, but gameplay is easier with the default setting (normal dmg).
+
+Known Bugs:
+None.
+
+
+------Map Information------------------------------------------------
+
+New Textures	: None (just to keep it simple).
+New Sounds	: None.
+
+------Construction---------------------------------------------------
+
+Base		: From scratch.
+Editor(s) used	: WorldCraft 3.3
+Compile Machine	: PIII 800.
+Compile time	: Approx. 8 mins.
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "rats_2001.bsp" in
+your half-life/valve/maps directory.
+
+------Additional Info------------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

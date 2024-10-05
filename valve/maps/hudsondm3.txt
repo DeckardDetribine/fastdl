@@ -1,0 +1,43 @@
+2/5/99 -Isn't February a worthless month?
+=======================================================================
+Map Title: Hudson's Generic Slime Map
+BSP Name: hudsondm3.bsp
+Author: Hudson
+E-Mail: derm0@hotmail.com
+Homepage: www.nwlink.com/~grahamd
+		^-Coming next week: Online Demonic Sacrifices!!!
+=======================================================================
+Level Stats:
+
+Single Player: Nada
+Deathmatch: Yup. 6-20, 12 player starts. I designed this with large 	games in mind, there might be a bit of overkill on the weapons 	if you're playing a small game.
+Teamplay: Sure
+CoOp: Uh... Halflife doesn't support coop, to my knowledge... in any 	case, no.
+Known Bugs: No
+Comments: This generic slime map was created out of my desire to make a 	map, but my total lack of any kind of thematic creativity... 	I'm happy with the result, but I'm glad I'm done because I'm 	eager to get to work on some cool ideas I've had... I've got 	some great shit going with lighting in my new map... sorry! 	Quit reading this! Play the map!!
+=======================================================================
+Level Editing Tip:
+Listen to My Life With the Thrill Kill Kult:
+
+Early TKK for any general level editing.
+-----
+Out of print disco TKK, the KMFDM remix of "The Days of Swine and Roses", or the "'Cuz It's Hot" single for tripped out effects levels.
+-----
+"13 Above the Night" or "A Crime for All Seasons" for hard-core free for all levels or anything with a scary theme.
+
+You'll notice your levels and possibly your whole lifestyle improve notably!
+=======================================================================
+Buildin' Info:
+Construction Time: 1 Month
+Compile Times:
+	CSG	33 seconds
+	BSP	31 seconds
+	VIS	76 seconds
+	RAD	7001 seconds
+	total	7140 seconds, approx. 2 hours
+=======================================================================
+Legal Bullshit:
+
+Copyright (c) 1999 Graham DeYoung.
+This map may be distributed over any electronic network as long as this text file (hudsondm3.txt) is included complete and unmodified and the map filename remains hudsondm3.bsp, and no money is charged for it. You're welcome to include this map on any CD or compilation, as long you obtain my permission and no money is charged.
+=======================================================================

@@ -1,0 +1,53 @@
+--------------------------------------------------------------------------------------------------------------------
+                                             Tomorrow Land - Goldrush 
+--------------------------------------------------------------------------------------------------------------------
+
+Install: 
+
+goldrush.bsp and goldrush.txt >>-----> valve/maps
+the rests >>-----> valve/gfx/env (if you dont have that dirictory then create it)
+
+--------------------------------------------------------------------------------------------------------------------
+
+About the map...
+
+Goldrush the third map in my hldm-serie called TomorrowLand and a total convertion of my first Destiny map also
+called goldrush (more info about the Destinymod at www.destinymod.com).
+The layout is quite easy, the weapons is placed so a player have to be on the run...you`ll find the longjump in
+the castle.
+I have tried to keep rspeeds down but im afraid it goes over 800 in one little area, but still i think that 
+the rspeeds are good in the rest of the map(around 400-500)
+This map has some quite opend areas so the best weapons is RPG, X-bow and Magnum.
+
+I have a secret little room where the Gluon is placed, to get up there you must swim up an waterfall, NOTE: all
+waterfalls arent climable...but you are can still climb up using the ladders if you by mistake fall down in the
+water...
+...and I wont tell you where the secret one is!
+
+- - -
+
+Items: 
+
+Weapons - Many
+
+Items - Many
+
+Misc - 3 teleports (one secret)
+
+- - -
+
+Credists: 
+
+...Not many, but thoose who has helped me knows it!
+Ionic - ComSet :D
+And a big HUG goes out to the Destinymod team *hug*
+
+--------------------------------------------------------------------------------------------------------------------
+
+Any questions should be mailed to me: peppe@pihl.as
+- - -
+NOTE: I have a website, but I havent updated it for months...so if you want to find out more about my maps or just
+have a little chatt then visite me on irc; #mapcore or #planethalflife on Gamesnet.
+
+If you still wanna se my homepage: http://www.geocities.com/sorry_m8/
+------------------------------------------------------------------------------------------------------------------- 

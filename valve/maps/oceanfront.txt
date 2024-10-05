@@ -1,0 +1,67 @@
+Oceanfront
+a Half-Life deathmatch experience by DocRock
+
+This map is for Half-Life 1 Deathmatch
+
+bsp name:	oceanfront.bsp
+author email:	docrock10@hotmail.com
+release date:	June 17, 2017
+
+utilities used:	valve hammer 3.5.2
+		zoner's 64 bit compile tools
+		wally
+		ms paint
+ 		goldwave
+	
+wadincluded:	oceanfront.wad
+		oceanfront2.wad
+
+PC Specs:		Windows 7 Professional
+		Intel(R) Core(TM) i7-3930K
+		3.2 Ghz 
+		16gb memory 64 bit
+		
+Compile Time:	10 minutes
+
+map dedicated to:	babykitkat (always)
+
+beta testers:	babykitkat
+		CreepItAll
+		LLSGollum
+		
+installation:	oceanfront.bsp to valve/maps
+		oceanfront.txt to valve/maps
+		oceanfront.res to valve/maps
+		tropical tga files to valve/gfx/env
+		sounds to valve/sound/oceanfront
+		sprites to valve/sprites/oceanfront
+		models to valve/models/oceanfront
+
+Thanks:
+Rimrook 		prop_rimpalm1a.mdl
+		prop_rimpalm1b.mdl
+		prop_svou.mdl
+		prop_wingstatue.mdl
+
+CreepItAll	blondbab.mdl
+		blondbab1.mdl
+		fern3.mdl
+		flowers.mdl
+		orioke.mdl reskin
+		player models:
+			wally.mdl
+			nuku-b.mdl
+			jeena.mdl
+
+Sandman		doc_seagull.mdl 
+
+CAT		pumba.mdl 
+
+Silentrunner007	wav editing
+
+Lounge music
+	"Make my Heart" by Jay-J & Halo Varga
+
+~X~: "wally.mdl" is actually Gena by Koshak_HL \(-_-)
+Sounds fixed by ~X~
+music loop was removed

@@ -1,0 +1,50 @@
+=============================================
+
+ Title         : Enura Arena
+ 
+ Version       : Final
+ 
+ Date          : 18.2.2002
+ 
+ Filename      : enura.bsp
+ 
+ Author        : Jussi Kivilinna
+ 
+ Email Address : hullu@hullu.cjb.net
+ 
+ Home Page     : http://hullu.cjb.net/
+ 
+ Description   : Half-Life Deathmatch level 
+ 
+ Credits       :
+ 
+ 	Pexxi
+	[DRS]Orpheus
+	KungFuSquirrel
+	SuperCrazy
+	Gollum
+	Alien_Sniper
+
+=============================================
+
+   [Play Information]
+
+ Deathmatch          : Yes
+ 
+=============================================
+
+Put the .bsp file into the following directory:
+
+... \Half-Life\valve\maps
+
+=============================================
+
+   [Permissions]
+   
+You are NOT allowed to sell this level with commercial profit in mind,
+without getting my permission first.
+
+You MAY NOT alter or add to this level without my permission.
+
+=============================================
+

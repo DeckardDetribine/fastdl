@@ -1,0 +1,55 @@
+============================================================================================
+============================================================================================
+Title			:Mos Eisley
+Date			:07/06/99
+Filename		:mos.bsp
+Author			:Eckard Gehm
+Email Address		:laky0815@aol.com
+Description		:Tatooine, Mos Eisley spaceport. The sun burns between the buildings.
+                         You will find Jabbas Palace, Lukes home and more... 
+                         Fast deathmatch map with large area for rocket-fights,
+                         small hallways and places for campers.
+                         
+                         This map is playtestet on a P200/TNT and runs fine.   
+============================================================================================
+*Play Information*
+
+Single Player		:No. The suit ist just for running around
+Deathmatch		:That´s what it is for.
+Cooperative		:No.
+Difficulty Settings	:No.
+New textures		:No.
+New sounds		:No.
+Running the level	:Unzip the file.
+                         Copy mos.bsp to your Half-Life\valve\maps directory.
+                         Start the game with the console (e.g.
+                         put the console.bat in the Half-Life directory and kick it).
+                         Than type "map revenge" without the quotes.
+*Construction*
+
+Base			:New level from scratch.
+Editor used		:Quark 5
+Known bugs		:None
+Time Taken              :15 days
+Compile machine		:P200 /64mb RAM
+QCSG time		:50   sec.
+QBSP2 time		:89   sec.
+QRAD time		:651  sec.
+VIS time		:1511 sec.
+
+============================================================================================
+          Be sure to try all my other incredible HL, Quake2, Quake1 and Duke 3D levels!
+                  Try also my Half-Life tutorial witch explains all the cool stuff
+       
+                My webpage below is the right place to download them!
+                    http://members.aol.com/laky0815/index.html
+                            What are you waiting for?
+============================================================================================
+
+                         Thanks for playing Mos Eisley!
+============================================================================================
+
+
+     This level may be freely distributed as long as you leave this text-file intact.
+============================================================================================
+============================================================================================

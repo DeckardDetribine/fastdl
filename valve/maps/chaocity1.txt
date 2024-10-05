@@ -1,0 +1,79 @@
+---	
+CHAOCITY 1.0 
+
+by  S U L S A
+---
+
+Type: Halflife Deathmatch map
+Players: 4-? players
+Filename: Chaocity1.bsp
+
+Email: sulsa@altavista.com
+
+=======================
+
+DESCRIPTION:
+
+	A city block with inside/outside environments.  A lot of open space for the longrange hunter; crawlspaces, offices and hallways for the toe to toe grunt.
+
+
+=======================
+
+THE MAP ITSELF:
+
+	This map contains all the weapons found in the Halflife universe.  There are 4 stationary player controllable turrets.  There are two working cameras to view the action remotely.  I also have about 10 custom textures in this map.  There are no tricks and traps (sorry), but learning basic mapping took more than enough time and energy without figuring out airstrikes and moving platforms...  :)
+
+	This is my first map and is actually half of what I originally had.  I realized (as most newbies do) that bigger does NOT always equal better, so I split it in half.  This whole process has taken me approximately 2.5 months to complete, working about 10 hours a week.
+
+
+=======================
+
+TECHNICAL STUFF:
+
+Hardware:
+	-PIII 450mhz processor with 384 mhz RAM
+	
+Software:
+	-Worldcraft 2.1/3.3
+	-ZONER'S Tools
+	-HalfLife Compilation Controller
+	-Wally
+	-Spriteview
+	-Pakscape
+	-Adobe Photoshop 5.0 
+
+Compiling Time:
+	-about 90 minutes
+
+=======================
+
+THANK YOUs:
+
+	-Dr. Dags, the PRE-beta tester extraordinaire, member of [CMC], and best friend since 1st grade.  (That's him behind me in the picture).
+	-Clan [CMC] for the actual Beta-testing, bug scrubbing, and tireless devotion to this project.  You guys are THE GREATEST.
+	-The web resources like the Halflife ERC, Halflife.net, and the guys who frequent the Rust gamedesign forums.  If it wasn't for them and the many others out there, there wouldn't be ANY amateur game designers...
+	
+=======================
+
+COPYRIGHT STUFF:
+
+	This map is ALL MINE, except for two things:
+
+	-The iCAST logo from iCAST.com, where I work, the coolest entertainment portal on the web.
+	-HWARANGDO, the most comprehensive system of deadly fighting on the planet (don't believe me?  Research it!).
+
+	  I made this map from scratch.  It belongs to me.  Everything is original.  But you know what?  Use whatever you want out of it!  Turn it into whatever you want or take whatever you want for prefabs...ON ONE CONDITION:  Be cool, be honorable and GIVE CREDIT WHERE CREDIT IS DUE.
+
+
+
+
+It has been a pleasure making this map and an honor to count myself amongst the designers.
+
+o--[-----
+
+S u l s a
+
+	 
+
+
+

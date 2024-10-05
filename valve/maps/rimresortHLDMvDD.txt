@@ -1,0 +1,86 @@
+=======================================================
+rimresortHLDMvDD: a Map by Dizzy Devil
+=======================================================
+
+Map Name:                       	rimresortHLDMvDD.bsp
+Filesize:                       	4.8mb unzipped
+Original Author:			Rimrook
+Redsign Author:                        	Dizzy Devil
+Author email:                   	DizzyDevil@ddhlp.com
+Homepage:				http://www.ddhlp.com                    
+wadincluded into BSP:          		EDEN2.wad, some added texturs from the original.
+Game engine:                            Half-Life
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:                 		No
+Co-Op:                         		No
+Deathmatch:                     	YES
+
+Suggested Players:             		5 - 10
+New Textures:                   	Yes 
+New Sounds:                     	NO
+New Models:                     	NO
+
+Map description:                	Redesigned for HLDM																
+=======================================================
+CONSTRUCTION:
+
+base map:                       	None
+prefabs:                        	None
+editor used:                    	Hammer 3. beta
+utilities used:                 	Paintshop Pro 7, Wally, Zoner
+
+known bugs:                     	None
+compile machine:                	AMD Duron  1.6 GHZ
+compile time:                   	20 minutes
+prefabs used:				none
+
+=======================================================
+INSTALLATION:
+
+STEAM:
+Parent Folder(adjust for your drive letter):
+\Program Files\Steam\SteamApps\your_steam_login\half-life\valve\
+
+Serria
+Parent Folder(adjust for your drive letter):
+\Sierra\Half-Life\valve\
+
+
+The rimresortHLDMvDD.txt file must be included with the rimresortHLDMvDD.bsp file
+
+======================================================
+
+Sound files where included by original author.
+
+=======================================================
+Redesign Author's notes:
+This was a fun map to redesign. What a pleasure to redesign a CS level to HLDM. Especially one of Rimrook's.
+I cannot full credit. Rimrook did an awesome job with the original. 
+
+I did change and add a few things to it.
+
+I loved the light fixtures that Rimrook had made and I did not feel the they where getting enough attention. I added a light entity to all fixtures and matched the color that that light would have given off.
+
+2 added rooms.
+
+The first was because the big stone blocks the Rimrook had against the wall by the water falls. I have seen several CS maps that have them but they do nothing or lead nowhere.
+I changed them to doors and added a room behind them. It turned out very well.
+
+The second was under the stone second level by the neat spiral thing next to the circular window. Rimrook’s tribute room is within the stone floor/box.
+
+There where some places I had to add a Trigger hurt to kill the player so the player was not running on the skybox.
+
+Added a clip texture to the top of the "courtyard" and little pool. This would have been a great place for snipers but the sky texture was "bleeding" in to the other rooms around the area. So played it safe and clipped the top area so that no one can Gauss jump or walk on that ledge.
+
+Thank you for the opportunity to redesign this level RIMROOK!!!
+
+As always check out TWHL for all your mapping needs!! 
+
+http://twhl.co.za/index.php?
+
+
+You may NOT use this map or any of the files included to build additional maps without the authors written premission!
+

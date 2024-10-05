@@ -1,0 +1,56 @@
+=======================================
+ENTRANCE2 by: ET-NiK
+
+[20.03.2013]
+=======================================
+
+Map Name	: entrance2
+Autor		: ET-NiK ([UMI7EPATOP] HuKuTa)
+
+Testers:
+			DrRoy
+	
+Site		: http://hldm.org
+
+==== Play Information ====
+
+DeathMatch	: YES
+Single Pleyer	: NO
+Cooperative	: NO
+Mod		: Half-Life, Adrenaline Gamer, Counter-Strike, OpposingForce, Sven Co-op
+Player Max	: 32
+
+==== Map Information ====
+
+Editor(s) used   : Valve Hammer Editor 3.4
+Other Programms  : ZHLT 2.5.3, Wally 1.55b, Photoshop CS5
+Prefabs used     : Yes
+Known Bugs       : No
+Build Time       : eight months
+Testing Time	 : eight months
+Compile Machine  : Intel(R) Celeron(R) CPU B820 / 2048 Mb
+Compile Time     : 30m
+Average R_Speeds : 650 wpoly
+
+==== Other map by [UMI7EPATOP] HuKuTa ====
+
+space_combat
+entrance
+crossfire_emperors
+killbox_emperors
+levels
+fastANDfaster3
+hldm_forever
+
+
+==== Copyright-Permissions ====
+
+Вы можете использовать карту по своему усмотрению - для игры на ней, для изучения каких-то деталей,
+распространение в интернете.
+Также я не против того, что вы декомпилите карту и будете использовать для создания своей.
+При этом не нужно использовать название "entrance2" для своей карты, т.к. оно уже занято.
+
+Не забудьте указать копирайт, если используете карту для создания своей, модифицируете ее или выкладываете где-то.
+
+(c) Copyright 2013 Nikita «ET-NiK» Kuznetsov 
+HTTP://HLDM.ORG

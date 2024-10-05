@@ -1,0 +1,52 @@
+================================================================
+Title                   : Trench
+Date                    : 15th January 2000
+Filename                : unzip "trench.bsp" into you half-life\valve\maps directory
+Author                  : Matthew Manno
+Email Address           : manno@bestweb.net
+Home Page               : http://www.bestweb.net/~manno
+
+Description             : It's an underwater base, I just got bored, and wanted to make a 
+			  Half-Life map for my friends and I to play.
+
+Thanks to               : Valve, Mom, my 4 sisters, my 3 brothers
+
+================================================================
+* Play Information *
+
+Single Player           : No
+Deathmatch              : YES 
+Difficulty Settings     : No
+Team Play		: YES (created for deathmatch though)
+================================================================
+Make sure you put the .bsp file into the following directory:
+... \Sierra\Half-Life\valve\maps
+================================================================
+* Construction *
+
+Base                    : From scratch
+Editor(s) used          : Worldcraft 2.1
+Known Bugs              : No known bugs
+
+Compile machine         : Celeron 300 with 192 megs of RAM
+
+===============================================================
+* Author's Comments *
+
+I hope you enjoy playing this map as much as I enjoy conceiving,
+and building it.  If you want the to use .rmf in, or as a base for
+your own map send me an e-mail.
+
+Matthew Manno
+===============================================================
+
+* Copyright / Permissions *
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission. (I just left this in here because I
+like to here from people who enjoy playing my maps)

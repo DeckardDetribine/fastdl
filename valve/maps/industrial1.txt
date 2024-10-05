@@ -1,0 +1,31 @@
+Map Name: Industrial
+Version : Beta 1              
+Author  : Instacrome
+Contact : instacrome@hotmail.com 
+
+-----------------------
+
+Textures: Rorshach
+
+*Description:
+
+ A small deathmatch map set in a industrial colony on
+ some far away planet.
+
+*Players:
+
+ 2-4
+
+-----------------------
+
+Thanks to :
+
+Rorshach, for the textures (downloaded at The Wadfather)
+
+Bla bla :
+
+Hope you enjoy my first HLDM map.
+If you have suggestions, ideas or comments,
+please send them to instacrome@hotmail.com
+Oh yeah, and let me know if you put it in your
+server rotation or review it =)

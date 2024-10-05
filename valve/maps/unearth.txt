@@ -1,0 +1,87 @@
+Title		: Alien Unearthing
+Author		: Bedwetting Type
+Email		: bedwetting_type@hotmail.com
+Website         : http://bedwettingtype.tripod.com
+Date		: October 29, 2001
+Game		: Half-Life
+
+* WARNING *
+I cannot be held responsible for any pants or panties soiled while playing this map.  If you have bladder control problems, this map is not recommended.  Play Alien Unearthing at your own risk.
+* WARNING *
+
+--------------------------------
+Description
+--------------------------------
+A large deathmatch level of an alien ship submerged at the bottom of the ocean.  The level is very dark, so remember to use your flashlight.  It is designed to work well with any number of players.  It was made for normal Half-Life deathmatch, but you can try it with whatever mod you want.
+
+--------------------------------
+The Story
+--------------------------------
+An ancient alien ship has recently been discovered at the bottom of the Pacific ocean, buried deep under several miles of rock.  Carbon dating shows that it crashed somewhere around the Triassic period, and the insides are in near-perfect shape.  With so much advanced technology in one place, no one is about to sit around while others pick away at it.  Soon the world powers are fighting over the remains.  Everyone wants a piece of the pie.  And now things have become violent...
+
+--------------------------------
+Technical Info
+--------------------------------
+Single Player	: No
+Cooperative	: No
+Deathmatch	: Hell yeah
+Teamplay	: No
+Difficulty	: No
+New Textures	: Yes!
+New Sounds	: Yes!
+CD Track #	: None
+Files		: UNEARTH.BSP, UNEARTH.TXT, UNEARTH.WAD, UNEARTH.RES, 6 .WAV files, 4 .SPR files, and WHIRLPOOL_xx.TGA files.
+Recom. Players	: 2-16
+Min. Hardware	: 266 MHz
+Recom. Hardware	: 400 MHz
+
+--------------------------------
+Constructon
+--------------------------------
+Base		: Built from scratch
+Build Time	: A few months
+Prefabs Used	: None
+Editor(s) Used	: Worldcraft 3.3, Wally
+Other Utilities : Paint Shop Pro 5.0, Photoshop 4.0, Zoner's Half-Life Tools  =)
+Known Bugs	: None
+Compile Machine : AMD K6-2/266, 256MB RAM
+Compile Time	: 8 hours
+
+--------------------------------
+Credits
+--------------------------------
+Valve		: Half-Life and Worldcraft
+Mighty Pete	: "Whirlpool" sky box
+Senn		: Sweeeeeet gothic textures
+Adam W. Stiles  : Muad'dibs Flare Pack 1
+Monty Python    : It's a secret.
+
+
+Special thanks to anyone who plays the map.
+
+Sorry if I forgot someone here.
+
+--------------------------------
+Copyrights/Permissions
+--------------------------------
+Half-Life and all its original media are copyrights of Valve software.
+Worldcraft 3.3 is a copyright of Valve software.
+All textures are copyrights of their respective painters.
+
+Authors MAY NOT use this map as a concept for building their own maps.
+
+You MAY use the textures in your own maps, EXCEPT those with an underscore followed by a number in the end of their name (e.g. "green_glow_3"); those are edited textures.  Textures marked with "bwt" are mine.  Just be sure to give credit where it's due.
+
+You MAY distribute this map amongst your friends, on the internet, or on another electronic service as long as there is NO CHARGE, except for the costs of using the service.
+
+You MAY distribute your own Unearth config files, waypoint files, location files, etc. for use in different mods.
+
+You MAY NOT include this map in any commercial map packs or CDs without my
+written permission.
+
+You MAY bring me coconuts, swallows, shrubberies, or very small rocks for no reason.
+
+You MAY NOT say Ni! at will to old ladies.
+
+--------------------------------
+Guns don't kill people, TRIGGER_HURT's kill people!

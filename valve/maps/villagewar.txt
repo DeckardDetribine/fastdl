@@ -1,0 +1,20 @@
+MAP INFO:
+
+-----------------------------------------------------------------------------
+
+Name: VillageWar
+
+Player: 2-8
+
+Description: This map make much fun. It play in a small 
+                     village  with 11 houses. If you read this text, you   
+                     think that I build a small map, but  it is realativly 
+                     big. My map play at night, you have search your   
+                     enemys exactly.
+
+Author: Patrick
+
+E-Mail: patrick.mueller@wtal.de
+
+Special Info: This is my first map. I?ve built it with Worldcraft2.0.
+                      I don?t now how long I spend time to build it.

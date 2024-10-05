@@ -1,0 +1,36 @@
+Title		:OUTRAGED
+Version		:2nd version i messed the first one up with a bad spawn spot....ooops
+Release Date	:march 28 2001
+Filename	:OUTRAGED.bsp
+Filesize(zipped):didnt zip it yet so i dont know lol
+Author(s)	:sUk72
+Webpage		:noper
+Email Address	:suk72@netzero.net
+Description	:hl dm
+                 
+				    
+---Play Information---
+Game		:hl dm
+Level Name	:OUTRAGED
+Game Mode	:DM
+Players		:4 - 12
+Known Bugs	:hope not i think i fixed them all
+
+
+---Construction---
+Editor Used		:worldcraft 3.3
+Compile Machine		:750 athlon 416 megs ram	
+Base			:datacore sort of
+Construction Time	:2 weeks
+			 
+---Notes---
+i wanted to base it on datacore but put an outside to it.
+
+E-mail me with any comments on the level, praise or criticism.
+Any feedback is much appreciated.
+
+
+---Special thanks---
+thanks to my buddies at fuzzy animals cause without them i wouldnt have gotten this far mappin without them.
+and the ss klan for puttin up with me.......lol
+and whoever reviews my maps...no one has yet...lol ecept snark pit might be the first with SUKCITY...lol

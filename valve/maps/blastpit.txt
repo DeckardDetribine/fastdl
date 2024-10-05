@@ -1,0 +1,62 @@
+===================================================================================
+DATE: October 19, 1999 (final release)
+===================================================================================
+Title                   : Blastpit
+Files                   : blastpit.bsp , blastpit.jrf
+Author                  : QS (Stephen Smart)
+Email Address           : quantumsaint@yahoo.com
+Homepage                : http://start.at/the.page (Quake2 levels availible)
+
+Description		: A small arena/FFA style DM map for fraggin around in.
+                          This map was designed for smaller LAN/on-line games.
+                          Includes all weapons except the HORNET. Also includes
+                          JUMPMODULE in a secret area.
+                        
+===================================================================================
+--ADDITIONAL CREDITS--
+
+Playtesters: David (bro), Darrell, Pat, Merit, Steve O, David C, Prometheus,
+             Lurker (Lurker's Lair), Big Mark, Prometheus, Kman
+             
+
+Thanks to Valve for the excellent game.
+
+=========================================================================================
+--PLAY INFORMATION--
+Game			: Half-Life
+Level Name      	: Blastpit
+Files    		: blastpit.bsp
+Single Player           : No	
+Cooperative 		: No 
+DeathMatch              : Yes
+MAP # of PLAYERS        : 2-6 (possibly 8 but very packed)
+             				
+Difficulty Settings     : No
+
+Platform(s) used               : P200mmx 32MB mem and AMD K6 300 64MB mem
+Editor used                    : WC
+Known bugs                     : None that I know of.
+New sounds/textures/entities   : NO
+============================================================================================
+===========================================================================================
+--LOADING INFORMATION--
+Download, unzip, and put the .BSP file in your c:\sierra\half-life\valve\maps directory (your drive letter may be different). Its that easy...Done 
+
+--Additional Notes--
+This is the 6th map I made for HL. I built the basic structure in 7 hours. 
+Added alternate routes to the top area (only one way to begin with), about another 2/3 hours or so.
+Playtesting has taken months because of my ealier testing procedures...
+I have a much better and more efficient way of testing now that doesnt take even half the time.
+
+I have included the Jumbot Route File but I am no expert at making the routes for the bots so if you like this map,
+but wished the routes worked better, you may want to try asking one of the pros at one of the JRF sites to reroute it.
+
+Yes, this has the same hallway as POWERCORE in it. It is somewhat different.
+This map was made before POWERCORE and the hall originated from BLASTPIT... if you were curious.
+
+============================================================================================
+--LEGAL--
+This Half-Life map/level (Blastpit-blastpit.bsp) is (c) 1999 Stephen Smart.
+DO NOT put this level/map on any sort of commercial product or compilation unless you have permission from me.
+You MAY distribute this BSP file through any other means, provided you include this .txt file 
+(unaltered, server-side DLs are OK) and it is free of charge. Do not modify this BSP in any way.

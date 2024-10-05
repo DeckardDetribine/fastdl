@@ -1,0 +1,280 @@
+=================================================================================================
+				Archipelago (v 1.0)
+=================================================================================================
+
+Author:			Francois "Venomus" Barnes
+E-mail:			MrMan@mrman58.freeserve.co.uk
+Website:		http://www.mrman58.freeserve.co.uk/spawningtank
+
+File name:		archipelago10.zip
+Zip contents:		archipelago10.txt
+			valve\maps\archipelago.bsp
+			valve\maps\archipelago.res
+			valve\sound\gibfnt\gf_plop.wav
+			valve\sound\gibfnt\gf_sbig.wav
+			valve\sound\gibfnt\gf_sprt1.wav
+			valve\sound\gibfnt\gf_sprt2.wav
+Type:			Deathmatch
+Number of maps:		1
+Difficulty levels:	no
+New textures/skies:	yes (embedded in map, no separate files)
+New sprites:		no
+New models:		no
+New code:		no
+New sounds:		yes
+
+Story:			The Xenians have been driven out of an important sector of the
+			Borderworld wilderness. The route is now clear for advance into the
+			industrial areas of their domain, and the valuable scientific stuff
+			awaiting within. It is time to enter the wilderness sector, but you will
+			not be alone. Rival corporations ready their own operatives for
+			teleportation to Xen. Once there it will be the usual desperate fight for
+			control of pathways and resources. As usual, supplies and munitions have
+			been pre-teleported into the area. And you will have to find them, as the
+			still imprecise science of teleportation will have scattered them over a
+			wide area.
+			One more thing: advance drones report that the retreating Xenians left
+			some kind of warp-core device in the area, believed to be a weapon of
+			mass destruction. The device is primed, but was never activated in time.
+			Use at your own discretion.
+
+Intro/description:	There aren't many Xen themed Half-Life DM maps around, but my hope is
+			that Archipelago will be accepted as one of the best. I have not skimped
+			on the eye-candy. In a way that was my main aim. I like mapping for Xen,
+			but did not want to be committed to a whole single-player episode (if its
+			not going to be crap, that just takes too long).
+			But I think that I know enough of the concepts of DM to make a map that
+			plays well (I'm pretty satisfied with how it looks :) .
+			This map has lots of interactive stuff in it. You are advised to read the
+			'tips/play information' section of this readme, and maybe explore the map
+			offline a bit.
+
+Installation:		Place map "archipelago.bsp" in your Half-Life\valve\maps folder. Place
+			resource file "archipelago.res" in same folder as "archipelago.bsp" (this
+			is just for those who want to host a game with the map, I guess). Place
+			the folder "gibfnt" in your Half-Life\valve\sound folder, (you may have
+			to create any of these folders, but its unlikely). Run the map any way
+			you like, but you will need to be in DM mode ('deathmatch' cvar set to >
+			0) if you want to start with longjump module, hornetgun etc.
+
+Tips/play information:	-Before long, you will probably discover the portal, which takes you to
+			the island with the 'warp-core'. Shoot the big yellow crystal, and wait
+			for bad things to start happening. The first warning is a brief flash.
+			Those who know the map will probably pick it up as the early cue to shift
+			ass. The second warning comes 20 seconds later and should appeal to most
+			peoples sense of urgency. The only good place to be about 50 seconds
+			after that will be on the blue healing pad on the island with the doom
+			device. Expect a bit of competition for a place on that healing pad
+			because there ain't that much room on it :) .
+
+			-In DM mode, you will find yourself equipped with different things to the
+			usual, boring pistol/crowbar combo. You still have the crowbar of course,
+			but if you run out of ammo you should not have to resort to it. That's
+			because on this map, everyone starts with a free hornetgun. I made it
+			like this because I love that weapon, it fits the Xen theme well, and
+			it helps balance out a map where its possible to accumulate lots of
+			powerful weapons quite quickly.
+			Also, you start with a free long-jump module, because it is essential
+			to utilise lots of high-speed long distance jumping, to get the most out
+			of this map.
+
+			-Make the most of the long-jump module and low gravity on this map. Use
+			long jumps to fly around the map very quickly. Unfortunately lag is the
+			enemy of fun stuff like this. If there is no choice, you can still use
+			the 'lo-lag' routes around the map. Ladders (try climbing any of the
+			chimney-spires) replace jump pads, and stepped short jumps replace long
+			jumps.
+
+			-'The tube' is the red-lit tunnel burrowing under the main part of the
+			map. At first there is no obvious way of getting back up to the 'funnel'
+			entrance. But you should find there is a mysterious wind blowing you up
+			if you just try to run up the tunnel, Matrix style.
+
+			-In the cave with the large healing pool, it's possible to long jump
+			straight up to the tunnel above. You can also go up a narrow sloping
+			ledge on the wall.
+
+			-This map has a rather complex system that allows you (providing you are
+			hosting the game, that is) to decide what happens when players fall in
+			the void. Please read about it in the next section of this readme.
+
+Info for server admin/host:
+			-There are a number of high drops on this map. It's probably best if the
+			falling damage in DM is not set to realistic (ie: left at its default
+			setting).
+
+			-Low ping server physics are going to come in handy on this map, if
+			you're running an internet game. So leave them enabled (default).
+
+			-I am aware that falling into voids and dying causes chronic annoyance to
+ 			some people. That is why there is an alternative option in this map.
+			Instead of exploding in a thousand giblets when you fall off, you are
+			teleported back to solid ground. This may be embarrassing (I hope) but at
+			least you will not lose a frag. This 'teleport mode' has to be activated,
+ 			as 'death mode' is the default. I wanted whoever was running/in charge of
+			the server to be the only one who could change 'teleport' or 'death'
+			mode. This was done by exploiting how they would be the only ones
+			capable of 'cheating'.
+			Somewhere in the map there is a secret area, accessible only by
+			noclipping *. Finding it is itself quite a fun exercise. First go to the
+			area of the map with the 'funnel', the upper entrance to the red-lit
+			tube. There is an spiky island with a teleporter. Go to this island and
+			carefully look around edge for a small spike pointing across the void.
+			Noclip in the direction this spike is 'pointing'. Eventually you should
+			see a tiny island with a yellow crystal. Land on the island, and
+			shoot/crowbar the crystal. You should get a message saying what will now
+			happen if you fall in the void.
+			Unfortunately cheats are quite restricted in DM mode. 'Impulse 101' works
+			(giving you all weapons), but as far as I know you cannot use the normal
+			'noclip' command, even when you are the host and have set 'sv_cheats' to
+			'1'. You have to use the Admin Mod thingy (http://www.adminmod.org) which
+			provides alternative equivalents of this cheat (and also 'god'). You may
+			be familiar with running a server, Admin Mod etc. Most of the Internet
+			servers seem to use it nowadays. But you might find it damned impossible,
+			just want to host a quick LAN game, or you may not have permission to use
+			cheats, whatever. The point is there is an alternative if you want to
+			change what happens when you fall off, and you do not have the option of
+			noclipping in DM.
+			The alternative is just to use a different map, in which the default mode
+			is teleport instead of death. But surely, if you are using a modified
+			map, everyone who wants to join	your game will need the modified map as
+			well. Apparently not. As long as the maps are named the same, the minor
+			differences will not matter because the host's map (yours) decides how
+			certain things are in the map without consulting the clients (at this
+			stage, it has not been tested online for real, so in fact it possibly may
+			not work :( ). Obviously you will not be able to keep both versions of
+			the map in the same folder all the time, because they have the same name.
+			You would just keep the one you want to use in your Half-Life\valve\maps
+			folder, and the other one somewhere else (or temporarily rename the one
+			you are not using).
+
+			The file archipelago10_televoid.zip can be gotten from
+		http://www.mrman58.freeserve.co.uk/spawningtank/files/archipelago10_televoid.zip.
+			It is pretty much identical to the .zip archive this readme came from,
+			except it contains the modified map (still called archipelago.bsp). Make
+			sure you don't accidentally confuse or overwrite one map with another, if
+			you get both of them.
+
+			For nothing more than reference, to myself as much as anyone else, I have
+			included instructions about how to hax0r archipelago.bsp (death void
+			version). It's not too hard. First get yourself a decent hex editor.
+			There are loads of good, free ones such as Hex-editor XVI32
+			(http://www.chmaas.handshake.de/delphi/freeware/xvi32/xvi32.htm). Some
+			text editors also allow you to edit the .bsp without corrupting it in the
+			process, but Notepad and Wordpad are unreliable for this purpose. Make
+			sure you backup archipelago.bsp, as the chances are you will corrupt it
+			first time especially if you're using a dodgy text editor. I repeat:
+			backup the map before you start screwing around with it. Then open the
+			map in your hex/text editor and search for the following text:
+
+{
+"origin" "-1664 3232 1472"
+"initialstate" "1"
+"triggermode" "3"
+"globalstate" "void_th_gs"
+"targetname" "void_th_eg"
+"spawnflags" "1"
+"classname" "env_global"
+}
+{
+"origin" "-1600 3232 1472"
+"triggermode" "3"
+"globalstate" "void_tt_gs"
+"targetname" "void_tt_eg"
+"spawnflags" "1"
+"classname" "env_global"
+}
+
+			Replace it with:
+
+{
+"origin" "-1664 3232 1472"
+"initialstate" "1"
+"triggermode" "3"
+"globalstate" "void_tt_gs"
+"targetname" "void_tt_eg"
+"spawnflags" "1"
+"classname" "env_global"
+}
+{
+"origin" "-1600 3232 1472"
+"triggermode" "3"
+"globalstate" "void_th_gs"
+"targetname" "void_th_eg"
+"spawnflags" "1"
+"classname" "env_global"
+}
+
+			In many text and hex editors, all carriage returns will appear as a
+			little rectangle, making it harder to read. It's probably better to look
+			and carefully alter what has changed in the text instead of just copy and
+			pasting.
+			Then save the file, and try to run the map. You should now teleport when
+			you fall in the void. If Half-Life fails to load the map, it has been
+			corrupted, you have changed stuff in the file you were not supposed to,
+			or you should try a different text editor. If the map loads but other
+			stuff in it is not working properly, you probably changed things that
+			should have been left alone. If you fail to get 'teleport mode' as the
+			default, try again with another copy of the map that you (hopefully)
+			backed up. You simply made a mistake somewhere.
+
+* noclipping, for anyone who does not know, is a form of cheating where you can fly around a map
+and through walls.
+
+Technical Information:	Map size:			2.00 Mb
+			Total compile time:		7h 15m 41.95s **	
+			Construction time:		2 months ***
+			Base:				Scratch, some prefabs I had left over
+							from previous projects.
+
+** compiling on low priority. On high priority it would have taken about 3h 30m. 98% of the
+compiling time was on the LeafThread section of HLVIS.
+
+*** approx, if you include time for short breaks, long periods of inactivity, Real Life™ etc...
+
+			Compile/main testing system:	-AMD Athlon XP 1800 MHz
+							-256 Mb DDR RAM
+							-GeForce 3 Ti 200 (64 Mb) video card
+							-Windows XP Home edition
+							-NVidia Detonator XP drivers
+
+			Software used:			-WorldCraft 3.3
+							-Valve Hammer Editor 3.4 ****
+							-Zoner's Half-Life Tools 2.5.3
+							-Spriteview 1.05
+							-Pakscape 0.11
+							-Wally 1.55b
+
+			Compile specs for g33ks:	
+							Textures:		30
+							Portalleafs:		2325
+							Numportals:		9138
+							Average leafs visible:	333
+							G_visdatasize:		187248 (676575)
+							Faces:			6303
+							Base patches:		21348
+							Area:			281772 feet^2
+										(40575192.00
+										inches^2)
+							Direct lights:		461
+							Visibility matrix:	27.2 Mb
+							Number of cheesecakes:	41
+
+**** I updated WorldCraft some way through the map construction. BTW that new name sucks.
+
+Credits:		-Usual stuff, Valve for making Half-Life and WorldCraft etc...
+			-The authors of any of the programs mentioned in 'Software used'
+			-The authors of the Zerstörer mod for Quake 1, from which the
+			'gib fountain' sounds were 'borrowed'.
+			-Those who hang around the Rust forums, especially the old-timers (you
+			know who you are :)
+			-[WTF?]Snowdog and co. at the Department of Engineering
+			-various dudes at the PHL forums for giving me info about cheats in DM
+			-Anyone else who I forgot...
+
+You may distribute this map over the Internet as long as it is unmodified and you include this
+file with the map. If you wish to release this map on CD, DVD or any other media please contact
+me first and ask for my permission. If you wish to use material from this map or otherwise modify
+it, please give me credit, and preferably contact me so I can check whatever it is out.
+
+Half-Life is a registered trademark of Valve software.

@@ -1,0 +1,56 @@
+Mos Keth
+====================================================================================================
+
+Date                    : Jan 2002
+Title                   : Mos Keth
+Filename                : mos_keth.bsp
+Author                  : Felix Watts (aka Dolly, Dohpaz, Zaphod, -=SiRE=-)
+Email Address           : felixwatts@blueyonder.co.uk
+ICQ#			: 140745257
+Home Page               : n/a
+
+Map Description         : My first release quality map. This is a medium sized 
+			  HLDM map set in the Star Wars universe. Originally 
+			  inspired by the map named MOS.
+
+Other Works by Author   : Killbowl ( http://www.dcs.ed.ac.uk/home/fitw/killbowl.zip )
+
+
+===================================================================================================
+
+== Play Information ==
+Single Player           : No [1 start]
+Cooperative             : No
+Deathmatch              : Yes
+
+== Construction ==
+Base                    : Scratch
+Editor(s) used          : Worldcraft 3.3
+
+== Build Machine ==
+AMD Athlon 1GHz
+256Mb RAM
+
+
+================================= Thanks... =======================================================
+In no particular order...
+
+	Peeps at the Snarkpit (www.snarkpit.co.uk) for moral and other support.
+	All the original Stu's house clan for gettig me into DMing/mapping.
+	Anyone whos plays or hosts this map :)
+
+
+== Installation Info ==
+Unzip both files to your half-life/valve/maps directory.
+
+
+==Copyright / Permissions==
+Authors MAY NOT use this level as a base to build additional levels.
+
+This map may be distributed ONLY on a "not for profit" basis using any medium,
+provided this file is included with no changes.
+
+Magazines and other published media may use my level provided they ask for my permission and send me
+a copy of their product ;)
+
+This template is available from www.globalassault.com.

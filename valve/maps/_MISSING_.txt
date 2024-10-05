@@ -1,0 +1,10 @@
+// Missing map resources
+
+boxochz_final:
+sound/cheez/e1m4.wav - music
+sound/cheez/e1m1.wav - music
+sound/cheez/inter.wav - music
+sound/cheez/ddtblu.wav - music
+
+dm_jap_icetemple:
+sound/dm_jap_icetemple/icetemple_ambience.wav - music

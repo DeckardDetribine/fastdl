@@ -1,0 +1,80 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: RatsXL
+Release         : Version 1
+Date		: 9th April 2000
+Filename	: ratsxl.bsp
+Author		: Chris Spain
+Email Address	: chris@cyber-rat.com
+Home page	: www.cyber-rat.com
+Description	: DM map combining the Rats! and Rats2 maps.
+Previous Maps	: Various Quake2, Quake and DOOM maps plus Rats! and Rats2
+Credits/Thanks	: Thanks to Swampbug for the concept of Rats, and to
+                : Monty's crowd for playtesting this map.
+
+------Play Information-----------------------------------------------
+
+Deathmatch	: Yes - 45 starts defined.
+Single Player	: No.
+Map Description	: Small Fraggers
+
+RatsXL is a combination of the kitchen from Rats! and the bathroom from
+Rats2. The two maps are joined by several rat-holes that lead into a
+connecting space in the brickwork between the walls.
+
+Apart from the connecting space there are no major changes to the two
+maps that make up this new map (the fan housing in Rats2 is easier to
+get into and there is no ammo for the ion cannon in the main cupboard
+now).
+
+Like Rats2, this map suffers from fairly high r_speeds so lag may be a
+problem on older machines and software mode is definitely out.
+
+The size of the BSP file means that people are going to have real problems
+trying to download it from a server. If you're going to run this map on
+your server I recommend that you tell people in advance and give them the
+download address so that they can get the map first. 
+
+Note: As with Rats, this map should not be run with realistic falling damage
+set on. Gameplay is much better with the default setting (normal dmg).
+
+Known Bugs:
+None.
+
+
+------Map Information------------------------------------------------
+
+New Textures	: One.
+New Sounds	: None.
+
+------Construction---------------------------------------------------
+
+Base		: Rats! and Rats2.
+Editor(s) used	: WorldCraft 2.1
+Compile Machine	: PIII 800.
+Compile time	: Approx. 20 mins.
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "ratsxl.bsp" in
+your half-life/valve/maps directory.
+
+------Additional Info------------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

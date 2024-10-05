@@ -1,0 +1,95 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+
+
+------General Information--------------------------------------------
+
+Title		: Battleschool
+Filename	:	: hldm_battleschool.bsp
+Author		: Jinx & Hayt/Wintermute
+Author Email	: matthewblevins@hotmail.com
+Home page	: http://www.cryotank.net
+Description	: a space station made for low-g combat training
+Previous Maps	: hypersanctum, meatpit, stormvale, basement v2
+Upcoming Maps	: Temple, Stormvale v2, then AUT2k3 maps...
+
+
+------Credits and Thanks---------------------------------------------
+
+Shuttle Prefab: (very nice for a prefab!)
+--Author: Matthew Evans
+--Contact: Clay_9@hotmail.com
+--Web: www.matthewevans.co.uk
+
+Evil's Texture Pack 4 by evil lair
+--hfx@planetquake.com 
+--http://www.planethalf-life.com/wadfather | http://www.planetquake.com/hfx/
+
+Endless Space -- an environment map by SPA (beautiful!)
+--spa@planetquake.com 
+--http://www.planethalf-life.com/wadfather | http://dynamic4.gamespy.com/~chaosdm/index.php
+
+Muad'dib - a couple sprite lense flares from his Flare pack
+--http://www.planethalf-life.com/wadfather | http://www.planetunreal.com/muad/
+
+Manah: a couple textures from his public wads. (http://www.planethalf-life.com/manah/)
+
+MeanRabbit.com (http://www.meanrabbit.com) for the ambient sound you hear in the low-g chambrer (mr_ prefix). I emailed them about using their sounds in my maps, and they were very cool about it. 
+
+Lunaran - a couple textures from his Base Textures wad
+--lunaran2@aol.com
+--http://www.planethalf-life.com/wadfather | http://lunaran.fragland.net/
+
+Banana, who did the low-g signs for Hayt a long time ago I believe.
+
+
+------Additional Info and Notes-------------------------------
+
+Hayt/Wintermute gave me the source files to finish this map up a long time ago. I think it was based on something from the scifi novel "Ender's Game". I fixed the rspeeds, then went back to spice up the texturing, lighting etc. I also did the other needed files (res, ini, loc, etc.). I think you'll find it an enjoyable little map.
+
+
+------Play Information-----------------------------------------------
+
+Single Player   	: Yes. (just boot in console)
+Deathmatch	: Yes.
+Modification    	: hldm; action hl version also available
+How Many Players	: 2-12
+
+
+------Map Information------------------------------------------------
+
+New Textures	: Yes, most by Evil Lair.
+New Sounds	: Yes, a sound file from Meanrabbit.com.
+New Models	: No.
+New Sprites	: Yes. Custom sprites from Muad'dib's textures on Wadfather.
+
+
+------Construction---------------------------------------------------
+
+Base		: Hayt's original Battleschool map, which was never officially released
+Editor(s) used	: Worldcraft 3.3, Zoner's Tools
+Texture editors 	: Wally, Photoshop 6, PSP 5
+Compile Machine	: Athlon 2700+ 1GB ram
+Compile time	: 1 hr (a long time for this machine!)
+Playtest time	: 20 minutes... heh.
+
+
+------Map Instructions-----------------------------------------------
+
+Text Display:
+You will notice a text display on your right. This is a feature I added to make it easy to know where you were, and easier to find other players in small games. The map is roughly divided into 3 Tiers, Tier 1 being the lowest. The display indicates which Tiers of the map have players on them. The Tier that you are on yourself will be in White text. Other Tiers that have players will appear in Red text. Note that if another player is on the same Tier as you, all you will see is the White text you normally would were you alone on that Tier.
+
+Single Player:
+There are grunts, assassins, and some Zen monsters to battle in 1player. Just load the map in console. You can also get some nicer grunt models on my website, http://www.cryotank.net/maps/misc
+
+------Copyright-Permissions------------------------------------------
+
+Authors may not use this level as a base to build additional levels without my direct permission
+
+You MAY NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!.
+
+This BSP may be distributed ONLY over the Internet.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission- which I may give, just ASK ME!

@@ -1,0 +1,13 @@
+thwc2_stalky by m1cHi
+--------------------
+thx to:
+gimli (fgd)
+thedönerking (textures)
+xenon (models)
+[hau]tot (sky)
+
+--------------------
+
+visit: 
+cs.maps (qnet)
+hl2.maps (qnet)

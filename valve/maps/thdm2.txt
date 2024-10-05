@@ -1,0 +1,74 @@
+PC Gamer Presents: 'They Hunger' dm1 and dm2
+==================================================================
+
+
+********
+Bill... this TEXT is NOT COMPLETE YET! and please alter as 
+you see fit
+***********************
+
+
+If you want to see more 'PC Gamer presents' Halflife levels, write 
+and let us know! Send e-mail to the PC Gamer Disc Editor....
+
+Jeremy Williams <jeremy@pcgamer.com>
+==================================================================
+
+10/12/99
+==================================================================
+
+Titles		: "THdm1" & "THdm2"
+Description	   	: Deathmatch levels for Half Life
+
+THdm1 Author	: Neil Manke 
+			web site:	http://www.planethalflife.com/manke
+            	email:  	neil@mail.ocis.com
+
+THdm2 Author	: Dave Waters	
+			web site: 
+			http://www.planethalflife.com/3dconstruction
+  			email:  	waters@planethalflife.com
+==================================================================
+ * Description *
+
+"THdm1" 
+This is a small open map good for about 2-6 players. It has one 
+small fort and a set of ruined buildings seperated by a pond with
+'diving boards' on each side:] It also contains a very cool and 
+compact Bazooka Turret [built by Dave]. I was trying to capture a 
+similar feel to cyNic's popular 'x-fire' map, which I really 
+liked.    -Neil
+
+"THdm2"
+This level is well suited for 1 on 1 matches,with enough room for 
+3-4 player FFA before becoming over crowded. The layout is arena 
+style, with two small structures and a pond breaking up the map. 
+Rooftop access is possible via a chimney or by gauss jump. Like 
+Neil's map, this is set in the "They Hunger" theme.  
+-Dave
+
+
+==================================================================
+
+* Credits *
+
+Special thanks to everyone at Valve for creating Half Life, and to
+PCGamer..............
+==================================================================
+
+ * Play Information *
+
+Single Player          : No
+Deathmatch             : Yes
+New textures           : Yes
+New Models             : No
+New Sounds             : No
+==================================================================
+Install Info
+
+Note: create the below folders/directory structures if you don't 
+already have them
+
+-extract THdm1.bsp and THdm2.bsp into *halflife/valve/maps/* folder.
+-extract the six *.bmp files and the six *.tga files into
+*halflife/valve/gfx/env/* folder

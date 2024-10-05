@@ -1,0 +1,104 @@
+
+date: 18 JULY, 1999
+
+=================================================
+title:            Desperation
+file:             dspr.bsp
+author:           CYBERACiD 
+email address:    cyberizatt@hotmail.com
+URL:              none
+
+description:      This is a new kind of map for me. If you have played concealed then
+                  you will understand :). Its completely different from my last map and 
+                  in my opinion for the better. 
+
+                  This map plays best with about 4 to 8 people if your looking for an action 
+                  packed frag fest. There is a button at the top of the map which allows you 
+                  to drain the water at the bottom therefore leaving anyone in the water an easy
+                  target. The water stays drained for 30 seconds and the button will reset one minute
+                  after the water has returned to its normal height. 
+
+                  I felt that the gauss gun is just too cool to get just any old way so I've set up a
+                  trap for you all. Above the small passage way which leads to the gauss gun is a glass 
+                  ceiling. This allows the players above the gauss gun to see if anyone dares grab the 
+                  gun. In the room with the glass floor is a button which opens the floor of the passage
+                  way. the button also drains the water in the small pit. Anyone who is standing in the 
+                  passage way at this time is dropped into the pit whilst the doors close up and the 
+                  water once again rises, drowning the victim. If you're clever, once you've trapped your
+                  foe you will grab the gun yourself and blast through the floor of the pit,
+                  getting a free frag. If you don't understand this then try it out yourself because its 
+                  damn hard to explain! 
+
+                  (TIP: the doors to the pit stay open for 8 seconds. In the pit there is a button which 
+                  removes the glass from the room where the player pushed the button to trap you. This 
+                  makes him/her fall into the same pit as you and you can get your revenge with your 
+                  trusty crowbar (or any other weapon of choice... as long as it works underwater... :)
+
+                  I also tested this map out for teamplay and it actually was pretty fun. Its not built
+                  for teamplay but dominating the trap is fun. try it!
+
+
+                                      
+
+================================================
+play information
+
+single player     no
+cooperative:      no
+skills 0,1,2,3:   no
+deathmatch:       yes
+new sounds:       no
+new graphics:     no
+new music:        no
+
+================================================
+info
+                  This map was tested with a P ][ 333, 128mb SDram,
+                  Voodoo2 banshee 16mb graphics card in GLmode and with
+                  a P200, with 32mbram and in software mode. It ran fine 
+                  on both computers. The only problem I could see was that
+                  in nonGL mode, when you are standing at the very top of 
+                  the map looking down at the water when it has been drained 
+                  it seems to 'disappear' in strips.
+
+                  as always I would love some feedback on how this map played, 
+                  I would prefer praise but if you really hate it then I suppose 
+                  I don't really mind (sniff sniff).
+================================================
+construction
+
+base:           none
+editor:         WorldCraft
+other progs:    none
+know bugs:      none
+build time:     around a month (lots of playtesting!).
+
+================================================
+ THANKS:
+
+ Bobby Egg and Jonathon Hood for playtesting.
+
+ Radium for being such a cool damn site.
+
+ www.planethalflife.com/
+
+ www.planethalflife.com/Wavelength
+
+ 'http://www.half-life.gamedesign.net' for some cool articles etc.
+
+================================================
+Distribution and legal: 
+
+Copyright (c) 1999 Chris 'CYBERACiD' Izatt
+cyberizatt@hotmail.com
+All rights reserved.
+
+Portions copyrighted by Valve, Inc.
+This level may be electronically distributed only at 
+NO CHARGE to the recipient in its current state, MUST 
+include this .txt file, and may NOT be modified IN 
+ANY WAY. UNDER NO CIRCUMSTANCES IS THIS LEVEL TO BE 
+DISTRIBUTED ON CD-ROM WITHOUT PRIOR WRITTEN PERMISSION.
+
+================================================
+

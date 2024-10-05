@@ -1,0 +1,62 @@
+=========================
+  HL DM Map Spec Sheet
+=========================
+---General Information---
+Title 			: Frenzied Silo
+Version			: v1_0
+Filename		: silov1_0.bsp
+Author			: thMachine
+Email address 		: kellymi@jmu.edu
+Additional Thanks to    : YellowRM, Chef, [TYA], DOE for all the playtesting, Radium for 
+			  setting the standard to be strived for.
+Release Date 		: 6/7/99
+
+---Play Information------
+Map Description		: HL DM in an arena setting. Designed for fast paced play in a lan, 
+			  or internet setting.
+Recommended # of Players: 4-10
+
+---Map Information-------
+New Textures            : None
+New Sounds		: None
+
+---Construction----------
+Base			: None. Made from scratch.
+Editor(s) used          : WorldCraft 2.1
+Compile Machine		: P2-400 w/ 128 megs Ram
+Compile time		: 15 minutes.
+ 
+Here ya go kiddies, hopefully an arena with fast and furious action. One thing I've noticed 
+is that there does not seem to be very many good arena maps out. Trying to avoid falling into 
+that pit with this one. It's my first map so I'm still learning the aethetics of lighting and 
+how to keep r_speeds down, but at least for the r_speeds I think I did ok. They generally stay 
+under 200 or so for the most part and max out at around 720 or so and then only if you're 
+looking from a few isolated points. Egon, gauss, and hornet seemed like guns that'd either be 
+worthless or way too powerful for the hallways in this level, so they're not there. That and I
+personally think the egon's a little too powerful anyway, along w/ my deep hatred and scorn of 
+the hornet gun. 
+
+Keep your eyes peeled in front and behind you when you're playing this cuz I made sure people 
+could show up from both directions quite easily. Oh yeah, did I mention I hate campers? That'd 
+be why I tried to make sure there's no place you could think about camping. For those that are 
+interested, heed warning signs. If someone shows up in those cramped spaces I'm not going to be 
+responsible for the consequences. ;), hehe. And don't try hiding in the rpg safe. The door will 
+ensure agonizing and crushing pain for those that try. Weapons that are available include: 
+shotgun, machine gun, satchels, snarks, grenades, rpg, and crossbow. 
+
+Server op's should have weapon stay on when you play this. 
+
+---Copyright-Permissions--------------------------------------------
+This BSP is Copyright Mike Kelly 1999.
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You may not distribute this BSP without this file and the silo.txt file.  Unless it 
+is downloaded through a Half-Life game server using the autodownload feature.
+
+You may not, in any way distribute this BSP for finacial profit.
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission. Though if you ask I'll probably let you.
+
+Thank you for playing!

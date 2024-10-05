@@ -1,0 +1,37 @@
+* Play Information *
+Title 			: The Access Tunnels
+Filename		: access.bsp
+Author			: Will Pendleton
+Other lvls by author	: None at the moment
+Email address 		: boomer02@tamu.edu
+
+Description		: A military base in the mountains with access tunnels running 		              	          throughout and an underground "sewer". I got tired of working on this                            level and rushed to finish it. Don't get me wrong - it is better built                           than most any map out there and all the textures line up perfectly.                              It's a good map. I just got lazy :) I realize there are some things                              that could've made this map better (i.e. ambient sounds) but, as I                               said, I rushed to finish it. Besides that, my knowledge of half-life                             and worldcraft is limited.
+
+Additional Credits to   : All of the guys in Schuhmacher Hall - Deadbeat Ryan Hall, Kayne Stroup,                           Josh Rower for the excessive whining, Robert Vela for being the                                  sacrifical lamb, and Jeff Socha ("This is just like deer hunting!").                             GIG EM AGS!
+
+Single Player           : No
+Cooperative Player      : No
+Deathmatch Player       : Yes
+Difficulty Settings     : No
+New Textures            : No
+CD Track                : None
+
+* Construction *
+Base			: Scratch
+Editor(s) used          : WorldCraft 2.0
+Compile Machine		: AMD K6-350 w/ 128 megs of RAM
+Compile time		: A long time.
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels as long as credit is given where it is due.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS! If you don't cooperate, then DON'T DISTRIBUTE
+IT IN ANY FORM.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+Bad spawn spot fixed by ~X~

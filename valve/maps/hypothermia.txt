@@ -1,0 +1,69 @@
+================================================================
+Title                   : Hypothermia
+Filename                : hypothermia.bsp
+Author                  : cyrus258 
+Email Address           : cyrus258@skyweb.net
+icq #			: 32410694 
+Description  		: hypothermia is a HLDM map that has been in the works for about 8 months. and after MANY 			  attempts at making it perfect its just about there (well in my opinion). of course like 			  any map you can never truely be done but im done with this one, finaly =]=]
+
+
+Extra special thanks to all my buddies in H.o.H that helped me in my journey into completing this map and also thanks to scary_1 for looking into the r_speed problem (hey if the master said to leave it alone, then who am i to argue =] )
+
+H.o.H homepage		: http://www.havoc.midwest-t3.com/
+H.o.H public forum	: http://boards.gamers.com/messages/overview.asp?board_id=13887
+			  
+Other maps i made	: bandcamp (was my first and has its share of problems =] )
+maps in the works	: hypothermia for tfc (much differnt then the dm version), and two unnamed hldm maps that 			  are about 70% done
+
+================================================================
+
+* Play Information *
+
+Single Player           : No (one start)
+Deathmatch              : 10-16
+Difficulty Settings     : No
+
+* Construction *
+
+Base                    : from scratch
+Editor used             : Worldcraft 3.3 (well started using 2.0 =]) 
+Known problems          : two spots in the map have high r_speeds, they are not in the main game flow so you really 			  shouldnt feel any slowdowns, if your computer lags in those areas stay away =]...  
+			  if you play long enough the turret, lifts and fan may malfunction (hasnt happened for me, 			  ya never now )... some of the sky brushes act like solid brushes so any weapon fire that 			  hits it will explode at that point, i tried and tried to get that to stop, but hey this is 			  only the Halflife engine you cant expect everything =] ( no offence to the makers of the 			  engine or worldcraft =]=] )..
+stuff			: the rock that you can go under (you will know when you see it) in the area with the rocket 			 turret will explode, it will take about 2000 hit points but after it blows a snark pack 			 spawns (the only one in the map)... oh and you might want to stay away from that rock when 			 it blows!!!! =]  a few other rock and ice formations blow up too after a while, but nothing      			 spawns in its place...
+the files		: the Tree.mdl i got from OP4, i just renamed it from snowtree.mdl to tree.mdl to act as a 			  xen tree model replacement.. the sky texture i got from the Wadfather site (look for it on 			  planet halflife)
+secrets			: well it wouldn't be much of a secret if i told you =] but there is a seceret area
+
+============================================================
+
+to INSTALL this file just unzip the hypothermia zip file and copy the valve folder on top of your valve folder (dont worry nothing will get lost)... if for some reason that doest work put the files like this
+
+		sierra-
+			half-life-
+				  valve-	
+					maps-	
+					      Hypothermia.bsp
+					models-
+					      Tree.mdl
+					gfx-	
+					     env-	
+						 spa-snow (all the files with the spa-snow name)
+
+================================================================
+						
+
+
+* Permissions *
+
+You MAY NOT sell this sucker for money!
+
+If a magazine wants it on its CD - that's fine - *BUT* you *MUST*
+send me a copy. OK!! Then we are quits :) Email me ... I'm not impossible.
+
+General BBS use - sure, I don't have a problem with that.
+
+You MAY NOT alter or add to this level without my permission.
+
+* Last but not least *
+
+Please, please, please email me if you like this level, or if you would like to employ me. 
+

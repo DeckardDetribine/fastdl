@@ -1,0 +1,94 @@
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Title:			"Devious"       
+File name:		Devious.bsp
+Author:			Richard Haworth a.k.a."Devious" 
+E-mail:			rhaworth@cwcom.net
+Other lvls by author:	Insitu
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Singleplayer:		Just to check it out.
+Deathmatch:		Yes 
+Teamplay:		Yes
+Players:		6 - 12 players whatever takes your fancy
+Jumbot waypoint:        yes - place Devious.jrf in your Jumbot/wpfiles folder.(The bots tend
+                        not to use the high levels though,as with most maps)
+Information:		I've wanted to do an 'rocky' level for a while,I could of gone into                         more detail but I was battling the polygons and also hit the limit  
+                        with textures. 
+Weapons:                All the weapons are in.The gauss gun is a very handy gun to get
+                        to the high levels on the map but is hard to get as you can easily
+                        be killed trying.The egon can only be got with the gauss or easier
+                        still with the longjump.The hornet gun is in but very hard to get
+                        as to stop idiots using it all the time :) :)
+Known Bugs:             You can get caught on some of the rock edges.I tried to clip brush
+                        them but you just seemed to get caught on the clip brushes (Doh!)
+                        I used "bounce" as a comparison during development and that is the
+                        same so there you go..
+
+Prefabs:  Thanks to     Yak_fighter for the turrets.
+
+Special Thanks:		Valve for making the best game of all-time...Still :)
+			Karl Jones for his Handy vandals almanac (it got me through)
+			Planet Half-Life, Radium,Wavelength,Hornetking
+			PHL forums,Cheers everybody.
+
+                        The testers :Stan,Glen,Ste & Ste and busey and not forgetting 
+                        everyone @ work who severly bashes this map to bits on our lan @                            lunch.
+ 
+
+*Construction*
+
+Base:			From Scratch
+Editor Used:		WorldCraft 2.1
+Compile Machine:	PentiumII, 400MHz, 128MB RAM 16MB TNT
+Construction time:	Most of my free time in the last month.
+New textures:		No
+CD track:		No
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Installation
+
+To play this level, extract this file "Devious.bsp" into
+your sierra\half-life\valve\maps directory and then start the 
+game.
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+* Copyright / Permissions *
+
+Copyright 1999 Richard Haworth
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+Feel free to distribute this level, but ONLY if you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!! If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!! Just keep the two files together, okay?
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+If this level is issued on a cover CD all I ask is you send me a copy !
+
+Cheers !!
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Compile Stuff :
+
+qcsg  :        95 seconds
+qbsp2 :        82 seconds
+vis   :      2926 seconds
+qrad  :       827 seconds
+
+total bsp file data used: 2.91 MB
+
+Please E-mail me if you like the map or parts of it,It will encourage me to do better
+next time..  :)
+
+Off you go ...

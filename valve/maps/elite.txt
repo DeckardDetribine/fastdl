@@ -1,0 +1,111 @@
+=======================================================
+Elite: a Half-Life Deathmatch Experience by DocRock
+=======================================================
+
+Map Name:                       	elite.bsp
+Filesize:                       	4.7mb unzipped / 7.89mb unzipped
+Author:                         	DocRock
+Author email:                   	docrock64@cox.net
+Homepage:		http://docrocksmaps.homestead.com/docmaps.html                    
+wadincluded in map:          	elite.wad
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:                 	No
+Co-Op:                         	No
+Deathmatch:                     	Yes
+
+Suggested Players:             	5 - 10
+New Textures:                   	Yes 
+New Sounds:                     	Yes
+New Models:                     	No
+
+Map description:                	A Half-Life deathmatch map set in an elite space base.																			
+=======================================================
+CONSTRUCTION:
+
+base map:                       		None
+prefabs:                        		Gollum's Looping Ambient
+editor used:                    	 	Hammer 3.5
+utilities used:                 		Zoner's Half-Life compile tools, Paintshop Pro 7, Wally
+				Wally, Dragon Unpacker 	
+known bugs:                     		None
+compile machine:                		Intel Pentium 4   2.53 GHZ
+compile time:                   		20 minutes
+
+=======================================================
+INSTALLATION:
+
+1. 	Run Winzip and unzip elite.zip.
+
+2. 	Open the folder and place the elite.bsp, elite.txt and elite.res in valve/maps. 		  
+3.	Place the 6 (six) planet.tga files into your valve/gfx/env folder.
+
+4.	Place the wav file in a folder called elite and place that in your valve/sound 			folder.	
+	
+=======================================================
+OTHER LEVELS BY DOCROCK:
+
+kitkat_kasino
+squidsville
+kitkat_egyptian
+mario_air
+mario_killbox
+sandspyre
+kitkat_space
+greyscale
+kitkat_express
+
+=======================================================
+SPECIAL THANKS:
+
+To my babykitkat.  My world.  My LOML.  My Princess.
+
+BETA TESTERS:
+babykitkat
+ash
+SilentRunner007
+WaMpa
+CK
+
+OTHER THANKS:
+
+chalupamonk		planet skybox									http://planethalflife.com/atmosphere/
+
+ENIGMA			http://spiritdimension.com/music/enigma.htm
+			from the cd album "Screen behind the Mirror"
+			track 2 Push the Limits
+			Copyright 2000 by Virgin Records
+	
+=======================================================
+DOC'S NEXT MAP....COMING SOON:
+
+
+=======================================================
+COPYRIGHT STUFF
+
+elite.bsp                		copyright  Sept 1, 2003  by DocRock
+
+Authors MAY use this level as a base to build additional levels as long 
+as you give me credit in your read.me as using this map as a base to 
+build your level.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This map includes textures used in other Half-Life modifications as well as textures
+used in other PC games.  It is not my intention to steal these textures and use them
+for personal gain.  I use these textures because I think they are very well done and
+am honored to use them.  Please do not be offended that I borrowed your
+textures if you are the author of them.
+
+This LEVEL may be distributed ONLY over the Internet.
+
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+PLEASE PLEASE PLEASE email me with any comments about this map or any 
+of my other maps because I love feedback good or bad...and I will do my 
+best to answer any and all emails regarding my maps.

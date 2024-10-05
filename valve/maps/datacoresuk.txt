@@ -1,0 +1,50 @@
+
+================================================================
+Date                    : 7/18/01
+Title                   : datacoresuk
+Filename                : datacoresuk.bsp
+Author                  : sUk72
+Email Address           : suk72@netzero.net
+Home Page               : nope
+
+Map Description         : datacore with a twist,wanted to make a datacorex map
+ but i didnt know if 1 person was responsible for them,and i didnt want to step on his toes,
+ so i called it datacoresuk                          
+                           
+Other Works by Author   : nothing special
+
+Misc Author Info        : same
+
+================================================================
+
+== Play Information ==
+
+Single Player           : NO
+Cooperative             : might be a better teamplay map
+Deathmatch              : YES
+
+
+== Construction ==
+Base                    : datacore i guess
+Editor(s) used          : Worldcraft 3.3
+
+
+== Additional Credits to ==
+
+everyone at foundation and fuzzy animals servers
+                          
+== Installation Info ==
+BSP into the half-life\valve\maps directory. 
+
+
+==Copyright / Permissions==
+
+Authors MAY NOT use this level as a base to build additional levels 
+
+This map may be distributed ONLY on a "not for profit" basis using any medium.
+
+This map can only be distributed with this txt file
+
+This template is available from www.globalassault.com
+
+

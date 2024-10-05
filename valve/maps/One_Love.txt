@@ -1,0 +1,14 @@
+One Love
+======
+
+By Andrei (Gua) Vincevich
+vints@svitonline.com
+http://hlmapper.nm.ru/ - My webpage. 
+
+I've set myself a goal to create a map on opened landscape for massive battles, and I succeeded.
+
+This includes a few custom textures; these are compiled in the actual BSP file.
+
+This map and other maps of mine are available at http://hlmapper.nm.ru/maps/
+
+Release date: August 3, 2003

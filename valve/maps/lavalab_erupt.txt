@@ -1,0 +1,15 @@
+Level Details
+Title: LavaLab
+Version: 1.21
+Release Date: May 22, 2005
+Get It At: LavaLab
+Readme: lavalab.html -- the file you are reading now.
+Variants: LavaLab (lavalab.bsp; 23 spawn points)
+LavaLab: Erupt (lavalab_erupt.bsp; 14 spawn points) (see 'Why are there two BSP files?')
+Author: Peter Jones
+Contact: Contact Pete
+Website: Pete's Place :: Mapping
+
+LavaLab: 'Erupt' (lavalab_erupt.bsp) is a smaller, faster paced, more claustrophobic version, probably more suitable for 2-6 players, and is likely to appeal to your inner berserker. All external areas are gone, sealed off when the volcano erupted and encased the entire lab in molten rock. No sniping (well, not much sniping.) Just raw, visceral action.
+
+see lavalab.txt

@@ -1,0 +1,94 @@
+================================================
+   Half-Life Map Spec Sheet
+================================================
+
+
+------General Information--------------------------------------------
+
+Title		: Odyssey
+Release Date	: 5th March 2001
+Filename		: odyssey.bsp
+Author		: Peter Manson
+Email Address	: peter@mickeymurphy.freeserve.co.uk
+Home page	: (coming soon )
+Description	: Large spacey arena
+Previous Maps	: (1) Enders_game
+		  (2) Rohan
+		  (3) Rohan2
+		  (4) First_arena
+		  (5) Twin
+                                      (6) X-flight
+		  (7) Fling
+		  (8) Cube-x
+------Map Information------------------------------------------------
+
+New Textures	: Yes 
+Missing Weapons	: gauss / egon / hornet / hand-gernade / magnum 
+Secrets		: none 
+Prefabs		: none
+File Size		: 2,045 KB (unzipped)
+Known bugs	: when a player falls out of the level they explode, = fine.
+		  but, if the player dies, then falls out of the level, their body
+		  will be visible on the bottom of the sky box. 
+		  "there was no way around this problem"
+
+------Construction---------------------------------------------------
+
+Base		       : From scratch.
+Programmes used	       : WorldCraft 2.1
+		         zoners  v.242	
+		         HLCC   v.131
+Compile Machine	       : Pentium 2,  384 ram
+Construction time	       : 1 week
+Compile time	       :  about 50 minutes
+
+
+------Map Instructions-----------------------------------------------
+
+Unzip this file and place "odyssey.bsp"  into 
+your half-life/valve/maps directory.
+
+
+----------------------------------------------------------------------------
+------Additional info--------------------------------------------------
+
+This map is meant to continue the theme of cube-x, but looks quite different.
+
+I made a total of three versions of this map in an attempt to lower r_speeds
+and this final version is a huge improvement - but still probably best played on lan. 
+
+I almost decided not to release this map due to its bad r_speeds, but with an
+open plan map such as this there is not much you can do to prevent it from having 
+problem r_speeds. --- the next map will play better, promise =}
+
+game-play features: 
+try throwing snarks into the teleporter to get people on the other side.
+the light beam in the center acts as a health charger when you stand in it.
+the go fast pads in the hallway send you flying if you jump at the right moment..
+
+
+
+------People who deserve a Thank-you-------------------------------
+
+
+Karl Jones:  ( for his great tutorial almanac)
+    http://www.karljones.com/halflife/almanac.asp
+
+I would also like to thank all the people out there who run, and maintain mapping sites.
+I don't think most people realise how much time and effort is put into keeping these
+site's up to date.
+
+
+-------COPYRIGHT-PERMISSIONS------------------------------------------
+------------------------------------------------------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------

@@ -1,0 +1,9 @@
+maps/kotc.txt
+maps/kotc.bsp
+maps/kotc.res
+gfx/env/sb_bk.tga
+gfx/env/sb_dn.tga
+gfx/env/sb_up.tga
+gfx/env/sb_ft.tga
+gfx/env/sb_lf.tga
+gfx/env/sb_rt.tga

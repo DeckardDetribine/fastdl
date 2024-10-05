@@ -1,0 +1,63 @@
+=====================================================================
+      A_REFLEX  :  A MAP FOR HALF-LIFE DEATHMATCH
+=====================================================================
+
+----General Info-----------------------------------------------------
+
+Title		: AUTOMATIC REFLEX v.03
+Filenames	: a_reflex.bsp ; a_reflex.txt
+Author		: Tom "Exodus" Black
+E-Mail		: thomas.black1@virgin.net
+Description	: Towering in the black of night, this is an old,
+		  abandoned arena.  Built in the dark times for the 
+		  hunting of both man and beast...  Now the games 
+		  begin again, and even those new to the arena will 
+		  find their trigger reflex, "Automatic"...
+
+----Play Info--------------------------------------------------------
+
+Single		: No
+Multi		: Yes
+Players		: 6-16
+
+x  This map is intended to be played with falling damage set to 
+   "Realistic", that's why the lifts have two buttons and there are 
+   massive doors in the train tunnel. On that note, a torch could 
+   come in handy too.
+x  Try jumping inside things, maybe to hide - maybe to get at hidden 
+   goodies.
+x  There is no Hornet in this arena. Or, you'll be mildy interested 
+   to know, in ANY of my maps, so there. 
+   E-mail if you want a longer rant...
+
+----Construction-----------------------------------------------------
+
+Base		: Scratch
+Editor		: WorldCraft 3.3; Zoner's Tools.
+
+Compile Machine	: P4 2.0GHz, 256Mb SDRAM
+
+x  I sincerely apologise for the crates - contact me if you've got a 
+   better idea...
+x  This map was inspired by Quake II's Lost Station, although I have 
+   meandered a bit in between there and here...
+
+----Installation-----------------------------------------------------
+
+Stick the two files in the ..\half-life\valve\maps\ directory
+
+----Coming Soon!-----------------------------------------------------
+
+If I can get my head round the entities, op4ctf_a_reflex should be an
+interesting theme on the ctf concept - your team must hold the train 
+as it makes it way around the map, holding off ambushes from the 
+opposing force.
+
+----And Finally...---------------------------------------------------
+
+If you like my work then contact me and say so - praise gets you more
+maps in less time.  If you want to take this material and use it for
+your own machinations then tell me and credit me - or else I'll come
+and stick a batch of snarks where the sun don't shine...
+
+----End of Transmission----------------------------------------------

@@ -1,0 +1,10 @@
+MAPNAME:         tehhammre.bsp
+SINGLE PLAYER:   Yes
+DEATHMATCH:      Yes
+CUSTOM TEXTURES: No
+CREATED WITH:    Worldcraft 3.3, Zoner's HL Compiler Tools
+OBJECT OF MAP:   Kill all the baddies, which will allow you to see your reward!
+OTHER:           Used "Mazemaster"'s Random Event Generator idea to sequence the doors up/down at random.
+                 There are 8 random trigger events, with around 10 doors per trigger, triggering 40 doors.
+
+AUTHOR:          synntaxus@yahoo.com

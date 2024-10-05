@@ -1,0 +1,48 @@
+------General Information--------------------------------------------
+
+Title		: CrateMaze
+Filename	: funny_cratemaze.bsp
+Author		: Andrew Weldon
+Author Email	: falcon_x32@yahoo.com
+Description	: 100% pure snark-bashing fun!
+Previous Maps	: dm_phl -- Planet Half-Life HQ
+
+------Credits and Thanks---------------------------------------------
+Valve Software for Worldcraft and a great game that continues to improve on a near-daily basis
+Leperous and the Snark Pit for the contest that I hope this will win.
+
+
+------Play Information-----------------------------------------------
+
+Deathmatch	: Deathmatch inDEED! As in, a match with deathing and whatnot.
+Single Player	: no
+Map Description	: A maze of large red and blue crates; players spawn with 100 hev charge, a crowbar, and 15 snarks.
+8-16 players recommended
+
+------Map Information------------------------------------------------
+
+New Textures: The blue crate texture from OpFor (I ran a -wadinclude for the non-OpFor endowed among us)
+New Sounds  : nope
+
+This map was created for the Snark Pit's Funny Map contest. Hope it wins. :) 
+------Construction---------------------------------------------------
+
+Base		: scratch
+Editor(s) used	: Worldcraft 3.3
+Compile Machine	: AMD Athlon 800, 192 mb RAM.
+Build time	: about 3 days
+Compile time	: 5 minutes
+Playtest time	: a few hours
+
+------Map Instructions-----------------------------------------------
+
+Unzip "funny_cratemaze.bsp" into your valve/maps/ directory.
+
+
+This map is (c) 2001 Andrew Weldon. Enjoy.
+
+Andrew Weldon's map making "talents" will return in one of the following: 
+cs_tower (working title: "13th Floor Assault") OR
+de_silo -- Silo 35			       OR
+ca_trispace -- TriSpace Crowbar Arena	       OR
+dm_install -- The Installation (hopefully the map is better than the title)

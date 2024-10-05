@@ -1,0 +1,50 @@
+================================================================
+Title                   : Checkmate
+Filename                : checkmate.bsp
+Author(s)               : Steven 'EraserX' Delrue
+Email Address           : steven.delrue@rug.ac.be
+Web Page                : http://ingenuity.terrafusion.com
+Description             : Deathmatch
+Other levels by author  : Come Out And Play! (coap.bsp)
+
+================================================================
+
+--- Play Information ---
+Game                    : Half Life
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Known bugs              : None
+
+
+--- Construction ---
+Editor(s) used          : QOOLE
+Base                    : From scratch
+Construction Time       : about 4 weeks
+
+
+Installation
+------------
+Unzip checkmate.bsp to c:\sierra\halflife\valve\maps and start a DM-game
+
+
+Gameplay Tips/Notes
+-------------------
+*The egon is placed behind an electric field.  You can turn down the generator in the middle of the level which
+will deactivate the field.  You have 18 seconds to get to the egon before the shield goes up again.  
+*You have to 'crouch jump' up to the little crates (jump, and then hold crouch)
+*There are no secrets in this DM-level.  (secrets in DM-levels suck, imo)
+*There is no Rocketlauncher and Hornetgun, but the gauss is there (you'll have to do some little crate-jumping, tho)
+
+
+Copyright / Permissions
+-----------------------
+You MAY distribute this level through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.
+
+You MAY NOT put this level an a commercial CD without my permission or distribute
+it in any commercial way.

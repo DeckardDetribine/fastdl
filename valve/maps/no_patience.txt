@@ -1,0 +1,99 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		:No_Patience
+Filename	:no_patience.zip
+Author		:Jon Rickenbacker aka [DRS]Orpheus
+Home page	:www.drs.purespace.de
+Email           :orpheus@cox-internet.com
+ICQ             :34917705
+Description	:new Halflife DM map using custom textures.
+Previous Maps	:deja_vu_2, op4_false_accretion, false_accretion, thrasher, deja_vu
+                :team maps with others- apex_v2,apex,club_drs,unity_9
+
+------Personal Thoughts----------------------------------------------
+Before I began this map I had unofficially retired, with the lack of newness to a tired game Halflife had lost its appeal to most of the world and for this I am saddened, BUT with the advent of new and more powerful machines certain mappers started to produce maps of astounding quality, BUT a few of these mappers drifted away from the old standards of quality maps with lower r_speeds, so I set out to prove that you can make a very detailed map and retain r_speeds of less than the set standard of 800 and thanx to some very helpful companions I did just that. this map is dedicated to all the mappers out there, past and present, who will take the time to maintain lower r_speeds and still produce high quality.
+
+------Credits and Thanks---------------------------------------------
+[DRS]Doomdog,[DRS]Reaper,[DRS]Misery,[DRS]Aenima,[DRS]Zeddicus,[DRS]Major_Malfunction,[DRS]Yak_Fighter, [DRS]Alien_Sniper, [DRS]Lightburner, [DRS]Hullu, [DRS]Tupa - play testers and detailist extraordinare.
+Mikee at planethalflife.com for his in depth and timely commentaries.
+Leperous at planethalflife.com and the snarkpit for his insights.
+all the gang at the snarkpit forums (http://www.planethalflife.com/snarkpit/forums/), Reno, Andrew Weldon (Kungfu Squirrel), Neppi, OBZ, Gollum, Supercrazy for their insights and most of all.. SOLVING THE R_SPEEDS.
+all the gang at PFL (http://nin64.com/prefabland/forums)Reedbeta,Biomechanoid, lj,MadJon, ect.ect :-)
+Panic at planethalflife.com
+the Hanging Judge
+K8
+wadfather at planethalflife.com/wadfather
+of all the custom textures I used ONLY ONE person contacted me in response of notification that I was using their textures, to Kevin "Painter" Hill this ones for you.
+Mustang at http://www.globalassault.com
+Cronic at http://www.planethalflife.com/biohazard/
+worldcraft - the best editor ever
+HLCC - the best compiler front end EVER
+Wally - without whom no customs textures.
+Zoners tools - hmm wow about sums it up nice.
+Valve software - for which there would be no map.
+Impellios and his playtesters at PHL forums.
+a special thanx to my family ( Brenda and Jarrod ) here on the home front for the patience I didn't show while making this map.
+
+if for some reason i forgot to mention anyone i am truly sorry, so many helpped with the production of this map i just couldn't remember them all.
+
+------Play Information-----------------------------------------------
+
+Deathmatch	:yes
+Single Player	:no, but has a sp player start (use it yo look around)
+Map Description	:hmm this is a tuffy, ahem, you decide.
+How Many Players:4 to 6
+
+------Map Information------------------------------------------------
+
+New Textures	:yes
+New Sounds	:no
+Solids          :1181 with 7169 faces
+Weapons         :357-1,AR-3,crossbow-1,guass-1,gernade-2,satchel-5,shotgun-2,snark-2,tripmine-5
+Ammo            :357-3,AR-7,ARclip-2,ARgernade-8,buckshot-4,crossbow-6,guassclip-5
+Items           :Playerstarts-9,batteries-4,healthkits-3,Longjump-1,suit chargers-2,health chargers-2
+Textures        :78 stock and 105 customs
+prefabs         :firetrap - [DRS]Doomdog and andrew weldon  
+                 steamlift- reno
+                 random firebursts - reedbeta
+------Construction---------------------------------------------------
+
+Base		:from scratch
+Editor(s) used	:worldcraft 3.3
+Compile Machine	:k62 400 224 ram
+Compile time	:HLCSG - 65.09 seconds elapsed [1m 5s]
+                 HLBSP - 33.50 seconds elapsed
+                 HLVIS - 411.61 seconds elapsed [6m 51s]
+                 HLRAD - 3768.76 seconds elapsed [1h 2m 48s]
+                 all set to the maximum settings i know.
+
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "no_patience.bsp" in
+your half-life/valve/maps directory.  
+
+------Additional Info------------------------------------------------
+
+This template is "NO LONGER" available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+(with all the custom textures used i feel it best not to, sorry.)
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+
+November 28,2001
+Dirty Rotten Scoundrels
+[DRS]Orpheus

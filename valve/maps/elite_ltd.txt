@@ -1,0 +1,59 @@
+=======================================================
+Elite_LTD: a Half-Life Deathmatch Experience by DocRock
+=======================================================
+
+Map Name:                       	elite_ltd.bsp
+Author:                         	DocRock
+Author email:                   	docrock10@hotmail.com
+Release date:		June 25, 2018
+              
+wadincluded in map:          	elite.wad
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Map description:                	A Half-Life deathmatch map set in an elite space base.																			
+=======================================================
+CONSTRUCTION:
+editor used:                    	 	Hammer 3.5
+utilities used:                 		Vluzacn's 64 bit compile tools
+				Paintshop
+				Wally
+				Half-Life model viewer
+				Goldwave	
+compile machine:                		Windows 10 Shuttle R8
+				Intel(R) Core(TM) i7-7700K 4.20 Ghz 
+				64.0 GB RAM Quadro GeForce 
+				
+compile time:                   		1 minute
+=======================================================
+INSTALLATION:
+
+1. 	Run Winzip and unzip elite_ltd.zip.
+
+2. 	Open the folder and place the elite_ltd.bsp, elite_ltd.txt and elite_ltd.res in valve/maps. 
+		  
+3.	Place the 6 (six) planet.tga files into your valve/gfx/env folder.
+
+4.	Place the sound folder: elite_ltd in your valve/sound folder.	
+
+5.	Place the sprite folder: elite_ltd in your valve/sprites folder.
+	
+=======================================================
+SPECIAL THANKS:
+
+To my babykitkat.  My world.  My LOML.  My Princess.
+
+BETA TESTERS:
+babykitkat
+
+
+OTHER THANKS:
+
+chalupamonk		planet skybox	http://planethalflife.com/atmosphere/
+
+ENIGMA			http://spiritdimension.com/music/enigma.htm
+			from the cd album "Screen behind the Mirror"
+			track 2 Push the Limits
+			Copyright 2000 by Virgin Records
+	

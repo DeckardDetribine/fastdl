@@ -1,0 +1,58 @@
+===========================CLIFFS==OF==DEATH============================================================
+
+Release Date            : 19/09 2002
+Map Title               : Cliffs of death
+Filename                : CLIFFD.bsp
+Author                  : Jonas Ek aka Kermit_
+Email Address           : pej.ek@telia.com
+ICQ#			: 
+Home Page               : http://kermit.leveldesign.nu/
+
+Map Description         :  Small cliff deathmatch, plays well with 4 players. The action is on some 
+			   cliffs high up in the sky, don´t fall down. ;)
+
+
+Other Works by Author   : flf_trainstation, hldm_metro 
+			  			 
+
+Misc Author Info        : 
+
+=======================================================================================================
+
+== Play Information ==
+Single Player           : no
+Cooperative             : no
+Deathmatch              : yes
+
+== Construction ==
+Base                    : built from scratch
+Editor(s) used          : worldcraft 3.3
+
+== Build Machine ==
+			: p4 1.9 ghz 512 ram 
+
+========================== Comments on Storyline/Inspiration ==========================================
+
+I did have the the part in half-life when your where on a cliffside as a insperation.
+The map was built onley in a few days, and I thought about making a small cliff map that whould 
+be fun to play with your friends. nothing spectacular with this.
+
+========================== Playtesting & Special Thanks ===============================================
+	
+The costom sky is made by Dash 	(http://www.planetquake.com/dash/)
+and the trees are from jake 	(http://www.halflife.nu/jake/)
+
+
+================================== Installation Info ==================================================
+
+Install everything in your half-life dir
+
+==================================Copyright / Permissions==============================================
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+This map may be distributed ONLY on a "not for profit" basis using any medium,
+provided this file is included with no changes.
+Magazines and other published media may use my level provided they ask for my permission.
+Template are from www.globalassault.com
+======================================================================================================

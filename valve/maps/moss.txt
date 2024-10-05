@@ -1,0 +1,48 @@
+MM     MM   OOOOO    SSSSSS  SSSSSS
+MMM   MMM  OOO OOO  SSS     SSS
+MMMM MMMM  OO   OO   SSSSS   SSSSS 
+MM MMM MM  OOO OOO      SSS     SSS
+MM  M  MM   OOOOO   SSSSSS  SSSSSS
+
+--MOSS--
+http://www.geocities.com/santagauss
+santagauss@yourmom.com
+
+Install:
+place moss.bsp, and moss.res
+in ...Half-Life/valve/maps
+place moss.txt, and moss.bmp
+in ...Half-Life/valve/overviews
+
+
+
+
+A map for halflife and opposing force.
+
+This is moss it has many very interesting features. It is too much to get into them all you will have to really explore this map and think beyond the obvious. I did alot with clip planes to make some things easier, and guide players flying aroud the map.  there are only a few weapons in the map that require anything more then what you spawn with a they might need either the long jump or the tau, or the SAW/m249 if you are in opposing force.  You will probably be impressed at where you can go with a longjump, but you will be amazed at what you can do without one.  
+
+Over on the sniper tower is a spawn point in the bottom are mines. Which would normally mean spawn mining, but i am trying a new technique to stop that so please by all means try to mine the sniper tower spawn point. It should not work to well. There are a couple things where a jumping up on a team mate will help to get them faster, if you are without tau. 
+
+The gluon/egon may be hard to get at first it requires only the tau and a little skill. Its in a area inside nearest the only tau that is outside. you need a tau to get it.  
+
+I really put alot of time into making way to climb up to the upper parts of the map the only thing you must have a tau for is the typing loft and the gluon. so anything else you see start jumping on hev machines boxes ledges fences any thing they all have a purpose almost nothing in this map is just for looks.  
+
+most all the smaller doors have longjump ramps on the sides so you can get up more things but it may take some getting used to to use these so give them some practice. 
+
+The map is about the size of bootcamp, but more complex. 
+
+I just dont feel like doing a good job supporting this map for my own reasons so im really sorry i havent done much in this readme there is a ton to the map just get in there and look around.  
+there are 2 pics in this zip that show an overview.  I might make a demo of ways to get around and how to get stuff some day i dont know though. It will be on my site if i do.  
+
+Also there is a loc file for your ag/locs, and or aghl/locs folder if you play ag mod
+
+and there are 2 zip files valve.zip and gearbox.zip which have the teamplay binds as well as my configurations in them. so if you want to use those or edit them go ahead.  unzip them to the valve and gearbox folders. and then type "exec autoexec.cfg" in the console to get them working you may want to switch your congigs to the default ones first.  press uparrow to set the binds for different maps.  you are going to want developer 1 variable set too. 
+
+NOTES
+3 tau cannons/gauss
+3 longjumps
+1 egon/gluon
+no beegun
+and a bunch of other junk
+
+No unauthorized reviews. 

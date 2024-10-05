@@ -1,0 +1,10 @@
+AGM_Orbit
+
+AG Merkezi için Nurglew tarafýndan hazýrlanmýþtýr.
+Yüklemek için, dosyalarý "Valve" adlý klasörün içine yerleþtirin.
+
+
+map made by - Nurglew
+textures- Nurglew & Natural Selection
+
+contact: nurglew99@gmail.com

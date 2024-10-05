@@ -1,0 +1,65 @@
+First the description. Does anyone really care about compile times?
+
+Obvioulsy this is a lab type environment duh?
+This lab does testing with lasers and also has Xeno plants for observation purposes.
+The Xeno plants were brought back from a far away planet...............
+Some of these plants are dangerous and they are clearly marked so watch out.
+There are a few tricks/traps that a player can get into, lasers, snarks and electricity.
+There is also one hidden elevator that leads to the rocket launcher. There isn't a guass or
+egon/gluon, whatever u call it, in this level, they would be far too effective.
+
+This level was designed with fast game play in mind. You should not have any trouble finding a weapon
+or killing/gettin killed in this level. There is quite a bit of health and armor to go around as well as weapons and ammo.
+There are also other things that players have to look out for as they battle, lasers and Xeno tree.
+This level should be a blood bath with some strategy as well, I hope.
+There are some parts I had to cut back on details due to r_speeds, so some of this level isn't as pretty as I had wanted to be. :-(
+
+My last level, Spider, was built more for some sniping and strategy with larger areas. This one has a number of smaller rooms
+along with some larger ones.
+
+I think this will be my last level for a while, I have other maps thingys goin on, unless you guys email me and tell me this
+level ROCKS then I will have to build another :-). Hint Hint.............
+
+I have recieved a number of people asking for help on map making. I am by NO means an EXPERT, that is Steve the bum :-), but
+I am happy to help out any way I can and I will give sample rmf files as well, this stuff can be very frustrating, so drop a line if ya want.
+
+Be sure to look for the button near the small laser and watch out for the health charger :-) MEAN.
+Later
+Jeff
+
+ARE THERE ANY OTHER COMPILERS OUT THERE????
+
+================================================================
+Title                     	: DeathLab
+Date                     	: Feb-99
+Filename             	: DeathLab.bsp
+Author                  	:  Jeff Meyer (Jammer)
+Email Address    	: jmeyer@austin.rr.com
+Other Level: 	: DMJCntrl, Spider.
+	
+Thanks:		1. Again my wife and family of course :-)
+		2. As always Steve "Scary One". Still the one to beat and I am tryin, without success
+		3. To the crew at Radium and to Autolycus at gamedesign. These guys are puttin a lot of effort into helping us out.... THANKS
+		4. To those of you that have emailed me with comments on my other levels. It is GREATLY appreciated and motivating.
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Deathmatch              : Yes
+Difficulty Settings     : No
+
+================================================================
+File goes into the maps dir under Half-life\valve
+
+================================================================
+
+* Construction *
+
+Base                    : New
+Editor(s) used          : Worldcraft 2.0.
+Known Bugs              : None that I know of.
+
+
+* Permissions *
+Don't take credit for it that is about all.

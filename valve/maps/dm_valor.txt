@@ -1,0 +1,66 @@
+===Map Info
+
+	Title		: Valor
+	Filename	: dm_valor.bsp
+	Author		: Andrew Weldon
+	E-mail		: aweldon2@bigred.unl.edu
+	Website  	: http://awmaps.tripod.com
+	Description	: 4-8 player HL Deathmatch
+	Previous Maps	: dm_phl -- Planet Half-Life HQ
+			  funny_cratemaze -- CrateMaze
+			  dm_zeta -- Zeta Sector (HL DM)
+			  op4_zeta -- Zeta Sector (Op4 DM)
+			  dm_phreneticism -- Phreneticism (HL DM)
+			  op4_phreneticism -- Phreneticism (Op4 DM)
+			  dm_sectora -- Black Mesa: Sector A
+			  op4ctf_wormhole -- Wormhole
+			  dm_rep4 -- Repair Bay 4 (HL DM)
+			  op4_rep5 -- Repair Bay 5 (Op4 DM)
+
+===Credits and Thanks
+
+	Valve Software
+	Gearbox Software
+	WhiteBlaizer, textures (whiteblaizer@hotmail.com)
+	Nick "Crinity" Coombe, skybox (http://www.planethalflife.com/crinity/)
+From the Snark Pit:
+	[DRS]Orpheus
+	Mikee
+	ReNo
+From the Valve ERC (#valveerc IRC channel):
+	CayleG
+	GoldenShadow
+	Gonnas
+	Merl
+	Roadkill
+	Supercrazy
+	Zypher
+	
+	
+
+===Other Info
+	New Textures: Most textures by WhiteBlaizer (see address above)
+			Remaining custom textures created/modified by Andrew Weldon
+			"Desert Dusk" sky map by Crinity (see address above)
+	New Sounds  : nope
+	Prefabs     : none
+
+==Construction
+
+	Base			: scratch
+	Editor(s) used	: Worldcraft 3.3
+	Compile Machine	: AMD Thunderbird 1.33 gHz, 512 mb RAM.
+	Build time		: 22 days
+	Compile time		: ~7 minutes
+
+==Map Instructions
+
+	Unzip the contents of this zip file into your Half-Life directory. The zip file should then place all files in the appropriate locations. If you have "Use folder names" disabled, place dm_valor.bsp and dm_valor.txt into your /valve/maps/ directory.
+
+This map is (c) 2001 Andrew Weldon. Enjoy.
+
+Andrew Weldon's map making talents will return in the following:
+	Helix -- Opposing Force Capture the Flag
+	Repair Bay 6 -- Opposing Force Capture the Flag
+	Gauntlet -- Opposing Force Capture the Flag
+	Shadowed Menace -- Natural Selection

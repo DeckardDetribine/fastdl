@@ -1,0 +1,95 @@
+===============================================================================
+Title                   : Xenophobia (revised)
+Filename                : Xenophobia.bsp (first release was named Xenoph.bsp)
+Version                 : 10/04/99
+                                      
+Author                  : Thedd
+Email Address           : Theodor.Nilsson@home.se, please send me feedback on
+			  this map.
+
+Other levels by author  : This is my first released map.
+
+Description             : Xen & real-world. Gravity is 0.8 of normal gravity.
+
+			  The device in the test chamber is a teleporter.
+			  Hit the yellow button in the control room, run into
+			  the test chamber, stand in the teleporter (with the
+			  yellow beams, which are completely harmless), and 
+			  hope that someone doesn't hit the red button...
+			  the teleporter will transport you to the egon.
+
+			  The yellow pool is a health recharger.
+
+			  Shoot the xen net in the cave to release the seven
+			  midg... sorry, snarks.
+
+			  Lastly, turn the handles on the blue pipe or the 
+			  rusty cylinder to trap people who are going for the 
+			  crossbow and the sniper tower.
+
+			  The RPG is located in the crate on top of the cargo
+			  container.
+			
+			  r_speeds should be fine for most systems.
+
+Included weapons	: 2 shotguns, 2 mp-5's, 1 hivehand, 1 crossbow, 1 .357
+			  magnum, 1 egon, 1 rpg, some satchel charges, a few 
+			  handgrenades, and a bunch of snarks.
+
+Revision changes 	: I've improved item placement, and made the fire trap 
+			  more effective. The sniper tower is no longer 
+			  accessible from the hallway when the fire is on. 
+			  Also, you can't see the Egon from the sniper tower 
+			  anymore. One mp-5 has been added, I've reduced the 
+			  amount of handgrenades and satchel charges, and the 
+			  jump module has been moved to a better spot, making 
+			  the RPG a bit easier to get.
+
+			  I've made a few architectural changes to reduce w_polys,
+			  connectivity has been increased a bit.
+			  I happened to read a "natural terrain" tutorial at RUST,
+			  so the Xen areas look more organic now.
+
+Thanks to               : Evilchild for the "Xen Altar" prefab and his DoE site,
+			  the testers at DoE for tips & feedback.
+			  If you are a mapper, or want to help testing user-made
+			  maps, I strongly suggest you pay 
+			  http://halflife.lowlife.com a visit.
+===============================================================================
+
+* Play Information *
+
+Game                    : Half-Life
+Single Player           : No (1 single player start though)
+Deathmatch              : Yes, 8 spawn points. Suitable for 4-8 players.
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Monsters            : No
+New Demos               : No
+New Models              : No
+
+* Construction *
+
+Base                    : From scratch, except for the "Xen Altar" (see "Thanks 
+			  to")
+Editor(s) used          : Worldcraft 2.0
+Known Bugs              : ...no
+Build Time              : Ask my girlfriend.
+Compile Time            : About two hours.
+Installation		: Unzip Xenophobia.zip into your half-life\valve\maps 
+			  dir.
+
+
+* Copyright / Permissions *
+
+This level is (c) by Theodor Nilsson 1999.
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD 
+or any other electronic medium that is sold for money without my explicit
+permission! My e-mail adress is available at the top of the page.
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MAY distribute this BSP through any electronic network (internet, 
+FIDO, local BBS, provided you include this file and leave the archive 
+intact.

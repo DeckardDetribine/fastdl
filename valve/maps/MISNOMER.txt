@@ -1,0 +1,80 @@
+Title 			:MISNOMER
+Filename		:MISNOMER.bsp    
+
+Author			:DJ_HOTROCK
+
+Email address 		:DJ@beverley92.karoo.co.uk
+
+Website 		:HTTP://www.angelfire.com/ok3/djhotrock
+
+Description		:Its a kinda indoors storage facility,  And its a bit different.
+                         my dad likes it (we play it on lan)....It has been playtested and revised.
+
+
+Type                    :ITS deathmatch
+(DM, SP, TFC, TF2)
+
+Status                  :This is a final version
+
+Machine used to build   :amdk62/333, 64 meg ram, voodoo2 12meg,
+
+Compile time            :1hr 49mins
+
+Platform                :Win98
+
+Editor                  :WC 2.1
+
+
+
+
+----------------------
+   ADDITIONAL INFO
+----------------------
+This is a kind of indoor storage facility with a good slime trap and many areas.
+It has every weapon but i tried to make the beegun and egon a little harder to get.
+This map was called felony but i changed it to misnomer thanks to testers advice,
+I have worked on all the advice i recieved from the testers. 
+The weapon placement may or may not be good...i had no server for another playtest.
+
+I am ready to get on with Datablast and my website now.
+Check out my site for a look at the beta shots of current projects.
+HTTP://WWW.angelfire.com/ok3/djhotrock
+This is my site.
+
+
+----------------------
+  Credits
+----------------------
+
+I would like to thank the guys at the DOE theryre a big help and i appreciate thier time,
+QS helped a lot on this one ...
+I would also like to thank the man who playtested my first map and gave me a review....
+that was fantastic and i liked the review but i had a system crash and lost it
+and also lost a map i was making and i forget your name (sorry). You know who you are ...
+just give me a mail so i can give you the thanks you deserve.
+And also Richard Rice for his forklift prefab that i edited to my own design 
+to save time building my own.
+
+This map is is a final version and i dont think i will edit it any more
+so comments are now useless but welcome nevertheless.
+
+
+Finally thank you for downloading my map.
+
+Peace the dj
+
+-------------------------
+Copyright / Permissions
+
+-------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+

@@ -1,0 +1,112 @@
+ _   _                       
+| | / /  _                   
+| |/ /  (_)  _  __     ___ _ 
+|   <    _  | \/  \   / _ | |
+| |\ \  | | |   _  | | |_|  |
+|_| \_\ |_| |__/ \_|  \___  |
+                       _  | |
+		      \	\_/ /
+                       \___/ 
+
+=========================
+
+=========================
+--General--
+
+Name: ShotCross
+Author: Alex "King" Smith
+BSP: shotcross.bsp
+Build Time: 3 weeks
+Date: 4-3-01
+=========================
+
+=========================
+--Installation--
+
+The file shotcross.bsp goes into your ...valve\maps\ folder
+The file shotcross.jrf you only need this file is you want to play with Phineas Bot,
+if you have that then put this in your ...\phineas\wpfiles\ folder then the bots will
+be less dumb.
+=========================
+
+=========================
+--Files in this zip--
+
+shotcross.bsp - the map file
+ShotCross-readme.txt - the file you are reading now
+shotcross.jrf - a waypoint file for phineas bot Created by Scary Jeff (scary_jeff@phl)
+=========================
+
+=========================
+--Contact--
+
+Web Site: http://kingsmaps.freeyellow.com
+E-Mail: kingslc15@yahoo.com
+=========================
+
+=========================
+--Play Info--
+
+Game: Half Life
+Level Name: ShotCross
+Single Player: No
+Cooperative: No
+Deathmatch: Yes
+Difficulty Settings: No
+New Sounds: No
+New Textures: Yes
+=========================
+
+=========================
+--Programs used--
+
+WorldCraft 3.3
+Notepad
+Adobe Photoshop
+Wally
+=========================
+
+=========================
+--Textures--
+
+The ass picture, the road sign, the King sign, and the beta shot were created by me
+The rest of the custom textures were created by Mighty Pete (undule@home.com)
+=========================
+
+=========================
+--EXTRA Special Thanx--
+
+James "Falco" Comeford - Beta Tester
+Matt "Old Man" Anderson - Beta Tester
+Lee "RougeFury" Anderson - Beta Tester
+Scary Jeff -  Made the jrf file
+Mighty Pete - Made most of the custom textures
+Valve - Made half-life
+=========================
+
+=========================
+--Quick FAQ--
+
+Q: Are there any secerets on this map?
+A: Yes, there is an ass with king's maps written on it and there is a picture of my friends' beta testing the map.
+
+Q: Not much health eh?
+A: Nope, but there is more than there is on my last map ASDM02 (there is none on that but there are 2 batteries and 2 health packs on this lvl).
+
+Q: Why include a jrf file?
+A: Since I have never seen any of my maps being played on the internet, well besides the time i asked a server to run my map cs_fort for a week. So I assume if people are playing my  map it is either on a lan or with bots, so to help you out I have included a jrf (it was made by Scary Jeff (scary_jeff@phl))
+
+Q: What is Scary Jeff's website?
+A: http://www.planethalflife.com/scaryjeff/
+
+Q: Where can I get Phineas Bot from?
+A: http://www.telefragged.com/thefatal/
+
+Q: What is Mighty Pete's Website?
+A: http://www.planetunreal.com/undulation/
+=========================
+
+=========================
+--Permissions--
+
+You may NOT use this level as a base to build any other levels, but you may look at it and say wowie.

@@ -1,0 +1,129 @@
+Megalith2 (created by mazemaster)
+
+------------------
+Installation Info:
+------------------
+Unzip all of the files to your half-life directory. The files will automatically be put in the correct subdirectories.
+
+------------
+Please note:
+------------
+This map slightly exceeds the default texture maximum of 4 mb. This may cause some problems on some old video cards.
+
+This map is detailed and therefore may run slowly on older computers (ie: less than 400 mhz).
+
+--------
+Credits:
+--------
+Textures used:
+	Author:
+		SOCK 
+			tp-egyptian wads
+		Valve
+			tfc wads
+			
+	Author: 
+		MasterPlan
+			Animating fire texture
+
+Skymap:
+	Author:
+		Counterstrike Team
+			Train Yard
+
+------------
+Permissions:
+------------
+You may do pretty much anything you want with this map as long as you abide by 2 rules:
+
+1: You may not sell any part of this map in any form unless you obtain permission from me.
+2: I must be listed in the credits of anything that uses any part of this map.
+
+That said, i am pretty cool about people using my work as a base and/or using parts
+of my maps in their maps. If you have reason to want the source files to this map, you can contact me explaining your reasons, and the chances are that i will give you the source files you requested.
+
+------------------
+Special Thanks To:
+------------------
+JUIM
+	Hosting Playtests! 
+		http://www.hotdeathdiner.com
+
+RUST forums:
+	Suggestions for improvement on the map, and overall assistance.
+		http://forums.gamedesign.net
+
+Merl
+	Some technical help and some great modifications to ZHLT at my request (hes a real nice guy)
+
+Weasel
+	Suggesting the name "megalithic" which i changed to "megalith"
+
+All the playtesters
+	...
+
+
+//Tech stuff
+-------------------------
+Construction Information:
+-------------------------
+Base:
+	None
+
+Level editor used:
+	Worldcraft v3.3
+		http://user.tninet.se/~fli235t/worldcraft3.exe
+
+--------------------
+Compile information:
+--------------------
+Tools used:
+	CSG: Merl's modified HLCSG.exe v1.4
+		http://www.chatbear.com/uploaded/1011059245-nulltex.zip
+	BSP: Merl's modified HLBSP.exe v1.4
+		(see above)
+	VIS: HLVIS.exe v2.5.3
+		http://www.valve-erc.com/files/resources/zhlt253.zip
+	RAD: HLRAD.exe v2.5.3
+		(see above)
+		
+Computer:
+	processor: 1.4 ghz p4
+ 	ram: 384mb RD RAM 
+
+Compile time:
+	CSG: 0 min 40.42 sec
+	BSP: 1 min 26 sec
+	VIS: 12 min 24 sec
+	RAD: 35 min 8 sec
+
+
+----------------------------------------
+Technical aspects (for mappers benefit):
+----------------------------------------
+The rolling boulder:
+	func_train using the 'avelocity' key
+		http://www.valve-erc.com/resources/?page=tut_avelocity
+	spherical shape generated using the cone slicing method
+
+Random Teleporter:
+	trigger_teleport >
+	tunnel with trigger_push > 
+	trigger_teleport changetargeted by a random event generator
+		http://www.valve-erc.com/resources/?page=random_events
+
+Fire!:
+	Animating texture on thin func_illusionaries, render_mode=additive
+
+Water Fountain:
+	Passable func_conveyor with water scroll texture
+
+Opening the gate when the 2 buttons are pressed:
+	Multisources tend to cause trouble when targeted by multimanagers, 
+	so i was forced to use physical logic gates:
+		http://snarfevs.gamedesign.net/physical.htm
+
+-------------
+Contact info:
+-------------
+n_alger_@hotmail.com

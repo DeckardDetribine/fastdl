@@ -1,0 +1,29 @@
+Grievance for HLDM
+by Cash Car Star (cashcarstar41@hotmail.com)
+http://www.rpi.edu/~griggb/ccs
+
+Other maps by author: Glimmer, de_jellybelly, si_satur9, es_trojan, flf_corinth,
+                      as_52hours1 (to be renamed)
+Release date:         January 19, 2002
+New textures:         altered textures from halflife.wad created by Cash Car Star
+New Skybox:           no
+New Models:           no
+New Sounds:           no
+Build time:           6 months off and on
+Editors used:         Quark v6.3, ZHLT, Wally, Photoshop
+Compile Times:
+      HLCSG:          68 seconds
+      HLBSP:          34 seconds
+      HLVIS:          13 minutes 30 seconds
+      HLRAD:          21 minutes  2 seconds
+Concept Credits:      DM-Pressure from UT for the trap chamber
+Beta Testers:         Brewster, RhoadsToNowhere, Doggie-Bert
+
+Extract into your valve/maps folder
+
+Copyright 2001 by Brian "Cash Car Star" Grigg. Do not sell or distribute for profit.
+This map may be distributed through the internet provided no changes are made to this
+file or the map itself. Distribution through other mediums (i.e. magazine) can be discussed by e-mailing me. You may not use this map as a base for future maps.
+
+Seen all feedback/bug reports to cashcarstar41@hotmail.com please
+It makes me happy

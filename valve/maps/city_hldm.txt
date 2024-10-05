@@ -1,0 +1,5 @@
+city_hldm ~ Half-Life Deathmatch 
+
+This is the version of "city1" from cs 1.6
+This version is little different from original.
+HF

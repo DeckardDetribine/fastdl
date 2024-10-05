@@ -1,0 +1,97 @@
+** INTRODUCTION **
+
+Title			: The Bone Collector.
+Date			: 2nd February 2000.
+Filename		: Gustavo11_BoneColl.bsp
+Filesize		: 1.2mb, or thereabouts.
+Author			: Keved, my Half-Life alias is Gustavo.
+Email Address		: keved@keved.force9.co.uk, or keved@hotmail.com as a last resort.
+ICQ			: 10393836 (auth required).
+Home Page		: http://www.keved.force9.co.uk
+
+ABOUT THE MAP/ME:
+The Bone Collector is my 11th FPS map (and 7th for Half-Life Deathmatch).
+
+Previous maps...
+01. Penitentiary (Half-Life deathmatch, released 5-March-1999).
+02. Maximillian (Half-Life teamplay primarily/also deathmatch, released 15-May-1999).
+03. Maximal (Team Fortress Classic territorial domination, released 8-July-1999).
+04. Mad Bucking Fastards (Half-Life deathmatch, released 27-July-1999).
+05. Talos (Half-Life deathmatch, released 3-August-1999).
+06. C4 (Action Half-Life, released 16-September-1999).
+07. TNT (Half-Life deathmatch, released 23-October-1999).
+08. Orbital (Team Fortress Classic CTF, released 31-December-1999).
+09. Jaw Breaker (Half-Life deathmatch, released 20-January-2000).
+10. Corps68 (Team Fortress Classic CTF, released 26-January-2000).
+
+Who am I? I'm 24 yrs old, English, & currently work for an Architectural Practice in NW England.
+
+CREDITS TO:
+1) Valve/Sierra/id.
+2) The Zoner compiling tools version 1.41. The Bone Collector was compiled with these superb modified compiling tools, via a batch file. sean@dimensionalrift.com. Keep up the good work, Sean.
+3) Records, for salvation from radio/tv hell.
+
+
+
+** PLAY INFORMATION **
+
+SINGLE PLAYER:
+Just to familiarise yourself.
+
+MULTIPLAYER:
+2-8 players. 4-6 seemed the ideal amount. 16 respawn points are included.
+
+DESCRIPTION:
+A fast and furious small map with plenty of crossovers & good connectivity. No theme as such (unlike my previous maps which each had definate themes), just a consistent visual style running through the texturing. Plenty of stock weapons around, and 1 of each of the "better" weapons.
+
+PLAYING:
+Just one thing to mention really, in that the 4 narrow hallways in the middle of the map have pools of slime in little depressions in the floor...the slime is actually teleports. Step down onto the centre beam, collect whatever ammo is there, then fall off into the slime to be transported to a weapon. ie, collect the crossbow ammo & fall into the slime and you'll teleport to the crossbow, whereas collect the gauss clips & fall off and you'll teleport to the gauss, etc. Sure, you can just collect the weapons from around the map, but by teleporting to the weapons you'll have more appropriate ammo. You can also gauge where each teleport takes you...the left-most teleport takes you to the furthest westerly point of the map, going through to the right-most teleport, no surprises for guessing it takes you to the furthest easterly point. After a few teleportations you'll pick it up.
+
+Hope you like The Bone Collector. I'd appreciate feedback too...to my email address at the top of this text file. It's a major commitment putting in the time to design these damn maps, so I fully welcome any & all constructive encouragement / ideas / criticisms / praises. Job offers welcome too!!
+
+
+
+** INSTRUCTIONS **
+
+Extract the file manually into the following.
+
+Gustavo11_BoneColl.bsp into ...\\valve\maps
+
+And of course keep this text file. 8¬)
+
+
+
+** CONSTRUCTION **
+
+Base                    : Created from scratch.
+Editor(s) used          : Worldcraft v2.1
+Custom textures		: No.
+Custom sounds		: No.
+Known Bugs              : Just that I've stretched some textures, so decals may be out-of-shape/size.
+Build Time              : 1 week, on & off. I've also been working other maps simultaneously.
+Compile Time		: Around 5 minutes on my PII 300mhz w/224mb. (Full vis, extra rad).
+
+MAP INFO:
+Rmf size		: 1780kb
+Solids			: 810
+Faces			: 4737
+Point Entities		: 184
+Solid Entities		: 136
+Successive revisions	: 14
+
+
+
+** PERMISSIONS **
+
+You MAY NOT sell this map for money without my permission.
+
+If a magazine wants it on its CD - that's fine - *BUT* you *MUST* send me a copy of the mag and credit myself with it's construction, AND INCLUDE THIS TEXT FILE. Feel free to swap it amongst your net friends & encourage them to send suggestions to me. You MAY NOT alter or add to this level without my permission.
+
+Email me if you'd like to have a look at the (1.78mb) rmf file for The Bone Collector. Zips down to ~100kb.
+
+You have yerself a nice day, y'hear?
+
+Oh btw, if you see me on a server, I *CANNOT* speak Spanish/Portuguese/Smack talk/whatever...just so I ain't assumed to be a Colombian drug baron like I have been a few times before (or corderoy wearing Uruguayian goat shepherd, that happened once). 8¬)
+
+--
+Gustavo.

@@ -1,0 +1,115 @@
+INTRODUCTION:
+
+Title			: Assault on Pelham 123.
+Date			: 19th May 2001.
+Filename		: gustavo34_pelham123.bsp
+Filesize		: 5.75mb, or thereabouts.
+Author			: Kevin Edwards, my Half-Life alias is Gustavo.
+Home Page		: http://www.planethalflife.com/gustavo
+Email Address (gaming)	: gustavo@planethalflife.com
+Email Addess (work)	: kevin.edwards@warthog.co.uk
+ICQ			: 10393836 (auth required).
+
+
+
+CREDITS TO:
+
+1) Valve/Sierra.
+2) The Counter-Strike team for their great mod.
+3) The Zoner compiling tools v2.5. seanc@gearboxsoftware.com
+4) Textures credit: the creators of the official texture wads included in Counter-Strike.
+5) Textures credit: a few from each of the awesome PC games Swat3, Deus Ex, and Kingpin. Buy them if you haven't already done so. Please refrain from playing this map until you have.
+6) Textures credit: the 'megawad' textures, compiled by Cremator.
+7) Steve "Salamander" MacCullum for the police cars & textures. Used with permission. Email; steve-mc@home.net
+8) An unknown author for the burnt out cars (which I altered to suit, and added the fires.)
+9) Scary_jeff for the Jumbot route file, included in the zip file. Thanks! http://www.planethalflife.com/scaryjeff
+10) Records, for salvation from radio/tv hell.
+
+
+
+ABOUT THE MAP/ME:
+
+Assault on Pelham 123 is my 34th Half-Life FPS map (and 13th for Half-Life deathmatch.)
+
+Previous maps...
+01. Penitentiary		(HL deathmatch, released 5-March-1999).
+02. Maximillian			(HL teamplay/deathmatch, 15-May-1999).
+03. Maximal			(TFC, 8-July-1999).
+04. Mad Bucking Fastards	(HL deathmatch, 27-July-1999).
+05. Talos			(HL deathmatch, 3-August-1999).
+06. C4				(Action HL, 16-September-1999).
+07. TNT				(HL deathmatch, 23-October-1999).
+08. Orbital			(TFC, 31-December-1999).
+09. Jaw Breaker			(HL deathmatch, 20-January-2000).
+10. Corps68			(TFC, 26-January-2000).
+11. The Bone Collector		(HL deathmatch, 2-February-2000).
+12. Jaw Operation		(OP4 deathmatch, 2-February-2000).
+13. The Jaw Action		(Action HL, 2-February-2000).
+14. Bone Action			(Action HL, 4-February-2000).
+15. Bone Operation		(OP4 deathmatch, 4-February-2000).
+16. Eliminator Jnr		(HL deathmatch/teamplay, 19-February-2000).
+17. Nostromo			(TFC, 24-February-2000).
+18. Eliminator AHL		(Action HL, 26-February-2000).
+19. Eliminator OP4		(OP4 deathmatch, 4-March-2000).
+20. Sulaco			(HL teamplay, 8-March-2000).
+21. Total Annihilation		(HL deathmatch/teamplay, 11-April-2000).
+22. Burning Hate		(HL deathmatch, 9-May-2000).
+23. Black Hole Sun		(HL teamplay, 26-May-2000).
+24. Leadworks			(HL deathmatch, 8-July-2000).
+25. Afghanistan			(Counter-Strike Bomb/Defuse, 31-August-2000).
+26. Afghanistan			(Counter-Strike Hostage Rescue, 17-October-2000).
+27. Burning Hate		(OP4 deathmatch, 22-October-2000).
+28. Leadworks			(OP4 deathmatch, 22-October-2000).
+29. Red Giant			(OP4 CTF, in beta stage).
+30. Assault On Pelham 123	(Counter-Strike Hostage Rescue, 13-May-2001).
+31. Assault On Pelham 123	(Counter-Strike Assassination, in beta stage).
+32. Scorched			(HL deathmatch, 23-January-2001).
+33. Scorched			(OP4 deathmatch, 18-March-2001).
+
+Who am I? I'm 25 yrs old, English, and currently work full-time as a level/mission designer for UK-based video games developers Warthog (www.warthog.co.uk)
+
+
+
+INFLUENCES:
+
+1) The 1970's movie "The Taking Of Pelham 123", with Walter Mattheau. The idea of a subway hostage situation with hostages actually held in the train carriages, Police/Swat outside, and running along darkened train tunnels, came from this great movie.
+
+2) The 1970's movie "Assault On Precinct 13", directed by John Carpenter, a particular favourite of mine. The idea of a seige taking place from all sides on one standalone building came from this movie.
+
+3) The amazing Ion Storm PC game "Deus Ex", particularly those missions with large exterior open spaces surrounding the buildings that the player has to assault, with a choice of several possible breach points.
+
+Put the three above influences together and you have "Assault On Pelham 123", a non-linear map with several routes to attack from/defend, set in a subway station and surrounding open exterior area. Terrorists have taken control of subway station Pelham 123, which was scheduled to close down that same night, and have seized hostages with minimal resistance. Shootouts with armed police followed for several hours, with the Terrorists barricading themselves into Pelham 123, placing C4 charges in the subway to cause landslides. The Counter-Terrorist squad have now been called in, with orders for a full breach.
+
+NB: This map is a conversion of my Counter-Strike map cs_pelham123, so of course there are no teams nor hostages to be saved! The above text is purely for scenario/scene setting purposes.
+
+
+
+NOTES:
+
+- Two sets of "maintainance doors" are locked by padlocks. Shoot the padlocks to open the doors.
+
+- Security camera systems & monitors are located in two areas, one cluster of monitors giving access to the exterior camera system, the other cluster to the interior cameras.
+
+- When using the included Jumbot route file (.jrf) please note that the bots have trouble reaching the Gluon/Egon, which is placed behind sets of doors & padlocks. Make sure you shoot both padlocks to open the doors.
+
+
+
+CONSTRUCTION:
+
+Base                    : Based on cs_pelham123, my own original map.
+Editor(s) used          : Worldcraft v2.1 & v3.3
+Build Time              : Around 80 hours, spread over NINE months, for the original Counter-Strike version (cs_pelham123.) The conversion to Half-Life deathmatch took another few hours.
+Compile Time		: ~30 minutes.
+Build & compile machine	: Athlon 650mhz, 256mb PC100 ram, Elsa Gladiac GeForce2 GTS 32mb, WindowsME.
+Compile settings	: (via a batch file) Nothing special, apart from Zoner's hlrad using the switches -chop 128 -scale 1.25 -gamma 0.45, and Zoner's hlcsg adding the custom textures into the bsp.
+
+
+
+INSTALLATION:
+
+Gustavo34_pelham123.bsp into ../half-life/valve/maps
+Gustavo34_pelham123.jrf into ../half-life/jumbot/wpfiles
+
+
+
+Comments/etc welcome. Enjoy.

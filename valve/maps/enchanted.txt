@@ -1,0 +1,48 @@
+================================================================
+Date                    : 6/29/01	
+Title                   : Enchanted
+Filename                : Enchanted.bsp
+Author                  : Finger aka [pHenyl]catalyst 
+Email Address           : mooreduncan@hotmail.com
+Home Page               : clan website/map downloads/www.phenyl.org
+
+Map Description         : This map a halflife conversion of my op4 map (Level of the Week) Op4_Eden.
+                          The setting is daytime in a lush medditeranian village.  Suitable for 4 to 
+                          16 people, this map has alot of depth, and playability.  
+
+Other Works by Author   : op4_boogie, op4_serenity, Tailpipe, op4_spindle, op4_retroactive
+
+Misc Author Info        : My name is Duncan Moore, im from Texas, a computer animation student.
+
+
+================================================================
+
+== Play Information ==
+
+Single Player           : 
+Cooperative             : 
+Deathmatch              : deathmatch
+
+
+== Construction ==
+Base                    : 
+Editor(s) used          : worldcraft
+
+
+== Additional Credits to ==
+
+Credits to Valve and Gearbox, for such great games.  I have modified and compiled some halflife 
+and opposing force textures into this bsp.  I take no credit for any modified textures.
+                          
+== Installation Info ==
+Unzip into the half-life\valve\maps directory. 
+
+
+
+==Copyright / Permissions==
+Authors MAY NOT use this level as a base to build additional levels.
+
+This map may be distributed ONLY on a "not for profit" basis using any medium.
+
+This template is available from www.globalassault.com
+

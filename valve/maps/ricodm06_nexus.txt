@@ -1,0 +1,35 @@
+.::  Map Information  ::.
+
+Nexus
+Half-Life Deathmatch
+ricodm06_nexus.bsp
+Recommended Players: 6-12
+
+
+.::  Author Information  ::.
+
+Author: Jahzel
+E-Mail: the_rahzel@yahoo.co.uk
+URL:    www.freewebs.com/jahzel/index
+
+.::  Map Description  ::.
+
+The map is based on an original concept I once designed on paper. It consists of a large, open arena area surrounded by ledges. 
+The design is actually symmetrical, and each of the passages mirror each other. Their are four large rooms at the four sides of the arena, each with it's
+own specific weapon. It is pretty large, and I am suprised I could get this to you, enjoy ;)
+
+.::  Thanks to:  ::.
+
+	Valve Software
+	Mephs, and all those down at TWHL
+		 
+.::  Instructions  ::.
+
+Unzip the contents of the .zip file into your Half-Life directory. All files will be automatically placed from there.
+
+.::  Other Stuff ::.
+
+Nexus (c) 2004 Jahzel
+
+
+		 

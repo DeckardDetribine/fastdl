@@ -1,0 +1,85 @@
+Genesis Prime Readme
+--------------------
+Map Name: Genesis Derivation
+File Name: gendev.bsp
+Author: Brian Thomas
+E-Mail: bthomas1@ukans.edu
+Website: http://www.eecs.ukans.edu/thomasb/
+--------------------
+
+Map Information:
+--------------------
+Type: Half Life DM
+Recomended: 2-4 players
+Based Upon: none
+New Textures: none
+Tools Used: Worldcraft 3.3
+	    Zoners Tools 2.3.1
+	    Batch Compile Script
+Compile Time: CSG: 8.10 sec
+	      BSP: 8.96 sec
+	      VIS: 2.37 sec
+	      RAD: 149.75 sec
+Compile Info: Full compile (rad and vis) 
+	      with 6 bounces.
+Compile Machine: P3 800 128mb
+Compatible with: Software, D3d, OpenGl
+--------------------
+
+Extra Information:
+--------------------
+This is my first released DM map.
+To use the air jump correctly, do not press
+	jump. Simply run through the lift area.
+This map is intended for a 1 on 1 battle or a 3
+	player FFA. 4 players is about the max
+	you could feasibly fit in the arena.
+The air jump also affects projectiles. This
+	includes: rockets, grenades, AR grenades,
+	trip mines, satchels, and hive hands.
+Do to the small area, the map is designed to give
+	players either an mp5 or shotgun quickly.
+	The more advanced weapons(hivehand, crossbow,
+	rpg) require a more advanced manuver to gain.
+The advanced weapons are powerful, but not 100%
+	usefull in this map. The RPG isn't good for
+	the close quarters. The hive hand gets pushed
+	by the air jump, and the crossbow requires
+	quick reflexes. These weaknesses may work
+	against you, so look out.
+Remember to vary your weapon use. If players use the
+	same weapons repeatedly, a new weapon will
+	throw them off balance and force them to find
+	a new start.
+--------------------
+
+Legal Stuff
+--------------------
+This map is created by Brian Thomas for free use for
+Half Life. This map may not be used as the base for
+another level without my express permission. Don't steal
+my map or I'll kick you ass. Don't play my map if you
+don't like violence or your government has taken away
+your right to play HL or something. You know the rest.
+--------------------
+
+Personal Information
+--------------------
+I am currently a Freshman at the University of Kansas.
+If you are interested on contacting me, my e-mail is above.
+I do not use ICQ as it becomes a hassle to authorize people,
+so don't ask for my number. I use e-mail and e-mail alone.
+I am not interested in teaching you how to map. I learned on my
+own and so can you. Only send me technical questions about my
+map not working on your system. If you are the author of a mod
+and interested in having me work on it, please e-mail me with the
+mods web address. I only work for mod teams that have something
+original and actually have some sort of code done. No CS ripoffs.
+No "I thought of this idea yesterday" mods. Sorry, thems the beaks.
+Please check my site often for updates on my future projects. Thank
+you for downloading my map. Please help support the mapping community
+in the future, as well. Thanks again. Enjoy Genesis Prime.
+
+
+
+

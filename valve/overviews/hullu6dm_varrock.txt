@@ -1,0 +1,15 @@
+// overview description file for hullu6dm_varrock
+// Z Min -168 Z Max -385
+
+global
+{
+	ZOOM	1.71
+	ORIGIN	-816 1152 -168
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE	"overviews/hullu6dm_varrock.bmp"
+	HEIGHT	-385
+}

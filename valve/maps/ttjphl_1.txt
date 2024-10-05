@@ -1,0 +1,176 @@
+DEDICATED TO PLANETHALFLIFE (www.planethalflife.com)
+
+==================================================================================
+
+Title          	    :A tribute to phl - the phl mappack
+Filename      :ttjphl_1.bsp, ttjphl_2.bsp, ttjphl_3.bsp
+Author           :Thomas"TTJ"Ritter 
+Address       :southfield@gmx.de
+Homepag    :www.planethalflife.com/ttj
+Descriptio   :Half-Life Deathmatch maps
+Version       :1.0
+
+==================================================================================
+
+Play Information
+
+Single Player      :No
+Deathmatch        :Yes, Maps designed for one on one gameplay
+New Sounds       :No
+New Graphics     :Only the phl logo !
+New Music          :No
+Prefabs               :No
+
+=================================================================================
+
+About this Maps
+
+For 2 years I've been making maps for HL/Mods and I've always had lots of fun. I have been hosted
+at phl for nearly one year and that's the best thing that could have happened to me.
+That's why I've decided to give something back to phl, HL so I made this three hl-style maps and
+dedicated it to phl, HL and my friends who have helped me to become a better mapper =)
+
+Special thanks to wolf the maker of rapidcore, lost village,...
+He has reduced the r_speeds on ttjphl_1 and helped me with playtesting !!! Thanks Wolf !!!!!!!!!!!!!
+
+A special thanks goes out to all the fantastic mappers who have made so many great HLDM Maps:
+
+Apocalypso, Wolf, Scrary_1, Spider, Dave Waters,... 
+
+=================================================================================
+
+Description
+
+ttjphl_1: Your normal hl map which sets in an outdoor/indoor blackmesa environment.
+ 
+              The key to win this map are the grenades for the mp5 but be careful when you
+              want to get them ;)
+              This map plays really different from the other two maps. It's not one of this just run around
+              and kill everybody maps. Be sure to play with a certain strategy in mind !!!!
+
+              DEDICATED TO MICHAEL "FLASH" HINZ !
+
+
+ttjphl_2: There are still people who are enjoying xen maps so this one sets in a xen environment.
+
+              There are two teleporters use them !!!! On top of the xen structure you will find the 
+              rocketlauncher be sure to get it. There is slime which helps you to regenerate your health
+              be careful while standing in the slime ;)
+
+              DEDICATED TO CONSTANTIN "TUMOR" SASSE !
+
+
+ttjphl_3:This map features blackmesa lab style architecture and ambience.
+
+             There are a lot different weapons in the map. The mp5 + grenades should be most useful so
+             get them. The crowbow is useful for the long corridors. Please listens to sounds which will tell
+             you on which level the enemy is moving.
+
+             DEDICATED TO GUNNAR "CRAZY BORG" HOFFMANN !
+
+
+=================================================================================
+
+Bot support ????????
+
+At first I wanted to make waypoint files for all the maps so you can play them with the Jumbot.
+Fortunately I tried the hldm bot PARABOT. It learns the maps from you so you dont need waypoints and
+it plays the maps a lot better than the jumbot !!
+You can download it here:
+
+http://www.botepidemic.com/parabot/
+
+=================================================================================
+
+Construction
+
+Base                   :TTJ inspired by Half-Life
+Editor used        :Worldcraft 3.3
+Known Bugs      :No                  
+Build Time         :2 Months 
+
+================================================================================
+
+Installation
+
+Extract all files into your half-life\valve\maps folder.  
+
+================================================================================
+
+known issues:
+
+ttjphl_3 has some spots where the r_speeds are a little bit high. Normal systems should handle them
+well but slower systems may notice some slowdowns.
+
+ttjphl_1 and ttjphl_2 feature great r_speeds.
+
+
+================================================================================
+
+Other Level by Author:
+
+DonkeyKong     : HL Deathmatch, well the first attempt but really fun ; )
+
+Watertower     : HL Deathmatch, a small one on one map 47% at hornetking
+
+de_urbanassault: Counter-Strike defusion Map, 9 from 10 Stars at
+                 www.counter-strike.de
+
+cs_realmansion: Counter-Strike hostage rescue map, 8 from 10 Stars at 
+                www.counter-strike.de
+
+hlnoir        : HL Deathmatch, the map uses only black-white textures
+                which creates a really nice effect, 4 from 5 points
+                at www.planethalflife.com/hornetking
+
+cominghome    : Official turbo - snark racing map
+
+cool!         : Official snow-wars map (www.planethalflife.com/snowwar)
+
+ttjq3dm1 (everybodys darling) : My first q3 map and really funny !!
+
+fiume	      :Team fortress classic capture the flag map
+
+flf_swiss     : Frontline Force map which was inlcuded in the official
+                flf mappack
+
+bb_blackwhite : official buzzybots map (www.buzzybots.dk)
+
+sc_spacewalk  : official buzzybots map (www.buzzybots.dk)
+
+bb_spacewalk  : official buzzybots map (www.buzzybots.dk)
+
+cs_cqb_n and cs_cqb_d: Counter-Strike hostage rescue map, 8 from 10 Stars at 
+                                              www.counter-strike.de. In night and day version available.
+
+All these maps are available at my homepage: www.planethalflife.com/ttj
+
+================================================================================
+
+Thanks to:
+
+Tumor for everything and telling me about these "new" game Half-Life; Flash for 
+all his support; Crazy Borg for being my worldcraft teacher and betatester; 
+valve for creating a great game; all these great texture artists without them 
+all these maps wouldnt be possible; Sean for his great Zoner tools; phil 
+for these cool (lan)-parties ; Apocalypso for betatesting, mattc, jeosmoe and 
+mikezilla for textures, phl and gamespy for hosting my homepage and downloads
+
+================================================================================
+
+Copyright and Permissions
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+Half-Life (C) 1998-99 Sierra On-line and Valve L.L.C. All rights reserved.
+
+(c) Copyright 2001 TTJ aka Thomas Ritter, Germany
+

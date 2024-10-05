@@ -1,0 +1,14 @@
+// overview description file for dm_hour.bsp
+
+global 
+{
+	ZOOM	1.16
+	ORIGIN	448 	544	1568
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/dm_hour.bmp"
+	HEIGHT	-513
+}

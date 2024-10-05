@@ -1,0 +1,67 @@
+================================================================
+Title                    :Xenation
+Version                	 :1
+Release Date             :April 9 2001
+Filename                 :Xenation.bsp
+ 
+Authors                  :Viddiot aka Monster_Hgrunt  
+                          
+Web Page                 :none
+                          
+
+Description            	 :Half-Life Deathmatch Map 
+
+Other DM-levels by author:GEcomplex
+			  GEtemple
+			  GElibrary	
+			  Itzy_bitzy (u can get these from wonswap, i 			  think its www.wonswap.net but im not sure 			  about the ending)
+			  GEcomplex2
+			  GE_Complex (from Goldeneye mod)
+			  GEBunker
+			  Realcombat
+			  Fakecombat
+			  Military_outpost_vt10
+			  Pipe_maze
+			  Warehousecombat
+
+================================================================
+--- Play Information ---
+Game                    : Half Life
+Level Name              : Xenation
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Known bugs              : No
+
+	
+--- Construction ---
+Editor(s) used          : WorldCraft 2.1 ZonersHLTools Batchcompile
+Construction Time       : At most, 2 weeks
+Compile time 		: A little under an hour
+
+Installation
+------------
+
+Unzip the file xenation.zip into your ...\sierra\halflife\valve\maps directory
+
+
+Special Thanx...
+----------------
+To Flewda[COOP] who was waiting patently for me to start work on the first level of our up and comming Sp mod.  Im going to start it soon.
+
+Copyright / Permissions
+-----------------------
+Copyright by Viddiot
+
+Authors may NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH NO MODIFICATIONS!!!.  If you don't co-operate, then DON'T DISTRIBUTE IT IN ANY FORM!!.
+
+This BSP may be distrubuted ONLY over the Internet and/or BBS systems. You are NOT authorized to put this BSP on any CD or distribute it in any way without my permission.
+
+If you want to include this BSP or anything remotely related to this map, and you have my permission, I would like a copy of whatever you have done w/ this BSP.  If you want to hire me for a mod or anything like that, please email me at Viddiot@yahoo.com  thx.  Hope you like this level.  If you have any questions then you can either email them to me at the previous email address or you can icq me at 16010516.  Chao,  Viddiot
+
+   :: What! No way, You dont say?  BLAM! BLAM! BLAM!  haha sucka::

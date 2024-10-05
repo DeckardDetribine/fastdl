@@ -1,0 +1,18 @@
+				Techcore
+				By Nukem
+		           (John Sapikowski)
+
+	Techcore is built deep inside a mountain somewhere in the lambada
+desert. A medium sized map suitable for 4+ players (12 max)
+
+Install instrucitions: please place techcore.txt and techcore.bsp 
+into your valve\maps directory.
+			
+
+			     Stats and info:
+			     # of player starts 1
+			     # of Deathmatch starts 12	
+			     Weapon placement is heavy
+			     No secrets to mention
+			     
+	I would like to thank Derek Buron {A.K.A Darth Sailor} for his help with playtesting and for being such a good friend and running my maps on his server :) thanks alot!!

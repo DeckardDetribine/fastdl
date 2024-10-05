@@ -1,0 +1,94 @@
+====================
+* Play Information *
+====================
+Title 			: WaterWerx
+			 
+Filename		: waterwerx.bsp
+Author			: Brian 'DFactor' Pereira
+Other lvls by author	: None
+Email address 		: bpereira@uswest.net
+Home page		: none
+Description		: Deathmatch map for Halflife. A large level based on some type
+			  of water proccessing plant. This is my first publically released
+			  map. Although it is large it should be easy to learn as most areas
+			  are unique. All weapons are avaliable and there are a couple of
+			  interactive features as well. Due to the size of the map I would
+			  recommmend a minimum of 6 players. A lot of effort has been put
+			  into keeping the r_speeds down and most of the testing was done
+			  in software. This map should run well on most systems.
+			  
+Additional Credits to   :  The DOE @ http://www.lowlife.com/halflife/ for putting up this map for
+			   testing. This was very helpfull and I highly recommend this site to 
+			   anyone needing to test their map.
+			   
+			   To Coughcool for running the beta on his server and his input as well as
+			   Evichild and Martyr for hours of testing. And to taZer and everyone else 
+			   who showed up for testing.
+			  
+			   The Planethalflife editing forum and everybody there. This map wouldn't
+			   be here without their knowledge. And no I'm not blaming them! A special
+			   thanks to Hellbringer for his timely response to many of my questions.
+			  
+                           The HL Editing Resource. Great site!
+			 
+			   And of course, Valve for the game and Brian Morris for the editor.
+
+Single Play             : No, there is a single player start.
+Cooperative Play        : No
+Deathmatch Play         : Yes 16 starts
+Difficulty Settings     : NA
+
+New Textures            : No
+New Sounds		: No
+New Models		: No
+
+================
+* Construction *
+================
+Base			: From scratch
+Editor(s) used          : Worldcraft 2.0
+Compile Machine		: PII 400, 320MB, VII SLI, WIN98
+Test Machine		: PII 400, 320MB, GL @ 1024*768 on Dual VII & software @ 800*600 on TNT(2D)
+			: PII 233, 128MB, GL @ 1024*768 on Dual VII & software @ 640*480 on TNT(2D)
+			
+Compile time		: QCSG		83 seconds
+			  QBSP		55 seconds
+			  VIS		2803 seconds
+			  QRAD		2008 seconds	extra, smooth 80, bounce 8
+			
+Build time              : 7 weeks (including learning curve)
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+Installation:
+Unzip the waterwerx.bsp file to your C:\SIERRA\Half-Life\valve\maps directory.
+That is the default directory, yours may vary.
+
+Hints!
+
+Got stuck getting the RL, there is a way out. See the switch with the light over it?
+
+You want that egon on the second shelve that comes complete with ammo and armor. I bet
+you do! Go upstairs and get that crate. Better keep an eye on it though, while it's a
+tough crate, it is breakable. And when it's gone that shelve becomes unreachable. You can
+try the guass but I couldn't do it.
+
+Does that long pipe feel too long? Get up on the side of the pipe and away you go! At
+least one way.
+
+All railings can be shot through but the walkways and catwalk gratings can not.
+
+===========================
+* Copyright / Permissions *
+===========================
+
+MAY NOT be used as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+

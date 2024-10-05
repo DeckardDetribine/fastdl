@@ -1,0 +1,9 @@
+Filename		: dead-q3dm17.bsp
+Date			: 19st March 2008
+Author                  : DEAD [Dmitry K.]
+Death Match		: Yes
+Recommended Players	: 2-8
+Recommended fps_max	: 100
+
+
+Map Description		: Copy of  map "q3dm17" from game "Quake3" for game "Half-Life 1"

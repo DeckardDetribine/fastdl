@@ -1,0 +1,24 @@
+Thank you for playing Subway!
+
+      Map Name: Subway
+      Filename: subway.bsp
+        Author: Hambone
+         Email: hambone338@hotmail.com
+  Date Created: 01/05/03
+
+
+  Installation:
+	Copy subway.bsp to \Sierra\Half-Life\Valve\maps and play!
+
+   Description:
+	My regular gaming group enjoys small super.ultra.hyper.fantastical
+	frenetically fast and furious maps....this map accomplishes that :)
+	No secrets but plenty of action.  High r-speeds make this more of a
+	lan-match map. 
+
+
+Special Thanks:
+	Shugah Bear: GET OFF ME MAN, I'm working on something.
+	   Boobewry: How do you make those friggin' tau shots???
+	   wetdream: Dude, piss off :)
+	      Valve: Duh

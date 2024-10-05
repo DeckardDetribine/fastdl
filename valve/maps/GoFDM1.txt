@@ -1,0 +1,56 @@
+=====================================================================
+GoFDM1- The Dark Station 
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: The Dark Station
+Filename	: GoFDM1
+Author		: GoFReT
+Author Email	: gofret@anti-social.com
+Home page	: http://theforgottens.clanpages.com
+Description	: This is my first map released to public. Please feedback.
+Previous Maps	: Forget about them, they suck...
+
+------Credits and Thanks---------------------------------------------
+All clan mates, [DRS]Orpheus, Carl, Charon, Bigcheese... And all others...
+
+
+------Additional Info, Tips, and Notes-------------------------------
+
+Have fun...
+
+------Play Information-----------------------------------------------
+
+Deathmatch	: 1
+Single Player	: 0
+Map Description	: FFA-Tourney
+How Many Players: 2-12
+
+------Map Information------------------------------------------------
+
+New Textures	: 0
+New Sounds	: 0
+
+------Construction---------------------------------------------------
+
+Base		: -
+Editor(s) used	: WC 2.1, Q2Beaver, Zoner's compile tools.
+Compile Machine	: 300a 128ram i740
+Compile time	: 15 mins or so...
+Playtest time	: 1 month
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "GoFDM1.bsp" in
+your half-life/valve/maps directory.
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level unless you include this text file with it.
+
+This BSP may be distributed ONLY over the Internet.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+

@@ -1,0 +1,61 @@
+=================================================================================================
+Title                   : Power House
+Author                  : Gun_Sgt_Hartman
+Email Address           : gunsgthartman@hotmail.com
+Website                 : http://qsfan.8k.com 
+
+
+Warning                 : You must have version 1.0.0.9 or better of Half-Life to play this map.                          
+
+Description             : This map is basicly a large chemical processing plant.
+			  
+                         
+Note                    : This is my second map to be released.
+
+Weapons Included        : This map includes all HLDM weapons.
+            
+                                   
+=================================================================================================
+--ADDITIONAL CREDITS--
+
+Big thanks to: Valve - For creating a masterpiece of gaming.
+	       Quantum Saint - For being my inspiration, mentor, and an awesome brother.
+	       V.E.R.C. - all of the great info and tech stuff. (http://www.valve-erc.com)
+	       
+	       Beta Testers: Quantum Saint, Oldman_Merlin, Cadillacman, Gollywomp, Pincushion,
+			     Great Spirie, Poxton and the rest of the Quantum Mechanics Regulars.
+
+	       Special Thanks to Cadillacman for coming up with the name for this map.
+=================================================================================================
+--PLAY INFORMATION--
+Game			: Half-Life
+Files    		: pwrhouse.bsp; pwrhouse.txt
+Single Player           : No	
+Cooperative 		: No 
+Team Play               : No
+DeathMatch              : Yes
+MAP    # of PLAYERS     : 4-16
+             				
+Difficulty Settings     : No
+
+Platform(s) used               : PIII-500 w/ Voodoo 5500 384MB mem, PII-400 Voodoo2 192MB ram
+				 P200mmx Voodoo3 128MB mem and AMD K6 300 64MB mem Voodoo2
+Editor(s) used                 : WC 3.3, ZHLT, PakScape
+Known bugs                     : Snarks tend to die quickly in certain areas, no way to fix this.		 
+				 Please report any others that you find.
+New sounds/textures/entities   : None
+=================================================================================================
+=================================================================================================
+--LOADING INFORMATION--
+Download, unzip, and put all of the files into your c:\sierra\half-life\valve\maps directory 
+(your drive letter may be different).
+
+
+=================================================================================================
+--LEGAL--
+This Half-Life map/level (Power House, pwrhouse.bsp) is (c) 2002 David Smart.
+DO NOT put this level/map on any sort of commercial product or 
+compilation unless you have permission from me.
+You MAY distribute this BSP/TXT file through any other means, 
+provided you include this .txt file (unaltered) and it is free of charge.
+Do not modify this BSP in any way.

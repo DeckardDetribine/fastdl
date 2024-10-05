@@ -1,0 +1,185 @@
+** INTRODUCTION **
+
+
+
+Title			: MAXIMILLIAN
+Date			: 15th May 1999
+Filenames		: Gustavo2_Maximillian.bsp
+Filesize		: 3.5mb, or thereabouts. A little excessive maybe.
+Author			: Keved, my Half-Life deathmatch/TFC alias is Gustavo.
+Email Address		: keved@keved.force9.co.uk (preferably), or keved@hotmail.com
+Home Page		: http://www.keved.force9.co.uk
+
+
+
+ABOUT THE MAP/ME:
+This is my second ever FPS map and like my first, Penitentiary (released 5-March-99), this map is for Valve's Half-Life. Who am I? I'm 24 yrs old, English, & currently work for an Architectural Practice in NW England.
+
+
+
+CREDITS TO:
+1) Valve/Sierra.
+2) [SnD]The_Cheese for helping me out several times with technical problems. Check out his terrific maps Nightshift, Site_B, Rapid_1, Rapid_2, and Battlecamp at his website http://www.halflife.net/cheese. Also organised the online Maximillian playtest for me. Much obliged. 8¬) Also thanks goes to Strangelove & [KHLA]Kamikaze for their suggestions. Kamikaze's Half-Life Archive: http://homepages.nildram.co.uk/~penman/.
+3) Games World, for the Maximillian playtest on one of their servers. Very appreciated. http://www.games-world.net.
+4) The following players who participated in the playtest...[SnD]The_Cheese, Strangelove, [KHLA]Kamikaze, [TFB]Fragle, [TFB]Rabbie, [DI]Knoefo, [DI]Dr.Kavorkian[ALL*s], GunXIII, [SnD]Nose_Hair, [SnD]Anal_Hair.
+5) Records, for salvation from radio/tv hell.
+6) Last but not least, an honourary mention to Daz.
+
+
+
+** PLAY INFORMATION **
+
+
+
+SINGLE PLAYER:
+Just to familiarise yourself.
+
+
+
+TEAMPLAY/DEATHMATCH:
+Maximillian was intended from conception to be a teamplay map, so best gameplay will be with a few teams of several ppl, each playing AS A TEAM & battling to hold/gain the "safe-haven", and activate the bone-shaking blast chambers down at the foot of the map. It'll still play deathmatch, sure...with 8 players minimum preferable, any less and if you blink you'll bypass someone. A reasonable number of players for DM, and my recommendation, is 16 for a competitive DM game. However, with all the weapons I've included it could hold 24 at a stretch (plenty of weapons, ammo, & respawn points for 24...but maybe not enough space). Should be a good choice for big LAN parties, where the lag of lots of players isn't as much of a factor.
+
+
+
+DESCRIPTION: (the borin' story bit)
+
+		OFFICIAL DOCUMENT:- HEALTH AND SAFETY INFORMATION.
+		Source file #884-34B, Dept. of Employment.
+
+Note:- Health and Safety regulations for new workers of the Maximillian facility, specialising in testing the quality of explosives shipped by the Kjunkers-Molotov Corporation (KMC). It is imperitive you learn to co-operate successfully with other workers to ensure the well-being of both yourself and your fellow colleagues. Please note that due to the dangerous nature of this facility we are unable to provide any insurance against loss of limbs and/or life, however have provided the following set of guidelines to ensure your short-term well-being whilst fulfilling your assigned role at Maximillian with continued committed application.
+
+a. Samples of the explosives mixed at the KMC's Afghanistan based factory, Calin-Two, are shipped to Maximillian regularly where they are test-fired in Maximillian's four blast chambers. The facility is non-maintained, meaning facilities such as Maximillian are built by KMC & test-fires occur until the walls crumble, whereupon the facility is discarded and a new facility is built at an alternate location. In signing this contract you are accepting the non-maintainance policy KMC uses, and therefore waving your rights to compensation _when_ horrific injury and death occurs.
+
+b. Maximillian houses a "safe-haven" area on the uppermost floor, with reinforced walls where facility workers retreat into when test fires are in progress. This safe-haven is a shining example of the safety features within the Maximillian facility, passing the recently enforced ASAP Health Regulations by virtue of the Inspector sadly perishing during his inspection, and being unable to finish the ASAP report on Maximillian we ever-so-kindly & truthfully completed on his behalf.
+
+c. In continuing with the KMC line of tight budgets, continuous lighting is mainly confined to the safe-haven. In locations such as the main storage area outside the safe-haven, workers are advised to keep lighting usage to a minimum, relying on the low-power fittings for general use, and turning on the main lights when a delivery of new explosives is in progress. Please bare in mind the difficulty a fellow worker would have seeing in the dark and avoiding the vertical shafts leading down from the storage area. Thus do not switch off the lights when the storage room is occupied, thereby avoiding a co-worker falling down and being rendered a vegetable. And we know how unfortunate & lonely it would be as an unwanted sprout, right kids? NOTE: Switchable lighting omitted from the main storage room, for technical reasons.
+
+d. Firearm ammunitions & light blasting packages are abundant in the safe-haven, for usage should circumstances arise when test fires erroneously remove chunks of Maximillian's substructure, which then are required to be removed/destroyed for safety reasons. Sensible usage of the ammunition is advised. Those who fail to comply with this instruction and successfully dismember a co-worker will be eligible for tribunal by our SCASH (Spud Chuckers And Supreme Hecklers). The result is likely to be instant dismissal. Please bare this in mind as an alternative measure for _when_ you are turned down for holiday leave. Also, we welcome communications regarding who are prime candidates for dismemberment, usually the inefficient, and sometimes bonuses may be given to those who dispose of pesky LPB's with Xtreme prejudice.
+
+e. It should also be noted that Maximillian uses a timed-procedure for the closure of each of the blast chamber doors during test fires, which cannot be reset after activiation. We therefore ask that you refrain from loitering with suspicious intent within the blast chambers. Red lights mean "get yur ass outta the room".
+
+f. We ask that in the interests of hygenie you refrain from puking/hurling/projectile vomiting if you see a fellow worker suffer horrific injuries.
+
+g. In the interests of public safety please ensure that sightings of the KMC Managing Director, Mr Gustavo, are greeted with muchos kudos. Please suppress the temptation to mock and jeer in the general direction of the esteemed-one, else women & children will cry in the streets in response to Rambo-esque venting of anger, the foundation of a substantial new City named 'Pile of Gibs', and the sadness of it all.
+
+h. During the course of working at Maximillian some workers will be unable to handle the harsh environment for a sustained period of time. You can spot such personages easily, the eccentric looking fellows who dance around and wildly swing impliments such as crowbars, thrashing such a rod around with great abandon, usually at thin air, in their utter madness. Please do not approach these dangerous personages, their disease is both infectious and a rotter of brains. Please ensure they are put out of their misery at the earliest possible opportunity by Dr. Gluon's medicine, or a suitable substitute, but always from a safe distance. Usage & devious concealment of TNT Satchels is advised, due to their remorseless Terminator-like approach to combat, repeatedly hunting you down like a bloodhound. Failure to do so may mean humiliation & shame is heaped upon your bereaving family, as you are clubbed senseless by the gimpy gompy. The Managing Director is very unsympathic to the cause carried by these insane specimens, their cause being "the deflation of ego's resulting from humiliation & heckling", and recommends Xtreme measures be used against them. Group therapy counselling sessions are now available for those who have experienced such ultimate humiliation...regular meetings are organised where crowbars are handed out in the storage area, the main lights are turned off, and everyone participating plays an anonymous game of Chad. The KMC Managing Director leads the way, joyously lashing out into the darkness with great vigor, an occasional <scream> cutting thru the <whooshing> sound of scything crowbars.
+
+g. Please refrain from using the security camera system, which is located in the safe-haven, to entrap fellow workers in the blast chambers from a safe distance. This is considered cowardly.
+
+We hope you find your working environment at Maximillian a most pleasant & bodacious experience.
+
+Signed........I..A..M..A..S..U..C..K..E..R........
+
+THIS ENDS YOUR FORMAL LETTER OF INSTRUCTION,
+
+CARE OF MR. BIG SHOT, Monsieur Gustavo He-WhoopAss, Esquire, Managing Director.
+A.C.E., B.O.S.S., T.O.P.D.O.G., K.O.O.L.G.U.Y., E.T.C. (and other falsehoods)
+
+Ho-hum. <Removes tongue from cheek>.
+
+
+
+AVAILABLE WEAPONS & AMMO:
+Weapons=Crowbar/Pistol obviously (though NO collectable pistol ammo), 4xGauss, 2xEgon/Gluon, 4xRPG, 6x Magnums, 3xCrossbow, 4xSnark, 5xGrenades, 12xSatchels, 12x Lasermines, 8x9mmAR's, 7xShotguns. Many ppl will be pleased to note the omission of the Hornet (I say 'NICE AIM' to those b'stards who will miss it). Ammo=15x9mmAR primary, 11x9mmAR secondary, 7xMagnum, 14xShotgun, 14xCrossbow, 9xGauss clips, 12xRPG. Lots of guns & ammo, but firstly: a fair proportion of that ammo (around a third) is in the safe-haven, and secondly: Maxi is intended to hold many of players. 20+ respawn points (21 I think, I lost count).
+
+
+
+PLAYING:
+To get straight to the point...imagine Crossfire turned through 90 degrees. (Meaning Crossfire's gameplay, not looks/ambience). Respawn, grab a weapon, make your way to the (safer) upper area, and gain control of the 'nukes'. The lower areas house most of the weapons, but it's like a slaughterhouse down there (even the better players amongst us won't find it easy staying alive in the lower areas).
+
+I took on board the comments in the review of Penitentiary at Radium (72% overall) in creating Maximillian. 72% was a very good score considering Penit was my first ever map, I feel Maxi tackles Penit's criticised areas MUCH better (Radium commented on connectivity & ammo placement, or lack thereof). Weapon placement is still decent I feel (one of Penit's good points)...it takes effort to get the "better" weapons despite there being lots of 'em, but I've ensured much more ammo is available than in Penit, particularly in the safe-haven (another reason to hold/gain it).
+
+About connectivity...the area underneath the safe-haven in particular has connections all over the place. With the connections also being symmetrical it should be fairly easy to become accustomed with the layout. It only takes (me) 10 seconds max to completely traverse the map from top to bottom or side to side. One of the reasons for this, intentionally, is that Maxi has a FAR more compact layout than the sprawling Penitentiary. Maxi is very big and will hold lots of players (huge filesize) but is NOT sprawling. Use the /noclip command to go outside of Penit's walls and you will see it winds & twists all over the place...hardly efficient and to be honest not well planned. I sat down with several sheets of paper and sketched out Maxi before I'd even created a single brush on Worldcraft2.0, and the result is a more compact & efficient layout. The large filesize is ONLY because of all the detailing I added, not because of a mass of walls/structure like in Penit.
+
+Many of the platesters reported they found the blast chambers themselves to be confusing...admittedly the layout in those 4 large rooms is complex, though I personally think of this as a positive; it will take skill to master & overcome these large rooms, with no more running around on autopilot. (And the 2 jump modules should prove especially useful).
+
+
+
+TRAPS/FEATURES:
+The most apparent & fearsome traps are the 4 blast chambers at the lowest point of the map where the explosives are test fired. If you haven't played Maxi in multiplayer yet (say, you've just had a look around in single player), you're unlikely to have seen them in action, so think of each as a mini-Crossfire-nuke (ie when the klaxon sounds & the red light turns on, GET OUT of that room!). Each test fire is controlled independently via switches within the safe-haven, an obvious reason to hold the safe-haven with your team. Each of the test fires can be activated once every 2 minutes, the actual process for each of them is as follows...1) test fire is able to be activated 2) someone activates it from within the safe-haven, and a metal safety latch slides over the switch, a klaxon sounds in the appropriate blast chamber, as does a red warning light 4) 5 seconds after activation, the blast chamber doors start to close 5) roughly another 10 seconds, and the blast chamber doors are now fully closed 6) 30 seconds after the switch was activated, TEST FIRE...everyone inside the blast chamber dies, that area of the map shakes violently & those inside/near the blast chamber hear the test fire 7) 40 secs after activation the blast chamber doors re-open & red warning lights switch off 8) in just over 80 seconds the switch activating the test fire in that chamber is ready to be pressed again. Maximillian features FOUR of these traps, each fully independent. The playtest showed the reset times should be much shorter than the 5 mins I originally had each set at...the result is small nukes, continually being activated, and making for more dynamic gameplay (ie, things continually happening, rather than once every 5-10 mins everyone retreats into a bunker). Therefore, the lower area of the map is not a safe place to be.
+
+So, with these 4 'traps', how do you know the ideal time to activate them? Just use the security cameras inside the safe-haven...each blast chamber has 2 cameras (therefore Maximillian features eight camera's in total)...1 low down, the other near the ceiling (per blast chamber). 'Use' the VDU screens in the safe-haven and you'll see a 3 second glimpse of a blast chamber via that particular camera. Remember, Maximillian was intended for teamplay, so a successful team will not only designate attackers to hunt throughout the map, but also players to defend the safe-haven, keep using the camera's, & activating the blast chambers.
+
+Also, every entrance to each of the blast chambers is marked with a number (1, 2, 3, or 4), allowing players to easily know which blast chamber corresponds to which camera's, etc.
+
+I've left the following paragraph in this text file to show I had more planned for Maximillian, but for technical reasons had to remove before release. In short, the main storage room outside the safe-have had switchable lights that gave a really nice dim effect when the lights were turned off. **NOT INCLUDED** Outside the safe-haven in the large cavernous room, the majority of the lights are switchable on/off. These lights are controllable via 4 lightswitches (1 near each of the safe-haven doors & 2 on the opposite side of the large room from the safe-haven). Not a trap of such, more of a feature, but could scare the "ship" out of ppl either in the large room itself (it's all gone dark...who's that?...is anyone there? oh dear I've "shat" my kecks again), or those defending the safe-haven (knowing the lights have been turned off by someone outside the bunker, who now resides sniper-like somewhere in the dark..."oooh that's handy, I've found a Crossbow out here!" says Mr.S.L.Y.Sniper). To compensate for the Crossbow & toggleable lights I've ensured there are no real out & out sniping places ie some hard-to-reach place where a sniper can sit-it-out in relative safety & snipe away for a considerable length of time (like the Crossbow ledge on Bounce...I once stayed up there for an hour and a half without dying, notching up 100+ frags before I was eventually killed). In the storage room, the dark is enough of an advantage to snipers so they're gonna hafta be creative with finding a location...that large room is basically an open floor space with a few large crates dotted around. **NOT INCLUDED**
+
+Safe-haven doors...I've made the main doors to the safe-haven bunker act like "lock" doors (ie ships, etc)...so in actual fact to go into/out of the safe-haven you need to traverse 2 doors. Quite fun the way they are implemented I think...you can either charge through both sets of doors before they shut, or go thru the first door and sit it out while the second closes (and re-open this second door in a short while). Another method is the "tradesmans entrance" (hint:Gauss jump 'past' the outer door whilst the inner door is open). On a design note, I originally intended to only have 1 door right in the centre of the safe-haven, and not 2 separate doors at the sides like it ended up. This proved impossible for reasons of speed, but anyway I think it's turned out better. For those who know about map making & r_speeds, having the door in the centre made the wpoly speed of the entire top area of the map shoot up (from 200-600 to 500-1500), even after a full Vis compile. Using draworder, I could see the engine redrawing the entire upper area from wherever I stood in the safe-haven or storage area, arghhhhhhh. I was reluctant to use Vis blockers as this would have compromised the ambience & layout I wanted, but after saying "oh pants, these wpoly speeds are way too high" I tried it anyway. As I figured I didn't like the resulting layout at all. But like I said, I prefer the 2 side doors...fun to mount 2 attacks simultaneously, one at each door, and imho good gameplay is about setting a challenge for the player, not being too easy.
+
+Which leads me onto...ammo storage in the safe-haven...the doors into the 2 ammo storage rooms are time delayed, and take a while to open. I feel timed features make players think in advance a little more...ppl inside the safe-haven can't merely discover amid an attack that they're low on ammo and dash into the ammo storage to replenish supplies. A sensible player will sort this out & get ready beforehand.
+
+Gluon/Snarks...the Gluon in the small room right smack bang in the middle of a blast chamber, I feel is very vulnerable. I've ensured ppl cannot easily set up a tent & camp in there, by placing the Gluon on a tiny ledge...if campers wanna wait for the Gluon to respawn on that ledge & thereby get more ammo, they're gonna have a hard time of it...not only because the prospective camper can't fight back (it's impossible to kill someone outside that little room from the inside of it), but also 2 handily placed Snarks...I know I wouldn't fancy a Gladiatorial battle with Snarks in a room that small. More of a deterent than a trap.
+
+Lifts were a (valid) source of criticism in Penitentiary (slow & difficult to use)...Maximillian only has 1. Well, 2 really, but both are right next to each other. I feel that in use, the lift(s) in Maxi don't detract from connectivity like they did in Penit by being hard to operate. When one lift is up, the other is down, and vice versa, so no-one will ever need to stand around waiting for a lift. Just run onto a waiting lift, and press the button...simple & instantaneous.
+
+Oh well, I'm just relieved the damn thing fully compiled in the end without crashing...I had massive problems getting Qrad to run, due to the very high 'lightdata' (99.8%...the reason for omitting the switchable lights in the main storage room) in particular, so finally releasing Maximillian has been nothing short of a miracle.
+
+
+
+WHAT'S NEXT:
+Well, after the trouble I had compiling Maximillian with Qrad, I reckon my next map will be 1 room, 1 respawn point, no other entities, and that's it. Ok Qrad...let's see ya think of an excuse not to compile that, ya b'stard! Seriously, future maps are...
+
+"MAXIMAL"
+Gustavo3_Maximal.bsp
+A quick transition of Maximillian from this deathmatch version to TFC, primarily to learn the TFC entities before my main event, Lopan (see below). The structure is already done...'just' the re-texturing & TFC entities to do. Basically, it is a mirrored Maximillian without any of the blast chambers/nukes, with 2 main connection at the point of symmetry. Type of game? Command points (6, and a command centre per team). Should be ready in a few weeks.
+
+"LOPAN"
+Gustavo4_LopanSeige.bsp   and   Gustavo5_LopanEvacuate.bsp   and   Gustavo6_LopanNitro.bsp
+A TFC map called "Lopan" (think of an Oriental-like pronounciation..."Low-Pa"). The (Colossal, capital "C") layout has already been decided upon (on paper). The structure won't take long, and in fact a large portion of it has already been done while the playtesting of Maximillian has been taking place. To give sketchy details, it's a "Capture The Flag" map a la 2fort (NOT symmetrical though, at all). It's also a "Hunted" map a la Hunted, and...uhm...also a "Territorial Control" map a la CanalZone2. Yep, the Gustavo3_LopanTFC.zip will have three bsp maps! Each will play very different though, and the layout will be altered to suit each style of gameplay.
+
+"FU FE"
+Gustavo7_Fu_Fe.bsp
+A HL DM map...a military establishment, being a series of concrete bunkers set into several hills/valleys, with a XEN infestation in the bowels of some bunkers. Working title of "Fu Fe". I've got a few ace ideas for it already imho. One of the ideas...well, all I'm saying is that fans of the film "Alien" will be in for a treat. ;)
+
+Not sure about anything after map number 7...partly because Quake3 may well be out at that time, so <God forbid> I may switch from Half-Life mapping to Quake.
+
+"E.F.N.Y."
+An "Escape From New York" mod??
+Just a thought, but I'm thinking about a collection of 'Hunted'-style maps inspired by the movie "Escape From New York"...the Presidential plane gets downed over NY, and with the aid of his bodyguards the pres has to find his way out. Could be a wicked Mod, with new models & low-tech weapons for the "Punks" (especially the snipers, but maybe calling them Partisans would be more appropriate in such a mod...more guerilla warfare than sniping).
+
+Hope you like Maximillian. I'd appreciate feedback too...to my email address at the top of this text file (preferably), I'm a regular reader of/poster to the alt.games.half-life Usenet newsgroup, and often read the Radium forum...contact me at any of those places really. It's a major commitment putting in the time to design these damn maps, so I fully welcome any & all constructive encouragement / ideas / criticisms / praises.
+
+
+
+** INSTRUCTIONS **
+
+Make sure you put the Gustavo2_Maximillian.bsp file into the following directory:
+
+...\\valve\maps
+
+And of course keep this text file. 8¬)
+
+
+
+** CONSTRUCTION **
+
+Base                    : Created from scratch.
+Editor(s) used          : Worldcraft v2.0
+Known Bugs              : Sod's law they only surface AFTER release, like what happened with Penitentiary...read the review at Radium for more info, look for the "water" bug...during testing it did not surface at all, and even after Radium found it I still can't replicate it on my home pc (my guess is that it's probably graphics card dependant). There is one unavoidable "feature" in Maxi though...in stretching some of the textures, decals will be out-of-shape and/or size in some places. Not a bug as such, just looks odd. Also something a playtester brought to my attention...placing lasermines on the skull&crossbones doors will stop them from re-opening when a test-fire can be triggered (though the test-fire CAN still be triggered). Nothing I can really do about that.
+Build Time              : Around 60-70 hours in total; 4-5 hours of paper-based design & doe-eyed staring into space, 30 hours creation time, 30 hours polishing it up/solving probs, with around 10 hours playtesting. All estimates of course.
+Compile machine         : Intel PentiumII 300mhz, 8mb Ati@Work AGP, 224mb ram, 12mb Creative Labs Voodoo2, DVD, 120mb floppy, etc, blah blah.
+Compile Times...
+QCSG			: 59 seconds
+QBSP2			: 42 seconds
+VIS (full)		: 1353 seconds (~ 23 mins)
+QRAD (extra)		: 2329 seconds (~ 39 mins)
+
+
+
+** PERMISSIONS **
+
+Gustavo2_Maximillian.bsp is copyright K.Edwards 1999.
+
+You *MAY NOT* sell this map for money without my permission. You *MAY NOT* alter this map to change something you don't like. You may ask me to send you the rmf file, to take a look around and see how things work, but I *WILL* say *NO* if you ask to use it as a base for your map.
+
+If a magazine wants it on its CD, that's fine, *BUT* you *MUST* send me a copy of the mag and credit myself with it's construction, *AND INCLUDE THIS TEXT FILE*. If you review this map for a website/magazine, I'd appreciate an email/whatever so I can read the review...not essential, but just to be appreciative of the time I've put into this map...I, for one, send email's to those people whose maps I like & play on a lot.
+
+You have yerself a nice day, y'hear?
+
+Oh btw, if you see me on a server, I *CANNOT* speak Spanish/Portuguese/Smack talk/whatever...just so I ain't assumed to be a Colombian drug baron like I have been a few times before (or corderoy wearing Uruguayian goat shepherd, that happened once). 8¬)
+
+
+
+IN YUR FACE.
+--
+Gustavo.

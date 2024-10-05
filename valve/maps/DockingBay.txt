@@ -1,0 +1,60 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title           : Docking Bay
+Filename        : DockingBay.bsp
+Author          : Jean-Christophe Turcot
+Author Email    : seb.turcot@videotron.ca
+Home page       : None
+Description     :
+Previous Maps   : 
+
+------Credits and Thanks---------------------------------------------
+
+    Thanks to Valve and Id for the games and thanks to wavelenght for the 
+great tutorials.
+
+------Additional Info, Tips, and Notes-------------------------------
+
+    Send your feedback at "seb.turcot@videotron.ca".
+
+------Play Information-----------------------------------------------
+
+Deathmatch      : yes
+Single Player   : no
+Map Description : A typical deathmatch map whith a couple of nice light FX.
+How Many Players: 4 to 12
+
+------Map Information------------------------------------------------
+
+New Textures    : no
+New Sounds      : no
+
+------Construction---------------------------------------------------
+
+Base            : from scratch
+Editor(s) used  : worlcraft
+Compile Machine : PII 400, 128mgs
+Compile time    : about 45 min
+Playtest time   : a lot
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "DockingBay.bsp" in
+your half-life/valve/maps directory.
+
+------Copyright-Permissions------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!. 
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

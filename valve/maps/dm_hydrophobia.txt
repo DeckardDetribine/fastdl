@@ -1,0 +1,58 @@
++---------------------------------------------------------------+
+|                         DM_HYDROPHOBIA			|
+|                         BY VICTOR-933				|
++---------------------------------------------------------------+
+| SUMMARY:							|
+|								|
+| We return to the Tycho Complex, this time delving deep within |
+| Sector 7 Environment Processing to visit Water Treatment. One |
+| of the oldest sections of the Tycho Complex still in daily	|
+| operation, decades of use (as well as the corrosive treatment |
+| chemicals) have stained every surface a dull brown. It's up	|
+| to you and your friends give the facility a fresh coat of red |
+| paint...							|
+|								|
+|								|
+| 	Every weapon is present. Make good use of them. 	|
+|								|
+|	Oh, and, do pay attention to the warning signs.		|
+|		They're there for your own good.		|
+|								|
++---------------------------------------------------------------+
+| DEV NOTES:							|
+|								|
+| r_speeds get rather high in some spots, but stay below 1100.  |
+| Should still run on most toasters.				|
+|								|
++---------------------------------------------------------------+
+| INSTRUCTIONS:							|
+|								|
+| Extract this archive to your half-life/valve folder.		|
+|								|
+|								|
+| IF NECESSARY:							|
+|								|
+| Place WAV files in half-life/valve/sound/dm_hydrophobia	|
+| Place SPR files in half-life/valve/sprites/dm_hydrophobia	|
+| Place BSP file in half-life/valve/maps			|
++---------------------------------------------------------------+
+| CREDITS:							|
+|								|
+| TEXTURES:							|
+| 	ShaderLabs "Majestic" Pack				|
+| 	Nightwatch (NW.WAD)					|
+| 	Doom 3							|
+|	Victor-933						|
+|								|
+| SOUNDS:							|
+|	Doom 3							|
+|	Half-Life 2						|
+|	(Hacked together and altered by Victor-933)		|
+|								|
+| SPRITES:							|
+|	sdrip_192_fix.spr, spotlight_beam.spr by Victor-933	|
+|	All others modified stock sprites			|
++---------------------------------------------------------------+
+| 	      Find more of my stuff on Gamebanana!		|
+| 	    http://www.gamebanana.com/members/213517		|
++---------------------------------------------------------------+

@@ -1,0 +1,67 @@
+================================================================
+Title                   : Towers of Orion
+Version                 : 1.0
+Release Date            : April 20th,2000 
+Filename                : apohldm11.bsp
+
+Author                  : Florian 'Apocalypso' Halbritter : apo@planethalflife.com
+                          
+Web Page                : http://www.planethalflife.com/apo
+                          
+
+Description             : Half-Life Deathmatch Map 
+
+Other DM-levels by author: APOHLDM1 - Rage Central 
+                          APOHLDM2 - The Epsilon Base	
+                          APOHLDM3 - No place to hide
+                          APOHLDM4 - Face your Fate
+                          APOHLDM5 - En Garde
+                          APOHLDM6 - Riposte
+                          APOHLDM7 - Touche (not released so far)      
+                          APOHLDM8 - The Alpha Complex
+                          APOHLDM9 - Diabolic
+                          APOHLDM10 - Temple of Stars
+                          (go to www.planethalflife.com/apo to download them)
+
+================================================================
+--- Play Information ---
+Game                    : Half Life
+Level Name              : Towers of Orion
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : Yes
+Known bugs              : In two rooms of the map is an environment sound (echo,etc.). 
+                          Sometimes this sound takes effect on the whole map.
+                          
+
+--- Construction ---
+Editor(s) used          : WorldCraft 2.1
+Construction Time       : 5 weeks
+
+
+
+Installation
+------------
+
+Unzip the file apohldm11.bsp into your ...\sierra\halflife\valve\maps directory
+
+
+Special Thanx...
+----------------
+...to Christopher Buecheler from the Texture Studio (www.planethalflife.com/studio) 
+the creator of all those cool new textures used in my map.
+
+
+Copyright / Permissions
+-----------------------
+This level is copyrighted by Florian Halbritter,2000.
+
+The new textures uses for the map are copyrighted by Christopher Buecheler
+
+You MAY distribute this level through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.
+

@@ -1,0 +1,45 @@
+CrossPort
+a Half-Life deathmatch experience by DocRock
+made for the TWHL Competition 34 - Half-Life Re-imagined 
+
+This map is for Half-Life 1 Deathmatch
+
+bsp name:	crossport.bsp
+author email:	docrock10@hotmail.com
+
+map based on: 	crossfire by Valve
+
+utilities used:	valve hammer 3.5.2
+		zoner's 64 bit compile tools
+		wally
+		ms paint
+ 		goldwave
+	
+wadincluded:	crossfire_x.wad
+
+PC Specs:		Windows 7 Professional
+		Intel(R) Core(TM) i7-3930K
+		3.2 Ghz 
+		16gb memory 64 bit
+		
+Compile Time:	10 mins	
+
+map dedicated to:	babykitkat (always)
+
+beta testers:	babykitkat
+
+skybox name:	sandtrap by unknown author
+	
+installation:	crossport.bsp to valve/maps
+		crossport.txt to valve/maps
+		crossport.res to valve/maps
+		sandtrap tga files to valve/gfx/env
+		sounds to valve/sound/cross_x
+		sprites to valve/sprites/cross_x
+		
+Special Map note:	This map is over 10mb in size.  To run the map
+		without error on your server, ensure to have
+		sv_filetransfermaxsize set to 20480000.
+
+Sounds and other resources fixed by ~X~
+- Learn hot to make stuff for Half-Life, dammit! It's 2017 and you still making crap!!

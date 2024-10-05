@@ -1,0 +1,196 @@
+Escape Reality - For HalfLife (Deathmatch)
+by Lloyd Morris
+
+
+
+Design Philosophy: 	After Aftershok I decided to take on a new 
+			design philosophy. I have tried to move away from 
+			concrete bunkers / outposts and so I've decided
+			to design something a little different.
+			
+			____________________________________________
+
+Fully Tested by: King Of The Jungle LTD and Department of Engineering
+============================================================================================
+
+Title:		 ESCAPE REALITY
+Filenames:	 EREALITY.bsp, EREALITY.txt
+Author:		 Lloyd Morris
+Address:	 WGLKM@eidosnet.co.uk
+
+Previous Levels: Aftrshok.bsp (Radium:63%)
+
+Description: 	 Setting- 9:47AM  17/3/2433
+
+		 This is a large level with some airy locations for about
+		 10 players (14 starting locations).
+		 The setting is of a building with some strange architecture. 
+		 My aim was to create a large level yet keep architecture interesting.
+		 Generally dual tone texturing - dark/light - was employed as
+		 multi-coloured textures wouldn't have gone with the
+		 surroundings. In this instance I let the lighting
+		 itself add the necessary colour.
+		 This time around I have taken great care in terms of the
+		 connectivity of this map (all rooms have multiple exits) to
+		 reduce camping.
+		 All weapons except the Hive-Hand are present, but the more powerful ones
+		 (RPG, EGON, GAUSS) are more difficult or dangerous to reach.
+============================================================================================
+
+ 		The average wpoly count on the map is 239 but in certain places where the
+		wpolys get a little high the epolys have been kept to a minimum. In order 
+		to cut epoly counts, I have used the weaponbox entities. This also cuts
+		down on the total entity count for the map - again this should increase 
+		the speed - and at the same time increased the number of weapons / ammo.
+		Epoly counts should not pass much over 1000.
+		_____________________________________________________________
+		Explanation of how to get some of the weapons:
+
+		- To get the EGON which is situated in the GAS CHAMBER you must risk
+		the POT LUCK teleporter in the LOW GRAVITY room. This has four
+		destinations which change every 15 seconds. You will lose a small
+		amount of life in the GAS CHAMBER but after a couple of seconds you will
+		be teleported back to the LOW GRAVITY room.
+
+		- To get the GAUSS which is situated in the BEAM TRAP room you must first
+		press the green button marked SAFETY HOOD which is situated up the small
+		flight of stairs at the top of the large 3 layered open room with 2 pool
+		tunnels at the bottom. Press the keypad which emerges and the camera will
+		switch for one second to a view of the safety hood cutting off the beams.
+		You then have a few seconds (it can be done:) to retrieve the GAUSS before
+		the hood retracts.
+
+		- To get the RPG in the SEMICIRCULAR TUNNEL simply strafe towards the
+		small opening to the right just after the fan starts to suck you in. You
+		should just be able to grab the weapon and reach safety.
+		_____________________________________________________________
+	- Purpose of the circular glassy hovering things (CGHT):
+
+	In the BOTTOMLESS POOL (which by the way is where the CROSSBOW is found)
+	there is a lever. Under the pool there are two of these CGHTs. Each is a teleport
+	leading to another one, e.g. to the one in the LOW GRAVITY room. The lever in the
+	pool changes the destination of both the CGHTs. The only CGHTs which teleport you
+	anywhere are the ones under the pool. If you jump through any of the others you
+	will hear a sound but nothing else will happen as these are destinations.
+
+	- Note that the central arched tree type structure is climbable at the
+	edges as the arrows which appear as you get close indicate.
+
+	- Note also that in the low gravity room where walkways have square holes
+	in them, jumping height is greatly increased.
+		______________________________________________________________
+		Weapon Placement:
+
+		AMMO (Total: 57 Locations)
+		----
+			9mmbox 		 1 Location
+			9mmAR		14 Locations (1700 bullets)
+			Buckshot	11 Locations (90 shells)
+			357 Bullets	 4 Locations (45 bullets)
+			Crossbow Bolts	 9 Locations (100 bolts)
+			ARGrenades	 7 Locations (25 grenades)
+			RPGclip		 8 Locations (12 rockets)
+			Uranium		 3 Locations (175 charges)
+
+		WEAPONS (Total: 46 Locations)
+		-------
+			9mmAR		 7
+			357		 5
+			Crossbow	 3
+			Shotgun		 6
+			Egon		 1
+			Handgrenade	 6 Locations (37 grenades)
+			Gauss		 1
+			Satchel		 5 Locations (13 charges)
+			RPG		 1
+			Tripmine	 8 Locations (24 mines)
+			Snark		 2
+		 
+============================================================================================
+
+Build time:	6 long weeks including 2 days on lighting and a day on weapon placement
+		not to mention a few days just aligning textures. Also about 8 weeks
+		testing.
+
+		Thanks to Alnya, Tony Gowland j-sam-t, JoNaS, QS, evile dick, Un_ethical and
+		kman (testers at dept of engineering - www.halflife.lowlife.com) and the
+		guys at King of the Jungle LTD.
+
+Additional Credits:	i)   My Family
+			ii)  Valve / Sierra
+			iii) id Software
+			iv)  Autolycus and everyone at Halflife ERC
+			     for teaching me everything I know about
+			     level design with Worldcraft.
+			v)   Sean Cavanaugh for his modified compile
+			     tools.
+			     Ashley Bone (Pakexplorer v1.2)
+			     David "Nighthawk" Flor (Spriteviewer v1.05)
+			vi)  Radium - whose comments on my previous
+			     map were invaluable to the design of this
+			     and future maps.
+			vii) MoOg and Dyne4 for post testing advice.
+
+
+================================================================
+Map Instructions:
+
+	Unzip EREALITY.ZIP and place EREALITY.BSP into your
+	Half-Life/Valve/Maps directory.
+
+================================================================
+Information:
+
+		Average Polygons Visible: 239
+
+****Test Machine : P180 80MB RAM Voodoo2 - Average of around 50 - 72fps****
+**** Compile Machine: PIII 500 256MB RAM Voodoo2****
+**** Recommended Machine: P200 ****
+
+
+		Single Player	- No  (But there is a start point for
+				       practising purposes)
+		Deathmatch	- Yes (8-14 Players. It's a big level
+				       so the more the better)
+		Co-operative	- No
+		Difficulty Settings
+				- No
+		New Textures	- Yes (Ereality.wad incorporated into BSP)
+		
+		ITEMS: ALL WEAPON TYPES (EXCEPT HORNETGUN) ARE PRESENT.
+================================================================
+
+Construction
+____________
+
+
+Base: 		New level from scratch.
+Editor Used:	Worldcraft 2.0
+Known Bugs:	None, but due to the large number of entities present, in
+		single player test runs if you use the /impulse 101 cheat
+		for 'all weapons' you should press the ` to close the console 
+		between each application of this cheat.
+		In other words press ` then type /impulse 101 <enter> then ` and
+		` again and the up cursor and continue to get full weapons.
+
+Compile Machine: PIII-500MHz with 256MB RAM
+HLCSG time:	    271.34 seconds
+HLBSP time:	    104.30 seconds
+HLVIS time:	  18366.87 seconds
+HLRAD time:	   4672.01 seconds
+		______________
+Total time:	  23414.52 seconds (6 hours 30 minutes 14.52 seconds)
+================================================================
+
+Copyright and Permissions:
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS.
+
+This level may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorised to put EREALITY.BSP or EREALITY.WAD on any CD or distribute
+it in any way without Lloyd Morris's permission.
+
+(c) Copyright 1999 Lloyd Morris

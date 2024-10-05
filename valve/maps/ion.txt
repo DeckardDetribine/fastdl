@@ -1,0 +1,82 @@
+**** This map designed for the Half-Life Deathmatch map ****
+
+================================================================
+
+Title			: Ion Chamber
+Filename		: ion.bsp
+Author  		: MJ
+Email Address		: corvette1982@earthlink.com
+Map style		: Small fast pace Arena map
+Number of Teams		: Free for all
+# of Players		: 8-10 players (more the crazier!)
+================================================================
+MAP STATS
+
+Textures Used		: see texture credits below.
+Texture memory used	: 2.48mb	
+Editor used		: Worldcraft 3.33 
+Compiler          	: Q2Beaver 4.0 + ZHLT 2.53
+
+================================================================
+
+INSTALL INFORMATION:
+
+Place ion.bsp, ion.txt, into your 
+Half-life\valve\maps\ directory.
+Place ion.wad into your 
+Half-life\valve\ directory.
+
+================================================================
+
+MAP INFORMATION:
+
+Inspired by Dave Ewing's UT map dm_fractal but not completly copied! Shoot the buttons on the floor to open the doors to the suction fan! Catch someone while there standing on the doors and watch the gibs fly!
+
+Oh and theres 1 easter egg hidden in the map :]
+
+Note about the elevators: They move fast because this is a fast pace map so think quickly!  
+
+================================================================
+
+KNOWN BUGS:
+
+Some parts of the map your hand/gun model will turn completly black due to a light bug.
+If your gun/hand isnt completly pitch black then thats the way the lighting was meant! Its minor though and doesn't effect gameplay.
+
+Note: For maximum viewing make sure in Video options that gamma is in the middle and glare reduction is all the way to the right.
+
+================================================================
+
+ABOUT AUTHOR:
+
+This is my first map release and certainly not the last! Im glad on how the map came out and I hope you enjoy it as well. For my second release I might try a TFC Map so look for that!
+
+================================================================
+
+TEXTURE CREDITS:
+
+Texture Count:24
+----------------
+Textures that are mine: tex 1-6, asdf 1-3, bluemtl, flr, metflr, door(s), cxfdf, door1,	ioncredit, and the lasrl's.
+
+Textures from Natural Selection wad: comp_lights, comp_monitors.
+
+Textures from Wadfather site: flr1, sennicyfan, green_port001, {icyfangrate2, and the +R25monitor's.
+
+If you use any of these textures please give credit.
+
+================================================================
+
+COPYRIGHT INFORMATION:
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+================================================================ 

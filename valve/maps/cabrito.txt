@@ -1,0 +1,49 @@
+===============================
+ EL CABRITO: ARENA DE LA MUERTE
+===============================
+---General Information---
+Title			:  El Cabrito: Arena de la Muerte 
+Translation of title	:  The Young Goat: Arena of the Dead (don't ask)
+Filename		:  cabrito.bsp
+Author			:  Tig'Ol'Bitties (Jeffrey R. W. Kaplan)
+Other levels by author	:  Shindig City (Half-Life DM) & Workhell (a Duke3D map hehehehehe)
+Email address 		:  jrwk@pacbell.net
+Home page		:  http://home.pacbell.net/jrwk/maps/index.htm
+
+---Play Information------
+Map Description		:  An arena tucked into a Mexican village
+Single Player		:  If I was single, yes, I'd be a player. . .
+Deathmatch		:  But of course.
+Teamplay		:  Always nice.  With three or more you can hold the arena. . .
+Recommended # of Players:  AT LEAST 8.  I suggest 10 to really get things rolling.
+
+---Construction----------
+Base			:  an empty grid
+Editor(s) used          :  Worldcraft 2.1
+Compiler		:  Q2 BeaVeR -- what a great program!
+Compile Machine		:  Two rocks, a flint, eye of newt, wing of bat.
+Compile time		:  Is that anything like Hammer time?
+
+---Special Thanks-------
+
+The Author Would Like to Thank. . .
+
+Rhapsody: My right hand man.  Main playtester.  He gets his fair share of goat.
+VANSMAC:  For providing a test server and for being the fearless leader of the House of SMAC
+navyfighter:  The guru of the HL-ERC messageboards.  He is a saint and a genius.  Thank you.
+House of SMAC:  My homeboys, my clan.  A special thanks to Dasterdly for going the extra distance in helping with the playtests.  See our page at www.clansmac.com.  If you ever want to get beat like a rented mule, just step into the House of SMAC. 	   
+Valve Software:  for this blessed game
+id Software:  for starting it all
+OzzyPanties:  for playtesting.  He beats major goat with the hickory stick.
+
+
+---Copyright-Permissions--------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

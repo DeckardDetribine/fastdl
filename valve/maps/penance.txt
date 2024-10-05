@@ -1,0 +1,66 @@
+Map Title           : Penance
+Release Date        : May 6, 2001
+Filename            : penance.bsp
+Author              : SuperCrazy
+Email Address       : nick@nickj.net
+ICQ                 : 2649935
+Web Page            : http://crazymaps.caseynet.com
+Description         : This is my second map, and hopefully people will
+                      think it is far better than my first. Some of the
+                      more common complaints about Alpha were the
+                      simple architecture, the texturing, and some
+                      areas having no reason to enter them. I've tried
+                      to improve that with Penance, and I have also put
+                      a great deal of effort into the connectivity.
+
+                      Hopefully you can have some fun playing this map,
+                      as I know I did in the process of making it.
+
+Previous Maps       : Alpha
+
+Thanks              : Valve for the awesome game.
+
+                      Thori and Leperous for playtesting.
+=======================================================================
+Play Information
+
+Single Player       : Yes
+Deathmatch          : Yes - 12 spawn points
+Recommended Players : 4-6
+=======================================================================
+Construction
+
+Base                : An empty grid
+Editor              : Worldcraft 3.3
+Compiler            : Zoner's Tools 2.5.1
+Bugs                : I don't know of any
+
+New sounds          : No
+New textures        : No
+
+Build Time          : A few weeks of work spread out over three months
+
+Compile machine     : PII 400 128 MB RAM
+HLCSG Time          : 1 minute
+HLBSP Time          : 32 seconds
+HLVIS Time          : 1 minute
+HLRAD Time (extra)  : 19 minutes
+=======================================================================
+Permissions
+
+You may distribute this over the Internet for free as long as the bsp
+file and this txt file are both included with no changes. You may not
+sell this map for profit, and you may not alter or add to it without
+my permission.
+=======================================================================
+Final notes
+
+Please e-mail me if you like this level. Knowing that people enjoy my
+work gives me a huge boost in getting things done. Also, if you review
+this map on a site - good or bad review - please e-mail me as well.
+
+Happy fragging
+
+SuperCrazy
+http://crazymaps.caseynet.com
+May 6, 2001

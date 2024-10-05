@@ -1,0 +1,22 @@
+Map Name:			Boston_Arena
+Map Authors:			Luke & Beau Boston
+Map type:				Multiplayer
+Reccomended Players		2-4  (Preferably 1 on 1)
+
+Email L & B Boston at:		gjk79@dial.pipex.com
+
+Time taken to make map:		2 weeks 3 days
+Time taken to compile:		21 minutes 13 seconds
+
+Custom textures:			No
+
+Special Credits to:			Hellraiser, Koldbear and SuzyQ for playtesting 
+				help and opinions.
+
+Note from Luke Boston:		This is a very small multiplayer map.  It is
+				recommended that you use it for 1 on 1 
+				matches, but 3 way and 2 on 2 seem to be
+				fine here too.  A lot of attention has been
+				put into skillfull tactics and there are many 
+				vantage points for you to take up.
+

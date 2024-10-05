@@ -1,0 +1,12 @@
+Maps » Half-Life » Deathmatch: "Crate_Land"
+
+This was my very first map, I'm deciding to redo it or not, but I feel it’s a waste of time. This map has only one spawn point, really dark, and one huge leak. Yes, you can fall off the map, beware. I thought the map was the greatest when I was a beginner map creator. As for the map it may be dark but the game play isn’t too shabby for a map creator’s first map. The map itself is quite small, has two secrets, and yes the third secret leads to a leak that makes you mystically fly off the map. So be careful, have fun!
+
+map details
+author: Cyax
+status: complete
+map size: tiny
+added: Monday 19th Apr 2004
+views: 1869
+last updated: Monday 19th Apr 2004
+downloads: 1979

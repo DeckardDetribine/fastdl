@@ -1,0 +1,41 @@
+--------------------------------------------------------------------------------------------------------------------
+                                                    - F I G H T -
+                                               by: mr.P (peppe@pihl.as)
+--------------------------------------------------------------------------------------------------------------------
+
+Install: 
+
+Fight.bsp and fight.txt >>----> valve/maps
+The rest >>----> valve/gfx/env (if you dont have that directory then create it)
+
+--------------------------------------------------------------------------------------------------------------------
+
+About the map: this is a small map with arena theme, its perfect for 1vs1 or 2vs2...but i still thinks its 
+funny to play with more people, it gets kinda messy.
+I have used dmc textures (that wad file is great!) to get q2 feeling. 
+If you have some time over have a look at the top sky, isnt the clouds moving? 
+
+- - -
+
+Items: 
+
+Weapons - a few
+
+Items - a few
+
+Misc - some teleports, and some nice traps...just shoot any of the three buttons and see what will happen. 
+
+--------------------------------------------------------------------------------------------------------------------
+
+Credits:
+
+Playtesters - lots of fun
+Textures - Random thanks, *hug* N-A-Y for cool cloud texture 
+
+--------------------------------------------------------------------------------------------------------------------
+
+NOTE: I have a website, but I havent updated it for months...so if you want to find out more about my maps or just
+have a little chatt then visite me on irc; #mapcore or #planethalflife on Gamesnet.
+
+If you still wanna se my homepage: http://www.geocities.com/sorry_m8/
+------------------------------------------------------------------------------------------------------------------- 

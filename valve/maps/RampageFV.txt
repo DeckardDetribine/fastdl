@@ -1,0 +1,72 @@
+Title                   : RampageFV 
+Files                   : RampageFV.bsp
+Author                  : Roger Lee aka "Raider_6"
+Email Address           : tvx@earthlink.net
+Date of release 	: 06/28/99
+Date of final revision  : 09/29/99
+
+Additional Credits to   : Valve Software and Ben Morris for Worldcraft.
+
+Special Thanks to	: Anyone who plays this map :)  
+
++==============================================================================+
+
+* Play Information *
+
+Game			: Half_Life
+Unit Name       	: RampageFV
+Single Player           : No
+Cooperative 		: No
+Deathmatch              : Yes
+Difficulty Settings     : No
+New graphics		: No
+New Features            : None
+
+* Construction *
+
+Base            : New level from scratch
+Build Time      : A month on and off
+Editors used    : Worldcraft 2.1
+Size            : Small
+Players         : 2-4 Max (3 is ideal)
+
+Platform used   : P200MMX 64MB RAM with Voodoo3 2000 16mb PCI
+                  (Don't laugh it rocks !!!)
+
++==============================================================================+
+* Notes *
+
+ This is the final revision of Ramage, thus the suffix FV (Final Version).  The following are most of the revisions I can remember.
+
+1) Light fixtures no longer snag you when you run by.
+2) Lighting tweaked and added visual touches (wall decals, box retexturing, etc.)
+3) Extra ammo for the RPG removed.
+4) Stairs are textured properly now and ladder textures fixed.
+5) HEV charger removed.
+6) Added a locked bay door for a simulated entrance.
+7) Additional spawning points added.
+
+
+ What I wanted to accomplish with this .bsp was a fast moving, smooth deathmatch map that had a hint of military design.  Net games are the best on 56K with less than 4 people and good small maps are hard to come by.  I am very proud of what this map has become and I hope someone out there enjoys it.  
+
+Any feedback would be greatly appreciated and welcomed (even bad :) 
+
+
+* Previous Work *
+
+"In The Beginning" (Mission for Descent Freespace)
+
+If you play freespace you can check out my level at Xanadu's Freespace 
+Mission Archive at     http://descent.gamestats.com/xanadu/   
+
+* Next Project *
+
+Currently working on a new Deathmatch level which I hope will add a tactical feel to the game.
+
++==============================================================================+
+
+* Copyright / Permissions *
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

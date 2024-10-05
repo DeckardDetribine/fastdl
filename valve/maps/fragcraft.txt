@@ -1,0 +1,68 @@
+==========================================================
+Title		:Fragcraft
+Version		:1.0
+Release Date	:June 19, 2001
+Filename	:fragcraft.bsp
+Filesize(zipped):1.48mb
+Author(s)	:Jeff "Alt-Key" Nagro
+Webpage		:http://www.thealt-key.com/
+Email Address	:jeff@thealtkey.com
+Description	:HLDM
+                 
+				    
+==========================================================
+---Play Information---
+Game		:Half-Life
+Level Name	:Fragcraft
+Game Mode	:DM
+Players		:8-16
+Known Bugs	:None
+
+
+---Construction---
+Editor Used		:Worldcraft 3.3
+Compile Machine		:Coppermine 1GHz, 256MB RAM
+Base			:Scratch
+Construction Time	:6 Weeks
+
+---Notes---
+
+Fragcraft is my last Half-Life map. I am moving on to bigger, better technologies and games that aren't over a decade old. Half-Life used to be something I enjoyed. Now it is something to be exploited and tolerated. Ever since Valve patched the netcode, the weapons have been rendered useless, and the only way to really get kills is with explosives. I have nothing against the weapons as much as I do against the game's creators, who thought it logical to allow 56K users to experience similar gameplay as cable users.
+
+Just for the record, I DO NOT support airborne, Gauss-abusing Contact Grenade users, who have only adopted a flaw in gameplay and not talent or skill. Although both weapons are available in the map, they are placed strategically. I am the one who makes the maps, and you are the ones who play them. I can only control things on one end. Play fairly, use your skills, whatever they may be.
+
+E-mail me with any comments on the level, praise or criticism.
+Any feedback is much appreciated.
+
+
+---Special thanks---
+Thank you to everyone who helped playtest the map, as well as [U$A]Damaged-Bob for a whole ton of design ideas. I have to thank the mappers at Valve, Scary-One, and Gustavo as well, for they've been my biggest inspiration for this map. Extra thanks to Gustavo for giving me some advice on the map. A big thanks also goes my friend [U$A]CHA0$ for offering to help me learn UnrealEd and the Serious Editor instead of buggy ol' Half-Life.
+
+================================================================
+
+Copyright and Permissions
+
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name fragcraft.bsp and is supplied in a zip file called 
+fragcraft.zip that also contains this text document and 
+no other files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 2001 Jeff "Alt-Key" Nagro
+
+===============================================================
+
+This template was constructed by Hornetking. 
+http://www.planethalflife.com/hornetking/
+hornetking@planethalflife.com
+
+===============================================================

@@ -1,0 +1,72 @@
+Title                   : "DM Twist"
+Filename                : dmtwist.bsp
+Author                  : Poor Yurik (John Attea)
+Other lvls by author    : None as of yet.
+Email address           : jattea@millbrook.org
+			  yak@netaxis.com (during holidays and summer)
+			  your safest bet -- email both.
+Home page               : www.netaxis.com/~yak/levels (Coming Soon) 
+Description             : An industrial factory where people come to die.
+Additional Credits to   : *Valve Pimpware
+			  *Autolycus, for his endless help
+			  (halflife.gamedesign.net)
+			  *The people who sat behind me while I worked
+			   for hours on end. (Law, Rob, Karl)
+			  *Karl for letting me throw ideas at him
+			  *Conrad, who convinced me to toss out the
+ 			  ugly initial green "stack"-like (GoldenEye)
+			  textures on the first compile.
+Single Player           : Yes!  Walls not in DM, and a few fun fights.
+Deathmatch Player       : 2-6 (8?), 16 actual start points.
+                         I originally intended it to be a 1 on 1 map
+			 that would get buckwild with 4 or more.
+			 Apparently, this level was destined for mass
+			 carnage.
+Difficulty Settings     :N/A
+New Textures            :No
+CD Track                :No
+
+* Construction *
+Base                    :Original Conception and Build.
+Editor(s) used          :Worldcraft v2
+Compile Machine         :P200, 64Mb Ram.
+Compile time            :2 hours
+
+================================================================
+                ::: ADDITIONAL INFO :::
+================================================================
+This is my first completed brush-tech map ever
+
+******I made this map with all my brightness settings in-game on max,
+hence darkness, unless you do the same.  I spent alot of time making
+the lighting look soft and natural on THOSE settings.***********
+
+there is one crafty secret in the level. (batteries galore)
+
+I know the skull from Hamlet is yorick.  I'm a different skull
+skull altogether :-)
+
+ps thanks to:
+*Anyone who spent the time to d/l this, i luv ya
+*Bungie for Marathon -- the game that to this
+day, still inspires me)
+*Marilyn Mongoose, Redman, Korn, Tool, Rammstein, and all the other
+music that made this level possible.
+*Immortal, for the now defunct Pointless Audio, the best RA show that
+will ever be.
+*www.llamaweb.com for all the free pr0n
+
+Twist, Twist, Twist, Twist, Twist, Twist, Twist, Twist.....Twist.
+
+~X~: fixed some render modes.
+
+* Copyright / Permissions *
+
+-Authors MAY NOT use this level as a base to build additional levels. 
+
+-You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+-This BSP may be distributed ONLY over the Internet and/or BBS systems.
+

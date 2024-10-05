@@ -1,0 +1,96 @@
+================================================================
+Title                   : Enraged - for Half-Life
+Date                    : 15th January 1998 rereleased on the 20th
+Filename                : enraged2.bsp
+Author                  : Steve Lyne aka "Scary-one" of The Groovy Reapers! [Grr] (Sweden)
+Email Address           : scooby.doo@swipnet.se or soon steve.lyne@telia.com
+Home Page               : home9.swipnet.se/~w-91844  .. and to my q2 clan .. www.clanworld.dk/grr
+Mail Address            : Steve Lyne
+                          Emausgatan 23c
+                          722 24 Västerås
+                          Sweden
+
+Important note		: This is the second release of the map ... due to some unforeseen problems with the barrels :) It turned
+			  out that any player pushing a barrel too close to a DM-start postion, was able to make respawning players freeze
+			  when entering the game - completely unable to move from the spot.
+
+			  I considered my options and decided that it was worth doing a second release. I'm aware of the hassle
+			  which 2 versions may well cause, but, considering the great response I gotten to the map so far, I feel that
+			  it would be a great shame to have a silly little thing ruin what otherwise is a very fun level.
+
+			  The fix :- well quite simply raised respawn points where the base is one vertical pixel. This prevents barrels
+			  from being able to slide onto them (which was previously possible with the teleport destination point.) I also 
+			  fixed a couple of unaligned textures which had been missed the first time round :) I have also moved one of the DM
+			  starts to the other side of the cellar room because the raised respawn point didn't look right in its original 
+			  position.
+
+			  I'll take the opportunity to thank everyone for their comments .. and I promise to beta test more thoroughly in the future.
+
+			  /Steve
+
+Description             : Well I'll have to say it - I didn't think I'd do another one for Half-Life. I'm quite 
+			  disappointed with HL multiplayer on the Internet so far, but in expectation of a patch I did this.
+			  The release of Enrage coincides with the release of the 1.0.0.8 patch ... I've got my fingers
+			  crossed - who knows even HL may be rocking on the net soon.
+
+			  Enraged is a quite typical of my design style. I like levels to be deathmatch locations as opposed to
+			  being "real" urban places. I like the outpost/deserted feel. It shouldn't feel like a shop or an office.
+			  Enraged doesn't feel like an office anyway :) so I'm happy, and it is intentional. I'm still aiming for
+			  typical server/lan setup .. with about 4 to 12 players. I like the result although I've found myself
+			  in a tight situation .. not really knowing which way to go with the detail/r_speeds issue. I've kept 
+			  them in mind the whole time but this level IS detailed .. and the price is normally high. It doesn't 
+			  give the "unable to draw surfaces" error in software at any point,  .. but I wouldn't play Enraged with
+			  a software based PC anyway. For that matter I wouldn't play Half-life in software at all. I think this
+			  level will play well with a nice Voodoo II/PII combination - so go and buy it !!  
+
+			  A big thankyou to littlemute for letting use his vickers1920 gun model in Enraged. It saved me the time
+			  designing my own gun. I think it looks really cool. I adjusted the sound, flare size and accuracy but 
+			  the model is the original. 
+
+			  He can be gotten hold of here :- tajomaru@execpc.com or littlemute@woodenmen.com
+							   Homepage: http://www.woodenmen.com
+
+Additional Credits to   : i)   ID software
+                          ii)  Valve/Sierra
+                          iii) My family
+			  iv)  [Grr] .. The Groovy Reapers - for being the greatest q2 clan in the world ;)
+			  v)   Radium ... a damned good level review site found at www.planethalflife.com/radium
+			  vi)  My map making buddy Jeff for beta testing (Check out his DMJCentral - for Half-life
+			       and other maps in the DMJ-series !!) 
+
+================================================================
+
+* Play Information *
+
+Single Player           : No (one start)
+Deathmatch              : Yes, 4 or more players would be ideal, up to about 12 or so.
+Difficulty Settings     : No
+
+* Construction *
+
+Base                    : From scratch
+Editor(s) used          : Worldcraft 2.0
+Known Bugs              : I don't think so .. brave words huh!
+
+Build Time              : on and off about 4 weeks.
+
+Compile machine         : PII 333 with 96 megs of SDRAM 
+QBSP Time               : 1 minute
+QVIS Time               : 20 minutes
+QRAD Time (extra)       : 13 minutes (roughly)
+
+* Permissions *
+
+You MAY NOT sell this sucker for money!
+
+If a magazine wants it on its CD - that's fine - *BUT* you *MUST*
+send me a copy. OK!! Then we are quits :) My address is at the top!
+
+General BBS use - sure, I don't have a problem with that.
+
+You MAY NOT alter or add to this level without my permission.
+
+* Last but not least *
+
+Please, please, please email me if you like this level. I need to know that you like what you see.
+It boosts my confidence and gives me a big kick up the ass to get the next one done.

@@ -1,0 +1,62 @@
+January 1, 1999
+
+================================================================
+
+Title                   : Die Burg
+Filename                : thdmburg.bsp
+Author                  : Thomas Hieber
+Address           	: thieber@bluewin.de
+Description             : This is a deathmatch place, that looks (a bit) 
+                          like a mediaeval castle (called Burg here in 
+                          Germany). It has a small exterior area, plus 
+                          5 interior floors.
+                          I guess the map is good for 2-6 players (the 
+                          maximum I have tested was 3 players, and I guess
+                          it is ok for more...)
+Special Thanks to       : VALVE
+Webpage                 : http://members.xoom.com/thieber
+
+================================================================
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes
+Cooperative             : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : Yes (compiled into the bsp)
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+
+Construction
+
+Base                    : New level from scratch
+Editor used             : Worldcraft v2.0
+Known Bugs              : In the celler, there is a waterhole, that is pretty 
+                          hard to enter. The player seems to bounce from the
+                          surface back to the ground.
+Build Time              : Hard to say... about three weeks, but only some work
+                          now and then. (It was my first map for an ego-shooter
+                          ever.)
+Compile machine         : PII 333 with 128 megs of SDRAM 
+Compile time            : about 2-3 hours for a final build.
+
+================================================================
+
+Installation
+
+To play this level, extract the file "thdmburg.bsp" into
+your half-life\valve\maps directory and then start the game.
+Start a deathmatch server and type "map thdmburg".
+
+================================================================
+
+
+If you enjoy playing this level, or have some ideas how to make it better, please 
+send me an e-mail.
+
+Thomas Hieber
+thieber@bluewin.de

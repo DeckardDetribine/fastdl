@@ -1,0 +1,15 @@
+// overview description file for hullu5dm_templecore
+// Z Min 1922 Z Max -129
+
+global
+{
+	ZOOM	1.23
+	ORIGIN	-640 736 1216
+	ROTATED	0
+}
+
+layer
+{
+	IMAGE	"overviews/hullu5dm_templecore.bmp"
+	HEIGHT	-129
+}

@@ -1,0 +1,96 @@
+=======================================================
+dr_jungle: a Half-Life Deathmatch Experience by DocRock
+for the TWHL: Map From Layout Contest
+=======================================================
+
+Built For:			Half-Life deathmatch
+Map Name:                       	dr_jungle.bsp
+Filesize:                       	5.27 mb unzipped
+Author:                         	DocRock
+Author email:                   	docrock10@cox.net
+Homepage:		http://docrocksmaps.homestead.com/docmaps.html                    
+wadincluded in map:          	voodoo.wad
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:                 		No
+Co-Op:                         		No
+Deathmatch:                     		Yes
+
+Suggested Players:             		6 - 12
+New Textures:                   		Yes 
+New Sounds:                     		Yes
+New Models:                     		Yes 
+
+Map description:                		Map made for the TWHL Contest.					
+=======================================================
+CONSTRUCTION:
+
+base map:                       		Voodoo_Lounge by DocRock
+prefabs:                        		None
+editor used:                    	 	Hammer 3.5
+utilities used:                 		Zoner's Half-Life compile tools, Paintshop Pro 7, Wally
+					
+known bugs:                     		None
+compile machine:                		Intel Pentium 4   2.53 GHZ
+compile time:                   		5 hours
+
+=======================================================
+INSTALLATION:
+
+1. 	Run Winzip and unzip dr_jungle.zip.
+
+2. 	Place the dr_jungle.bsp and dr_jungle.txt in your valve/maps folder.  
+
+3.	You'll need to take the gfx folder and open it.  Then, inside there will be a folder called env.  		Place the files from the env folder [six swamp2.tga files] into your valve/gfx/env folder.
+
+4.	Open the sound folder.  Place the folder called forest in your valve/sound folder.
+
+5.	Open the sprite folder. Place the fixflame.spr in your valve/sprites folder.  If they are already 	there, do not replace them.
+
+
+=======================================================
+OTHER LEVELS BY DOCROCK:
+
+Too many to list here.  
+
+You'll find every map I've ever made here:
+http://docrocksmaps.homestead.com/docmaps.html   
+
+=======================================================
+SPECIAL THANKS:
+
+To my babykitkat, my lover, my sweetheart, my wife.  I love you!!  My #1 fan, thanks baby
+for playtesting and helping me with this awesome map!  I DEDICATE THIS TO YOU!
+
+Thanks for qUiCkSiLvEr for the beta test and invaluable insight.
+
+=======================================================
+DOC'S NEXT MAP....COMING SOON:
+
+kitkat_express 2
+=======================================================
+
+Authors MAY use this level as a base to build additional levels as long 
+as you give me credit in your read.me as using this map as a base to 
+build your level.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This map includes textures used in other Half-Life modifications as well as textures
+used in other PC games.  It is not my intention to steal these textures and use them
+for personal gain.  I use these textures because I think they are very well done and
+am honored to use them.  Please do not be offended that I borrowed your
+textures if you are the author of them.
+
+This LEVEL may be distributed ONLY over the Internet.
+
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+PLEASE PLEASE PLEASE email me with any comments about this map or any 
+of my other maps because I love feedback good or bad...and I will do my 
+best to answer any and all emails regarding my maps.

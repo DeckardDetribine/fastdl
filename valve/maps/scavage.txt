@@ -1,0 +1,32 @@
+|----------- SCAVAGE -----------|
+• MADE BY:
+Patrick 'Pata'
+-------------------
+• KNOWN ALIASES:
+ FPSB:
+Karmaslave 501 (Current), Fanatic Geek, Ouchbeck, Boomerxxx
+ TWHL:
+Boomer
+-------------------
+• CONTACT INFORMATION:
+ EMAIL:
+perverspolitiker@live.se
+ STEAM:
+iPatrick (http://steamcommunity.com/id/ipatrick)
+-------------------
+• HOMEPAGE:
+http://pataislive.webs.com
+-------------------
+• TOOLS USED IN CREATION:
+Valve Hammer Editor 3.5 w/ ZHLT Tools (for making)
+Half-Life (for testing)
+Wally (for packing textures)
+-------------------
+• OTHER CREDITS:
+ Valve:
+Textures.
+ Adam Cooper:
+Textures.
+-------------------
+• OTHER:
+You are free to redistribute this as long as the content of the zip file remains the same and untouched. 

@@ -1,0 +1,20 @@
+HLDM3_SUDDEN_DEATH by Toohr Vyk (victor_nicol@hotmail.com)
+
+This is the third map from the «saga» (actually, it’s my eleventh map, but most of them were jerk). Some information about my map :
+
+Name : Sudden Death
+Location : haven’t decided yet.
+Style : I call this style «Concrete Alien».
+Type : Half-Life Deathmatch and Teamplay
+
+Time spent : 2 days
+Made from : NOTHING (not even a draft)
+Known bugs : the voice played when you pick up THE weapons (egon, tau, rpg) only plays once for
+         each weapon. Dunno how I can fix it…
+
+Other notes : in the outside area with the RPG, I manages a sort of « mirror effect » on the water.
+                      Check it out.
+
+Wait for my next map (better than this one), 1vs1, HLDM4_VOID !
+
+Any feedback is welcome ! Remember : victor_nicol@hotmail.com

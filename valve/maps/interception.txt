@@ -1,0 +1,27 @@
+*=========================================*
+	Half-Life | Interception
+*=========================================*
+
+Name    | Interception.
+Size    | Medium.
+Author  | Nay [tecmds@icqmail.com].
+Website | http://www.nay.cscentral.com/.
+Compile | HLCC, WC3.3, Terragen, Wally, ZHLT.
+Machine | P733, 512mb, GEFORCE 3.
+
+*=========================================*
+	Additional map info
+*=========================================*
+
+There are a whole range of weapons scattered 
+throughout the entire level, Also there is a 
+power box located inside of the main base.
+If you shoot it the building will blow up :P
+and all the lighting with it.
+
+Any comments or feedback just send to me at 
+: tecmds@icqmail.com
+
+*=========================================*
+	http://www.nay.cscentral.com/
+*=========================================*

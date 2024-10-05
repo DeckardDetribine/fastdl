@@ -1,0 +1,5 @@
+MK_Arena* : Created by Kevin Matlock, 2006
+Recommended Number of Players : 3-8
+Notable Features: Numerous Traps and Secret Rooms
+
+*MK_Arena is a Half-Life 1 deathmatch level and is a 3d compilation of arenas seen in mortal kombat II.  Enjoy!

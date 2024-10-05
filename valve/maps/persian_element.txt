@@ -1,0 +1,58 @@
+PERSIAN ELEMENT
+a deathmatch experience by DocRock
+
+** built for the TWHL mapping contest 33
+	www.twhl.com
+
+Map information:
+bsp name:	persian_element.bsp
+skybox name:	approach_
+map released:	dec 25 2012
+author:		DocRock
+author email:	docrock10@hotmail.com
+
+Build information:
+original map:	yes
+map based on:	original map by DocRock
+
+utilities used:	valve hammer 3.5.2
+		wally
+		goldwave
+		paintshop
+	
+wadincluded:	wallbanger.wad
+		tomber.wad
+		
+models used:	gins_vase_r
+authors unknown	gins_vase_y
+		jug_1_green
+		kcobra
+		palm
+
+sounds used:	Tagena from Runes of Magic MMORPG
+
+sprites used:	b1.spr
+		fixflame.spr  by qUiCkSiLvEr
+
+PC Specs:		Windows 7 Professional
+		Intel(R) Core(TM) i7-3930K
+		3.2 Ghz 
+		16gb memory
+		
+Compile Time:	15 minutes	
+
+map dedicated to:	babykitkat (always)
+
+beta testers:	CreepItAll (original map)
+		babykitkat
+
+
+installation:	persian_element.bsp to valve/maps
+		persian_element.txt to valve/maps
+		approach tga to valve/gfx/env
+		models to valve/models
+		sprites to valve/sprites
+
+
+
+

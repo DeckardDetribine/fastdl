@@ -1,0 +1,71 @@
+03/07/2001   "Tornado"  V 1.0
+
+A deathmatch map for Half-Life
+
+*********************************************
+
+Designer/Mapper: 	Matt "Madcross" Coombe 
+
+web site: 		http://www.planethalflife.com/crinity/madcross/
+email:                  madcrossx@email.com
+
+*********************************************
+HALFLIFE(R) is a registered trademark 
+*********************************************
+
+Files included in this .zip file:
+
+madcross_tornado.bsp
+tornskybk.tga
+tornskydn.tga
+tornskyft.tga
+tornskylf.tga
+tornskyrt.tga
+tornskyup.tga
+readme.txt
+
+*********************************************
+
+INTRO & INFO
+
+After arriving in the small village it begins to dawn on you that something
+has gone terribly wrong. The reconnaissance team sent ahead to scout the area is
+no longer responding to radio calls and there is a putrid stench of blood in the air.
+Finding yourself alone, your grip tightens on the pistol at your side as the sound of
+creeping footsteps grows louder behind you.
+		
+
+*********************************************	
+
+Installation & How to run the game
+-----------------------------------
+
+
+1)Extract the zip file to your Halflife/valve/ directory
+
+2)Select the game from the multiplayer menu in Half_life
+
+
+*********************************************		                                 
+* Level information *
+
+Single Player Map       : No
+
+Deathmatch/Co-op        : Yes
+
+Number of Players       : 2 - 8
+
+New Graphics            : Yes
+ 
+New Models/Code	    	: No
+				
+New Sounds		: No
+
+Tools used              : Worldcraft 3, Zoners Tools, Wally, TBCC
+
+Problems		: None
+			  
+Distribution  	 	: This map is free of charge - Do it up.
+
+
+	

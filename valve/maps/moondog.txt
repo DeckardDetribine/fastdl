@@ -1,0 +1,94 @@
+"Imagination is more important than knowledge" - Albert Einstein
+
+http://www.planethalflife.com/aerotic/
+
+MOONDOG'S ARENA
+
+6/23/00
+=========================================================
+
+Title				: Moondog's Arena
+Filenames			: moondog.bsp, moondog.txt
+Description       	: Multi Play Arena
+Author			: Paul A. Bullman
+E-mail			: pab05f@mizzou.edu
+
+
+=======================================================
+
+* Installation *
+
+Make sure the map file(moondog.bsp) is located in the valve/maps directory.
+There are no additional files needed.
+
+======================================================
+
+* Play Information *
+
+Single Player          :No
+Cooperative            :No
+Deathmatch             :Yes (2 and up - ideal for 2 to 6)
+New textures           :No
+New Models             :No
+New Sounds             :No
+  
+* Construction *
+
+Editor		     :Worldcraft 3.3
+Base                   :Scratch
+Creation time          :Over 2 Days
+Prefabs		     :None
+
+=======================================================
+
+* Author/Map Information *
+
+I am currently working on two bachelor's degrees. One of which is Business Management, the other being Psychology at the
+University of Missouri.
+
+If you like what you see, and have an *interesting job offer*(full time, paid, relocation, etc) pass it along. I am not actively
+seeking a position anywhere, but I will certainly entertain any offers.
+
+This map was designed while working on a "yet to be announced project". About two weeks ago I completed Lunar Space Depot, and
+I felt the urge to create something non space-like in Half-Life. If you like this map, you will probably also like Lunar Space
+Depot. They are both designed for fast play, with 2 to 6 players. You can download any of my maps from all around the world,
+directly from http://www.planethalflife.com/aerotic.
+
+R_speeds are very low for most of the map. So you low enders should run OK. Tops is around 475(only in one area),
+and the average probably around 225.
+
+The name of the map has some historical significance. Why was the Rock and Roll Hall of fame placed in Cleveland? The name of
+the map is the answer. Alan "Moondog" Freed is a famous Disc Jockey who was credited with being the first to play Rock Music.
+He got caught up in Payola, and McCarthy, was eventually blacklisted and then died a lonely death.
+
+Enjoy!
+
+=======================================================
+
+* Other Stuff *
+These people helped out in some way or another:
+Pete Weatherby - http://www.planetquake.com/shadowdane (some great maps here!)
+David Hof - http://www.jshell.org
+Joshua A. Bevan - http://www.shistudios.com
+Rastereizer
+
+
+Music Listened To While The Map Was Being Created:
+CCR
+Steve Miller Band
+REM
+
+~X~: fixed rendermodes for transparent objects.
+
+=======================================================
+
+* Permissions *
+
+You may not sell this without my expressed written permission. Any violations will be dealt with
+to the furthest extent of the law.
+
+For completely free uses, You may copy the *.zip to any media instrument as
+long as the original files remain intact(moondog.txt, moondog.bsp).
+
+If you have any questions or comments please direct them to pab05f@mizzou.edu.
+

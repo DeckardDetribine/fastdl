@@ -1,0 +1,66 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		:Magnetism
+Filename	:Magnetism.bsp
+Author		:Neil Stone
+Author Email	:n.stone@mcmail.com
+Home page	:N/A
+Description	:Train Station 
+Previous Maps	:None
+
+------Credits and Thanks---------------------------------------------
+Thanks to everyone that helped playtest this map.
+
+
+
+------Additional Info, Tips, and Notes-------------------------------
+This is my first venture into map making, I hope you have as much fun
+ playing it as I had making it.
+
+Watch out for the train it's a killer.
+
+There is a secret room in this map so keep your eyes peeled.
+
+------Play Information-----------------------------------------------
+
+Deathmatch	:YES
+Single Player	:NO
+Map Description	:Small to medium sized map 
+How Many Players:4 to 6
+
+------Map Information------------------------------------------------
+
+New Textures	:NO
+New Sounds	:NO
+
+------Construction---------------------------------------------------
+
+Editor(s) used	:Worldcraft 2.1
+Compile Machine	:Pentium II 450Mhz
+Compile time	:50 mins
+Playtest time	:2 hrs
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "Magnetism.bsp" in
+your half-life/valve/maps directory.
+
+------Copyright-Permissions------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+

@@ -1,0 +1,109 @@
+================================================
+   Half-Life Map Spec Sheet
+================================================
+
+
+------General Information--------------------------------------------
+
+Title		: medlab
+Release Date	: December 8th 2001
+Filename	: medlab.bsp
+Author		: Joe (ZenMaster) Cassella
+Email Address	: zenmaster@ccwebnet.com
+Home page	: www.clanalien.com
+Previous Maps	: alienship
+		  aliens
+		  yutani2
+		  LV-231
+
+------Map Information------------------------------------------------
+
+Map type	: Medium sized Deathmatch, 6 to 16 players, maybe more
+Spawn points	: 28
+New Textures	: yes, some custom made and some converted from Alien vs Predator Game
+New Sounds	: Yes, one
+Missing Weapons	: Hornet Gun
+Secrets		: Yes, See below 
+Bugs		: none that I know of
+
+------Construction---------------------------------------------------
+
+Base		       : From scratch. 
+Programs used	       : WorldCraft 3.3
+		         Zoners tools
+		         HLCC
+			 Wally 
+			 Photoshop
+Compile Machine	       : AMD Athlon 1200 Mhz, 256k Ram
+Construction time      : 4 weeks (about 60 hours), plus texture work time (don't ask how long)
+Compile time	       : 20 minutes, using the -extra switch
+
+
+Credits:
+Tim "Maximus" Defalco for some great custom textures.  Thanks Tim!
+E-Mail: defalcot@cfl.rr.com
+
+Marquis for the kick-ass Facehugger mod (see below).
+(Marquis' site is http://www.hlskins.free-online.co.uk/)
+
+[DRS]Orpheus for the Pipework prefab, slightly modified
+E-Mail: orpheus@cox-internet.com
+
+Amranx for the Bubble Pipes, slightly modified
+E-Mail: amranx@home.com
+
+BlackRose for the Iris Door, slightly modified
+E-Mail: blackrose@sydney.crosswinds.net
+
+(Normally I don't use prefabs, but these looked great and saved me a great deal of time.  Each was re-textured and brushwork was modified to improve it or just make it fit better into the map).
+
+Mad Props and thanks to Valve, Rebellion, Lithtech, Monolith, The Makers of Oz, Zoner, the Valve-ERC, the guys at Gracelessland and Wally, Underground_King at The Lower Level, JUIM and the Hot Death Diner, and my ALIEN clanmates for beta testing and encouragement.  
+
+---------Description and Map Details----------------------------------------------
+This map depicts a space cruiser owned and operated by the Weyland-Yutani Corporation, the infamous "company" from the Alien movies.  The ship has been attacked by Aliens and only blood and a body or two are all that remain of the crew.  In the medlab, you can see that one of the "stasis tubes" has been compromised, setting an alien free.  
+
+As with all my maps, this map is completely 100% original in design.  Many of the textures used were converted from the "Alien vs Predator" game and the "Aliens vs Predator 2" demo, using a great texture utility program called Wally.  They are embedded in the bsp file using the -wadinclude parameter of Zoners tools, so no additional wad file is needed. It does make the filesize larger though.
+
+In this map I used one custom sound file taken from the AvP game, a female voice announcing that the airlock has been activated.  This file is included with the zip, but if you don't have the file no problem, you just won't hear it!
+
+Traps: 
+The egon gun is protected by an electrical trap which will fry you instantly.  To get the egon, just hit the "Power" button across from the gun.  However, the power only stays off for 2 seconds, so be quick!
+
+One crossbow sits on a machine which is very hot, and does a little damage when the player is near it.
+
+The Airlock:  I've seen an airlock trap in one other map, so I tried to make this one a little more interesting.  Inside the airlock is the RPG and some health and armor (the bait).  The airlock can be triggered from two places, either the button right outside the airlock, or in the control room on the other side of the map.  In the control room, an indicator light will flash red and an audio buzzer will sound when someone is in the airlock.  Just hit the button on the console near the light to trigger the lock.  Then, and this is the bonus, "use" the monitor labled "Airlock Cam" and watch the victim get sucked into space. The airlock cam lasts for 10 seconds, so you can see the entire death sequence.  Hehe...
+
+There is also a Medlab Cam which can be used in the same way, but no trap is there, its just to get a quick view of the lab.  The Medlab Cam lasts for 5 seconds.  (For what it's worth, you can actually see the cameras in both the airlock and medlab up on the walls).
+
+Secret Rooms:  Well, pretty easy to find really, they are covered by grates that can be shot. You have to jump while you are crouched in front of the broken grates to get in.  One room has the Gauss Gun and a Longjump module, the other has some ammo and gives access to the loading bay via a duct in the wall, perfect for snipers and satchel bombers.
+
+The facehugger model:  I included a weapon mod in the zip file, which converts the snarks to alien facehuggers.  If you don't have the mod installed, you will see snarks in the medlab.  With the mod however, the tubes contain Alien Eggs, and on the table behind the glass is a facehugger that was being studied.  This excellent mod was created by Marquis, and I urge you to visit his website for more models of his design:   http://www.hlskins.free-online.co.uk/
+
+
+Any good mapmaker knows there must be a balance between playability and detail, and this is often the hardest part of mapping.  I tried my best to strike this balance.  Any and all feedback is welcome.  Thanks for reading and I hope you enjoy the map!
+
+-Zen
+
+Contact me at zenmaster@ccwebnet.com  
+For Oz info visit Scurvy's House of Oz at www.clanalien.com/Scurvy
+And the official Oz site at www.planethalflife.com/oz
+
+------Map Instructions-----------------------------------------------
+
+You must extract the entire zip archive to your Half-life directory.  All folders will be created if necessary, and all files will go where they need to go, automagically.
+
+
+------Copyright-Permissions------------------------------------------
+
+This map file is copyright 2001 Joe Cassella and all rights are reserved.
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+----------------------------------------------------------------------------------

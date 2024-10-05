@@ -1,0 +1,177 @@
+NOTE: SULACO IS NOT A NORMAL DEATHMATCH MAP. PLEASE READ THESE INSTRUCTIONS CAREFULLY TO MAKE SURE YOU SET-UP THE MAP CORRECTLY.
+
+** INTRODUCTION **
+
+Title			: Sulaco.
+Date			: 8th March 2000.
+Filename		: Gustavo20_Sulaco.bsp
+Filesize		: 5.4mb, or thereabouts.
+Author			: Keved, my Half-Life alias is Gustavo.
+Email Address		: keved@keved.force9.co.uk, or keved@hotmail.com as a last resort.
+ICQ			: 10393836 (auth required).
+Home Page		: http://www.keved.force9.co.uk
+
+ABOUT THE MAP/ME:
+Sulaco is my 20th FPS map (and 1st for 'proper' Half-Life Teamplay). All are available on my web site.
+
+Previous maps...
+01. Penitentiary (Half-Life deathmatch, released 5-March-1999).
+02. Maximillian (Half-Life teamplay primarily/also deathmatch, released 15-May-1999).
+03. Maximal (Team Fortress Classic territorial domination, released 8-July-1999).
+04. Mad Bucking Fastards (Half-Life deathmatch, released 27-July-1999).
+05. Talos (Half-Life deathmatch, released 3-August-1999).
+06. C4 (Action Half-Life, released 16-September-1999).
+07. TNT (Half-Life deathmatch, released 23-October-1999).
+08. Orbital (Team Fortress Classic CTF, released 31-December-1999).
+09. Jaw Breaker (Half-Life deathmatch, released 20-January-2000).
+10. Corps68 (Team Fortress Classic CTF, released 26-January-2000).
+11. The Bone Collector (Half-Life deathmatch, released 2-February-2000).
+12. Jaw Operation (Opposing Force deathmatch, released 2-February-2000).
+13. The Jaw Action (Action Half-Life, released 2-February-2000).
+14. Bone Action (Action Half-Life, released 4-February-2000).
+15. Bone Operation (Opposing Force deathmatch, released 4-February-2000).
+16. Eliminator Jnr (Half-Life deathmatch/also teamplay, released 19-February-2000).
+17. Nostromo (Team Fortress Classic CTF, released 24-February-2000).
+18. Eliminator AHL (Action Half-Life, released 26-February-2000).
+19. Eliminator OP4 (Opposing Force deathmatch, released 4-March-2000).
+
+Who am I? I'm 24 yrs old, English, & currently work for an Architectural Practice in NW England.
+
+CREDITS TO:
+1) Valve/Sierra/id.
+2) The Zoner compiling tools version 1.41. Sulaco was compiled with these superb modified compiling tools, via a batch file. sean@dimensionalrift.com. Keep up the good work, Sean.
+3) Rich Whitehouse, author of the excellent Jumbot, for creating the included bot route file. Many thanks. Jumbot website: www.telefragged.com/thefatal Email: thefatal@telefragged.com
+4) The original movie, Aliens, and novelisation written by Alan Dean Foster.
+5) Records, for salvation from radio/tv hell.
+
+
+
+** PLAY INFORMATION **
+
+SINGLE PLAYER:
+Just to familiarise yourself.
+
+DEATHMATCH SOLO:
+NO! Sulaco is NOT a free-for-all deathmatch map. I can't emphasise that enough; SULACO IS NOT A FFA DM MAP. Whilst you can play Sulaco without "teamplay" enabled, the 32 respawn points are grouped in 4's, so clearly not ideal for FFA DM. Please do NOT play or judge this map as an FFA DM map.
+
+DEATHMATCH TEAMPLAY:
+YES! Sulaco is one of the VERY few maps that make use of the "game_" entities that allow greater teamplay functionality (such as team spawning areas and team goals & scoring). Lots of deathmatch maps may claim to have a teamplay element, but do not have a set goal, just everyone running around in packs hunting each other down (in fact, I've not yet seen one map especially designed for deathmatch teamplay with set goals, this may well be a first). Sulaco DOES have an actual goal and rudimentary teamplay elements, such as team spawning locations & team scoring. 8-16 players PER TEAM recommended, ie 16 total minimum. 16 respawn points per team are included.
+
+A Jumbot route file is included in the zip to enable you to get playing straight away even if you don't have access to a huge LAN or a connection good enough to participate in a 16+ player online game. More on the Jumbot later.
+
+DESCRIPTION:
+Inhabitants of the Nostromo, a huge tug spacecraft ferrying millions of litres of oil back to Earth, were awakened from hypersleep early. Passing by an unexplored planet called Archeron, the signal from a beacon had been picked up, looping continuously, in an unknown language but seemingly calling for help. Company policy meant investigating all such events, with the now awakened crew departing for Archeron's surface knowing a bonus paycheque would soon be theirs.
+
+Later developments proved that the beacon was in fact a warning; a warning to all passing spacecraft to stay away. For the crew of the Nostromo, the translation of the beacon's true meaning came too late. The source of the beacon had been a colossal spaceship, not of Earth origin, and containing a precious cargo; eggs. Unaware of the hidden danger, crew member Kain stirred movement inside an egg sack, one of thousands in the tropical heat of the striken spacecraft's interior. Leaping at him from an egg, a facehugger attached itself with an unbreakable grip to Kain's face, paralysing him near instantaneously. Naturally, their fallen friend was brought back to receive urgent medical treatment on board the Nostromo, but in bringing Kain back, the entire crew had unwittingly exposed themselves to complete terror. From the egg had come a facehugger, from Kain a Xenomorph - a living nightmare - which was now loose on board the Nostromo.
+
+The Company, on hearing of the Xenomorph loose on the Nostromo, dispatched a crack team of Marines under orders to contain the Xenomorph and dispose of the Nostromo's crew if the Xenomorph hadn't already done so. Upon hearing the Marine shuttle arrive in docking station 3, the remainder of the Nostromo's crew arm themselves with what meagre weaponry was left available and enable the self-destruct sequence of the Nostromo, with a view to stop the retrieval of the Xenomorph back to homebase on Earth. After encountering the Xenomorph first-hand at the slaying of half of their numbers, they more than anyone know of its potential Scientific value to the Company as a means of developing devastating new Military weaponry, and the danger of widespread infection should the Xenomorph reach Planet Earth.
+
+Little did either team know however, that the Xenomorph population had grown, and continued to do so with every human taken alive. The battle continued to rage between the Ship's crew and Marines, with neither aware that an infinitely more deadly foe was descending upon their positions - dozens of Xenomorph's.
+
+Sector 1 team (Marines): activate the console in the sector 2 control centre to deactivate the self-destruct sequence. Only then can the hunt for the Xenomorph begin.  Whoever activates the console receives 25 extra frags as a bonus, and Xenomorph's prepare to attack the Sector 2 base. Get out of the enemy base immediately!!
+Sector 2 team (Ship's crew): activate the console in the sector 1 control centre to reactivate the destruction of the Nostromo and blow the Company's prized possession, the Xenomorph, to smithereens. Whoever activates the console receives 25 extra frags as a bonus, and Xenomorph's prepare to attack the Sector 1 base. Get out of the enemy base immediately!!
+
+PLAYING:
+Sulaco is a conversion of my TFC map Nostromo to DEATHMATCH TEAMPLAY. This is NOT a straight free-for-all deathmatch map, but has a CTF layout with each team having to negotiate the others base to score points. The goal for each of the two teams is to activate the other teams' console in their control centre, which are located right at the back of each base. Each time you activate the console, you are awarded 25 frags, which are added to your teams' total score like normal frags.
+
+ONLY two teams can be used in Sulaco. By default the two teams are hgrunt and scientist, but you can change them to whatever you want BEFORE the game is started. See the "instructions" section below for more details. To change to the other team during the game, bring down the console and type "model hgrunt" (or whatever, without quotes). All of your frags/deaths are then tranferred between the teams, ie to the team you've just joined. It is NOT possible to change to a third team during the game - you are prevented from changing to a model that isn't set as one of the two teams.
+
+Each control centre is guarded by a thick pane of glass. You must use one of two small goods lifts just prior to the enemy control centre to disable the glass, giving access to the control centre. The glass TOGGLES, so if the enemy opens up your pane of glass, one of your team must de-press the button again to safely seal up your control centre again.
+
+From when either of the vox alarms sound ("Xeno contamination. Evacuate Sector 1 immediately", etc) you have 45 seconds to get to the middle of the map. You can tell how long you have left before the Xenomorph's attack, as the vox alarm repeats five times, each time lasts 9 seconds. For example, when team 1 scores, in 45 seconds ANYONE still in team 2's base will be attacked by the Xenomorph's. To be more precise, the Xenomorph attacks effect all areas behind either teams' main entrance, and half-way up the diagonal lift corridors. I have actually timed how long it takes to get out of either base - the control centre's are the furthest back into each base, and it takes 35 seconds to get out via the main entrance or diagonal lift. Therefore, if you're that far back into a base when the alarm sounds, you'll have 10 spare seconds (remember, the Xenomorph's attack after 45 seconds) for fighting along the way.
+
+I don't apologise for the map being dark. When I originally planed Nostromo (the original TFC map) I fully intended to have a dark atmospheric feeling, keeping in line with the movie/book. Turn your own gamma setting up if you feel the need, and/or activate flashlights.
+
+Using the main entrance to the enemy base is likely to lead you into the heaviest defences, so huge diagonal lifts give an alternative way into the enemy base, and are located at the lowest point of the map. Not much point in me droning on about what they look like here as they aren't exactly easy to miss due to their size. Note that when attacking the enemy base you cannot simply slide down the lift shafts quickly, as the bottom houses electrical power generators, which kill you on contact. ie, To get down a lift shaft, you must use the lifts.
+
+Each team has 2 operational vertical cargo lifts just prior to their own flag room, which as previously described also give access to disabling the glass guarding your control centre. The likes of defensive RPG/crossbow players can gain a big elevational advantage, and the enemy simply HAS to pass by this area to reach your command room.
+
+R_speeds...despite the enormity of some of the areas, running speed is pretty respectable. I can't remember many (any?) points where FPS for OpenGL users will drop below 30. Software mode users must ask themselves why they've gone to the trouble of finding this map and are still playing FPS games without a 3D card! Still, any software mode users should be ok too. 8OÞ
+
+Hope you like Sulaco. I'd appreciate feedback too...to my email address at the top of this text file. It's a major commitment putting in the time to design these damn maps, so I fully welcome any & all constructive encouragement / ideas / criticisms / praises. Job offers welcome too!!
+
+
+
+** BOT INFO **
+
+(NOTE: ALTHOUGH SULACO IS PLAYABLE WITH BOTS, THE MAP WAS NOT DESIGNED WITH IT IN MIND, BUT TO PLAY A GOOD GAME IN HUMAN VS HUMAN GAMES. THE QUALITY OF GAME AGAINST FELLOW GAMERS WILL BE *MUCH* IMPROVED, MORE SO THAN WITH NORMAL FFA DEATHMATCH MAPS).
+
+Bot info...
+Jumbots DO work with Sulaco, thanks to the Jumbot author Rich Whitehouse (who kindly created the route file). Use as many bots as your system can cope with, as the map is VERY big. Please bear in mind that Rich says he did not even know such teamplay was possible in Half-Life DM (and would like to include support for maps like Sulaco in future Jumbot releases), and so obviously the coding of the Jumbot is not specific to a map like Sulaco. Credit to the Jumbot though, as to be honest I'm stunned that they cope as well as they do. I also tested with the Phineas bots & Rhobots, but neither make it out of the respawn rooms.
+
+(See the instructions section for info on how to set-up the Jumbot route file).
+
+The Jumbots are fine with the following:
+*Collect all weapons.
+*Navigate the map successfully including the narrow walkways.
+*Activate the enemy console to score (providing the pane of glass is disabled).
+*Regularly enter the enemy base.
+
+And they have problems with the following:
+*Using the short cargo lifts to gain access to the glass toggle buttons (I DID see a few bots do it though).
+*Enemy respawn rooms - as Rich didn't know of this type of teamplay in DM, there is no distinction in the bot code for 'enemy only' doors. Bots will sometimes jump up & down outside enemy respawn rooms trying to get in.
+*The long diagonal lifts (ie they fall into the electric beam).
+
+
+
+** WHAT'S NEXT **
+
+"Total Annihilation" and "SmashTV". Two versions of a large deathmatch map that will feature four independent nukes (like my second map Maximillian). They will also have a strong teamplay element by being "King Of The Hill" in nature (a central bunker complex, surrounded by the 4 nuke-able zones).
+
+I'm also thinking about venturing into HL single player mapping for the first time. Plenty of ideas, probably not enough free time, so I may just continue deathmatch mapping. I'd also like to have a go at Quake 3 mapping, but my cack Ati@Work 2D card refuses to be friends with Q3Radiant - I simply can't even load it never mind do any editing (arghhhh).
+
+
+
+** INSTRUCTIONS **
+
+Extract the files manually into the following.
+
+Gustavo20_Sulaco.bsp into ...\\valve\maps
+
+Sulaco1.wav, Sulaco2.wav, Sulaco3.wav all into ...\\valve\sound\ambience
+
+Gustavo20_Sulaco.jrf into ...\\valve\jumbot\wpfiles
+
+And of course keep this text file. 8¬)
+
+Now choose to start a LAN game, choose "Gustavo20_Sulaco.bsp", and click advanced options. IMPORTANT: MAKE SURE THE 'TEAMPLAY' BOX IS TICKED. If you do not enable teamplay, all team functionality will not be available thus reducing Sulaco to standard free-for-all deathmatch rules, and as described above, Sulaco is NOT ideal as a ffa deathmatch map. Due to the darkness of the map, you may also want to enable flashlights. Also, depending on your preferences, alter the models you want to use for the two teams (ie robo;zombie instead of hgrunt;scientist). Note that you cannot have more than two teams, but you are free to choose whatever models you want. Now start the game, and by default new players join the team with fewest players (ie the first player to enter will join team 1, the second player onto team 2, third to team 1, etc).
+
+To play with/against Jumbots...
+1) Copy the Gustavo20_Sulaco.bsp file into ...\\valve\jumbot\maps (this is only needed once).
+2) Ensure you have the amount of bots set to at least 15 (ie for an 8v8 game). See the Jumbot documentation.
+3) Activate the Jumbot from the custom game menu, and then follow the same process as above.
+
+
+
+** CONSTRUCTION **
+
+Base                    : Based on Gustavo17_Nostromo.bsp.
+Editor(s) used          : Worldcraft v2.1
+Custom textures		: Yes. Around a dozen from the Aliens vs Predator PC game (without permission), a few more from a copyright-free image CD. A truly fantastic game, but could (SHOULD) have been sooo much better - if a map editor was available. A huge mistake I think, the way that AvP isn't customisable.
+Custom sounds		: Yes. Sulaco1.wav and Sulaco2.wav where cobbled together using the original Valve sounds. Sulaco3.wav uses Xenomorph sound effects from the Aliens vs Predator game (again, without permission).
+Known Bugs              : Just that I've stretched some textures, so decals may be out-of-shape/size.
+Build Time              : 10 hours conversion & playtesting time from TFC to deathmatch teamplay.
+Compile Time		: Around 3 hours, give or take, on my PII 300mhz w/224mb. Full vis, normal rad.
+
+MAP INFO:
+Rmf size		: 5440kb
+Solids			: 2416
+Faces			: 14416
+Point Entities		: 705
+Solid Entities		: 284
+Successive revisions	: 5
+
+
+
+** PERMISSIONS **
+
+DO NOT put this level/map on any sort of commercial product or compilation unless you have permission from me. You MAY distribute this zip file through any other means, provided it is unaltered, and it is free of charge. Do not modify this BSP in any way.
+
+Email me if you'd like to have a look at the (6mb) rmf file for Sulaco. Zips down to ~250kb.
+
+You have yerself a nice day, y'hear?
+
+Oh btw, if you see me on a server, I *CANNOT* speak Spanish/Portuguese/Smack talk/whatever...just so I ain't assumed to be a Colombian drug baron like I have been a few times before (or corderoy wearing Uruguayian goat shepherd, that happened once). 8¬)
+
+--
+Gustavo.

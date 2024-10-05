@@ -1,0 +1,20 @@
+DM_FENRIR
+
+By Victor-933 for HL1DM
+
+
+NEW TEXTURES: YES
+NEW MODELS: NO
+NEW SOUNDS: YES
+NEW SPRITES: YES
+
+
+Extract all files to half-life/valve
+
+
+
+Credits:
+
+Textures: Heavily edited variants from multiple sources -- chiefly, Nightwatch (nw.wad), Poke646 (poke646.wad), and Shaderlabs Majestic Pack. A few were even made from scratch by me!
+
+Sounds: Edited versions lifted from Doom 3 and Black Mesa Source.

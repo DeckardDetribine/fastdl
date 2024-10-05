@@ -1,0 +1,62 @@
+=================================================================================================
+Title                   : OutPost9
+Files                   : outpost9.bsp, outpost9.txt
+Author                  : GreNadeBoy
+Email Address           : grenadeboy@columbus.rr.com
+Homepage                : http://home.columbus.rr.com/neutralzone
+
+
+Warning                 : You must have version 1.0.0.9 or better of Half-Life to
+                          play this map.
+
+Description		: Death Match map set in deep space on a small astroid.
+
+           
+Weapons Included        : All weapons exceot for the Gluon.
+            
+                                   
+=================================================================================================
+--ADDITIONAL CREDITS--
+
+Playtesters: Steve, Mark, Adam, Terry.
+
+Thanks to all the valauable resources and websites providing map making information and tutorials.
+
+=================================================================================================
+--PLAY INFORMATION--
+Game			: Half-Life
+Level Name      	: OutPost9
+Files    		: outpost9.bsp, outpost9.txt
+Single Player           : No	
+Cooperative 		: No 
+DeathMatch              : Yes
+MAP # of PLAYERS        : 4-10
+             				
+Difficulty Settings     : No
+
+Platform(s) used               : AMD500 256MB / 16MB Riva TNT.
+Editor(s) used                 : WC,Q2 Beaver
+Known bugs                     : None
+New sounds/textures/entities   : No
+=================================================================================================
+=================================================================================================
+--LOADING INFORMATION--
+Download, unzip, and put the .BSP file in your c:\sierra\half-life\valve\maps
+directory (your drive letter may be different). Its that easy...Done 
+
+--Additional Notes--
+I had a tun of fun making this map. Teleports are all set to take you to a specific location in
+the map. However one of the teleports is malfuntioning(intentional). I also added some death
+screams to certain locations of the map. Set gravity to low for a unique twist on the map.
+
+Gauss jumping can be hazzardous to your health.
+
+
+=================================================================================================
+--LEGAL--
+This Half-Life map/level (OutPost9, outpost9.bsp) is (c) 1999 Rob 'GreNadeBoy" Johnson.
+DO NOT put this level/map on any sort of commercial product or compilation unless
+you have permission from me. You MAY distribute this BSP file through any other means,
+provided you include this .txt file (unaltered) and it is free of charge. Do not modify
+this BSP in any way.
+

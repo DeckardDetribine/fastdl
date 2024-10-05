@@ -1,0 +1,28 @@
+Title                   : DM Room
+Release Date            : 3-3-99
+Filename                : dmroom.bsp
+Author                  : Hoju The Great a.k.a. Mike Byrne
+Email Address           : mbyrne@flash.net
+
+Description:
+  4 to 8 Players            Build Time: 5 Days
+  Medium Size               Editor: WC 2.0
+  1,457 Solids              Tested on: AMD K6 2 400
+  8,748 Faces                          128mb SDRAM
+  95 Point Entities                    Voodoo Banshee
+  19 Solid Entities                    OpenGl 800x600 
+  
+
+	The title says it all, DeathMatch Room.  An open room with a total of 4 layers including
+a sub-layer and the ground floor.  A player can move around very quickly and can go from the sub
+level to the 3rd floor within seconds.  The weapons can be found in the windows of the 2nd and
+3rd floors, in the middle of the walkways, and in the four corners of the ground floor.  Most of
+the more powerful weapons are found higher up.  The Gluon Gun rests in the middle of the ground
+floor on an elevated platform; 8 laser beams surround it capable of taking off 800 health per
+second.  There is a switch in yellow section that will deactivate the power to the main lights
+and to the lasers.  I have made several ledges the revolve around the sides for sniping, grenading,
+and snatchel bombing.
+	The map is most fun with 8 players... anymore than that, caos would break loose and you
+couldn't go five seconds without someone with a shotgun poping up at every turn.  I designed this
+map to be a map where you can't camp, and have to keep on moving continuously.  With a lot of
+people, there is never a dull moment.

@@ -1,0 +1,99 @@
+Title		:MBDM01
+Author		:Matthew Beck(A.K.A. A_W!seM4n_0nc3_Sa!d) 
+Email		:Matthew__B__@hotmail.com
+ICQ#                        :178161766
+Website                   :Don't have one yet :( 
+Date		:January 6th, 2003 
+Game		:Half-Life, Version 1.1.1.0 
+
+--------------------------------
+Description
+--------------------------------
+I think the best description i can give you is, that it's a testing facility of sorts.
+
+--------------------------------
+Installation Instructions
+--------------------------------
+Please unzip the following files into they're correspoding folders, OR ELSE!
+
+MBDM01.bsp, and MBDM01.txt:Half-Life\Valve\Maps Folder
+RATC.wav:Half-Life\Valve\Sound\MBDM01 Folder
+HOT DEATH DINER CHRISTMAS MAPPING CONTEST.txt:Put this wherever you please
+
+Or, if you have the option...
+
+Unzip all the files into the Half-Life directory WITH the use folder names option ON.
+
+--------------------------------
+Technical Info
+--------------------------------
+Single Player	:No
+Cooperative	:No 
+Deathmatch	:Yes 
+Teamplay	:Can be 
+Difficulty	:Depends on your opponents :)
+New Textures	:Yes 
+New Sounds	:Yes 
+CD Track #	:None 
+Files		:MBDM01.bsp, MBDM01.txt, RATC.wav, and HOT DEATH DINER CHRISTMAS MAPPING CONTEST.txt 
+Recom. Players	:6-10 
+Min. Hardware	:266 MHz
+Recom. Hardware	:450 MHz
+
+--------------------------------
+Constructon
+--------------------------------
+Base		:A drawing from scratch
+Build Time	:Before summer 2002, to the beginning of 2003 
+Prefabs Used	:None
+Editor(s) Used	:Valve hammer editor 3.4 
+Other Utilities :Wally_V1.55B,  Sprite viewer V1.05 Beta, and ZHLT build 2.5.3
+Known Bugs	:The music file RATC.wav, plays fine but, if you walk away from it, and come back to it, it picks up where it left off, and it'll end according to the time left on the track, not how much is left that you have to listen to(confusing, isn't it?). 
+Compile Machine :AMD Athlon 1.3Ghz(running at 1.0Ghz. Don't ask), 256MB of DDR PC2100 memory, and a Radeon 7500 video card.
+Compile Time	:2H, 28M, and 6S.
+
+--------------------------------
+Credits
+--------------------------------
+Valve Software
+David Flor of Mach III Enterprises
+Ty Matthews
+Neal White III
+Danny Harvey
+The beta testers are...
+mr.P
+Peter Manson
+=|[Gc2]|=B(o  )(  o)Bz
+=|[Gc2]|=Bedwetting Type
+=|[Gc2]|=Balsac
+Dhuha
+Special Thanks to...
+=|[Gc2]|=B(o  )(  o)Bz, Thanks for providing a server to betatest my map on, your awsome!
+=|[Gc2]|=Bedwetting Type, I couldn't have done alot of the final stuff without ya :)
+Bill Haley, May he rest in peace.
+...Sorry if i missed anybody
+
+--------------------------------
+Copyrights/Permissions
+--------------------------------
+Half-Life and all its original media are copyrights of Valve software.
+
+Worldcraft 3.3 is a copyright of Valve software.
+
+All textures are copyrights of their respective painters.
+
+The song, Rock Around The Clock, re-cut for the new millennium, is copyright of Danny Harvey.
+
+The song, Rock Around The Clock, is copyright of Billy Haley.
+
+Authors MAY use this map as a concept for building their own maps.  
+
+You MAY NOT use the textures in the BSP file without my written permission.
+
+You MAY distribute this map amongst your friends, on the internet, or on another electronic service as long as there is NO CHARGE, except for the costs of using the service.
+
+You MAY distribute your own MBDM01 config files, waypoint files, location files, etc. for use in different mods.
+
+You MAY NOT include this map in any commercial map packs or CDs without my written permission.
+
+--------------------------------

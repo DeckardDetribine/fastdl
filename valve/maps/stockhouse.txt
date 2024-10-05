@@ -1,0 +1,11 @@
+Map: Stock House
+
+By: zeeba-G / Myles
+
+Info: A remake of stalkyard.
+
+Hints: Vent duct
+
+Credits: Twhl mapping community and whoever made the awesome sky.  Also valve and capcom for the sounds.
+
+Wad was included in compile but also included in download.

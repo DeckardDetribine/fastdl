@@ -1,0 +1,50 @@
+++++General Information+++++++++++++++++++++++++++++++++
+
+Title		: SPASM
+Filename		: spasm.bsp
+Author		: Casey 'Warpig' Hawley
+Email 		: chawley@whoever.com
+Description	: Multi-player Deathmatch
+# of Players (size)	: 2 - 12 (medium)
+
+
+++++Mapography++++++++++++++++++++++++++++++++++++++
+
+1996 / The Pen (Quake: Final Arena)
+2001 / SPASM (HLDM)
+	
+
+++++Play Information+++++++++++++++++++++++++++++++++++++++
+
+Deathmatch	: Yes
+Single Player	: Yes, 1 for test/debugging only
+
+++++Map Information+++++++++++++++++++++++++++++++++++++
+
+New Textures	: None
+New Sounds	: None
+
+++++Construction++++++++++++++++++++++++++++++++++++++++++
+
+Base		: From scratch
+Editor(s) used	: WorldCraft 3.3
+Compile Machine	: AMD K7 750, 256mb ram
+Compile time	: 26 min.
+
+++Map Instructions+++++++++++++++++++++++++++++++++++++++++
+
+Extract the contents of the .zip archive into your Half-Life\valve\maps directory.
+
+++Additional Info++++++++++++++++++++++++++++++++++++++++++++
+
+Thanks to Valve for bringing us Half-Life.
+
+There are a couple spots where r_speeds spike a bit high, but they are in
+low traffic areas. It may not be perfect, but it's a start. :)
+
+++++Copyright-Permissions++++++++++++++++++++++++++++++++++
+
+This UNMODIFIED file MUST accompany the BSP in any form of distribution. 
+
+These files may be distributed freely. Drop me an email and tell me if you
+like the map!! 

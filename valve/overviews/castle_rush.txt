@@ -1,0 +1,15 @@
+// overview description file for castle_rush
+// Z Min -734 Z Max -1219
+
+global
+{
+	ZOOM	2.05
+	ORIGIN	-484 -1893.5 -353
+	ROTATED	0
+}
+
+layer
+{
+	IMAGE	"overviews/castle_rush.bmp"
+	HEIGHT	-734
+}

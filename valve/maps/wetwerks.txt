@@ -1,0 +1,122 @@
+===================================================================================
+FINAL RELEASE DATE: December 20, 1999
+===================================================================================
+Title                   : Wetwerks
+Files                   : wetwerks.bsp, wetwerks.jrf
+Author                  : QS
+Email Address           : quantumsaint@yahoo.com
+Homepage                : http://start.at/the.page
+
+
+Description		: A DM map for fraggin around in. Map includes all weapons
+                          except for the HORNET/HAND-O-LAG.
+                          
+===================================================================================
+--ADDITIONAL CREDITS--
+
+Playtesters: David S, Darrell, Merit, David C, Scott, Lurker
+Thanks for all the help.
+
+Big thanks to LURKER for all his support and help.
+Need more maps, check out LURKER'S LAIR-
+http://www.lowlife.com/lurker/
+
+Big thanks to MUSTANG at GLOBALASSAULT for the support and running my maps
+on the GLOBALASSAULT server. Check out GLOBALASSAULT for more maps-
+http://www.globalassault.com
+
+Jumbot (artificial enimies) and THE FATAL.
+http://www.telefragged.com/thefatal/jumblow.shtml
+
+=========================================================================================
+--PLAY INFORMATION--
+Game			: Half-Life
+Level Name      	: Wetwerks
+Files    		: wetwerks.bsp
+Single Player           : No	
+Cooperative 		: No 
+DeathMatch              : Yes
+DM Teamplay             : Sure
+MAP # of PLAYERS        : 4+
+                          
+             				
+Difficulty Settings     : No
+
+Platform(s) used               : P200 64mb (non 3D accel), P200mmx 32mb Voodoo3-2000, P233 32mb (non 3Daccel),
+                                 AMD K6 300 64MB Voodoo2, P2-400 64mb Voodoo2
+
+Known bugs                     : None                                
+
+New sounds/textures/entities   : HELL NO, I'M KEEPIN IT REAL:)
+
+Editor Used             :WorldCraft 2.1
+Compile Programs        :Expert WC compile with QSCG2, QBSP, VIS, QRAD2
+How long to build it    :6 days for basic structure, about another month for actual tweaking and playtesting.
+How long to compile it  :1 hour
+
+============================================================================================
+===========================================================================================
+--LOADING INFORMATION--
+Download, unzip, and put the .BSP file in your c:\sierra\half-life\valve\maps directory (your drive letter may be different).
+The JRF file goes in your jumbot\wpfiles\. Its that easy...Done 
+
+--Additional Notes--
+Map #12 
+
+More maps by me (since people keep emailing me about this):
+
+ARCANE
+arcane.bsp (230kb) 2-8 players
+http://members.xoom.com/The_Page/hl/arcane.zip
+
+POWERCORE 
+pwrcore.bsp (557kb) 4-10 players
+http://members.xoom.com/The_Page/hl/pwrcore.zip
+
+TREMOR CANYON     
+tcanyon.zip (460kb) 3-8 players
+http://members.xoom.com/The_Page/hl/tcanyon.zip
+
+HAMMERED
+hammered.zip (506kb) 4-12 players
+http://members.xoom.com/The_Page/hl/hammered.zip
+
+HAMMERED GUNPOWDER
+hgunpwdr.zip (341kb) 2-8 players
+http://members.xoom.com/The_Page/hl/hgunpwdr.zip
+
+HAUNTED KEEP
+hauntedk.zip (443kb) 2-6 players
+http://members.xoom.com/The_Page/hl/hauntedk.zip
+
+BLASTPIT
+blastpit.zip (229kb) 2-6 players
+http://members.xoom.com/The_Page/hl/blastpit.zip
+
+THE YARD
+the_yard.zip (158kb) 2-4 players
+http://members.xoom.com/The_Page/hl/the_yard.zip
+
+DON'T FALL
+dontfall.zip (287kb) 2-6 players
+http://members.xoom.com/The_Page/hl/dontfall.zip
+
+BRICK HOUSE 
+brickhse.zip (313kb) 2-8 players
+http://members.xoom.com/The_Page/hl/brickhse.zip
+
+NORTHERN OUTPOST 676
+n_out676.zip (171kb) 2-3 players
+http://members.xoom.com/The_Page/hl/n_out676.zip
+
+THE ELECTRIC SNARK
+elesnark.zip (241kb) 2-4 players
+http://members.xoom.com/The_Page/hl/elesnark.zip                      
+
+============================================================================================
+--LEGAL--
+This Half-Life map/level (Wetwerks-wetwerks.bsp) is (c) 1999 Stephen Smart.
+DO NOT put this level/map on any sort of commercial product or compilation unless you have 
+permission from me. You MAY distribute this BSP file through any other means, provided you
+include this .txt file (unaltered) and it is free of charge. Do not modify this BSP 
+or text file in any way.

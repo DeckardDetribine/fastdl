@@ -1,0 +1,74 @@
+April 11, 1999
+
+================================================================
+
+Title                   : The Chamber
+Filename                : chamber.bsp
+Author                  : Prometheus
+Address           	: jacksonskye@hotmail.com
+Description             : Half-Life DM level for 6-12(?) players. 
+Special Thanks to       : Valve for creating Half-Life. The [r.O.d]
+                          clan for help in the play testing and
+                          suggestions.
+Webpage                 : http://home.earthlink.net/~jacksonskye/index.html
+
+================================================================
+
+Play Information
+
+Single Player           : no
+Deathmatch              : yes
+Cooperative             : no
+Difficulty Settings     : no
+New Sounds              : no
+New Graphics            : no
+New Music               : no
+Demos Replaced          : none
+
+================================================================
+
+Construction
+
+Base                    : new level from scratch
+Editor used             : Worldcraft v2.0
+Known Bugs              : none
+Build Time              : a while
+
+================================================================
+
+Installation
+
+To play this level, extract the file "chamber.bsp" into
+your sierra\half-life\valve\maps directory and then start the game.
+Start a deathmatch server and type "map chamber" or "changelevel
+chamber" in the console.
+
+================================================================
+
+Other Info
+
+First of all thank you for downloading this map. This is my first
+map, so there's nothing groundbreaking about it. i just tried to
+make a fairly solid map that's fun to play, I hope that you enjoy
+it.
+In the testing we never got to max it out as far as number of
+players go, but I’m guessing that 12 or so is about ideal, but I’d
+be curious to see how it would handle 20 people. Any feedback
+(positive or negative) from you would be appreciated. I plan to make
+many more maps for HL so what you have to say could change the future.
+Again, thank you.
+
+================================================================
+* Copyright and Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+(c) Copyright 1999 Jackson Skye Carroll--Promethean Design Group

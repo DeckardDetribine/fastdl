@@ -1,0 +1,74 @@
+            /\\      /-\
+           /  \\    /  /
+          /   //    \_/   //
+         /   //         ///
+        /    ||       / //
+       /     ||     /  //
+      /   |  |L___/   //
+     /   /|          //
+     \  //|    _     \\
+      \// |   //\     \\
+          |   ||  \    \\
+          |   ||    \   \\
+          |   ||      \  \\
+          |   ||        \ \\
+          |  //           \\\
+          | //              \\
+          |//  Total Kill inc.\
+          |/  http://linkwars.ping.be/tki
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+Released: 12-02-2001 , Version 1.14
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+Title                   : Firing Frenzy
+Files                   : xFrenz14.bsp
+Author                  : Mark Heuckeroth & Thomas S Hansen
+Email Address           : mtb_tki@hotmail.com & bbr_tki@hotmail.com
+
+Description		: 2-14 Player, Stalkyard / Frenzy style level.
+                        
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+-=Additional Credits=-
+
+Playtesters: Mark, Thomas & Remco.
+             
+IdSoftware for the Quake 1 & Quake 2 engine.
+Thanks to Valve Software for implementing the Quake engine.
+
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+-=Game Info=-
+Engine               : Half-Life
+Single Player        : Not recommended
+Cooperative          : N/A
+DeathMatch           : Yes (30 DM spots)
+Suggested players    : 2-14
+Difficulty Settings  : N/A
+
+Compile Platform     : P2_350mmx, 64MB
+Editor used          : World Craft 3.3
+Known bugs           : Maybe, Maybe not.
+New sounds/textures  : None.
+Clipping usage       : Nothing you'll notice.
+Info Intermission    : 12
+
+-=Compile options=-
+VIS                  : Normal
+QRAD                 : Extra
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+-=Additional Notes=-
+This is another level which was made by us in cooperation,
+and again the result is very sweet.
+ Check out More of our levels at: Crosshair Central
+   http://www.planethalflife.com/cc
+
+Level layout & main design: MTB
+R_speed reduction, & misc Enhancements: BBR
+
+Zoner's Tools suck!
+All hail the default WC compilation tools!!!!
+-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-
+-=Legal=-
+Don't use it as a base for your levels unless we know about it,
+Don't sell the level without our permission, or giving us a part of
+the profit, Don't delete this Textfile!
+But beside that, distribute the origonal zip as much as you like.

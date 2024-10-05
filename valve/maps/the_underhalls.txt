@@ -1,0 +1,20 @@
+			>>>The_Underhalls<<<
+		  Made By Nukem (John Sapikowski)
+		
+		Deathmatch for Half-Life
+		Max Players: 13
+		All weapons are present in map
+					
+                            Map Details:
+		Build Time: About 2 weeks on and off
+		Editor Used: Worldcraft 3.3
+		Compiler Used: Batch Compiler
+		Bugs Known: None
+		Secrets: Shoot the painting of Duke Nukem to open a room with a third teleporter. (oh boy)
+
+         **     Special thanks to Darth Sailor for his assistance during play testing and being an awesome friend.     **
+		Also thanks Demoness for being really cool, and helping me during play testing.
+
+
+
+	

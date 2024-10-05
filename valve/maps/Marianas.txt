@@ -1,0 +1,82 @@
+               Marianas
+
+By                 :Matthew Manno
+Compiled on        :1/29/02 @ 7:20 P.M.
+New models by      :none
+New textures by    :none
+Thanks to          :Family, and Friends
+                    Valve ERC www.valve-erc.com
+                    Valve Software
+Contact the Author :manno78@yahoo.com
+
+
+
+
+
+
+================================================================
+Title                   : Marianas
+Date                    : January 2002
+Filename                : Marianas.bsp
+Author                  : Matthew Manno
+Email Address           : manno@bestweb.net
+Home Page               : http://www.matthewmanno.com (if I can get around to making it)
+
+Description             : It's an underwater base. It's based on a
+                          map (trench.bsp) I previously made I have
+                          added a LARGE amount of detail to it
+                          however.
+
+Thanks to               : Family, and Friends
+                          Valve ERC www.valve-erc.com
+                          Valve Software
+
+================================================================
+* Play Information *
+
+Number of Players	: 4-12
+Single Player           : No
+Deathmatch              : YES 
+Difficulty Settings     : No
+Team Play		: YES (created for deathmatch though)
+
+================================================================
+* Installation *
+
+Make sure you put Marianas.bsp into the following directory:
+... \Sierra\Half-Life\valve\maps
+
+================================================================
+* Construction *
+
+Base                    : Trench.bsp (old map I made from scratch)
+Editor(s) used          : Worldcraft 3.3
+Known Bugs              : No known bugs
+Build Time              : around 4 hours
+Compile machine         : PIII 700 with 512MB
+Compile Time            : About an hour
+
+===============================================================
+* Author's Comments *
+
+My friends and I always enjoyed playing this map. Recently however I began
+noticing how bad it looked. With that in mind I revisited the .rmf and
+added a lot of new details, textures, and brushwork. The original, "trench.bsp",
+weighed in at about 750Kb Marianas comes in at a whopping 3.5MB. I hope
+you enjoy it. 
+
+Questions and comments are welcome, you can contact me at manno78@yahoo.com
+
+Matthew Manno
+===============================================================
+
+* Copyright / Permissions *
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission. (I just left this in here because I
+like to here from people who enjoy playing my maps)

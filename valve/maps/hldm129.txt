@@ -1,0 +1,79 @@
+Just unzip into your valve directory.
+	The .tga files should end up in the valve\gfx\env directory
+	The .wav files should end up in a valve\sound\ambience\hldm129
+	The .bsp goes in your valve\map
+
+	SPECIAL ATTENTION should be given in regards to the additional unzipped ttrain6.wav file in the
+        valve\sound\plats.  This file will be read by Halflife for the train6 sound that is 
+	probably used in another map somewhere by somebody (odds are low that very many maps will use
+	it). This unzipped wav file is a plane sound. If you do not want the planes in this map to sound like
+	trains, then leave this file where it is unzipped. If you do not want to possibly affect the sound of
+	a train in another map, just delete this \valve\sound\plats\ttrain6.wav file. Halflife will then use the 
+	ttrain6.wav sound that is located in its .pak file as it normally does.
+
+Senario: You are on a lighter than air ship that is raised by an antigravity engine instead of gas.
+	This technology has a serious side effect, it can create vortices of unknown properties which
+	follow the ship. If the ship stops moving forward while in the air, the vortex will consume 
+	the ship. A sabature (maybe you) has set two bombs on board the ship, one on each prop engine. 
+	The bombs have a timer that beeps once a second for 25 seconds and then beeps fast the last 5
+	seconds before they explode. If either bomb explodes, the ship slows down and....
+
+The bombs: Each bomb has a safety switch and a power switch. The bombs will not start until the safety
+	is off and will not explode if the safety is turned back on after being started.
+
+The vortex: The vortex's black "event horizon" consumes the ship from back to front. There is no escape 
+        from it except through the double wooden doors at the front most compartment of the ship which is 
+        the observation lounge. The doors only open automatically when the vortex reaches that compartment.
+        If anyone makes it through those doors they get full health and the Gluon gun. Anyone who dies will
+        continue to respawn either ahead or behind the vortex.  When the vortex is stationary at the rear of
+        the ship it can be entered by jumping into it. Once in the vortex, it can be exited by again jumping
+        into it again. You will then appear at one of 8 locations back in the air ship.
+
+The planes: To operate, use the intrument planel, including the one in the hangar.
+
+Teleporters: Only 3, two under the stairs in the observation lounge that take you the the middle and
+	rear of the ship, and one below the middle top exit of the airship that takes you to the front of 
+        the ship. The teleporters do not work while the vortex is moving.
+
+Modifier switches: There are two switches located behind each flood light in the rear compartment
+	of the ship. 
+
+	The port (left) side switch:  When set, this will put the map in "King Of The Hill" mode.
+	This switch is read by the map each time the bomb timer expires and the bomb explodes. 
+	The difference is that when you get killed while the vortex is moving, you respawn in
+	the vortex and cannot leave it until the cycle is completed (about 1.5 minutes after the vortex
+	begins to move). A column of electricity is visible in the vortex while it is locked. The 
+	person who makes it through the double doors at the front of the ship is King, with full 
+        health, the Gluon, and everyone else is a target below you! You will be able to distinguish 
+        this mode by the constant vortex sound in the background throughout the map when the vortex is
+        moving instead of just hearing the vortex when it is near you.
+
+	The starbord (right) side switch: When set, this will put the map into vortex looping mode.
+	This switch is read by the map at the end of each vortex cycle after it returns to the tail of the ship.
+	The vortex will repeat its cycle about every 2.5 minutes (in either normal or King modes).
+	The bomb will beep for 5 seconds prior to exploding at the beginning of each cycle.
+
+Other things to be aware of:
+	There are ledges above the windows of the observation lounge. Use them to your advantage.
+	The main cargo area doors are open by using or shooting the console. Try standing next to the edge and
+	shooting the console. There is only one real secret in this map to discover.
+ 
+Miscellaneous Stuff:
+	This is my second map, my first was Highbay. The sky was from Mist. My original concept was to
+	recreate the Hindenburg (LZ-129). However when I realized the Quake 2 engine's world was about 250
+	feet too short, I took a left turn and ended up in a parallel (Halflife) universe. The girth of the
+	airship and the shape of the tail structure are about the only similarities that remained. The
+ 	r_speeds were not so bad until the sections of the ship were put together. This seems odd since most
+	sections are completely separated (line of site wise) from the next. One possibility is that almost
+	all the airships shell is composed of what worldcraft considers 'illegal brushes'. These brushes 
+	(each flat face of the airship's shell) was hand aligned to minimize the use of resources because 
+	worldcraft would use several brushes where I wanted one to do the job. I still maxed out on resources
+	before I would have preferred. The irregularities in the surface of the ship are a result 
+	of these illegal brushes and could not be fixed.  Hopefully this map is still playable by alot of the
+	deathmatch players. I would recommend a 1 gig PC with a Geforce 2. If anyone has any answers or 
+	questions you can reach me at evilis45@hotmail.com
+
+	Thanks to my beta testers: [FA]R.|.P.,[FA]Lightning-Rod, and Largo for their testing and helpful
+	suggestions. 
+
+	

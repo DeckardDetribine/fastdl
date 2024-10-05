@@ -1,0 +1,12 @@
+Freefalling.bsp
+Authors: Luke Stillman and Max Jenkins
+
+In this map, we tried to get the feel of both verticality in fighting and play styles 
+as well as a range of different play areas with both differences in lighting and 
+also quick fighting and slow fighting.  Also it attempts to cater to both close quarters
+fighters and snipers.  Have fun.  Good hunting.  
+
+Please don't take anything from the map without consent from the authors, who aren't going
+to give contact information 8-)  
+
+Installation: Place the freefalling.bsp file into your half-life/valve/maps folder to play. 

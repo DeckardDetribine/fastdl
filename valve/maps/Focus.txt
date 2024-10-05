@@ -1,0 +1,90 @@
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Title:			"Focus"
+Date:                   December 2000     
+File name:		Focus.bsp
+File size:              3.79 mb
+Author:			Brandon Renfrow a.k.a."Schrade" 
+E-mails:		Schrade@planethalflife.com
+                        
+Homepage:               www.mapcore.com/~schrade
+
+Other lvls by author:	Blinga(DM)
+			FloodWave(DM)
+			Static(DM)
+			Arctic Assault(FLF)
+			Desert Fire(FLF)
+			City Scape(FLF)
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Deathmatch:		Yes 
+Size:			large
+Players:		5 - 12
+      
+                        
+Weapons:                2x357
+			4x9mmAR
+			2xcrossbow
+			2xgauss
+			8xhandgrenade
+			2xRPG
+			8xsatchel
+			3xshotgun
+			3xsnarks
+			7xtripmine
+
+R_speeds :              The map peaks at at 650 on one spot
+			Normally around 450
+
+Known Bugs:             None that I know .
+
+* Construction *
+
+Base:			From Scratch
+Editor Used:		WorldCraft 3.3
+Construction time:	3 weeks on and off    
+Compile Machine:	k6-2, 450MHz, 128MB RAM
+Complile time:          20 minutes
+
+New Textures:           Yes, one of my logo
+			 
+Special Thanks:		Panic
+			HamsterOfDoom
+			Inspiration by valve mappers of bootcamp, and crossfire.
+			Inspiration from gearbox mappers in op4.
+			
+ 
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Installation
+
+To play this level, extract this file "Focus.bsp" into your sierra\half-life\valve\maps
+ directory and then start the game.
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+* Copyright / Permissions *
+
+Copyright 2000 Brandon Renfrow
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+Feel free to distribute this level, but ONLY if you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!! If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!! Just keep the three files together, okay?
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+If this level is issued on a cover CD all I ask is you send me a copy !
+
+Cheers !!
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+www.mapcore.com/~schrade   <-- goto my site or else

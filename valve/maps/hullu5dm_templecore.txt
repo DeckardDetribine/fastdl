@@ -1,0 +1,65 @@
+Half-Life Map Spec Sheet
+
+!!Warning!! bad english ahead !!Warning!!
+
+General Information
+
+Title		: Templecore
+Release         : 1.0
+Date		: 19.6.2001
+Filename	: hullu5dm_templecore.bsp
+Author		: Jussi "hullu" Kivilinna
+Email Address	: ax@fiiu.org
+Home page	: http://ax.fiiu.org/
+
+Description:
+Map has two main areas
+- datacore style indoor area with temple-enterance
+- cliff outdoor area with brick house and turret
+
+Previous Maps:
+StorageArea 1.0 (op4ctf_storagearea)
+Peruskoulu 1.5 (op4_peruskoulu15)
+Kontit 1.2 (op4_kontit12)
+Redshadow 1.1 (redshadow11)
+
+
+Credits/Thanks:
+PohjolanUrhot clan for betatesting (http://www.pohjolanurhot.cjb.net/)
+Pexxi (aka hullu's brother:)
+(Pekka .. etp‰ en‰‰ voi sanoa mit‰ t‰st‰ pit‰isi korjata :D)
+
+------Play Information----------
+Deathmatch	: Yes - 13 starts defined. 
+Teamplay        : Yes
+Single Player	: No
+Min. players    : 5
+Max. players    : 12
+
+Some of the walls are breakable!
+
+------Map Information-----------
+New Textures	: None.
+New Sounds	: None.
+
+------Construction--------------
+Base: mine 3 unfinished alpha/test maps:
+- tata1e (datacore style area)
+- tfc_2HQs (cliff)
+- hldm_base17 (temple)
+
+Editor(s) used	: WorldCraft 3.3
+Compile Machine	: Celeron 400@450 / 128Mb
+Compile time	: 25m
+
+------Map Instructions---------
+Unzip the files in this archive.
+
+Place the map, "hullu5dm_templecore.bsp" in your 'Ω-life/valve/maps' directory.
+
+------Copyright-Permissions------
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems. You are NOT authorized to put this BSP on any CD or distribute it in any way without my permission.

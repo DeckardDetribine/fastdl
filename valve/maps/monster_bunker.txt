@@ -1,0 +1,59 @@
+
+=======================================================
+Monster_Bunker    by DocRock
+===========================================================
+Map Name:      monster_bunker.bsp
+Filesize:           458 kb .zip
+Author:            DocRock
+Author email:   docrock64@yahoo.com
+Homepage:      www.planethalflife.com/docrocksmaps
+
+wadincluded in map:  none
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:      No
+Co-Op:               No
+Deathmatch:       Yes
+
+Suggested Players: 	4 - 10
+New Textures:   		no
+New Sounds:      		no
+
+Map description: 		A level based on Valve's lambda_bunker, but this one contains many respawning monsters to do battle with.  Ensure to type  mp_allowmonsters   in console and then type  changelevel monster_bunker  to get monsters to fight with in the game.
+
+=======================================================
+CONSTRUCTION:
+
+base map:       	         	Lambda_Bunker
+prefabs:              		None
+editor used:             	Worldcraft 3.3
+utilities used:          	Zoner's Half-Life compile tools, paint, adobe photoshop6, wally
+known bugs:            	None
+compile machine:    	Compaq Presario Pentium III 933 Mhz 128 mb
+compile time:          	28 minutes
+
+=======================================================
+INSTALLATION:
+
+Run Winzip and unzip monster_bunker.zip into your Half-Life/Valve/maps folder.
+
+======================================================
+OTHER LEVELS BY DOCROCK:
+
+Scooby-doo, Tigger, Kitkat_Gallery, Cliffside, Rockpit, Stalked, The_Drain , Con_Killbox, Basecamp, DepotArena, Conundrum, Conundrum 2, The Challenger Deep...etc
+
+======================================================
+COPYRIGHT STUFF
+
+monster_bunker.bsp  copyright 2000 by DocRock
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+This LEVEL may be distributed ONLY over the Internet and/or BBS systems
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.

@@ -1,0 +1,12 @@
+maps/hldm_battleschool.bsp
+maps/hldm_battleschool.txt
+sprites/jinx/jx0xssmke1.spr
+sprites/jinx/m_orflare1.spr
+sprites/jinx/m_rdflare3s.spr
+sound/jinx/mr_engine1.wav
+gfx/env/spaup.tga
+gfx/env/spart.tga
+gfx/env/spalf.tga
+gfx/env/spaft.tga
+gfx/env/spadn.tga
+gfx/env/spabk.tga

@@ -1,0 +1,69 @@
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+   Three Kings By Frissi.
+_-_-_-_-_-_-__-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+------General Information--------------------------------------------
+
+Filename	: Three_kings.bsp
+Release Date	: 09 october 2002
+Author		: Frissi (Friðjón Guðlaugsson.) 
+Email Address	: Gunnibobo@hotmail.com , Frissi@mail2rave.com , Ghf@binet.is 
+
+Home page	: http://hl_downloads.tripod.com
+
+Description	: lets just say it looks like 3 big bunkers on an astriod in space or someth , it started as an abstract architecture project for myself and ended looking like this.
+the map has 1 trap 2 secrets crazy sniping spots and you can get on top of every building using the gauss.
+
+Previous Maps	: Sorpa, Blocks , Hyberplay, Laser2, Frissi's house, Crazycolor, Freedom, Friðey, Star stadium, parking_lot_arena.
+
+Next map : My next map will be crazycolor2 :)
+
+------Map Information------------------------------------------------
+
+Used Textures	: The graffiti logo was form the "Grafitti Pieces 2 By Mighty Pete", i allso used the cstrike wad and made somew textures on my own.
+  
+Secrets		: only 2  , but there are two other paces everyone seem not to go too because its kinda hidden.
+Prefabs		: None
+Known bugs	: high r_speeds !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+------Construction---------------------------------------------------
+
+Programmes used	       : Valve Hammer 3.4,
+		         zoners half-life tools  253,	
+		         and Resgen.
+Compile Machine	       : 1 ghz mhz p 3 , matrox g450 32 mb , 389 ram.
+
+Construction time      : about 1 week
+
+Compile time	       : 4 hours :( !!!! 
+
+
+------Map Instructions-----------------------------------------------
+
+Unzip to the valve folder.
+
+
+------People who deserve a Thank-you-------------------------------
+
+
+Thank you for downloading it.
+
+
+-------COPYRIGHT-PERMISSIONS------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels. 
+
+Authors MAY NOT extract textures used in this level. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+You can put the zip file to a cd. 
+
+-----------------------------------------------------------------------------------------
+
+
+
+
+sorry for my spelling i'm from iceland here :s 

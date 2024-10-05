@@ -1,0 +1,64 @@
+Instalation: extract the zip file to [default] c:/sierra/halflife/valve/maps
+   
+================================================================================
+* LEVEL INFORMATION *
+--------------------------------------------------------------------------------
+TITLE                   : park2000
+FILENAME                : park2k.bsp
+AUTHOR                  : Finger aka [pHenyl]catalyst
+DATE                    : 05/17/2002 
+GAME                    : half-Life deathmatch.
+EMAIL ADDRESS           : mooreduncan@hotmail.com
+
+ 
+--------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+--------------------------------------------------------------------------------
+THEME                   : This map was my recreation of one of my favorite maps: op4_park.
+                          I thought it would be quite a challenge to recreate this map in a
+                          different style.  During the construction, I decided to add another 
+                          area to the already large map.  
+
+OPPOSING FORCE	   	: Deathmatch
+
+SUGGESTED PLAYER LOAD   : I have played some good 1on1's with this map...although its huge.  
+                          It is also well suited to hold a large crowd...up to 16.
+ 
+NEW TEXTURES            : I modified a handful of Halflife textures to better suit the map.  
+                          All new textures have been compiled into the bsp.
+
+NEW SOUNDS              : none
+CD TRACK #              : none
+--------------------------------------------------------------------------------
+* CONSTRUCTION *
+--------------------------------------------------------------------------------
+
+
+EDITOR(S) USED          : valve hammer editor 3.4
+
+OTHER UTILITIES USED    : HLCC w/Zoners compile tools 
+ 
+KNOWN BUGS              : none
+ 
+COMPILE MACHINE         : pentium3 1gig.  512 megs RAM.
+ 
+compile time		: 1hr, 45 mins
+
+time spent on building 	: on and off for the past year
+ 
+--------------------------------------------------------------------------------
+* CREDITS *
+--------------------------------------------------------------------------------
+My close friends in the game and clanmates.  Special thanks to Joe for inspiring me
+to even start this project.  Thanks to the whole op4 community for constantly nagging
+me to finish the project...who knows how long it would have taken otherwise.
+Of course, Valve, Gearbox, and all who contributed to the mapping tools and community.
+
+================================================================================
+* COPYRIGHT / PERMISSIONS *
+--------------------------------------------------------------------------------
+This map may not be distributed without the inclusion of this txt file.
+
+Duncan Moore
+
+

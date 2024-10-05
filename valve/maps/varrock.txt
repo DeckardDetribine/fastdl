@@ -1,0 +1,133 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------Install Instructions-----------------------------------------------
+
+Unzip archive to your 'half-life\valve' directory with 'Use directory names' enabled in your unzipper program.
+
+------General Information--------------------------------------------
+
+Title           : Varrock SE
+
+Release         : HLDM Special Edition
+
+Date            : 22.8.2002
+
+Filename        : varrock.bsp
+
+Author          : Jussi Kivilinna
+
+Email Address   : hullu@unitedadmins.com
+
+Home page       : http://hullu.xtragaming.com/index.html  
+
+Description     : Half-Life: Deathmatch Map.
+                  Nightly large size town. 
+                  
+                  Inspired by Runescape (www.runescape.com)
+                  and Varrock town of Runescape
+
+Previous Maps   :
+                  OP4POW Varrock (op4pow)
+                  Enura Arena (hldm)
+                  Zeroceromon (hldm & op4ctf)
+                  HLDM Varrock(1st version) (hldm)
+                  ...
+                
+Credits/Thanks  : 
+                  Pexxi for sky map <pexxi@pexxi.cjb.net>
+                  
+                  Mikee for great help
+                  
+                  Samirgh, ReNo, [DRS]Orpheus, [DRS]-clan, 
+                  Rage, Crack, #op4ctf@qnet dudes, and many
+                  many more... for betatesting
+                  
+                  Poro for the original idea (map based on Varrock town)
+                                    
+                  Zoner, Merl for the tools
+                  
+                  #valveerc@chatbear dudes,
+                  Snarkpit-forum dudes,
+                  #pohjolanurhot@ircnet dudes for helping
+                  
+                  Gearbox for Opposing Force
+                  
+                  Valve for Half-Life and tfc2.wad & dmc.wad
+
+------Play Information-----------------------------------------------
+
+Deathmatch      : Yes - 32 starts defined. 
+Teamplay        : Yes
+CTF             : No
+Single Player   : No
+Min. players    : 4
+Max. players    : 12+
+
+------Map Information------------------------------------------------
+
+New Textures    : Some, compiled in to bsp.
+New Sounds      : None.
+New Sky         : Yes.
+
+HLDM Varrock (1st version):
+     On June 2001 I was looking for ideas for new map and was thinking 
+about making map based on RuneScape that I was then been playing for 5 
+months. I first thought about making map on Lumbridge (small town in 
+Runescape) but then Poro gave me idea of making map based Varrock which 
+is largest town in game. So I started mapping based on paper drawings 
+that I had made first. In a month map was done and released althought I 
+had forgot to add ambience sounds. That's why I made new ent-only 
+version of varrock Jan 2002 with new skymap and ambience sounds. 
+
+OP4POW Varrock:
+     About same time of releasing HLDM-Varrock-fix Gearbox released new 
+long-waited patch for Opposing Force with some new gamemodes .. including
+DeathMatch with PowerUps. I thought it would be cool if I made first 
+op4pow-map ever :). So I made one-day op4pow-conversion from hldm-varrock 
+and showed it to Mikee. The cereal boy didn't like it without sugar 
+(and not even with big red sugar cubes).. and so I started slowly mapping 
+op4pow_varrock. And now it's done!
+
+HLDM Varrock SE:
+     Got little pissed off because none plays POW maps much. So I decided
+to make second Varrock for HLDM release. This probably will be the last 
+map I ever make for Half-Life.
+
+------Runescape Information------------------------------------------
+
+If you haven't tried Runescape yet and haven't even heard about it..
+
+RuneScape is a massive 3d multiplayer adventure, with monsters to kill, 
+quests to complete, and treasure to win. You control your own character 
+who will improve and become more powerful the more you play. (that was 
+just a copy-paste from www.runescape.com)
+
+It's all Java so it works with almost any OS/computer.
+
+It's free!
+
+I have played it for over year (since it opened Jan 2001) and still 
+haven't gone throught every place. (It's huge!)
+
+It's fun :)
+
+Read more here: 
+http://www.runescape.com/runescape.html
+http://tip.it/runescape/
+
+------Construction---------------------------------------------------
+
+Base          : op4pow_varrock (hullu6dm_varrock)
+Util(s) used  : WorldCraft/Hammer 3.4, 
+                PSP7, 
+                Wally, 
+                ZTools 2.5.3 Custom Build 1.6
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH NO 
+MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE IT IN ANY FORM!!.
+ 

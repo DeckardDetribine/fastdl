@@ -1,0 +1,79 @@
+INTRODUCTION:
+
+Title			: Scorched.
+Date			: 23rd January 2001.
+Filename		: scorched.bsp
+Filesize		: 4.1mb, or thereabouts.
+Author			: Kevin Edwards, my Half-Life alias is Gustavo.
+Home Page		: http://www.planethalflife.com/gustavo
+Email Address (gaming)	: gustavo@planethalflife.com
+Email Addess (work)	: kevin.edwards@warthog.co.uk
+ICQ			: 10393836 (auth required).
+
+
+
+CREDITS TO:
+
+1) Valve & Sierra for their outstanding title. Two years after buying, I'm still playing.
+2) The Zoner compiling tools v2.4.2., used to compile this map. Email: seanc@gearboxsoftware.com
+3) Valve, the creators of the TF2 texture wad file. This map is built primarily using those textures.
+4) 'The Mighty Pete' for the skybox. Used with permission. Website; http://www.geocities.com/petes-oasis/
+5) '[DRS]Yak_Fighter' for creating the two APC vehicles (controllable guns added by myself.) Created especially for this map & used with permission. Email; yak_fighter11@hotmail.com, website; http://yak_fighter.tripod.com/yfrf/yfrf.html
+
+
+
+ABOUT THE MAP/ME:
+
+Scorched is my 32nd Half-Life FPS map (and 12th for Half-Life deathmatch,) and was runner-up in the Valve/PlanetHalf-Life map making contest. For more info, visit www.planethalflife.com/contest/mapcontest/winner.shtm
+
+Previous maps...
+01. Penitentiary		(HL deathmatch, released 5-March-1999).
+02. Maximillian			(HL teamplay/deathmatch, 15-May-1999).
+03. Maximal			(TFC, 8-July-1999).
+04. Mad Bucking Fastards	(HL deathmatch, 27-July-1999).
+05. Talos			(HL deathmatch, 3-August-1999).
+06. C4				(Action HL, 16-September-1999).
+07. TNT				(HL deathmatch, 23-October-1999).
+08. Orbital			(TFC, 31-December-1999).
+09. Jaw Breaker			(HL deathmatch, 20-January-2000).
+10. Corps68			(TFC, 26-January-2000).
+11. The Bone Collector		(HL deathmatch, 2-February-2000).
+12. Jaw Operation		(OP4 deathmatch, 2-February-2000).
+13. The Jaw Action		(Action HL, 2-February-2000).
+14. Bone Action			(Action HL, 4-February-2000).
+15. Bone Operation		(OP4 deathmatch, 4-February-2000).
+16. Eliminator Jnr		(HL deathmatch/teamplay, 19-February-2000).
+17. Nostromo			(TFC, 24-February-2000).
+18. Eliminator AHL		(Action HL, 26-February-2000).
+19. Eliminator OP4		(OP4 deathmatch, 4-March-2000).
+20. Sulaco			(HL teamplay, 8-March-2000).
+21. Total Annihilation		(HL deathmatch/teamplay, 11-April-2000).
+22. Burning Hate		(HL deathmatch, 9-May-2000).
+23. Black Hole Sun		(HL teamplay, 26-May-2000).
+24. Leadworks			(HL deathmatch, 8-July-2000).
+25. Afghanistan			(Counter-Strike Bomb/Defuse, 31-August-2000).
+26. Afghanistan			(Counter-Strike Hostage Rescue, 17-October-2000).
+27. Burning Hate		(OP4 deathmatch, 22-October-2000).
+28. Leadworks			(OP4 deathmatch, 22-October-2000).
+29. Red Giant			(OP4 CTF, in beta stage).
+30. Assault On Pelham 123	(Counter-Strike Hostage Rescue, in beta stage).
+31. Assault On Pelham 123	(Counter-Strike Assassination, in beta stage).
+
+Who am I? I'm 25 yrs old, English, and currently work full-time as a level/mission designer for UK-based video games developers Warthog (www.warthog.co.uk)
+
+
+
+INSTALLATION:
+
+Unzip all of the 'Scorched' files into into ../half-life/valve/maps
+Unzip all of the 'Utopiaatoll' files into ../half-life/valve/gfx/env
+
+
+
+NOTES:
+
+Tau cannon & Gluon intentionally omitted - the weapons present fit in with the "realistic" visual theme (MP5, Shotgun, Magnum, hand grenades, etc.)
+
+The Scorched.res file is for server operators only (to enable the custom skybox to be downloaded along with the .bsp map file itself.)
+
+Comments/etc welcome. Enjoy.

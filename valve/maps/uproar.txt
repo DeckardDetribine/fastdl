@@ -1,0 +1,77 @@
+Map Title           : Uproar
+Release Date        : July 18, 2001
+Filename            : uproar.bsp
+Author              : SuperCrazy
+Email Address       : nick@nickj.net
+ICQ                 : 2649935
+Web Page            : http://crazymaps.caseynet.com
+Description         : Four days of mapping plus several days of playtesting and tweaking
+                      produced this - Uproar, my third map.
+
+                      Uproar is basically four arenas that are connected together. I have
+                      really tried to emphasize connectivity in this map, so when you're
+                      playing you should never have to follow a linear path or run into a
+                      dead end. Because most of the arenas are right next to each other and
+                      there aren't hallways splitting them up, r_speeds are higher than I
+                      wanted. I tried lots of methods to lower them, but they weren't very
+                      effective.
+                      
+                      This was a lot different than my previous two maps. Everything just
+                      came together real well, and I never had to spend days thinking up an
+                      idea for one room. I really enjoyed putting it together, and hopefully
+                      you can get some enjoyment from playing it.
+
+Jumbot Waypoint     : I've included a JRF file so you can play Uproar with Jumbots. It was
+                      made by Scary_Jeff. Check out his site for maps and other JRFs at
+                      www.planethalflife.com/scaryjeff
+
+Previous Maps       : Alpha (An embarassment. NEVER release your first map)
+                      Penance
+
+Thanks              : Valve for the awesome game.
+
+                      Scary_Jeff for the Jumbot waypoint.
+
+                      Thori, Leperous, and [DRS]Orpheus for playtesting.
+============================================================================================
+Play Information
+
+Single Player       : Yes
+Deathmatch          : Yes - 10 spawn points
+Recommended Players : 2-4
+============================================================================================
+Construction
+
+Base                : An empty grid
+Editor              : Worldcraft 3.3
+Compiler            : Zoner's Tools 2.5.1
+Bugs                : None that I know of
+
+New sounds          : No
+New textures        : No
+
+Build Time          : One week
+
+Compile machine     : PII 400 128 MB RAM
+HLCSG Time          : 27 seconds
+HLBSP Time          : 13 seconds
+HLVIS Time          : 19 seconds
+HLRAD Time (extra)  : 7 minutes
+============================================================================================
+Permissions
+
+You may distribute this for free as long as the bsp file and this txt file are both included
+with no changes. You may not sell this map for profit, and you may not alter or add to it
+without my permission.
+============================================================================================
+Final notes
+
+Please e-mail me if you like this level. Knowing that people enjoy my work gives me a huge
+boost in getting things done. Also e-mail me if you review this map somewhere. I'd like to
+link to it from my page.
+
+Happy fragging
+
+SuperCrazy
+http://crazymaps.caseynet.com
+July 18, 2001

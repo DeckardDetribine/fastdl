@@ -1,0 +1,67 @@
+12/02/1998
+****************************************************************
+
+Title                   : Death Canyon
+Filename                : death_canyon.bsp
+Author                  : DyerMaker
+E-mail                  : DyerMaker@AntronOnline.com
+More Map Info		: http://www.antrononline.com/tazmen
+Description             : Half-Life DeathMatch Level
+
+****************************************************************
+Play Information:
+
+Copy death_canyon.bsp to your halflife\valve\maps directory
+and join a Half-Life server that's running it :}
+Can't find one? Try ours: 206.42.16.15:27015 (Clan Kavorkian)
+
+Single Player           : To look around
+Cooperative             : No
+Deathmatch              : Yes (4 respawns)
+Player load		: 2 to 6
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+
+****************************************************************
+Construction:
+
+Editor(s) used          : Worldcraft 2.0 & accompanying utils
+Handbuild Time		: 2 days (+ 2 more days of playtest/tweaks)
+VIS info		: 4400 seconds
+QRAD info		: 823 seconds -smooth 80 -sky 5
+Build Machine		: Pentium 233 MMX 64 RAM
+
+****************************************************************
+Copyright Information:
+
+Copyright (c) 1998 DyerMaker. All rights reserved.
+
+This map may be electronically distributed only with no
+charge to the recipient, and may not be modified in any way.
+This text file must be included intact with the unmodified map
+when distributed via ZIP format. No other files are to be added
+to the zip file.
+
+This map may not be distributed on any CD-ROM without the
+prior, explicit written consent of DyerMaker.
+
+This map may not be used on a commercial multi-player server
+without similar explicit written consent.
+
+DyerMaker's Contact Information:
+mailto:DyerMaker@AntronOnline.com
+http://www.antrononline.com/tazmen
+
+****************************************************************
+Thanks To:
+	Valve, for Half-Life!!!
+	Gabe Newell, for his hospitality :}
+	Ben Morris for WC, Valve for WC2.0
+	The person who typed out the entire halflife.fgd file!
+	(I made one once and they're no fun!!)
+Special thanks to the Playtesters:
+	Ambush, MD., Lorduss, War|ock, >V<BlackWolf, Fugazi,
+	Pineapple, and Aggravator
+
+Additional fix by Xawari

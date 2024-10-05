@@ -1,0 +1,114 @@
+<18/04/99>
+===============================================================
+			 Rapid 1
+===============================================================
+=====================
+DESIGN CONSIDERATIONS
+=====================
+
+- This is designed to be a small map in every sense. The 
+  recommended number of players is two or three.  Absolute
+  maximum of four if you want a very frenzied game.
+
+- The recommended time limit is 15 minutes, and the recommended
+  frag limit is 20.  Told you it was small :)
+
+- This map is designed for small Lan games, and for people who
+  want to host an internet game, but don't have a dedicated
+  server.  The map runs fine hosted on, for example a cable
+  modem as long as you stick to the recommended player limit.
+
+- wpoly speeds are fine, but you may notice epoly speeds rising
+  as the dead bodies pile up.  The epoly speeds are similar
+  to those in the floodable room on Undertow however, so 
+  shouldn't pose a problem.  Also, the map has been tested both
+  on a Lan and the Internet, and the speed was never a problem.
+
+- Depending on how well this map is received, this will be the
+  first in a limited series of small maps suitable for quick
+  games.
+===============================================================
+============
+MAP FEATURES
+============
+
+- By climbing up the glass tube, you will be able to push a 
+  button which will flood the lower levels of the map.
+  At the same time though, the room containing this button
+  can be hit by a blast of steam by pushing one of the two
+  buttons on the ground floor of the map.  This means, if you
+  see someone climbing the glass tube, you can either try to
+  reach the top floor before them for an ambush, or quickly
+  get to one of the steam buttons and fry them.
+
+- The flood button resets after about one and a half minutes,
+  at which point it can be called again.
+
+- The RPG, Crossbow, snarks, and magnum have been left out
+  of the level.  The RPG made killing too easy, the action
+  is too fast for the crossbow, snarks just fall to the bottom
+  of the level, and the magnum was just annoying :)
+
+- The Egon and Hornet gun have been left out since the Egon
+  was just too powerfull, and I never include Hornets.
+===============================================================
+================
+File Information
+================
+
+Title:            Rapid 1
+BSP File:         rapid_1.bsp
+Author:           Mark Hewitt a.k.a [SnD]The_Cheese
+Email Address:    the_cheese@dial.pipex.com
+Web Site:         http://www.halflife.net/cheese
+Level Size:       tiny
+Previous Maps:    Nightshift, Site B, BattleCamp(almost)
+===============================================================
+================
+PLAY INFORMATION
+================
+
+Single Player:    No
+Deathmatch:       Yes
+TeamPlay:         Not really suited
+New Textures:     No
+New Sounds:       No
+===============================================================
+============
+CONSTRUCTION
+============
+Base:             New level from scratch
+Editor Used:      Worldcraft 2.0
+Machine Used:     PII300
+Build Time:       few days to build, just over 1 week of testing
+                  and tweaking
+Compile Time:     ~30 minutes
+Known Bugs:       None known
+
+This map has been tested in Software, Direct 3D, and OpenGL
+===============================================================
+======================
+ADDITIONAL INFORMATION
+======================
+
+Thanks to Ben Morris for Worldcraft, and Valve for the
+obvious.
+
+Thanks to the playtesters for their input.
+
+If you play this map(and even enjoy it)I would certainly
+appreciate an email.  But you're not going to send one
+are you? :)
+
+=========
+LEGAL BIT
+=========
+Copyright / Permissions
+
+Copyright (c) 1999 Mark Hewitt All rights reserved.
+This level (Rapid 1) may be electronically distributed 
+only at no charge to the recipient, and may not be 
+modified in any way.  This text file(Rapid_1.txt) must 
+be included with the level. This level may not be 
+included in any commercial compilations without the 
+express permission of the author.

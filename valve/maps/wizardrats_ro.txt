@@ -1,0 +1,13 @@
+Map final Compiled:      03-07-02
+Title:          WIZARD RATS
+File Name:          wizardrats_ro.bsp
+Development Time:       Three weeks  (1.5 weeks build) (1.5 QA test)
+WorldCraft Design & Creation:   Grimlock (Richard Outman)
+Lead QA Testing:        Dr. Atlantis (Timothy J. Outman Jr.)
+Beta Play testers:      Dr. Atlantis, The Reaper, Master Yoda, Quicksilver, Shadow Santa, Seanasty
+Web Site:          http://www.somethingdied.com
+Email Address:              murder@somethingdied.com
+Tools Used:                         WorldCraft 3.3, Zoner's, Wally, Photoshop, MS-Paint
+Wad Texture Artists:      Christa Forest, Bryan Letcher, [WTF?]Evile Dick, Mighty Pete, Adam W. Stiles, Sock, Dr Atlantis, Grimlock
+Features artwork by:      Gary McCluskey (dragon & Giant), Martin  McKenna (mouse), Matthew Scott (fairy)
+View other work by these artists:  http://www.asfa-art.org

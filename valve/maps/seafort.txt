@@ -1,0 +1,65 @@
+================================================
+   Half-Life Map Spec Sheet
+================================================
+
+
+------General Information--------------------------------------------
+
+Title		: seafort
+Release Date	: 12th july 2001
+Filename		: seafort.bsp
+Author		: nathan goulden
+Email Address	: nathangoulden@netscpeonline.co.uk
+Description	:sea fort from wwII
+Previous Maps	: (1) monk
+		  (2) warehouse
+		  (3) parking2
+		  (4) mars
+		  (5) monk2
+                                     
+------Map Information------------------------------------------------
+
+New Textures	: Yes.
+Prefabs		: boat which i made
+File Size		: 
+Known bugs	: none
+
+------Construction---------------------------------------------------
+
+Base		       : From scratch.
+Programmes used	       : WorldCraft 3.3
+		         wally
+		         terragen
+Compile Machine	       : PIII 733 384mbram
+Construction time	       : 1 week 
+Compile time	       : 15 minutes (full vis + extra qrad/hlrad)
+
+
+------Map Instructions-----------------------------------------------
+
+Unzip this file and place "seafort.bsp"  into 
+your half-life/valve/maps directory.
+place seafort as tga. valve/gfx/env
+ft_heli into valve/sound/ambience.
+
+
+
+----------------------------------------------------------------------------
+------Additional info--------------------------------------------------
+if you want the counterstrike version just e-mail me.
+
+
+
+-------COPYRIGHT-PERMISSIONS------------------------------------------
+------------------------------------------------------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorised to put this BSP on any CD or distribute it in
+any way without my permission.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------

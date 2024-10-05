@@ -1,0 +1,122 @@
+** INTRODUCTION **
+
+Title			: Leadworks (Burning Hate 2).
+Date			: 8th July 2000.
+Filename		: Gustavo24_LW.bsp
+Filesize		: 2.5mb, or thereabouts.
+Author			: Keved, my Half-Life alias is Gustavo.
+Home Page		: http://www.planethalflife.com/gustavo
+Email Address 1		: gustavo@planethalflife.com
+Email Address 2		: keved@keved.force9.co.uk
+Email Address 3		: keved@hotmail.com (only use as a last resort).
+ICQ			: 10393836 (auth required).
+
+ABOUT THE MAP/ME:
+Leadworks is my 24th FPS map (and 11th for Half-Life deathmatch).
+
+Previous maps...
+01. Penitentiary		(HL deathmatch, released 5-March-1999).
+02. Maximillian			(HL teamplay/deathmatch, 15-May-1999).
+03. Maximal			(TFC, 8-July-1999).
+04. Mad Bucking Fastards	(HL deathmatch, 27-July-1999).
+05. Talos			(HL deathmatch, 3-August-1999).
+06. C4				(Action HL, 16-September-1999).
+07. TNT				(HL deathmatch, 23-October-1999).
+08. Orbital			(TFC, 31-December-1999).
+09. Jaw Breaker			(HL deathmatch, 20-January-2000).
+10. Corps68			(TFC, 26-January-2000).
+11. The Bone Collector		(HL deathmatch, 2-February-2000).
+12. Jaw Operation		(OP4 deathmatch, 2-February-2000).
+13. The Jaw Action		(Action HL, 2-February-2000).
+14. Bone Action			(Action HL, 4-February-2000).
+15. Bone Operation		(OP4 deathmatch, 4-February-2000).
+16. Eliminator Jnr		(HL deathmatch/teamplay, 19-February-2000).
+17. Nostromo			(TFC, 24-February-2000).
+18. Eliminator AHL		(Action HL, 26-February-2000).
+19. Eliminator OP4		(OP4 deathmatch, 4-March-2000).
+20. Sulaco			(HL teamplay, 8-March-2000).
+21. Total Annihilation		(HL deathmatch/teamplay, 11-April-2000).
+22. Burning Hate		(HL deathmatch, 9-May-2000).
+23. Black Hole Sun		(HL teamplay, 26-May-2000).
+
+Who am I? I'm 25 yrs old, English, & currently work for an Architectural Practice in NW England.
+
+CREDITS TO:
+1) Valve/Sierra/id.
+2) The Zoner compiling tools version 2.13. Leadworks was compiled with these superb modified compiling tools, via a batch file. sean@dimensionalrift.com. Keep up the good work, Sean.
+3) A few custom textures used without permission from Quake 3 Arena, Unreal Tournament, & Kingpin. Apologies for ripping. Make sure you buy all 3 games if you haven't already done so!
+4) The playtesters. LAN: HotRod, Stevie, Jon, Mr.Fixxer, GretZeL. Online: Big_Marv, c0w80y, CSZ, Ryer, Tonga. Much obliged folks.
+5) Records, for salvation from radio/tv hell.
+
+
+
+** PLAY INFORMATION **
+
+SINGLE PLAYER:
+Just to familiarise yourself.
+
+MULTIPLAYER:
+Yes, for 4-12 players. 16 deathmatch spawn points are included if you want to play with more than 12.
+
+DESCRIPTION:
+Leadworks is a small-medium sized Half-Life deathmatch map, suitable for 4-8 players, and is the sequel to my former www.planethalflife.com "level of the week" Burning Hate. Leadworks builds upon the random airstrike in Burning Hate by providing two such airstrikes, affecting the North & South of the map respectively with each fully independent of the other. Whenever the North or South mainframe computer is activated, a succession of 3 random exterior locations are bombed by jetfighters. Lots of weapons are available for big explosive shootouts and the map features a Gasworks-like element of walkways towering over two main open areas, with a sniper/rpg loft dividing the two.
+
+INFORMATION:
+The airstrikes in Leadworks are rarely been seen in HL DM maps. Every 60 seconds, each of the two mainframe computers (located in the centre of the map, on the lowest tier) can be activated to call in 3 *random* airstrikes that hit somewhere in the exterior sections. The activating player earns 1 frag per mainframe activated. From when a mainframe is activated, jetfighters immediately fly over & drop their payload, so as soon as you hear them fly over, you have just a few seconds to duck quickly under cover. Even if you don't make it into a building in time, chances are you won't be hit anyway as they only affect around 10% of the map each strike. So what's the point? I wanted more of a continual panic effect, with very frequent airstrikes that do not give "blanket-coverage" as in maps like Crossfire. People will often keep on duelling regardless in Leadworks, and won't have a "well, that's the airstrike over for another 5 minutes, let's resume fighting" syndrome. Anyway, if you're unlucky and an airstrike hits ground near to you, no matter how much armour you happen to be wearing, you won't survive the blast. :)
+
+Included in the zip is a Jumbot route file (Gustavo24_LW.jrf) created by myself, for those who play deathmatch against bots. Note, however, that Leadworks was not designed as a bot map...for example there are some weapons located on top of crates that require a jump-duck to reach, meaning the bots will rarely collect these weapons. Go here http://www.telefragged.com/thefatal/jumblow.shtml to download the latest Jumbot zip. For info, the Gustavo24_LW.jrf file was created using version 2.1 of the Jumbot.
+
+A quick note on weapons...there are lots of them. I very much prefer to see people carrying around an extra weapon or two in reserve and have a choice of which to use, rather than revolver & crowbar fights on-mass. Also, there IS a long jump module in Leadworks, hidden away.
+
+Around the edges of the map there are plenty of lifts with activating buttons...they do NOT actually work but are merely for effect, ie to illustrate that the map isn't self-enclosed and is part of a much bigger installation. If someone tries to activate one of these lifts, an "access denied" sound is played. Similarly, any doors also cannot be opened. Note that the 'leadworks' are not actually depicted in the map - the likes of furnaces would be down those lift shafts. =P
+
+Frame rates. Take a quick look at this map and you'll realise there are some very adventurous open spaces, and with it comes the problem of keeping running speed reasonable. Since I was aiming for a Gasworks-like type of gameplay here, ie actually planning on using large open spaces, I've had to keep wpoly under control as best I can. Perhaps wpoly maxing out at 800 is too high for some people, but firstly the end result is a decent trade-off between open spaces vs acceptable frame rates vs decent visuals (after all, Gasworks is a *very* plain & generic map yet still has wpoly ~700). Secondly, wpoly only rises to that extent in one or two small spots. You'll find that the open spaces are typically 250-500 wpoly, and combined with low epoly means that fps is fine. I was actually aiming at getting an fps on my old PC (P2-300, 128mb, 12mb Voodoo 2) of 30, yet achieved 40. My new PC (Athlon 650, 256mb, 32mb Matrox G400 Max) achieves 60 fps and runs Leadworks with ease. 99% of 3D accelerated users should have no problems running Leadworks, although as usual when using lots of textures (which Leadworks does) owners of old 3D cards (circa Voodoo 1) may have problems with 'texture throughput'. Basically, if you use OpenGL or D3D and have any fps problems, it's NOT due to r_speeds, but your vid card not able to handle the textures sufficiently well enough. Software mode users must ask themselves why they've gone to the trouble of finding this map and are still playing FPS games without a 3D card! Still, any software mode users should be ok too. I tested in software mode on my old P2-300 4mb Ati card, and found no problems. 8OÞ
+
+Hope you like Leadworks. I'd appreciate feedback too...to my email address at the top of this text file. It's a major commitment putting in the time to design these damn maps, so I fully welcome any & all constructive encouragement / ideas / criticisms / praises. Job offers welcome too!!
+
+
+
+** INSTRUCTIONS **
+
+Extract the file manually into the following.
+
+Gustavo24_LW.bsp into ...\\valve\maps
+
+Gustavo24_LW.jrf into ...\\jumbot\wpfiles (Refer to your Jumbot docs for how to play against Jumbots.)
+
+And of course keep this text file. 8¬)
+
+
+
+** CONSTRUCTION **
+
+Base                    : Created from scratch.
+Editor(s) used          : Worldcraft v2.1 & v3.3
+Known Bugs              : I've stretched some textures, so decals may be out-of-shape/size in places. For info, all light fixtures are func_illusionary's. Don't be surprised by being able to jump through light fixtures.
+Build Time              : Around 25 hours spread over 4 weeks.
+Compile Time		: 10 minutes.
+Build & compile machine	: Athlon 650mhz, Asus K7M motherboard, 256mb PC100 ram, 32mb Matrox G400 Max, Windows98, etc.
+Compile settings	: (via a batch file) Nothing special, apart from Zoner's hlrad using the switches -chop 128 -scale 1.25 -gamma 0.45, and Zoner's hlcsg adding my custom wads into the bsp.
+
+MAP INFO:
+Rmf size		: 3570kb
+Solids			: 1484
+Faces			: 8941
+Point Entities		: 301
+Solid Entities		: 217
+Unique textures		: 95
+Texture memory		: 4230kb
+Successive revisions	: 29
+
+
+
+** PERMISSIONS **
+
+Do NOT put this zip, or any of the files contained within, on any sort of commercial product or compilation unless you have permission from myself beforehand. You MAY distribute this zip file through any other means, providing it is unaltered and is free of charge. Do NOT modify this BSP in any way, either for commercial or non-commercial purposes.
+
+Email me if you'd like to have a look at the (3.57mb) rmf file for Leadworks. Zips down to ~175kb.
+
+You have yerself a nice day, y'hear?
+
+--
+Gustavo.
